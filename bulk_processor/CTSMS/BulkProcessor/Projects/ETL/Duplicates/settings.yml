@@ -1,0 +1,19 @@
+
+sqlite_db_file: 'duplicates'
+
+proband_plain_text_ignore_duplicates: 0
+proband_plain_text_truncate_table: 1
+#proband_plain_text_row_block: 100
+import_proband_page_size: 10
+person_name_prefix_length: 2
+import_proband_multithreading: 1
+import_proband_numofthreads: 2
+
+proband_duplicate_truncate_table: 1
+create_duplicate_multithreading: 1
+create_duplicate_numofthreads: 2
+
+update_proband_multithreading: 1
+update_proband_numofthreads: 2
+duplicate_proband_category: 'duplicate'
+duplicate_comment_prefix: 'identified duplicates of this subject: '
