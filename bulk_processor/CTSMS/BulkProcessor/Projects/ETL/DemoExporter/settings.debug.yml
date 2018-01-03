@@ -1,0 +1,52 @@
+ctsms_base_uri: 'http://127.0.0.1:8080/ctsms-web'
+
+sqlite_db_file: 'demo_exporter'
+csv_dir: 'demo_exporter'
+
+ecrf_data_truncate_table: 1
+ecrf_data_ignore_duplicates: 0
+ecrf_data_trial_id: 5648545
+#6121688
+#ecrf_data_api_listentries_page_size: 10
+#ecrf_data_api_ecrfs_page_size: 10
+#ecrf_data_api_values_page_size: 10
+ecrf_data_row_block: 50
+#ecrf_data_api_tagvalues_page_size: 10
+#ecrf_data_api_ecrffields_page_size: 10
+
+ecrf_data_listentrytags:
+  
+ecrf_data_export_upload_folder: '/4. CRF/eCRF Exports/'
+ecrf_data_export_sqlite_filename: 'demo_%s%s'
+ecrf_data_export_horizontal_csv_filename: 'demo_horizontal_%s%s'
+ecrf_data_export_xls_filename: 'demo_%s%s'
+ecrf_data_export_xlsx: 1
+dbtool: 'D:\workspaces\ctsms\core\db\dbtool.bat'
+#dbtool: '/ctsms/dbtool.sh'
+ecrf_data_export_pdf_filename: 'demo_ecrfs_%s%s'
+ecrf_data_export_pdfs_filename: 'demo_ecrf_%s_%s%s'
+
+audit_trail_export_xls_filename: 'demo_ecrf_issues_%s%s'
+ecrf_journal_export_xls_filename: 'demo_ecrf_changelog_%s%s'
+ecrfs_export_xls_filename: 'demo_setup_%s%s'
+
+group_abbreviate_opts:
+  
+visit_abbreviate_opts:
+  word_count_limit: 0
+
+ecrfname_abbreviate_opts:
+  word_count_limit: 1
+  word_blacklist:
+    demo: 1
+
+inputfieldname_abbreviate_opts:
+  word_count_limit: 1  
+  word_blacklist:
+    demo: 1
+
+selectionvalue_abbreviate_opts:
+  word_count_limit: 1
+#  word_abbreviation_length: 5
+#  word_limit: 7
+  
