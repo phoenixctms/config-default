@@ -1,4 +1,4 @@
-package CTSMS::BulkProcessor::Projects::ETL::DemoExporter::Settings;
+package CTSMS::BulkProcessor::Projects::ETL::EcrfExporter::Settings;
 use strict;
 
 ## no critic
@@ -43,7 +43,7 @@ our @EXPORT_OK = qw(
     $force
 
 
-    
+
 );
 
 our $defaultconfig = 'config.cfg';
@@ -62,7 +62,7 @@ sub update_settings {
 
         my $result = 1;
 
-        
+
         return $result;
 
     }

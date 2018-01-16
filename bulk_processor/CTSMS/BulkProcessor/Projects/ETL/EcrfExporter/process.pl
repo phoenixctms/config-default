@@ -14,8 +14,9 @@ use CTSMS::BulkProcessor::Projects::ETL::EcrfSettings qw(
     $output_path
     $skip_errors
     $ctsms_base_url
+    $ecrf_data_trial_id
 );
-use CTSMS::BulkProcessor::Projects::ETL::DemoExporter::Settings qw(
+use CTSMS::BulkProcessor::Projects::ETL::EcrfExporter::Settings qw(
     $defaultsettings
     $defaultconfig
     $force
@@ -56,13 +57,13 @@ use CTSMS::BulkProcessor::Projects::ETL::EcrfConnectorPool qw(destroy_all_dbs);
 use CTSMS::BulkProcessor::Projects::ETL::EcrfExport qw(
     export_ecrf_data_vertical
     export_ecrf_data_horizontal
-    
+
     publish_ecrf_data_sqlite
     publish_ecrf_data_horizontal_csv
     publish_ecrf_data_xls
     publish_ecrf_data_pdf
     publish_ecrf_data_pdfs
-    
+
     publish_audit_trail_xls
     publish_ecrf_journal_xls
     publish_ecrfs_xls
@@ -128,6 +129,7 @@ sub init {
         "task=s" => $tasks,
         "skip-errors" => \$skip_errors,
         "force" => \$force,
+        "id=i" => \$ecrf_data_trial_id,
     ); # or scripterror('error in command line arguments',getlogger(getscriptpath()));
 
     $tasks = removeduplicates($tasks,1);
@@ -135,7 +137,7 @@ sub init {
     my $result = load_config($configfile);
     init_log();
     $result &= load_config($settingsfile,\&CTSMS::BulkProcessor::Projects::ETL::EcrfSettings::update_settings,$YAML_CONFIG_TYPE);
-    $result &= load_config($settingsfile,\&CTSMS::BulkProcessor::Projects::ETL::HPT::Settings::update_settings,$YAML_CONFIG_TYPE);
+    $result &= load_config($settingsfile,\&CTSMS::BulkProcessor::Projects::ETL::EcrfExporter::Settings::update_settings,$YAML_CONFIG_TYPE);
     #$result &= load_config($some_yml,\&update_something,$YAML_CONFIG_TYPE);
     return $result;
 
@@ -156,18 +158,18 @@ sub main() {
                 $result &= cleanup_task(\@messages,0) if taskinfo($cleanup_task_opt,$result);
 
             } elsif (lc($cleanup_all_task_opt) eq lc($task)) {
-                $result &= cleanup_task(\@messages,1) if taskinfo($cleanup_all_task_opt,$result);            
+                $result &= cleanup_task(\@messages,1) if taskinfo($cleanup_all_task_opt,$result);
 
             } elsif (lc($export_ecrf_data_vertical_task_opt) eq lc($task)) {
-                $result &= export_ecrf_data_vertical_task(\@messages) if taskinfo($export_ecrf_data_vertical_task_opt,$result);  
+                $result &= export_ecrf_data_vertical_task(\@messages) if taskinfo($export_ecrf_data_vertical_task_opt,$result);
             } elsif (lc($export_ecrf_data_horizontal_task_opt) eq lc($task)) {
-                $result &= export_ecrf_data_horizontal_task(\@messages) if taskinfo($export_ecrf_data_horizontal_task_opt,$result);  
- 
+                $result &= export_ecrf_data_horizontal_task(\@messages) if taskinfo($export_ecrf_data_horizontal_task_opt,$result);
+
             } elsif (lc($publish_ecrf_data_sqlite_task_opt) eq lc($task)) {
                 $result &= publish_ecrf_data_sqlite_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_sqlite_task_opt,$result);
                 $completion = $result;
             } elsif (lc($publish_ecrf_data_horizontal_csv_task_opt) eq lc($task)) {
-                $result &= publish_ecrf_data_horizontal_csv_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_horizontal_csv_task_opt,$result);   
+                $result &= publish_ecrf_data_horizontal_csv_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_horizontal_csv_task_opt,$result);
                 $completion = $result;
             } elsif (lc($publish_ecrf_data_xls_task_opt) eq lc($task)) {
                 $result &= publish_ecrf_data_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_xls_task_opt,$result);
@@ -178,7 +180,7 @@ sub main() {
             } elsif (lc($publish_ecrf_data_pdfs_task_opt) eq lc($task)) {
                 $result &= publish_ecrf_data_pdfs_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_pdfs_task_opt,$result);
                 $completion = $result;
-                
+
             } elsif (lc($publish_audit_trail_xls_task_opt) eq lc($task)) {
                 $result &= publish_audit_trail_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_audit_trail_xls_task_opt,$result);
                 $completion = $result;
@@ -187,8 +189,8 @@ sub main() {
                 $completion = $result;
             } elsif (lc($publish_ecrfs_xls_task_opt) eq lc($task)) {
                 $result &= publish_ecrfs_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrfs_xls_task_opt,$result);
-                $completion = $result;  
-                
+                $completion = $result;
+
             } else {
                 $result = 0;
                 scripterror("unknow task option '" . $task . "', must be one of " . join(', ',@TASK_OPTS),getlogger(getscriptpath()));
@@ -252,7 +254,7 @@ sub export_ecrf_data_vertical_task {
         ($result, $warning_count) = export_ecrf_data_vertical();
     };
     my $err = $@;
-    
+
     if ($err) {
         #print $@;
         push(@$messages,'export_ecrf_data_vertical error: ' . $err);
@@ -270,7 +272,7 @@ sub export_ecrf_data_horizontal_task {
         ($result, $warning_count) = export_ecrf_data_horizontal();
     };
     my $err = $@;
-    
+
     if ($err) {
         #print $@;
         push(@$messages,'export_ecrf_data_horizontal error: ' . $err);
