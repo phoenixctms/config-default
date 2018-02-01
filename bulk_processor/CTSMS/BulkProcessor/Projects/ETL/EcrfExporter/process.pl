@@ -205,7 +205,7 @@ sub main() {
 
     push(@attachmentfiles,$attachmentlogfile);
     if ($result and $completion) {
-        push(@messages,"Visit $ctsms_base_url to download files.");
+        push(@messages,"Visit $ctsms_base_url/trial/trial.jsf?trialid=$ecrf_data_trial_id to download files.");
         completion(join("\n\n",@messages),\@attachmentfiles,getlogger(getscriptpath()));
     } elsif ($result) {
         done(join("\n\n",@messages),\@attachmentfiles,getlogger(getscriptpath()));
