@@ -17,3 +17,15 @@ update_proband_multithreading: 1
 update_proband_numofthreads: 2
 duplicate_proband_category: 'duplicate'
 duplicate_comment_prefix: 'Dieser Proband hat folgende Duplikate: '
+
+proband_categories_not_to_update:
+  - locked
+#  - migrated
+#  - test
+  - participant_to_be_deleted
+#  - unable_to_reach
+#  - new_animal
+#  - duplicate
+  - to_be_deleted
+#  - signup
+#  - new_person
