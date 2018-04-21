@@ -155,40 +155,40 @@ sub main() {
         foreach my $task (@$tasks) {
 
             if (lc($cleanup_task_opt) eq lc($task)) {
-                $result &= cleanup_task(\@messages,0) if taskinfo($cleanup_task_opt,$result);
+                $result &= cleanup_task(\@messages,0) if taskinfo($cleanup_task_opt,\$result);
 
             } elsif (lc($cleanup_all_task_opt) eq lc($task)) {
-                $result &= cleanup_task(\@messages,1) if taskinfo($cleanup_all_task_opt,$result);
+                $result &= cleanup_task(\@messages,1) if taskinfo($cleanup_all_task_opt,\$result);
 
             } elsif (lc($export_ecrf_data_vertical_task_opt) eq lc($task)) {
-                $result &= export_ecrf_data_vertical_task(\@messages) if taskinfo($export_ecrf_data_vertical_task_opt,$result);
+                $result &= export_ecrf_data_vertical_task(\@messages) if taskinfo($export_ecrf_data_vertical_task_opt,\$result,1);
             } elsif (lc($export_ecrf_data_horizontal_task_opt) eq lc($task)) {
-                $result &= export_ecrf_data_horizontal_task(\@messages) if taskinfo($export_ecrf_data_horizontal_task_opt,$result);
+                $result &= export_ecrf_data_horizontal_task(\@messages) if taskinfo($export_ecrf_data_horizontal_task_opt,\$result,1);
 
             } elsif (lc($publish_ecrf_data_sqlite_task_opt) eq lc($task)) {
-                $result &= publish_ecrf_data_sqlite_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_sqlite_task_opt,$result);
+                $result &= publish_ecrf_data_sqlite_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_sqlite_task_opt,\$result,1);
                 $completion = $result;
             } elsif (lc($publish_ecrf_data_horizontal_csv_task_opt) eq lc($task)) {
-                $result &= publish_ecrf_data_horizontal_csv_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_horizontal_csv_task_opt,$result);
+                $result &= publish_ecrf_data_horizontal_csv_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_horizontal_csv_task_opt,\$result,1);
                 $completion = $result;
             } elsif (lc($publish_ecrf_data_xls_task_opt) eq lc($task)) {
-                $result &= publish_ecrf_data_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_xls_task_opt,$result);
+                $result &= publish_ecrf_data_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_xls_task_opt,\$result,1);
                 $completion = $result;
             } elsif (lc($publish_ecrf_data_pdf_task_opt) eq lc($task)) {
-                $result &= publish_ecrf_data_pdf_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_pdf_task_opt,$result);
+                $result &= publish_ecrf_data_pdf_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_pdf_task_opt,\$result,1);
                 $completion = $result;
             } elsif (lc($publish_ecrf_data_pdfs_task_opt) eq lc($task)) {
-                $result &= publish_ecrf_data_pdfs_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_pdfs_task_opt,$result);
+                $result &= publish_ecrf_data_pdfs_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_data_pdfs_task_opt,\$result,1);
                 $completion = $result;
 
             } elsif (lc($publish_audit_trail_xls_task_opt) eq lc($task)) {
-                $result &= publish_audit_trail_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_audit_trail_xls_task_opt,$result);
+                $result &= publish_audit_trail_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_audit_trail_xls_task_opt,\$result,1);
                 $completion = $result;
             } elsif (lc($publish_ecrf_journal_xls_task_opt) eq lc($task)) {
-                $result &= publish_ecrf_journal_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_journal_xls_task_opt,$result);
+                $result &= publish_ecrf_journal_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrf_journal_xls_task_opt,\$result,1);
                 $completion = $result;
             } elsif (lc($publish_ecrfs_xls_task_opt) eq lc($task)) {
-                $result &= publish_ecrfs_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrfs_xls_task_opt,$result);
+                $result &= publish_ecrfs_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrfs_xls_task_opt,\$result,1);
                 $completion = $result;
 
             } else {
@@ -217,12 +217,13 @@ sub main() {
 }
 
 sub taskinfo {
-    my ($task,$result) = @_;
-    scriptinfo($result ? "starting task: '$task'" : "skipping task '$task' due to previous problems",getlogger(getscriptpath()));
-    #if (!$batch_supported and $batch) {
-    #    scriptwarn("no batch processing supported for this mode",getlogger(getscriptpath()));
-    #}
-    return $result;
+    my ($task,$result_ref,$ecrf_data_trial_id_required) = @_;
+    scriptinfo($$result_ref ? "starting task: '$task'" : "skipping task '$task' due to previous problems",getlogger(getscriptpath()));
+    if ($ecrf_data_trial_id_required and (not defined $ecrf_data_trial_id or length($ecrf_data_trial_id) == 0)) {
+        scripterror("trial id required",getlogger(getscriptpath()));
+        $$result_ref = 0;
+    }
+    return $$result_ref;
 }
 
 sub cleanup_task {
