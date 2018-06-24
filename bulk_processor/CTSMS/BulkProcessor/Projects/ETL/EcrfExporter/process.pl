@@ -67,6 +67,7 @@ use CTSMS::BulkProcessor::Projects::ETL::EcrfExport qw(
     publish_audit_trail_xls
     publish_ecrf_journal_xls
     publish_ecrfs_xls
+    publish_proband_list
 );
 
 scripterror(getscriptpath() . ' already running',getlogger(getscriptpath())) unless flock DATA, LOCK_EX | LOCK_NB; # not tested on windows yet
@@ -110,6 +111,21 @@ push(@TASK_OPTS,$publish_ecrf_journal_xls_task_opt);
 
 my $publish_ecrfs_xls_task_opt = 'publish_ecrfs_xls';
 push(@TASK_OPTS,$publish_ecrfs_xls_task_opt);
+
+my $publish_subject_list_task_opt = 'publish_subject_list';
+push(@TASK_OPTS,$publish_subject_list_task_opt);
+
+my $publish_enrollment_list_task_opt = 'publish_enrollment_list';
+push(@TASK_OPTS,$publish_enrollment_list_task_opt);
+
+my $publish_screening_list_task_opt = 'publish_screening_list';
+push(@TASK_OPTS,$publish_screening_list_task_opt);
+
+my $publish_prescreening_list_task_opt = 'publish_prescreening_list';
+push(@TASK_OPTS,$publish_prescreening_list_task_opt);
+
+my $publish_sicl_task_opt = 'publish_sicl';
+push(@TASK_OPTS,$publish_sicl_task_opt);
 
 if (init()) {
     main();
@@ -189,6 +205,22 @@ sub main() {
                 $completion = $result;
             } elsif (lc($publish_ecrfs_xls_task_opt) eq lc($task)) {
                 $result &= publish_ecrfs_xls_task(\@messages,\@attachmentfiles) if taskinfo($publish_ecrfs_xls_task_opt,\$result,1);
+                $completion = $result;
+
+            } elsif (lc($publish_subject_list_task_opt) eq lc($task)) {
+                $result &= publish_proband_list_task(undef,\@messages,\@attachmentfiles) if taskinfo($publish_subject_list_task_opt,\$result,1);
+                $completion = $result;
+            } elsif (lc($publish_enrollment_list_task_opt) eq lc($task)) {
+                $result &= publish_proband_list_task('enrollment',\@messages,\@attachmentfiles) if taskinfo($publish_enrollment_list_task_opt,\$result,1);
+                $completion = $result;
+            } elsif (lc($publish_screening_list_task_opt) eq lc($task)) {
+                $result &= publish_proband_list_task('screening',\@messages,\@attachmentfiles) if taskinfo($publish_screening_list_task_opt,\$result,1);
+                $completion = $result;
+            } elsif (lc($publish_prescreening_list_task_opt) eq lc($task)) {
+                $result &= publish_proband_list_task('pre_screening',\@messages,\@attachmentfiles) if taskinfo($publish_prescreening_list_task_opt,\$result,1);
+                $completion = $result;
+            } elsif (lc($publish_sicl_task_opt) eq lc($task)) {
+                $result &= publish_proband_list_task('sicl',\@messages,\@attachmentfiles) if taskinfo($publish_sicl_task_opt,\$result,1);
                 $completion = $result;
 
             } else {
@@ -431,6 +463,25 @@ sub publish_ecrfs_xls_task {
     if ($err) {
         #print $@;
         push(@$messages,'publish_ecrfs_xls error: ' . $err);
+        return 0;
+    } else {
+        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");
+        return 1;
+    }
+}
+
+sub publish_proband_list_task {
+    my ($log_level,$messages,$attachmentfiles) = @_;
+    my ($out,$filename) = (undef,undef);
+    eval {
+        ($out,$filename) = publish_proband_list($log_level);
+        #push(@$attachmentfiles,$filename);
+    };
+    my $err = $@;
+    $err ||= 'no file created' unless $out;
+    if ($err) {
+        #print $@;
+        push(@$messages,'publish_proband_list error: ' . $err);
         return 0;
     } else {
         push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");

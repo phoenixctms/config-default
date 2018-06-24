@@ -30,6 +30,8 @@ audit_trail_export_xls_filename: 'ecrf_issues_%s%s'
 ecrf_journal_export_xls_filename: 'ecrf_changelog_%s%s'
 ecrfs_export_xls_filename: 'ecrf_setup_%s%s'
 
+proband_list_filename: '%s_%s%s'
+
 ignore_external_ids: 0
 group_abbreviate_opts:
   
