@@ -1,0 +1,5 @@
+
+export_criteria_page_size: 10
+criteria_export_xlsx_filename: 'criteria_%s%s'
+
+criteria_import_xlsx_filename: '/ctsms/master_data/criteria.xlsx'
