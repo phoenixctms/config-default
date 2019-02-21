@@ -58,7 +58,7 @@ sub update_settings {
 
     my ($data,$configfile) = @_;
 
-    if (defined $data and defined ($data = $data->[0])) {
+    if (defined $data) { # and defined ($data = $data->[0])) {
 
         my $result = 1;
 
