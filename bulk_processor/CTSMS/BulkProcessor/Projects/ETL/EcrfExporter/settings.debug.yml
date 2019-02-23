@@ -33,6 +33,8 @@ ecrfs_export_xls_filename: 'ecrf_setup_%s%s'
 proband_list_filename: '%s_%s%s'
 
 ignore_external_ids: 0
+col_per_selection_set_value: 1
+selection_set_value_separator: ', '
 group_abbreviate_opts:
   
 visit_abbreviate_opts:
