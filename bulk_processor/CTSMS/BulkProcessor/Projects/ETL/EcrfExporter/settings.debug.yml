@@ -23,6 +23,7 @@ ecrf_data_export_xls_filename: 'ecrf_%s%s'
 ecrf_data_export_xlsx: 1
 dbtool: 'D:\workspaces\ctsms\core\db\dbtool.bat'
 #dbtool: '/ctsms/dbtool.sh'
+lockfile: 'C:\ctsms\process.trial%s.ecrfexport.lock'
 ecrf_data_export_pdf_filename: 'ecrf_ecrfs_%s%s'
 ecrf_data_export_pdfs_filename: 'ecrf_ecrf_%s_%s%s'
 
