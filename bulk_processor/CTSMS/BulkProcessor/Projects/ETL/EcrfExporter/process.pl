@@ -7,14 +7,21 @@ use Cwd;
 use lib Cwd::abs_path(File::Basename::dirname(__FILE__) . '/../../../../../');
 
 use Getopt::Long qw(GetOptions);
-use Fcntl qw(LOCK_EX LOCK_NB);
 
-use CTSMS::BulkProcessor::Globals qw();
+use CTSMS::BulkProcessor::Globals qw(
+    $ctsmsrestapi_username
+    $ctsmsrestapi_password
+    $completionemailrecipient
+);
 use CTSMS::BulkProcessor::Projects::ETL::EcrfSettings qw(
     $output_path
     $skip_errors
     $ctsms_base_url
     $ecrf_data_trial_id
+    $job_id
+    @job_file
+    update_job
+    $lockfile
 );
 use CTSMS::BulkProcessor::Projects::ETL::EcrfExporter::Settings qw(
     $defaultsettings
@@ -44,7 +51,7 @@ use CTSMS::BulkProcessor::LoadConfig qw(
     $ANY_CONFIG_TYPE
 );
 use CTSMS::BulkProcessor::Array qw(removeduplicates);
-use CTSMS::BulkProcessor::Utils qw(getscriptpath prompt cleanupdir);
+use CTSMS::BulkProcessor::Utils qw(getscriptpath prompt cleanupdir checkrunning);
 use CTSMS::BulkProcessor::Mail qw(
     cleanupmsgfiles
 );
@@ -53,6 +60,12 @@ use CTSMS::BulkProcessor::SqlConnectors::SQLiteDB qw(cleanupdbfiles);
 
 use CTSMS::BulkProcessor::Projects::ETL::EcrfConnectorPool qw(destroy_all_dbs);
 #use CTSMS::BulkProcessor::ConnectorPool qw(destroy_dbs);
+
+use CTSMS::BulkProcessor::RestRequests::ctsms::shared::JobService::Job qw(
+    $PROCESSING_JOB_STATUS
+    $FAILED_JOB_STATUS
+    $OK_JOB_STATUS
+);
 
 use CTSMS::BulkProcessor::Projects::ETL::EcrfExport qw(
     export_ecrf_data_vertical
@@ -69,8 +82,6 @@ use CTSMS::BulkProcessor::Projects::ETL::EcrfExport qw(
     publish_ecrfs_xls
     publish_proband_list
 );
-
-scripterror(getscriptpath() . ' already running',getlogger(getscriptpath())) unless flock DATA, LOCK_EX | LOCK_NB; # not tested on windows yet
 
 my @TASK_OPTS = ();
 
@@ -127,6 +138,8 @@ push(@TASK_OPTS,$publish_prescreening_list_task_opt);
 my $publish_sicl_task_opt = 'publish_sicl';
 push(@TASK_OPTS,$publish_sicl_task_opt);
 
+my $upload_files = 0;
+
 if (init()) {
     main();
     exit(0);
@@ -139,6 +152,9 @@ sub init {
     my $configfile = $defaultconfig;
     my $settingsfile = $defaultsettings;
     #print STDERR (join("|",@ARGV),"\n");
+    my $username;
+    my $password;
+    my $emailrecipients;
     return 0 unless GetOptions(
         "config=s" => \$configfile,
         "settings=s" => \$settingsfile,
@@ -146,11 +162,20 @@ sub init {
         "skip-errors" => \$skip_errors,
         "force" => \$force,
         "id=i" => \$ecrf_data_trial_id,
+        "jid=i" => \$job_id,
+        "u=s" => \$username,
+        "p=s" => \$password,
+        "upload" => \$upload_files,
+        "er:s" => \$emailrecipients,
     ); # or scripterror('error in command line arguments',getlogger(getscriptpath()));
 
-    $tasks = removeduplicates($tasks,1);
+    #$tasks = removeduplicates($tasks,1); #allowe cleanup twice
 
     my $result = load_config($configfile);
+    #support credentials via args for jobs:
+    $ctsmsrestapi_username = $username if $username;
+    $ctsmsrestapi_password = $password if $password;
+    $completionemailrecipient = $emailrecipients;
     init_log();
     $result &= load_config($settingsfile,\&CTSMS::BulkProcessor::Projects::ETL::EcrfSettings::update_settings,$YAML_CONFIG_TYPE);
     $result &= load_config($settingsfile,\&CTSMS::BulkProcessor::Projects::ETL::EcrfExporter::Settings::update_settings,$YAML_CONFIG_TYPE);
@@ -166,6 +191,12 @@ sub main() {
     my $result = 1;
     my $completion = 0;
 
+    update_job($PROCESSING_JOB_STATUS);
+    return 0 unless checkrunning(sprintf($lockfile,$ecrf_data_trial_id),sub {
+        scriptwarn(@_);
+        update_job($FAILED_JOB_STATUS);
+        return 0;
+    },getlogger(getscriptpath()));
     if (defined $tasks and 'ARRAY' eq ref $tasks and (scalar @$tasks) > 0) {
         #scriptinfo('skip-errors: processing won\'t stop upon errors',getlogger(__PACKAGE__)) if $skip_errors;
         foreach my $task (@$tasks) {
@@ -228,6 +259,7 @@ sub main() {
                 scripterror("unknow task option '" . $task . "', must be one of " . join(', ',@TASK_OPTS),getlogger(getscriptpath()));
                 last;
             }
+            update_job($PROCESSING_JOB_STATUS);
         }
         destroy_all_dbs();
     } else {
@@ -239,10 +271,13 @@ sub main() {
     if ($result and $completion) {
         push(@messages,"Visit $ctsms_base_url/trial/trial.jsf?trialid=$ecrf_data_trial_id to download files.");
         completion(join("\n\n",@messages),\@attachmentfiles,getlogger(getscriptpath()));
+        update_job($OK_JOB_STATUS);
     } elsif ($result) {
         done(join("\n\n",@messages),\@attachmentfiles,getlogger(getscriptpath()));
+        update_job($OK_JOB_STATUS);
     } else {
         scriptwarn(join("\n\n",@messages),getlogger(getscriptpath()),1);
+        update_job($FAILED_JOB_STATUS);
     }
 
     return $result;
@@ -318,76 +353,79 @@ sub export_ecrf_data_horizontal_task {
 
 sub publish_ecrf_data_sqlite_task {
     my ($messages,$attachmentfiles) = @_;
-    my ($out,$filename) = (undef,undef);
+    my $out = undef;
     eval {
-        ($out,$filename) = publish_ecrf_data_sqlite();
+        ($out,@job_file) = publish_ecrf_data_sqlite($upload_files);
         #push(@$attachmentfiles,$filename);
     };
     my $err = $@;
-    $err ||= 'no file created' unless $out;
+    #$err ||= 'no file created' unless $out;
     if ($err) {
         #print $@;
         push(@$messages,'publish_ecrf_data_sqlite error: ' . $err);
         return 0;
     } else {
-        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");
+        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial") if $out;
         return 1;
     }
 }
 
 sub publish_ecrf_data_horizontal_csv_task {
     my ($messages,$attachmentfiles) = @_;
-    my ($out,$filename) = (undef,undef);
+    my $out = undef;
     eval {
-        ($out,$filename) = publish_ecrf_data_horizontal_csv();
+        ($out,@job_file) = publish_ecrf_data_horizontal_csv($upload_files);
         #push(@$attachmentfiles,$filename);
     };
     my $err = $@;
-    $err ||= 'no file created' unless $out;
+    #$err ||= 'no file created' unless $out;
     if ($err) {
         #print $@;
         push(@$messages,'publish_ecrf_data_horizontal_csv error: ' . $err);
         return 0;
     } else {
-        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");
+        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial") if $out;
+        push(@$messages,'publish_ecrf_data_horizontal_csv finished') unless $out;
         return 1;
     }
 }
 
 sub publish_ecrf_data_xls_task {
     my ($messages,$attachmentfiles) = @_;
-    my ($out,$filename) = (undef,undef);
+    my $out = undef;
     eval {
-        ($out,$filename) = publish_ecrf_data_xls();
+        ($out,@job_file) = publish_ecrf_data_xls($upload_files);
         #push(@$attachmentfiles,$filename);
     };
     my $err = $@;
-    $err ||= 'no file created' unless $out;
+    #$err ||= 'no file created' unless $out;
     if ($err) {
         #print $@;
         push(@$messages,'publish_ecrf_data_xls error: ' . $err);
         return 0;
     } else {
-        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");
+        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial") if $out;
+        push(@$messages,'publish_ecrf_data_xls finished') unless $out;
         return 1;
     }
 }
 
 sub publish_ecrf_data_pdf_task {
     my ($messages,$attachmentfiles) = @_;
-    my ($out,$filename) = (undef,undef);
+    my $out = undef;
     eval {
-        ($out,$filename) = publish_ecrf_data_pdf();
+        ($out,@job_file) = publish_ecrf_data_pdf($upload_files);
         #push(@$attachmentfiles,$filename);
     };
     my $err = $@;
-    $err ||= 'no file created' unless $out;
+    #$err ||= 'no file created' unless $out;
     if ($err) {
         #print $@;
         push(@$messages,'publish_ecrf_data_pdf error: ' . $err);
         return 0;
     } else {
-        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");
+        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial") if $out;
+        push(@$messages,'publish_ecrf_data_pdf finished') unless $out;
         return 1;
     }
 }
@@ -396,7 +434,7 @@ sub publish_ecrf_data_pdfs_task {
     my ($messages,$attachmentfiles) = @_;
     my ($result, $warning_count, $uploads) = (0,0,undef);
     eval {
-        ($result, $warning_count, $uploads) = publish_ecrf_data_pdfs();
+        ($result, $warning_count, $uploads) = publish_ecrf_data_pdfs($upload_files);
     };
     my $err = $@;
     $err ||= 'no files downloaded' unless ('ARRAY' eq ref $uploads and (scalar @$uploads > 0));
@@ -415,76 +453,80 @@ sub publish_ecrf_data_pdfs_task {
 
 sub publish_audit_trail_xls_task {
     my ($messages,$attachmentfiles) = @_;
-    my ($out,$filename) = (undef,undef);
+    my $out = undef;
     eval {
-        ($out,$filename) = publish_audit_trail_xls();
+        ($out,@job_file) = publish_audit_trail_xls($upload_files);
         #push(@$attachmentfiles,$filename);
     };
     my $err = $@;
-    $err ||= 'no file created' unless $out;
+    #$err ||= 'no file created' unless $out;
     if ($err) {
         #print $@;
         push(@$messages,'publish_audit_trail_xls error: ' . $err);
         return 0;
     } else {
-        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");
+        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial") if $out;
+        push(@$messages,'publish_audit_trail_xls finished') unless $out;
         return 1;
     }
 }
 
 sub publish_ecrf_journal_xls_task {
     my ($messages,$attachmentfiles) = @_;
-    my ($out,$filename) = (undef,undef);
+    my $out = undef;
     eval {
-        ($out,$filename) = publish_ecrf_journal_xls();
+        ($out,@job_file) = publish_ecrf_journal_xls($upload_files);
         #push(@$attachmentfiles,$filename);
     };
     my $err = $@;
-    $err ||= 'no file created' unless $out;
+    #$err ||= 'no file created' unless $out;
     if ($err) {
         #print $@;
         push(@$messages,'publish_ecrf_journal_xls error: ' . $err);
         return 0;
     } else {
-        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");
+        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial") if $out;
+        push(@$messages,'publish_ecrf_journal_xls finished') unless $out;
         return 1;
     }
 }
 
 sub publish_ecrfs_xls_task {
     my ($messages,$attachmentfiles) = @_;
-    my ($out,$filename) = (undef,undef);
+    my $out = undef;
     eval {
-        ($out,$filename) = publish_ecrfs_xls();
+        ($out,@job_file) = publish_ecrfs_xls($upload_files);
         #push(@$attachmentfiles,$filename);
     };
     my $err = $@;
-    $err ||= 'no file created' unless $out;
+    #$err ||= 'no file created' unless $out;
     if ($err) {
         #print $@;
         push(@$messages,'publish_ecrfs_xls error: ' . $err);
         return 0;
     } else {
-        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");
+        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial") if $out;
+        push(@$messages,'publish_ecrfs_xls finished') unless $out;
         return 1;
     }
 }
 
 sub publish_proband_list_task {
     my ($log_level,$messages,$attachmentfiles) = @_;
-    my ($out,$filename) = (undef,undef);
+    my $out = undef;
     eval {
-        ($out,$filename) = publish_proband_list($log_level);
+        ($out,@job_file) = publish_proband_list($log_level,$upload_files);
         #push(@$attachmentfiles,$filename);
     };
     my $err = $@;
-    $err ||= 'no file created' unless $out;
+    #$err ||= 'no file created' unless $out;
     if ($err) {
         #print $@;
         push(@$messages,'publish_proband_list error: ' . $err);
         return 0;
     } else {
-        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial");
+        push(@$messages,"- file '$out->{title}' added to the '$out->{trial}->{name}' trial") if $out;
+        push(@$messages,'publish_proband_list finished') unless $out;
         return 1;
     }
 }
@@ -494,7 +536,3 @@ sub publish_proband_list_task {
 #    # "rootlogger not initialized error upon exit..
 #    destroy_all_dbs
 #}
-
-__DATA__
-This exists to allow the locking code at the beginning of the file to work.
-DO NOT REMOVE THESE LINES!
