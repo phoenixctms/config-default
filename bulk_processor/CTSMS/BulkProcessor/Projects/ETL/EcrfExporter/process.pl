@@ -7,11 +7,11 @@ use Cwd;
 use lib Cwd::abs_path(File::Basename::dirname(__FILE__) . '/../../../../../');
 
 use Getopt::Long qw(GetOptions);
+use MIME::Base64 qw(decode_base64);
 
 use CTSMS::BulkProcessor::Globals qw(
     $ctsmsrestapi_username
     $ctsmsrestapi_password
-    $completionemailrecipient
 );
 use CTSMS::BulkProcessor::Projects::ETL::EcrfSettings qw(
     $output_path
@@ -152,9 +152,7 @@ sub init {
     my $configfile = $defaultconfig;
     my $settingsfile = $defaultsettings;
     #print STDERR (join("|",@ARGV),"\n");
-    my $username;
-    my $password;
-    my $emailrecipients;
+    my $auth;
     return 0 unless GetOptions(
         "config=s" => \$configfile,
         "settings=s" => \$settingsfile,
@@ -163,19 +161,18 @@ sub init {
         "force" => \$force,
         "id=i" => \$ecrf_data_trial_id,
         "jid=i" => \$job_id,
-        "u=s" => \$username,
-        "p=s" => \$password,
+        "auth=s" => \$auth,
         "upload" => \$upload_files,
-        "er:s" => \$emailrecipients,
+        #"er:s" => \$emailrecipients,
     ); # or scripterror('error in command line arguments',getlogger(getscriptpath()));
 
     #$tasks = removeduplicates($tasks,1); #allowe cleanup twice
 
     my $result = load_config($configfile);
     #support credentials via args for jobs:
-    $ctsmsrestapi_username = $username if $username;
-    $ctsmsrestapi_password = $password if $password;
-    $completionemailrecipient = $emailrecipients;
+    if ($auth) {
+        ($ctsmsrestapi_username,$ctsmsrestapi_password) = split("\n",decode_base64($auth),2);
+    }
     init_log();
     $result &= load_config($settingsfile,\&CTSMS::BulkProcessor::Projects::ETL::EcrfSettings::update_settings,$YAML_CONFIG_TYPE);
     $result &= load_config($settingsfile,\&CTSMS::BulkProcessor::Projects::ETL::EcrfExporter::Settings::update_settings,$YAML_CONFIG_TYPE);
