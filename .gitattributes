@@ -1,2 +1,41 @@
-# Auto detect text files and perform LF normalization
-# * text=auto
+# Handle line endings automatically for files detected as text
+# and leave all files detected as binary untouched.
+* text=auto
+
+# These files are text and should be normalized (Convert crlf => lf)
+*.pl            text
+*.pm            text
+*.md            text
+*.sh            text
+*.js            text
+*.css           text
+*.scss          text
+*.less          text
+*.tt            text
+*.po            text
+*.yml           text
+*.cfg           text
+*.properties    text
+*.cgi           text
+*.fcgi          text
+
+# Declare files that will always have CRLF line endings on checkout.
+*.bat text eol=crlf
+
+# These files are binary and should be left untouched
+# (binary is a macro for -text -diff)
+*.gif           binary
+*.ico           binary
+*.jpg           binary
+*.jpeg          binary
+*.png           binary
+*.ttf           binary
+*.woff          binary
+*.woff2         binary
+*.otf           binary
+*.svg           binary
+*.eot           binary
+*.xls           binary
+*.xlsx          binary
+*.db            binary
+*.pdf           binary

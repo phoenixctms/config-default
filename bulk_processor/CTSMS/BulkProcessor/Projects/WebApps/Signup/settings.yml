@@ -1,0 +1,47 @@
+
+dancer_environment: 'production'
+#production
+dancer_confdir:
+
+ctsms_base_uri: 'https://127.0.0.1:8080'
+
+google_site_verification: 
+
+proband_create_interval_limit: 200
+phone_number_prefix_preset: '+43'
+email_notify_preset: 1
+proband_agreed_preset: 0
+default_language_code: 'en'
+system_timezone: 'Europe/Vienna'
+default_timezone: 'Europe/Vienna'
+default_date_format: 'dd.MM.yyyy'
+default_decimal_separator: '.'
+
+ctsms_sites:
+  '00_my_department':
+    label: 'My Department'
+#    uri:
+    default: 1
+#    mass_mail:
+#      de: 6552634
+#      en: 6552637
+    trial_signup: 1
+    register: 1
+    default_geolocation_latitude: 47.081424
+    default_geolocation_longitude: 15.468107
+    show_map: 0
+    description: '<b>My CRO</b></br>My Department</br>Evergreen Terrace 123, 12345 Springfield</br>Mo. – Fr. 08:00-16:00</br>Tel.: 01/123 45678</br>Mail: <a href="mailto:mydepartment@mycro.com?subject=Signup">mydepartment@mycro.com</a>'
+    department: 'my_department'
+#    trial_department: 'my_department'
+    trial_department:
+#    inquiry_trial: 238743
+    phone_contact_detail_type: 'business_phone_number'
+    email_contact_detail_type: 'business_email_address'
+    address_type: 'business'
+    credentials:
+      de:
+        username: 'signup_crc_de'
+        password: 'signup_crc_de'
+      en:
+        username: 'signup_crc_en'
+        password: 'signup_crc_en'

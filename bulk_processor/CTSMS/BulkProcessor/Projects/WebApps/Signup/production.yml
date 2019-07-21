@@ -1,0 +1,27 @@
+# configuration file for production environment
+
+# cache route resolution for maximum performance
+route_cache: 1
+
+logger: "file"
+
+# the log level for this environment
+# core is the lowest, it shows Dancer's core log messages as well as yours
+# (debug, info, warning and error)
+log: "warning"
+
+# Should Dancer consider warnings as critical errors?
+warnings: 1
+
+# Should Dancer show a stacktrace when an error is caught?
+show_errors: 0
+error_template: runtime_error
+
+session: "memcached"
+memcached_servers: "/var/run/memcached/memcached.sock"
+
+#session: YAML
+session_secure: 0
+session_is_http_only: 0
+#session_domain: .medunigraz.at
+session_expires: 600

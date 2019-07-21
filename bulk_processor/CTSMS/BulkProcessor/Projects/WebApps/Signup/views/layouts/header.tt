@@ -1,0 +1,78 @@
+<div id="header" >
+
+[% IF language_menu != 1 %]
+
+  <div class="container header">
+    
+      <div class="pull-left">
+        <i class="fa fa-globe"></i>
+    [% IF selected_lang != 'en' %]
+        <a href="[% request.uri_base %][% request.path %]?lang=en">English</a>
+    [% ELSE %]
+        <a href="[% request.uri_base %][% request.path %]?lang=de">Deutsch</a>
+    [% END %]
+      </div>
+      <div class="pull-right">
+        <i id="session_timer_icon" class="fa fa-clock-o"></i>
+        <span id="session_timer"></span>
+      </div>
+    
+  </div>
+
+[% END %]
+
+
+<!--  <div class="container">
+    <div class="pull-left header2">
+      <h1>[% l('lead_label') %]</h1>
+    </div>
+    <div class="pull-right">
+      <div class="logo">
+      </div>
+    </div>
+  </div> -->
+ 
+
+
+<div class="row-menu"></div>
+
+<div class="breadcrumb-row">
+<div class="container">
+  <div class="ui-grid">
+    <div class="ui-grid-row">
+      <div class="ui-grid-col-[%- language_menu == 1 ? '10' : '12' -%]">
+
+  <ul id="navigation">
+[% FOREACH navigation_option = navigation_options %]
+  [% IF navigation_option.url %]
+    <li><a href="[% navigation_option.url %]">[% navigation_option.label %]</a></li>
+  [% ELSE %]
+    <li><div class="ui-menuitem-link ui-state-disabled"><span class="ui-menuitem-text">[% navigation_option.label %]</span></div></li>
+  [% END %]
+[% END %]
+  </ul>
+
+      </div>
+[% IF language_menu == 1 %]
+      <div class="ui-grid-col-2">
+
+  <ul id="lang" >
+    <li><a data-icon="fa-globe">[% l('lanuage_menu_label') %]</a>
+      <ul>
+  [% FOREACH lang_option = lang_options %]
+        <li><a data-icon="fa-check[% selected_lang == lang_option.lang ? '' : ' fa-blank' %]" href="[% request.uri_base %][% request.path %]?lang=[% lang_option.lang %]">[% lang_option.lang_label %]</a></li>
+  [% END %]
+      </ul>
+    </li>
+  </ul>
+
+      </div>
+[% END %]
+
+    </div>
+  </div>
+
+</div>
+</div>
+
+</div>

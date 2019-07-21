@@ -1,0 +1,23 @@
+# configuration file for development environment
+
+logger: "console"
+
+# the log level for this environment
+# core is the lowest, it shows Dancer's core log messages as well as yours
+# (debug, info, warning and error)
+log: "debug"
+
+# Should Dancer consider warnings as critical errors?
+warnings: 1
+
+# Should Dancer show a stacktrace when an error is caught?
+show_errors: 1
+#error_template: runtime_error
+
+session: YAML
+session_secure: 0
+session_is_http_only: 0
+#session_domain: .medunigraz.at
+session_expires: 600
+#3000
+#30000

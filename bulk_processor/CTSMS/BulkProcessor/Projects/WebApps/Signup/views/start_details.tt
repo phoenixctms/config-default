@@ -1,0 +1,4 @@
+[% PROCESS 
+  headline.tt title = l('start_title'),
+  description = l('start_description')
+%]

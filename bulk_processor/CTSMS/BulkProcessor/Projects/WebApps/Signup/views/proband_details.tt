@@ -1,0 +1,4 @@
+[% PROCESS 
+  headline.tt title = l('proband_title',session.trial.name),
+  description = l('proband_description')
+%]

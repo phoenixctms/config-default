@@ -1,0 +1,4 @@
+[% PROCESS 
+  headline.tt title = l('end_title'),
+  description = l('end_description',auto_delete_deadline)
+%]
