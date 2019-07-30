@@ -40,8 +40,8 @@ ctsms_sites:
     address_type: 'business'
     credentials:
       de:
-        username: 'signup_crc_de'
-        password: 'signup_crc_de'
+        username: 'my_department_signup_de'
+        password: 'my_department_signup_de'
       en:
-        username: 'signup_crc_en'
-        password: 'signup_crc_en'
+        username: 'my_department_signup_en'
+        password: 'my_department_signup_en'
