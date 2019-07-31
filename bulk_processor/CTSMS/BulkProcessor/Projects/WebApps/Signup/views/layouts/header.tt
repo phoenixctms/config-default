@@ -3,20 +3,20 @@
 [% IF language_menu != 1 %]
 
   <div class="container header">
-    
+
       <div class="pull-left">
         <i class="fa fa-globe"></i>
     [% IF selected_lang != 'en' %]
-        <a href="[% request.uri_base %][% request.path %]?lang=en">English</a>
+        <a href="[% request.path %]?lang=en">English</a>
     [% ELSE %]
-        <a href="[% request.uri_base %][% request.path %]?lang=de">Deutsch</a>
+        <a href="[% request.path %]?lang=de">Deutsch</a>
     [% END %]
       </div>
       <div class="pull-right">
         <i id="session_timer_icon" class="fa fa-clock-o"></i>
         <span id="session_timer"></span>
       </div>
-    
+
   </div>
 
 [% END %]
@@ -31,7 +31,7 @@
       </div>
     </div>
   </div> -->
- 
+
 
 
 <div class="row-menu"></div>
@@ -60,7 +60,7 @@
     <li><a data-icon="fa-globe">[% l('lanuage_menu_label') %]</a>
       <ul>
   [% FOREACH lang_option = lang_options %]
-        <li><a data-icon="fa-check[% selected_lang == lang_option.lang ? '' : ' fa-blank' %]" href="[% request.uri_base %][% request.path %]?lang=[% lang_option.lang %]">[% lang_option.lang_label %]</a></li>
+        <li><a data-icon="fa-check[% selected_lang == lang_option.lang ? '' : ' fa-blank' %]" href="[% request.path %]?lang=[% lang_option.lang %]">[% lang_option.lang_label %]</a></li>
   [% END %]
       </ul>
     </li>
