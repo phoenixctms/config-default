@@ -70,7 +70,7 @@ public class MyVisitScheduleExcelWriter extends VisitScheduleExcelWriter {
 		getSpreadSheetWriters().add(createSpreadSheetWriter(omitFields));
 	}
 
-	private void appendHeaderFooter(HeaderFooter header, HeaderFooter footer) throws Exception {
+	protected void appendHeaderFooter(HeaderFooter header, HeaderFooter footer) throws Exception {
 		String temp;
 		header.getLeft().clear();
 		temp = CommonUtil.trialOutVOToString(trial) + " (test)"; //modified for this customer renderer example ...
@@ -192,7 +192,7 @@ public class MyVisitScheduleExcelWriter extends VisitScheduleExcelWriter {
 	protected void applyWorkbookSettings(WorkbookSettings settings) {
 	}
 
-	private SpreadSheetWriter createSpreadSheetWriter(boolean omitFields) {
+	protected SpreadSheetWriter createSpreadSheetWriter(boolean omitFields) {
 		switch (style) {
 			case TRIAL_VISIT_SCHEDULE:
 				return new SpreadSheetWriter(this,
@@ -310,7 +310,7 @@ public class MyVisitScheduleExcelWriter extends VisitScheduleExcelWriter {
 		return proband;
 	}
 
-	private String getStyleName() {
+	protected String getStyleName() {
 		switch (style) {
 			case TRIAL_VISIT_SCHEDULE:
 				return L10nUtil.getVisitScheduleExcelLabel(Locales.USER, MyVisitScheduleExcelLabelCodes.TRIAL_VISIT_SCHEDULE_NAME, ExcelUtil.DEFAULT_LABEL);
