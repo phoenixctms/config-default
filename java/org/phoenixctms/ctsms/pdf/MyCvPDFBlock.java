@@ -69,14 +69,14 @@ public class MyCvPDFBlock {
 		type = BlockType.IMAGE_RIGHT;
 	}
 
-	private String getCvAcademicTitle() {
+	protected String getCvAcademicTitle() {
 		if (staff != null && staff.isPerson() && staff.getCvAcademicTitle() != null) {
 			return staff.getCvAcademicTitle();
 		}
 		return "";
 	}
 
-	private String getDateOfBirth() {
+	protected String getDateOfBirth() {
 		StringBuilder sb = new StringBuilder();
 		if (staff != null && staff.isPerson() && staff.getDateOfBirth() != null) {
 			sb.append(Settings.getSimpleDateFormat(MyCvPDFSettingCodes.DATE_OF_BIRTH_DATE_PATTERN, Bundle.CV_PDF, MyCvPDFDefaultSettings.DATE_OF_BIRTH_DATE_PATTERN, Locales.CV_PDF)
@@ -85,7 +85,7 @@ public class MyCvPDFBlock {
 		return sb.toString();
 	}
 
-	private String getFullName() {
+	protected String getFullName() {
 		StringBuilder sb = new StringBuilder();
 		if (staff != null && staff.isPerson()) {
 			sb.append(staff.getLastName().toUpperCase(L10nUtil.getLocale(Locales.CV_PDF)));
@@ -99,14 +99,14 @@ public class MyCvPDFBlock {
 		return renderBlock(null, cursor);
 	}
 
-	private String getSectionDescription() {
+	protected String getSectionDescription() {
 		if (cvSection != null) {
 			return L10nUtil.getCvSectionDescription(Locales.CV_PDF, cvSection.getDescriptionL10nKey());
 		}
 		return "";
 	}
 
-	private String getSectionName() {
+	protected String getSectionName() {
 		StringBuilder sb = new StringBuilder();
 		if (cvSection != null) {
 		    sb.append("(test) "); //modified for this customer renderer example ...
@@ -116,7 +116,7 @@ public class MyCvPDFBlock {
 		return sb.toString();
 	}
 
-	private String getSignatureLabel() {
+	protected String getSignatureLabel() {
 		if (staff != null && staff.isPerson()) {
 			return L10nUtil.getCVPDFLabel(Locales.CV_PDF, MyCvPDFLabelCodes.SIGNATURE_ANNOTATION, PDFUtil.DEFAULT_LABEL, CommonUtil.getCvStaffName(staff), now == null ? null
 					: Settings.getSimpleDateFormat(MyCvPDFSettingCodes.SIGNATURE_DATE_PATTERN, Bundle.CV_PDF, MyCvPDFDefaultSettings.SIGNATURE_DATE_PATTERN, Locales.CV_PDF)
@@ -131,6 +131,14 @@ public class MyCvPDFBlock {
 
 	public BlockType getType() {
 		return type;
+	}
+	
+	public CvSectionVO getCvSection() {
+		return cvSection;
+	}
+
+	public Collection<CvPositionPDFVO> getCvPositions() {
+		return cvPositions;
 	}
 
 	public float renderBlock(PDPageContentStream contentStream, MyCvPDFBlockCursor cursor) throws Exception {

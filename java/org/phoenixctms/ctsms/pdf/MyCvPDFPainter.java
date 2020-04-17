@@ -189,6 +189,46 @@ public class MyCvPDFPainter extends org.phoenixctms.ctsms.pdf.CVPDFPainter {
 		}
 	}
 
+
+	@Override
+	public boolean nextBlockFitsOnFullPage() throws Exception {
+		MyCvPDFBlock block = blocks.get(blockIndex);
+		if (BlockType.CV_SECTION_POSITIONS.equals(block.getType())) {
+			return (pageHeight
+					- Settings.getFloat(MyCvPDFSettingCodes.BLOCKS_UPPER_MARGIN, Bundle.CV_PDF, MyCvPDFDefaultSettings.BLOCKS_UPPER_MARGIN)
+					- block.getHeight(cursor)) > Settings.getFloat(MyCvPDFSettingCodes.BLOCKS_LOWER_MARGIN, Bundle.CV_PDF,
+							MyCvPDFDefaultSettings.BLOCKS_LOWER_MARGIN);
+		} else {
+			return true;
+		}
+	}
+
+	@Override
+	public void splitNextBlock() throws Exception {
+		MyCvPDFBlock block = blocks.get(blockIndex);
+		if (BlockType.CV_SECTION_POSITIONS.equals(block.getType())) {
+			ArrayList<CvPositionPDFVO> blockCvPositions = new ArrayList<CvPositionPDFVO>();
+			MyCvPDFBlock testBlock = new MyCvPDFBlock(block.getCvSection(), new ArrayList<CvPositionPDFVO>());
+			Iterator<CvPositionPDFVO> it = block.getCvPositions().iterator();
+			while (it.hasNext()) {
+				CvPositionPDFVO cvPosition = it.next();
+				testBlock.getCvPositions().add(cvPosition);
+				if ((pageHeight
+						- Settings.getFloat(MyCvPDFSettingCodes.BLOCKS_UPPER_MARGIN, Bundle.CV_PDF, MyCvPDFDefaultSettings.BLOCKS_UPPER_MARGIN)
+						- testBlock.getHeight(cursor)) > Settings.getFloat(MyCvPDFSettingCodes.BLOCKS_LOWER_MARGIN, Bundle.CV_PDF,
+								MyCvPDFDefaultSettings.BLOCKS_LOWER_MARGIN)) {
+					blockCvPositions.add(cvPosition);
+				} else {
+					break;
+				}
+			}
+			if (blockCvPositions.size() > 0) {
+				blocks.add(blockIndex, new MyCvPDFBlock(block.getCvSection(), blockCvPositions));
+				block.getCvPositions().removeAll(blockCvPositions);
+			}
+		}
+	}
+	
 	@Override
 	public void populateBlocks() {
 		blocks.clear();
@@ -320,7 +360,7 @@ public class MyCvPDFPainter extends org.phoenixctms.ctsms.pdf.CVPDFPainter {
 		}
 	}
 
-	private void updateCvPDFVO() {
+	protected void updateCvPDFVO() {
 		pdfVO.setContentTimestamp(now);
 		pdfVO.setContentType(CoreUtil.getPDFMimeType());
 		pdfVO.setStafves(staffVOs);
