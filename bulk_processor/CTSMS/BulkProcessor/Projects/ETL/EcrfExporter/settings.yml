@@ -35,9 +35,10 @@ proband_list_filename: '%s_%s%s'
 ignore_external_ids: 0
 col_per_selection_set_value: 1
 selection_set_value_separator: ', '
+
 ecrfrevision_abbreviate_opts:
   word_count_limit: 0
-  
+
 ecrfname_abbreviate_opts:
   word_count_limit: 0
   
