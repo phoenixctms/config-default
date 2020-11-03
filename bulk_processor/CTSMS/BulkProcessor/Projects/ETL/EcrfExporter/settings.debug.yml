@@ -42,6 +42,9 @@ ecrfrevision_abbreviate_opts:
 
 ecrfname_abbreviate_opts:
   word_count_limit: 0
+
+visit_abbreviate_opts:
+  word_count_limit: 0
   
 section_abbreviate_opts:
   word_count_limit: 0
