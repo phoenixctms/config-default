@@ -1,15 +1,24 @@
 ctsms_base_uri: 'https://127.0.0.1'
 
-sqlite_db_file: 'ecrf_exporter'
-csv_dir: 'ecrf_exporter'
+sqlite_db_file: 'ecrf_importer'
+csv_dir: 'ecrf_importer'
 
-ecrf_data_truncate_table: 1
-ecrf_data_ignore_duplicates: 0
+#clear_sections: 0
+#clear_all_sections: 0
+#append_selection_set_values: 0
+#update_listentrytag_values: 0
+
+#ecrf_import_filename
+#import_ecrf_data_horizontal_multithreading
+#import_ecrf_data_horizontal_numofthreads
+#import_ecrf_data_horizontal_blocksize
+
 #ecrf_data_trial_id: <your demo trial id>
 #ecrf_data_api_listentries_page_size: 10
 #ecrf_data_api_ecrfs_page_size: 10
 #ecrf_data_api_values_page_size: 10
-ecrf_data_row_block: 50
+#ecrf_values_col_block: 1
+#listentrytag_values_col_block: 0
 #ecrf_data_api_probandlistentrytagvalues_page_size: 10
 #ecrf_data_api_probandlistentrytags_page_size: 10
 #ecrf_data_api_ecrffields_page_size: 10
@@ -20,23 +29,10 @@ ecrf_proband_department_column_name: department
 #ecrf_proband_gender_column_name
 ecrf_probandlistentry_group_column_name: subject_group
 ecrf_probandlistentry_status_column_name: enrollment_status
-
-ecrf_data_export_upload_folder: '/4. CRF/eCRF Exports/'
-ecrf_data_export_sqlite_filename: 'ecrf_%s%s'
-ecrf_data_export_horizontal_csv_filename: 'ecrf_horizontal_%s%s'
-ecrf_data_export_xls_filename: 'ecrf_%s%s'
-ecrf_data_export_xlsx: 1
+  
 #dbtool: 'D:\workspaces\ctsms\core\db\dbtool.bat'
 dbtool: '/ctsms/dbtool.sh'
-lockfile: '/ctsms/process.trial%s.ecrfexport.lock'
-ecrf_data_export_pdf_filename: 'ecrf_ecrfs_%s%s'
-ecrf_data_export_pdfs_filename: 'ecrf_ecrf_%s_%s%s'
-
-audit_trail_export_xls_filename: 'ecrf_issues_%s%s'
-ecrf_journal_export_xls_filename: 'ecrf_changelog_%s%s'
-ecrfs_export_xls_filename: 'ecrf_setup_%s%s'
-
-proband_list_filename: '%s_%s%s'
+lockfile: '/ctsms/process.trial%s.ecrfimport.lock'
 
 ignore_external_ids: 0
 col_per_selection_set_value: 1
