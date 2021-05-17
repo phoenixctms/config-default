@@ -10,10 +10,10 @@ inquiry_data_ignore_duplicates: 0
 #ecrf_data_api_ecrfs_page_size: 10
 #ecrf_data_api_values_page_size: 10
 inquiry_data_row_block: 50
-#ecrf_data_api_tagvalues_page_size: 10
+#ecrf_data_api_probandlistentrytagvalues_page_size: 10
 #ecrf_data_api_ecrffields_page_size: 10
 
-#ecrf_data_listentrytags:
+#inquiry_proband_alias_column_name
 
 inquiry_data_export_upload_folder: '/11. ProbandenInnen/11.6. Rekrutierung/'
 inquiry_data_export_sqlite_filename: 'inquiry_%s%s'

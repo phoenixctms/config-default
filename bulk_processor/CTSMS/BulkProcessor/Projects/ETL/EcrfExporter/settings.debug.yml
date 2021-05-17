@@ -11,11 +11,17 @@ ecrf_data_ignore_duplicates: 0
 #ecrf_data_api_ecrfs_page_size: 10
 #ecrf_data_api_values_page_size: 10
 ecrf_data_row_block: 50
-#ecrf_data_api_tagvalues_page_size: 10
+#ecrf_data_api_probandlistentrytagvalues_page_size: 10
+#ecrf_data_api_probandlistentrytags_page_size: 10
 #ecrf_data_api_ecrffields_page_size: 10
 
-ecrf_data_listentrytags:
-  
+#ecrf_proband_alias_column_name
+#ecrf_proband_category_column_name
+ecrf_proband_department_column_name: department
+#ecrf_proband_gender_column_name
+ecrf_probandlistentry_group_column_name: subject_group
+ecrf_probandlistentry_status_column_name: enrollment_status
+
 ecrf_data_export_upload_folder: '/4. CRF/eCRF Exports/'
 ecrf_data_export_sqlite_filename: 'ecrf_%s%s'
 ecrf_data_export_horizontal_csv_filename: 'ecrf_horizontal_%s%s'
