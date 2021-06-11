@@ -1,2 +1,4 @@
 <!-- <link rel="stylesheet" href="[% request.uri_base %]/css/corporate.css" /> -->
 <link rel="stylesheet" href="[% request.uri_base %]/css/corporate.min.css" />
+
+<link rel="stylesheet" href="[% request.uri_base %]/themes/casablanca/theme.min.css" />
