@@ -42,6 +42,8 @@ ignore_external_ids: 0
 col_per_selection_set_value: 1
 selection_set_value_separator: ', '
 
+#timezone: Europe/Vienna
+
 ecrfrevision_abbreviate_opts:
   word_count_limit: 0
 
