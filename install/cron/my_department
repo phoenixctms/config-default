@@ -1,0 +1,35 @@
+#SHELL=/bin/bash
+#PATH=/sbin:/bin:/usr/sbin:/usr/bin
+#MAILTO=
+#HOME=/
+
+# For details see man 4 crontabs
+
+# Example of job definition:
+# .---------------- minute (0 - 59)
+# |  .------------- hour (0 - 23)
+# |  |  .---------- day of month (1 - 31)
+# |  |  |  .------- month (1 - 12) OR jan,feb,mar,apr ...
+# |  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat
+# |  |  |  |  |
+# *  *  *  *  * user-name command to be executed
+
+#send mass mails:
+*/5 06-21 * * * ctsms nice /ctsms/dbtool.sh -smm -u cron -p 12345 -l 10 >> /ctsms/dbtool.log 2>&1
+
+#run daily jobs:
+20 0 * * * ctsms nice /ctsms/dbtool.sh -rdj -u cron -p 12345 >> /ctsms/dbtool.log 2>&1
+
+#run weekly jobs:
+21 0 * * sat ctsms nice /ctsms/dbtool.sh -rwj -u cron -p 12345 >> /ctsms/dbtool.log 2>&1
+
+#run monthly jobs:
+22 0 1 * * ctsms nice /ctsms/dbtool.sh -rmj -u cron -p 12345 >> /ctsms/dbtool.log 2>&1
+
+#indentify duplicate subjects:
+45 23 * * sun ctsms nice perl /ctsms/bulk_processor/CTSMS/BulkProcessor/Projects/ETL/Duplicates/process.pl --task=cleanup_all --task=import_proband --task=create_duplicate --task=update_proband --task=cleanup_all --force
+
+#perform all pending delete operations:
+00 23 * * sun ctsms nice /ctsms/dbtool.sh -pda -u cron -p 12345 -f >> /ctsms/dbtool.log 2>&1
+
+#empty line at end:

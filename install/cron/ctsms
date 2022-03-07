@@ -1,0 +1,33 @@
+#SHELL=/bin/bash
+#PATH=/sbin:/bin:/usr/sbin:/usr/bin
+#MAILTO=
+#HOME=/
+
+# For details see man 4 crontabs
+
+# Example of job definition:
+# .---------------- minute (0 - 59)
+# |  .------------- hour (0 - 23)
+# |  |  .---------- day of month (1 - 31)
+# |  |  |  .------- month (1 - 12) OR jan,feb,mar,apr ...
+# |  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat
+# |  |  |  |  |
+# *  *  *  *  * user-name command to be executed
+
+#prepare daily notifications:
+00 05 * * * ctsms nice /ctsms/dbtool.sh -pn >> /ctsms/dbtool.log 2>&1
+
+#send notifications via email:
+*/5 06-21 * * * ctsms nice /ctsms/dbtool.sh -sn -l 10 >> /ctsms/dbtool.log 2>&1
+
+#proband auto-delete job:
+#45 23 * * * ctsms nice /ctsms/dbtool.sh -rp -f >> /ctsms/dbtool.log 2>&1
+
+#render stats:
+55 * * * * ctsms nice perl /ctsms/bulk_processor/CTSMS/BulkProcessor/Projects/Render/process.pl --task=create_journal_heatmap --task=create_logon_heatmap --task=cleanup_all -f
+
+#delete documents no longer in db
+#00 23 * * sun ctsms nice /ctsms/dbtool.sh -dm -f >> /ctsms/dbtool.log 2>&1
+15 23 * * sun ctsms nice /ctsms/dbtool.sh -do -f >> /ctsms/dbtool.log 2>&1
+
+#empty line at end:
