@@ -1,0 +1,5 @@
+files:
+  - source: '*.po'
+    ignore:
+      - de.po
+    translation: /%original_path%/%two_letters_code%.po
