@@ -12,7 +12,6 @@ msgstr ""
 "Language: es_ES\n"
 "PO-Revision-Date: 2022-04-04 16:06\n"
 "X-Crowdin-SourceKey: msgstr\n"
-"X-Crowdin-SourceKey: msgstr\n"
 
 msgid "lang"
 msgstr "es"
