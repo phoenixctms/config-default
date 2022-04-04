@@ -1,16 +1,17 @@
 msgid ""
 msgstr ""
+"X-Crowdin-SourceKey: msgstr\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: phoenix-ctms\n"
 "X-Crowdin-Project-ID: 445508\n"
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /[phoenixctms.config-default] master/bulk_processor/CTSMS/BulkProcessor/Projects/WebApps/Signup/i18n/en.po\n"
-"X-Crowdin-File-ID: 1064\n"
+"X-Crowdin-File-ID: 1082\n"
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-04-04 19:44\n"
+"PO-Revision-Date: 2022-04-04 20:00\n"
 
 msgid "lang"
 msgstr "lang"
@@ -28,40 +29,40 @@ msgid "lead_label"
 msgstr "etiqueta_plomo"
 
 msgid "logo_label"
-msgstr "etiqueta_logo"
+msgstr ""
 
 msgid "copyright_label"
-msgstr "copyright_etiqueta"
+msgstr ""
 
 msgid "lanuage_menu_label"
-msgstr "etiqueta_menú de ruta"
+msgstr ""
 
 msgid "session_timer_pattern"
-msgstr "patrón de tiempo de sesión"
+msgstr ""
 
 msgid "navigation_start_label"
-msgstr "etiqueta_inicio"
+msgstr ""
 
 msgid "navigation_proband_label"
-msgstr "etiqueta_prueba_navegación"
+msgstr ""
 
 msgid "navigation_contact_label"
-msgstr "etiqueta de contacto de navegación"
+msgstr ""
 
 msgid "navigation_trial_label"
-msgstr "etiqueta de prueba de navegación"
+msgstr ""
 
 msgid "navigation_inquiry_label"
-msgstr "etiqueta_pregunta_navegación"
+msgstr ""
 
 msgid "navigation_inquiry_trial_label"
-msgstr "etiqueta_prueba_navegación"
+msgstr ""
 
 msgid "navigation_end_label"
-msgstr "etiqueta final"
+msgstr ""
 
 msgid "no_selection_label"
-msgstr "sin etiqueta de selección"
+msgstr ""
 
 msgid "wait_dlg_title"
 msgstr ""
