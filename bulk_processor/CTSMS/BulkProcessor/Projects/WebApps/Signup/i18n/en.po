@@ -1,5 +1,6 @@
 msgid ""
 msgstr ""
+"Language: \n"
 "X-Crowdin-SourceKey: msgstr\n"
 
 msgid "lang"
