@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2022-04-08 15:00\n"
+"PO-Revision-Date: 2022-05-17 13:11\n"
 
 msgid "lang"
 msgstr "en"
@@ -248,6 +248,12 @@ msgstr "Country name:"
 
 msgid "proband_address_country_name_tooltip"
 msgstr "The country name part of the postal address is required."
+
+msgid "proband_address_province_label"
+msgstr "State:"
+
+msgid "proband_address_province_tooltip"
+msgstr "The state/province part of the postal address is required."
 
 msgid "proband_address_zip_code_label"
 msgstr "Zip code:"
