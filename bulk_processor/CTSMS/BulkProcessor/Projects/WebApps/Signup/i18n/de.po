@@ -246,6 +246,12 @@ msgstr "Land:"
 msgid "proband_address_country_name_tooltip"
 msgstr "Das Land der postalischen Adresse ist erforderlich."
 
+msgid "proband_address_province_label"
+msgstr "Bundesstaat:"
+
+msgid "proband_address_province_tooltip"
+msgstr "Bundesstaat/Provinz/Kanton der postalischen Adresse ist erforderlich."
+
 msgid "proband_address_zip_code_label"
 msgstr "PLZ:"
 

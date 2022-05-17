@@ -253,6 +253,12 @@ msgstr "Country name:"
 msgid "proband_address_country_name_tooltip"
 msgstr "The country name part of the postal address is required."
 
+msgid "proband_address_province_label"
+msgstr "State:"
+
+msgid "proband_address_province_tooltip"
+msgstr "The state/province part of the postal address is required."
+
 msgid "proband_address_zip_code_label"
 msgstr "Zip code:"
 
