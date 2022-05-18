@@ -8,6 +8,7 @@ ctsms_base_uri: 'https://127.0.0.1:8080'
 google_site_verification:
 favicon: favicon.ico
 
+address_show_province: 1
 proband_create_interval_limit: 200
 phone_number_prefix_preset: '+43'
 email_notify_preset: 1
