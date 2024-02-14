@@ -1,5 +1,5 @@
 ###setup apache2
-apt-get -q -y install apache2 libapache2-mod-jk libapache2-mod-fcgid
+apt-get -q -y -o=Dpkg::Use-Pty=0 install apache2 libapache2-mod-jk libapache2-mod-fcgid
 usermod --append --groups tomcat,ctsms www-data
 cp /ctsms/install/apache/00_ctsms_http.conf /etc/apache2/sites-available/00_ctsms_http.conf
 cp /ctsms/install/apache/00_ctsms_https.conf /etc/apache2/sites-available/00_ctsms_https.conf
