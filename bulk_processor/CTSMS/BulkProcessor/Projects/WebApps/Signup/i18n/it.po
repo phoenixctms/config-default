@@ -6,408 +6,408 @@ msgstr ""
 "X-Crowdin-Project: phoenix-ctms\n"
 "X-Crowdin-Project-ID: 445508\n"
 "X-Crowdin-Language: it\n"
-"X-Crowdin-File: /[phoenixctms.config-default] master/bulk_processor/CTSMS/BulkProcessor/Projects/WebApps/Signup/i18n/es.po\n"
-"X-Crowdin-File-ID: 2614\n"
+"X-Crowdin-File: /[phoenixctms.config-default] master/bulk_processor/CTSMS/BulkProcessor/Projects/WebApps/Signup/i18n/en.po\n"
+"X-Crowdin-File-ID: 2366\n"
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
-"PO-Revision-Date: 2024-03-10 14:00\n"
+"PO-Revision-Date: 2024-03-10 15:18\n"
 
 msgid "lang"
-msgstr "es"
+msgstr "it"
 
 msgid "lang_label"
-msgstr "Ingle<unk> s"
+msgstr "Inglese"
 
 msgid "page_title"
-msgstr "Ensayos clínicos"
+msgstr "Studi Clinici"
 
 msgid "meta_description"
-msgstr "Subjects wanted - Regístrese ahora para realizar ensayos clínicos en curso."
+msgstr "Soggetti voluti - registro per le sperimentazioni cliniche in corso ora."
 
 msgid "lead_label"
-msgstr "Reclutamiento Clínico de Ensayos"
+msgstr "Reclutamento Studio Clinico"
 
 msgid "logo_label"
-msgstr "Mi CRO"
+msgstr "Il Mio Cro"
 
 msgid "copyright_label"
-msgstr "► 2019 Mi CRO"
+msgstr "<unk> 2019 Il Mio Cro"
 
 msgid "lanuage_menu_label"
-msgstr "Idioma"
+msgstr "Lingua"
 
 msgid "session_timer_pattern"
-msgstr "La entrada de datos termina en %M:%S"
+msgstr "La voce dei dati termina in %M:%S"
 
 msgid "navigation_start_label"
-msgstr "Comenzar"
+msgstr "Inizia"
 
 msgid "navigation_proband_label"
 msgstr "Persona"
 
 msgid "navigation_contact_label"
-msgstr "Detalles de contacto"
+msgstr "Dettagli Contatto"
 
 msgid "navigation_trial_label"
-msgstr "Prueba"
+msgstr "Prova"
 
 msgid "navigation_inquiry_label"
-msgstr "Formulario de consulta"
+msgstr "Modulo Di Richiesta"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Formulario de consulta - %1"
+msgstr "Modulo Di Richiesta - %1"
 
 msgid "navigation_end_label"
-msgstr "Hecho"
+msgstr "Fatto"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "Procesando..."
+msgstr "Elaborazione..."
 
 msgid "required_label"
-msgstr "requerido"
+msgstr "obbligatorio"
 
 msgid "system_time_label"
-msgstr "(hora del sistema - %1) "
+msgstr "(ora di sistema - %1) "
 
 msgid "input_time_label"
-msgstr "(hora del usuario - %1) "
+msgstr "(ora utente - %1) "
 
 msgid "optional_label"
-msgstr "opcional"
+msgstr "opzionale"
 
 msgid "male"
-msgstr "varón"
+msgstr "maschio"
 
 msgid "female"
-msgstr "hembra"
+msgstr "femmina"
 
 msgid "mandatory_field_label"
 msgstr "mandatory field"
 
 msgid "save_next_btn_label"
-msgstr "Enviar y siguiente"
+msgstr "Invia e successivo"
 
 msgid "save_done_btn_label"
-msgstr "Enviar y finalizar"
+msgstr "Invia e termina"
 
 msgid "done_btn_label"
-msgstr "Finalizar"
+msgstr "Termina"
 
 msgid "yes_btn_label"
-msgstr "Si<unk>"
+msgstr "Sì"
 
 msgid "no_btn_label"
-msgstr "Nu"
+msgstr "No"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "Valore Aplicar"
+msgstr "Applica valore"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "dibujar/borrar selección establecer regiones de valor"
+msgstr "disegnare/cancellare la selezione imposta le regioni di valore"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "seleccionar lápiz (dibujar trazos) o borrador (quitar trazos seleccionados)"
+msgstr "selezionare la penna (disegnare i tratti) o la gomma (rimuovere i tratti selezionati)"
 
 msgid "sketch_undo_tooltip"
-msgstr "deshacer"
+msgstr "annulla"
 
 msgid "sketch_redo_tooltip"
-msgstr "rehacer"
+msgstr "redo"
 
 msgid "sketch_clear_tooltip"
-msgstr "borrar todos los trazos"
+msgstr "cancella tutti i tratti"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "ancho del bolígrafo 12"
+msgstr "larghezza della penna 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "ancho de bolígrafo 6"
+msgstr "larghezza della penna 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "ancho de bolígrafo 3"
+msgstr "larghezza della penna 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "ancho de bolígrafo 0.8"
+msgstr "larghezza penna 0.8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "opacidad de pluma 100%"
+msgstr "opacità penna 100%"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "opacidad del bolígrafo 60%"
+msgstr "opacità della penna 60%"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "opacidad del bolígrafo 30%"
+msgstr "opacità penna 30%"
 
 msgid "finish_btn_label"
-msgstr "Salir"
+msgstr "Esci"
 
 msgid "error_summary"
 msgstr "Errore:"
 
 msgid "error_no_proband_created"
-msgstr "guardar primero información personal"
+msgstr "prima salvare le informazioni personali"
 
 msgid "error_no_contact_created"
-msgstr "guardar primero los datos de contacto"
+msgstr "prima salva i dettagli del contatto"
 
 msgid "error_no_trial_selected"
-msgstr "seleccione primero una prueba"
+msgstr "seleziona prima una prova"
 
 msgid "error_inquiries_na"
-msgstr "seleccione primero una prueba con formulario de consulta"
+msgstr "selezionare prima una prova con modulo di richiesta"
 
 msgid "error_trials_na"
-msgstr "seleccione primero un sitio de prueba con pruebas"
+msgstr "selezionare prima un sito di prova con prove"
 
 msgid "error_proband_create_rate_limit"
-msgstr "un asunto fue creado recientemente con este equipo, por favor espere antes de volver a intentarlo"
+msgstr "un oggetto è stato creato di recente con questo computer, si prega di attendere prima di riprovare"
 
 msgid "error_no_contact_details"
-msgstr "por favor proporcione dirección de correo electrónico o número de teléfono"
+msgstr "si prega di fornire indirizzo email o numero di telefono"
 
 msgid "error_proband_not_agreed"
-msgstr "se requiere el consentimiento expreso para continuar"
+msgstr "è necessario il consenso esplicito per continuare"
 
 msgid "trial_sites_header"
-msgstr "Sitios de prueba"
+msgstr "Siti di prova"
 
 msgid "select_site_btn_label"
-msgstr "Registro"
+msgstr "Registrazione"
 
 msgid "express_consent_panel_title"
-msgstr "Consenso exprés"
+msgstr "Consenso Espresso"
 
 msgid "proband_agreed_label"
-msgstr "Acepto almacenar mis datos."
+msgstr "Acconsento a memorizzare i miei dati."
 
 msgid "proband_agreed_tooltip"
-msgstr "Dar consentimiento expreso."
+msgstr "Dare il consenso espresso."
 
 msgid "proband_panel_title"
-msgstr "Información Personal"
+msgstr "Informazioni Personali"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Titulos preferidos:"
+msgstr "Titoli prefissati:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Opcionalmente especificar títulos prefijos."
+msgstr "Opzionalmente specificare titoli prefissi."
 
 msgid "proband_first_name_label"
-msgstr "Nombre:"
+msgstr "Nome:"
 
 msgid "proband_first_name_tooltip"
-msgstr "El nombre es obligatorio."
+msgstr "Il nome è richiesto."
 
 msgid "proband_last_name_label"
-msgstr "Apellido:"
+msgstr "Cognome:"
 
 msgid "proband_last_name_tooltip"
-msgstr "El apellido es obligatorio."
+msgstr "Il cognome è richiesto."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Títulos publicados:"
+msgstr "Titoli posizionati:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "Opcionalmente especificar tulos posposicionados."
+msgstr "Opzionalmente specificare i titoli postpostpostalizzati."
 
 msgid "proband_gender_label"
-msgstr "Ge° nero:"
+msgstr "Sesso:"
 
 msgid "proband_gender_tooltip"
-msgstr "El género es necesario."
+msgstr "Il sesso è richiesto."
 
 msgid "proband_dob_label"
-msgstr "Fecha de nacimiento:"
+msgstr "Data di nascita:"
 
 msgid "proband_dob_tooltip"
-msgstr "La fecha de nacimiento es necesaria (%1)."
+msgstr "La data di nascita è richiesta (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "Ciudadanía:"
+msgstr "Cittadinanza:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "La ciudadanía puede especificarse opcionalmente."
+msgstr "La cittadinanza può essere specificata facoltativamente."
 
 msgid "proband_comment"
-msgstr "Registro a través de %1\n"
-"para sitio de prueba '%2'\n"
-"prueba '%3'\n"
-"desde dirección IP %4\n"
-"usando navegador '%5'\n"
-"procedente de %6"
+msgstr "Registrazione via %1\n"
+"per il sito di prova '%2'\n"
+"prova '%3'\n"
+"dall'indirizzo IP %4\n"
+"utilizzando il browser '%5'\n"
+"proveniente da %6"
 
 msgid "address_panel_title"
-msgstr "Dirección"
+msgstr "Indirizzo"
 
 msgid "proband_address_country_name_label"
-msgstr "Nombre del país:"
+msgstr "Nome del paese:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "El nombre del país parte de la dirección postal es obligatorio."
+msgstr "La parte del nome del paese dell'indirizzo postale è obbligatoria."
 
 msgid "proband_address_province_label"
-msgstr "Estado:"
+msgstr "Stato:"
 
 msgid "proband_address_province_tooltip"
-msgstr "Se requiere la parte del estado/provincia de la dirección postal."
+msgstr "La parte stato/provincia dell'indirizzo postale è obbligatoria."
 
 msgid "proband_address_zip_code_label"
-msgstr "Postale a digo Co<unk> :"
+msgstr "Codice postale:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "Se requiere la parte del código postal de la dirección postal."
+msgstr "La parte del codice postale è obbligatoria."
 
 msgid "proband_address_city_name_label"
-msgstr "Nombre de la ciudad:"
+msgstr "Nome della città:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "El nombre de la ciudad parte de la dirección postal es obligatorio."
+msgstr "Il nome della città parte dell'indirizzo postale è obbligatorio."
 
 msgid "proband_address_street_name_label"
-msgstr "Nombre de la calle:"
+msgstr "Nome via:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "Se requiere la parte del nombre de la calle de la dirección postal."
+msgstr "Il nome della strada parte dell'indirizzo postale è obbligatorio."
 
 msgid "proband_address_house_number_label"
-msgstr "NUMERO di casa:"
+msgstr "Numero della casa:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "Se requiere el número de la casa parte de la dirección postal."
+msgstr "Il numero di casa parte dell'indirizzo postale è obbligatorio."
 
 msgid "proband_address_entrance_label"
-msgstr "Entrada:"
+msgstr "Entrata:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "La entrada (escalera, bloque, ala) parte de la dirección postal es opcional."
+msgstr "L'ingresso (scala, blocco, ala) parte dell'indirizzo postale è facoltativo."
 
 msgid "proband_address_door_number_label"
-msgstr "Apartamento:"
+msgstr "Appartamento:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "El número de apartamento parte de la dirección postal es opcional."
+msgstr "Il numero di appartamento parte dell'indirizzo postale è facoltativo."
 
 msgid "contact_details_panel_title"
-msgstr "Dirección de teléfono y email"
+msgstr "Telefono e indirizzo email"
 
 msgid "proband_phone_label"
-msgstr "Teletrasfono:"
+msgstr "Telefono:"
 
 msgid "proband_phone_tooltip"
-msgstr "Formato de nu<unk> mero de tele<unk> fono como '0699 1234567' o '0316 38573000'."
+msgstr "Formato numero di telefono come '0699 1234567' o '0316 38573000'."
 
 msgid "proband_email_label"
 msgstr "Email:"
 
 msgid "proband_email_tooltip"
-msgstr "Formato de dirección de correo electrónico como 'max.mustermann@phoenixctms.org'."
+msgstr "Formato indirizzo email come 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "notificar"
+msgstr "notifica"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Permitir enviar correos electrónicos."
+msgstr "Permetti di inviare e-mail."
 
 msgid "trials_grid_header"
-msgstr "Pruebas/Lista de Candidatos"
+msgstr "Trials/Elenchi candidati"
 
 msgid "open_inquiries_btn_label"
-msgstr "Abrir forma de inuiry"
+msgstr "Apri modulo inuiry"
 
 msgid "signup_btn_label"
-msgstr "Regi<unk> strate"
+msgstr "Registrati"
 
 msgid "inquiries_grid_header"
-msgstr "Formulario de consulta - %1"
+msgstr "Modulo Di Richiesta - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Formulario de consulta incompleto"
+msgstr "Modulo di richiesta incompleto"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Por favor, consulte todas las páginas del formulario de solicitud.<br/>¿Prefiere enviar y finalizar de todos modos?"
+msgstr "Si prega di guardare tutte le pagine del modulo di richiesta.<br/>Preferisci inviare e finire comunque?"
 
 msgid "inquiries_pbar_template"
-msgstr "enviado: %d/%d"
+msgstr "sent: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "Abrir como PDF"
+msgstr "Apri come PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "Seleccionar prueba"
+msgstr "Seleziona prova"
 
 msgid "probandletter_btn_label"
-msgstr "Abrir consentimiento de privacidad como PDF"
+msgstr "Apri il consenso alla privacy come PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "Abrir los formularios de consulta introducidos como PDF"
+msgstr "Apri moduli di richiesta inseriti in PDF"
 
 msgid "404_title"
-msgstr "La pa<unk> gina solicitada no esta<unk> disponibile"
+msgstr "La pagina richiesta non è disponibile"
 
 msgid "404_description"
-msgstr "<p>Lo sentimos, la página solicitada no se encuentra en este sitio. Tal vez hayas hecho clic en una URL incorrecta o desactualizada.</p><p>Puede volver a la <a href=\"/\">página de inicio</a> de este sitio haciendo clic en el logo en la parte superior.</p>"
+msgstr "<p>Siamo spiacenti, la pagina richiesta non può essere trovata su questo sito. Forse hai cliccato su un URL sbagliato o obsoleto.</p><p>È possibile tornare alla <a href=\"/\">pagina di destinazione</a> di questo sito facendo clic sul logo in alto.</p>"
 
 msgid "start_title"
-msgstr "Reclutamiento Clínico de Ensayos"
+msgstr "Reclutamento Studio Clinico"
 
 msgid "start_description"
-msgstr "<p>El desarrollo de nuevas medidas terapéuticas o diagnósticas requiere ensayos clínicos y participantes voluntarios. Este sitio ofrece una visión general de los ensayos en curso y la oportunidad de participar.</p><p>Con tu registro has sido añadido a la base de datos central, permitiéndonos ponernos en contacto con usted para inscribirse finalmente como candidato en ensayos en curso o futuros (siempre y cuando así lo desee).</p><p>Iniciar el proceso de registro en uno de los sitios de prueba a continuación.</p>"
+msgstr "<p>Lo sviluppo di nuove misure diagnostiche o terapeutiche richiede sperimentazioni cliniche e partecipanti volontari. Questo sito offre una panoramica dei processi in corso e delle opportunità di partecipazione.</p><p>Con la tua registrazione sei aggiunto al database centrale, permettendoci di contattarti per iscriverti finalmente come candidato alle prove in corso o future (fino a quando lo desideri).</p><p>Inizia il processo di registrazione in uno dei siti di prova qui sotto.</p>"
 
 msgid "proband_title"
-msgstr "Datos personales"
+msgstr "Dati Personali"
 
 msgid "proband_description"
-msgstr "<p>En el primer paso, envíanos tu información personal básica: nombre, sexo y datos de nacimiento.</p>"
+msgstr "<p>Nel primo passo, inviaci le tue informazioni personali di base: nome, sesso e dati di nascita.</p>"
 
 msgid "contact_title"
-msgstr "Información de contacto"
+msgstr "Informazioni Di Contatto"
 
 msgid "contact_description"
-msgstr "<p>En el segundo paso, envíenos sus datos de contacto: dirección postal, número de teléfono y dirección de correo electrónico.</p><p>Un agente puede ponerse en contacto contigo para obtener su confirmación explícita para almacenar sus datos. En este primer contacto se le informará sobre los procedimientos de inscripción en el sitio de prueba.</p><p>Su información está sujeta a la privacidad de los datos y puede ser vista por el personal del sitio exclusivamente.</p>"
+msgstr "<p>Nella seconda fase, inviaci i tuoi dati di contatto: indirizzo postale, numero di telefono e indirizzo email.</p><p>Un agente può quindi entrare in contatto con te per ottenere la tua conferma esplicita per memorizzare i tuoi dati. In questo primo contatto sarete informati sulle procedure di iscrizione al sito di prova.</p><p>Le tue informazioni sono soggette alla privacy dei dati e possono essere visualizzate esclusivamente dal personale del sito.</p>"
 
 msgid "trial_title"
-msgstr "Pruebas en curso"
+msgstr "Prove In Corso"
 
 msgid "trial_description"
-msgstr "<p>En el tercer paso se presenta una visión general de los estudios y consultas en curso. Consulte la lista para ver información básica sobre los criterios de candidatura, los procedimientos y el reembolso de los ensayos individuales.</p><p>Puede indicar su interés en participar en un ensayo particular registrándose o abriendo su formulario de consulta. Si prefieres completarlo más tarde o en una conversación direkt, puedes saltarlo y terminar tu registro.</p>"
+msgstr "<p>Una panoramica degli studi e delle indagini in corso è presentata nella terza fase. Si prega di consultare l'elenco per visualizzare le informazioni di base sui criteri candidati, le procedure e i rimborsi delle singole prove.</p><p>Puoi indicare il tuo interesse a partecipare a una particolare prova registrandoti o aprendo il modulo di richiesta. Se si preferisce completare questo in un momento successivo o in conversazione direkt, è possibile saltare questo e completare la registrazione.</p>"
 
 msgid "inquiry_title"
-msgstr "Formulario de consulta - %1"
+msgstr "Modulo Di Richiesta - %1"
 
 msgid "inquiry_description"
-msgstr "<p>El formulario de consulta está diseñado para completarlo en unos minutos y sin preparaciones. Dado que la información que usted proporciona aquí se utilizará para identificar a usted como candidato, por favor proporcione información correcta y exhaustiva.</p>"
+msgstr "<p>Il modulo di richiesta è progettato per completarlo in pochi minuti e senza preparazioni. Dal momento che le informazioni fornite qui saranno utilizzate per identificare l'utente come candidato, si prega di fornire informazioni corrette e complete.</p>"
 
 msgid "end_title"
-msgstr "Gracias."
+msgstr "Grazie!"
 
 msgid "end_description"
-msgstr "<p>Gracias por registrarse. Nos pondremos en contacto con usted en breve y estamos deseando invitarle al sitio de la prueba como nuevo participante.</p><p>Puede descargar documentos PDF con los datos proporcionados. Para evitar la eliminación automática, por favor envíe su consentimiento de privacidad de datos firmado a la oficina del sitio por correo electrónico o correo electrónico hasta %1.</p>"
+msgstr "<p>Grazie per la tua registrazione. Vi contatteremo presto e non vediamo l'ora di invitarvi al sito di prova come nuovo partecipante.</p><p>Puoi scaricare documenti PDF con i tuoi dati forniti. Per evitare la cancellazione automatica, si prega di inviare il vostro consenso alla privacy dei dati firmati all'ufficio del sito via mail o e-mail fino a %1.</p>"
 
 msgid "invalid time"
-msgstr "hora no vaжlida %1"
+msgstr "tempo non valido %1"
 
 msgid "invalid hour"
-msgstr "hora no vaжlida %1"
+msgstr "ora non valida %1"
 
 msgid "invalid minute"
-msgstr "minuto no vaжlido %1"
+msgstr "minuto %1 non valido"
 
 msgid "invalid second"
-msgstr "segundo no vaжlido %1"
+msgstr "secondo %1 non valido"
 
 msgid "invalid date"
-msgstr "fecha no válida %1"
+msgstr "data %1 non valida"
 
 msgid "invalid month"
-msgstr "mes no vaжlido %1"
+msgstr "mese %1 non valido"
 
 msgid "invalid year"
-msgstr "an<unk> o %1 no va<unk> lido"
+msgstr "anno %1 non valido"
 
 msgid "invalid day"
-msgstr "di<unk> a %1 no va<unk> lido"
+msgstr "giorno %1 non valido"
 
