@@ -6,408 +6,408 @@ msgstr ""
 "X-Crowdin-Project: phoenix-ctms\n"
 "X-Crowdin-Project-ID: 445508\n"
 "X-Crowdin-Language: ro\n"
-"X-Crowdin-File: /[phoenixctms.config-default] master/bulk_processor/CTSMS/BulkProcessor/Projects/WebApps/Signup/i18n/es.po\n"
-"X-Crowdin-File-ID: 2614\n"
+"X-Crowdin-File: /[phoenixctms.config-default] master/bulk_processor/CTSMS/BulkProcessor/Projects/WebApps/Signup/i18n/en.po\n"
+"X-Crowdin-File-ID: 2366\n"
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Romanian\n"
 "PO-Revision-Date: 2024-03-12 09:54\n"
 
 msgid "lang"
-msgstr "es"
+msgstr "ro"
 
 msgid "lang_label"
-msgstr "Inglés"
+msgstr "Română"
 
 msgid "page_title"
-msgstr "Ensayos clínicos"
+msgstr "Studii clinice"
 
 msgid "meta_description"
-msgstr "Subjects wanted - Regístrese ahora para realizar ensayos clínicos en curso."
+msgstr "Subiecții au dorit - acum să se înregistreze pentru trialurile clinice în curs."
 
 msgid "lead_label"
-msgstr "Reclutamiento Clínico de Ensayos"
+msgstr "Recrutarea din studiile clinice"
 
 msgid "logo_label"
-msgstr "Mi CRO"
+msgstr "CRO meu"
 
 msgid "copyright_label"
-msgstr "► 2019 Mi CRO"
+msgstr "...2019 CRO meu"
 
 msgid "lanuage_menu_label"
-msgstr "Idioma"
+msgstr "Limba"
 
 msgid "session_timer_pattern"
-msgstr "La entrada de datos termina en %M:%S"
+msgstr "Înregistrarea datelor se termină în %M:%S"
 
 msgid "navigation_start_label"
-msgstr "Comenzar"
+msgstr "Pornire"
 
 msgid "navigation_proband_label"
-msgstr "Persona"
+msgstr "Persoană"
 
 msgid "navigation_contact_label"
-msgstr "Detalles de contacto"
+msgstr "Detalii contact"
 
 msgid "navigation_trial_label"
-msgstr "Prueba"
+msgstr "Încercare"
 
 msgid "navigation_inquiry_label"
-msgstr "Formulario de consulta"
+msgstr "Formular de anchetă"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Formulario de consulta - %1"
+msgstr "Formular de anchetă - %1"
 
 msgid "navigation_end_label"
-msgstr "Hecho"
+msgstr "Terminat"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "Procesando..."
+msgstr "Procesare..."
 
 msgid "required_label"
-msgstr "requerido"
+msgstr "necesar"
 
 msgid "system_time_label"
-msgstr "(hora del sistema - %1) "
+msgstr "(ora sistemului - %1) "
 
 msgid "input_time_label"
-msgstr "(hora del usuario - %1) "
+msgstr "(timp utilizator - %1) "
 
 msgid "optional_label"
-msgstr "opcional"
+msgstr "opţional"
 
 msgid "male"
-msgstr "varón"
+msgstr "mascul"
 
 msgid "female"
-msgstr "hembra"
+msgstr "feminin"
 
 msgid "mandatory_field_label"
 msgstr "mandatory field"
 
 msgid "save_next_btn_label"
-msgstr "Enviar y siguiente"
+msgstr "Trimite si urmatorul"
 
 msgid "save_done_btn_label"
-msgstr "Enviar y finalizar"
+msgstr "Trimite și termină"
 
 msgid "done_btn_label"
-msgstr "Finalizar"
+msgstr "Terminare"
 
 msgid "yes_btn_label"
-msgstr "Sí"
+msgstr "Da"
 
 msgid "no_btn_label"
-msgstr "Nu"
+msgstr "Nr"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "Aplicar valor"
+msgstr "Aplică valoarea"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "dibujar/borrar selección establecer regiones de valor"
+msgstr "desenează/șterge regiunile cu valoare de selecție"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "seleccionar lápiz (dibujar trazos) o borrador (quitar trazos seleccionados)"
+msgstr "selectaţi stiloul injector (pen-ul) (desenaţi accident vascular cerebral) sau ştergeţi (îndepărtaţi exerciţiile cerebrale alese)"
 
 msgid "sketch_undo_tooltip"
-msgstr "deshacer"
+msgstr "anulare"
 
 msgid "sketch_redo_tooltip"
-msgstr "rehacer"
+msgstr "recuperează"
 
 msgid "sketch_clear_tooltip"
-msgstr "borrar todos los trazos"
+msgstr "curăță toate mișcările"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "ancho del bolígrafo 12"
+msgstr "lăţimea stiloului injector 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "ancho de bolígrafo 6"
+msgstr "lăţimea stiloului injector"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "ancho de bolígrafo 3"
+msgstr "lăţime stilou 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "ancho de bolígrafo 0.8"
+msgstr "lățimea stiloului injector 0,8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "opacidad de pluma 100%"
+msgstr "opacitatea stiloului injector 100"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "opacidad del bolígrafo 60%"
+msgstr "opacitatea stiloului injector 60"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "opacidad del bolígrafo 30%"
+msgstr "opacitate pen 30%"
 
 msgid "finish_btn_label"
-msgstr "Salir"
+msgstr "Ieșire"
 
 msgid "error_summary"
 msgstr "Eroare:"
 
 msgid "error_no_proband_created"
-msgstr "guardar primero información personal"
+msgstr "salvează mai întâi informaţiile personale"
 
 msgid "error_no_contact_created"
-msgstr "guardar primero los datos de contacto"
+msgstr "salvează mai întâi detaliile de contact"
 
 msgid "error_no_trial_selected"
-msgstr "seleccione primero una prueba"
+msgstr "selectează mai întâi un trial"
 
 msgid "error_inquiries_na"
-msgstr "seleccione primero una prueba con formulario de consulta"
+msgstr "selectați mai întâi un trial cu formularul de anchetă"
 
 msgid "error_trials_na"
-msgstr "seleccione primero un sitio de prueba con pruebas"
+msgstr "selectaţi mai întâi un site de probă cu încercări"
 
 msgid "error_proband_create_rate_limit"
-msgstr "un asunto fue creado recientemente con este equipo, por favor espere antes de volver a intentarlo"
+msgstr "un subiect a fost creat recent cu acest computer, vă rugăm să așteptați înainte de a reîncerca"
 
 msgid "error_no_contact_details"
-msgstr "por favor proporcione dirección de correo electrónico o número de teléfono"
+msgstr "vă rugăm să furnizaţi adresa de e-mail sau numărul de telefon"
 
 msgid "error_proband_not_agreed"
-msgstr "se requiere el consentimiento expreso para continuar"
+msgstr "Este necesar consimțământul expres pentru a continua"
 
 msgid "trial_sites_header"
-msgstr "Sitios de prueba"
+msgstr "Site-uri de încercare"
 
 msgid "select_site_btn_label"
-msgstr "Registro"
+msgstr "Înregistrare"
 
 msgid "express_consent_panel_title"
-msgstr "Consenso exprés"
+msgstr "Expres consimțământ"
 
 msgid "proband_agreed_label"
-msgstr "Acepto almacenar mis datos."
+msgstr "Sunt de acord să stochez datele mele."
 
 msgid "proband_agreed_tooltip"
-msgstr "Dar consentimiento expreso."
+msgstr "Dați consimțământul expres."
 
 msgid "proband_panel_title"
-msgstr "Información Personal"
+msgstr "Informaţii personale"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Titulos preferidos:"
+msgstr "Titluri prefixe:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Opcionalmente especificar títulos prefijos."
+msgstr "Specificați opțional titlurile prefixe."
 
 msgid "proband_first_name_label"
-msgstr "Nombre:"
+msgstr "Prenume:"
 
 msgid "proband_first_name_tooltip"
-msgstr "El nombre es obligatorio."
+msgstr "Prenumele este necesar."
 
 msgid "proband_last_name_label"
-msgstr "Apellido:"
+msgstr "Nume de familie:"
 
 msgid "proband_last_name_tooltip"
-msgstr "El apellido es obligatorio."
+msgstr "Numele de familie este necesar."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Títulos publicados:"
+msgstr "Titluri postate:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "Opcionalmente especificar títulos posposicionados."
+msgstr "Opțional specificați titlurile postate."
 
 msgid "proband_gender_label"
-msgstr "Género:"
+msgstr "Sex:"
 
 msgid "proband_gender_tooltip"
-msgstr "El género es necesario."
+msgstr "Sexul este necesar."
 
 msgid "proband_dob_label"
-msgstr "Fecha de nacimiento:"
+msgstr "Data nașterii:"
 
 msgid "proband_dob_tooltip"
-msgstr "La fecha de nacimiento es necesaria (%1)."
+msgstr "Data nasterii este necesara (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "Ciudadanía:"
+msgstr "Cetățenie:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "La ciudadanía puede especificarse opcionalmente."
+msgstr "Cetăţenia poate fi specificată opţional."
 
 msgid "proband_comment"
-msgstr "Registro a través de %1\n"
-"para sitio de prueba '%2'\n"
-"prueba '%3'\n"
-"desde dirección IP %4\n"
-"usando navegador '%5'\n"
-"procedente de %6"
+msgstr "Înregistrare prin %1\n"
+"pentru versiunea de trial a site-ului '%2'\n"
+"trial '%3'\n"
+"de la adresa IP %4\n"
+"folosind browser-ul '%5'\n"
+"venind de la %6"
 
 msgid "address_panel_title"
-msgstr "Dirección"
+msgstr "Adresa"
 
 msgid "proband_address_country_name_label"
-msgstr "Nombre del país:"
+msgstr "Numele țării:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "El nombre del país parte de la dirección postal es obligatorio."
+msgstr "Este necesar numele țării ca parte a adresei poștale."
 
 msgid "proband_address_province_label"
-msgstr "Estado:"
+msgstr "State:"
 
 msgid "proband_address_province_tooltip"
-msgstr "Se requiere la parte del estado/provincia de la dirección postal."
+msgstr "The state/province part of the postal address is required."
 
 msgid "proband_address_zip_code_label"
-msgstr "Código postal:"
+msgstr "Cod poștal:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "Se requiere la parte del código postal de la dirección postal."
+msgstr "Este necesar codul poștal al adresei poștale."
 
 msgid "proband_address_city_name_label"
-msgstr "Nombre de la ciudad:"
+msgstr "Numele oraşului:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "El nombre de la ciudad parte de la dirección postal es obligatorio."
+msgstr "Este necesar numele orașului ca parte a adresei poștale."
 
 msgid "proband_address_street_name_label"
-msgstr "Nombre de la calle:"
+msgstr "Nume stradă:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "Se requiere la parte del nombre de la calle de la dirección postal."
+msgstr "Este necesar numele străzii ca parte a adresei poștale."
 
 msgid "proband_address_house_number_label"
-msgstr "Número de casa:"
+msgstr "Număr casă:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "Se requiere el número de la casa parte de la dirección postal."
+msgstr "Este necesar numărul de ordine al unei părți din adresa poștală."
 
 msgid "proband_address_entrance_label"
-msgstr "Entrada:"
+msgstr "Intrare:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "La entrada (escalera, bloque, ala) parte de la dirección postal es opcional."
+msgstr "Intrarea (scarea, blocul, aripa) unei părți a adresei poștale este opțională."
 
 msgid "proband_address_door_number_label"
-msgstr "Apartamento:"
+msgstr "Apartament:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "El número de apartamento parte de la dirección postal es opcional."
+msgstr "Numărul apartamentului parte a adresei poștale este opțional."
 
 msgid "contact_details_panel_title"
-msgstr "Dirección de teléfono y email"
+msgstr "Adresă de telefon și e-mail"
 
 msgid "proband_phone_label"
-msgstr "Teléfono:"
+msgstr "Telefon:"
 
 msgid "proband_phone_tooltip"
-msgstr "Formato de número de teléfono como '0699 1234567' o '0316 38573000'."
+msgstr "Format număr de telefon ca '0699 1234567' sau '0316 38573000'."
 
 msgid "proband_email_label"
 msgstr "Email:"
 
 msgid "proband_email_tooltip"
-msgstr "Formato de dirección de correo electrónico como 'max.mustermann@phoenixctms.org'."
+msgstr "Format adresă e-mail ca 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "notificar"
+msgstr "notifica"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Permitir enviar correos electrónicos."
+msgstr "Permite trimiterea de e-mailuri."
 
 msgid "trials_grid_header"
-msgstr "Pruebas/Lista de Candidatos"
+msgstr "Trialuri/liste de candidați"
 
 msgid "open_inquiries_btn_label"
-msgstr "Abrir forma de inuiry"
+msgstr "Deschide formularul de ghidare"
 
 msgid "signup_btn_label"
-msgstr "Regístrate"
+msgstr "Înregistrare"
 
 msgid "inquiries_grid_header"
-msgstr "Formulario de consulta - %1"
+msgstr "Formular de anchetă - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Formulario de consulta incompleto"
+msgstr "Formularul de anchetă este incomplet"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Por favor, consulte todas las páginas del formulario de solicitud.<br/>¿Prefiere enviar y finalizar de todos modos?"
+msgstr "Vă rugăm să vă uitaţi la toate paginile formularului de întrebare.<br/>preferaţi să trimiteţi şi să finalizaţi oricum?"
 
 msgid "inquiries_pbar_template"
-msgstr "enviado: %d/%d"
+msgstr "trimis: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "Abrir como PDF"
+msgstr "Deschide ca PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "Seleccionar prueba"
+msgstr "Selectare trial"
 
 msgid "probandletter_btn_label"
-msgstr "Abrir consentimiento de privacidad como PDF"
+msgstr "Deschide acordul de confidențialitate ca PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "Abrir los formularios de consulta introducidos como PDF"
+msgstr "Deschideți formularele de cerere introduse ca PDF"
 
 msgid "404_title"
-msgstr "La página solicitada no está disponible"
+msgstr "Pagina solicitată nu este disponibilă"
 
 msgid "404_description"
-msgstr "<p>Lo sentimos, la página solicitada no se encuentra en este sitio. Tal vez hayas hecho clic en una URL incorrecta o desactualizada.</p><p>Puede volver a la <a href=\"/\">página de inicio</a> de este sitio haciendo clic en el logo en la parte superior.</p>"
+msgstr "<p>Ne pare rău, pagina pe care ați solicitat-o nu poate fi găsită pe acest site. Poate ați făcut clic pe un URL greșit sau învechit.</p><p>Poți trece înapoi la pagina <a href=\"/\"></a> a acestui site dând click pe logo-ul de sus.</p>"
 
 msgid "start_title"
-msgstr "Reclutamiento Clínico de Ensayos"
+msgstr "Recrutarea din studiile clinice"
 
 msgid "start_description"
-msgstr "<p>El desarrollo de nuevas medidas terapéuticas o diagnósticas requiere ensayos clínicos y participantes voluntarios. Este sitio ofrece una visión general de los ensayos en curso y la oportunidad de participar.</p><p>Con tu registro has sido añadido a la base de datos central, permitiéndonos ponernos en contacto con usted para inscribirse finalmente como candidato en ensayos en curso o futuros (siempre y cuando así lo desee).</p><p>Iniciar el proceso de registro en uno de los sitios de prueba a continuación.</p>"
+msgstr "<p>Dezvoltarea de noi măsuri diagnostice sau terapeutice necesită studii clinice și participanți voluntari. Acest site oferă o imagine de ansamblu a testelor în curs și oportunitatea de participare.</p><p>Cu înregistrarea dvs. sunteți adăugat la baza centrală de date, ne permite să vă contactăm pentru a vă înscrie în cele din urmă ca candidat în procese în curs sau viitoare (atât timp cât doriţi).</p><p>Începeți procesul de înregistrare la unul dintre locurile de testare de mai jos.</p>"
 
 msgid "proband_title"
-msgstr "Datos personales"
+msgstr "Date personale"
 
 msgid "proband_description"
-msgstr "<p>En el primer paso, envíanos tu información personal básica: nombre, sexo y datos de nacimiento.</p>"
+msgstr "<p>In primul pas, trimite-ne informatiile tale personale de baza: nume, sex si date de nastere.</p>"
 
 msgid "contact_title"
-msgstr "Información de contacto"
+msgstr "Informaţii de contact"
 
 msgid "contact_description"
-msgstr "<p>En el segundo paso, envíenos sus datos de contacto: dirección postal, número de teléfono y dirección de correo electrónico.</p><p>Un agente puede ponerse en contacto contigo para obtener su confirmación explícita para almacenar sus datos. En este primer contacto se le informará sobre los procedimientos de inscripción en el sitio de prueba.</p><p>Su información está sujeta a la privacidad de los datos y puede ser vista por el personal del sitio exclusivamente.</p>"
+msgstr "<p>În a doua etapă, trimiteți-ne datele dvs. de contact: adresa poștală, numărul de telefon și adresa de e-mail.</p><p>Un agent poate intra apoi în contact cu tine pentru a obține confirmarea explicită de a stoca datele. În acest prim contact veţi fi informat despre procedurile de înscriere la locul de desfăşurare a studiului.</p><p>Informațiile dvs. sunt supuse confidențialității datelor și pot fi vizualizate exclusiv de personalul site-ului.</p>"
 
 msgid "trial_title"
-msgstr "Pruebas en curso"
+msgstr "Încercări în desfășurare"
 
 msgid "trial_description"
-msgstr "<p>En el tercer paso se presenta una visión general de los estudios y consultas en curso. Consulte la lista para ver información básica sobre los criterios de candidatura, los procedimientos y el reembolso de los ensayos individuales.</p><p>Puede indicar su interés en participar en un ensayo particular registrándose o abriendo su formulario de consulta. Si prefieres completarlo más tarde o en una conversación direkt, puedes saltarlo y terminar tu registro.</p>"
+msgstr "<p>O prezentare generală a studiilor și întrebărilor în desfășurare este prezentată în cel de-al treilea pas. Vă rugăm să parcurgeți lista pentru a vedea informațiile de bază privind criteriile de aderare, procedurile și rambursările trialurilor individuale.</p><p>Poți să-ți indici interesul de a participa la un anumit trial prin înregistrarea sau deschiderea formularului de anchetă. Dacă preferați să finalizați acest lucru mai târziu sau într-o conversație la pământ, puteți sări peste asta și să vă finalizați înregistrarea.</p>"
 
 msgid "inquiry_title"
-msgstr "Formulario de consulta - %1"
+msgstr "Formular de anchetă - %1"
 
 msgid "inquiry_description"
-msgstr "<p>El formulario de consulta está diseñado para completarlo en unos minutos y sin preparaciones. Dado que la información que usted proporciona aquí se utilizará para identificar a usted como candidato, por favor proporcione información correcta y exhaustiva.</p>"
+msgstr "<p>Formularul de cerere este conceput pentru a-l completa în câteva minute și fără pregătiri. Deoarece informaţiile pe care le furnizaţi aici vor fi folosite pentru a vă identifica ca candidat, vă rugăm să furnizaţi informaţii corecte şi cuprinzătoare.</p>"
 
 msgid "end_title"
-msgstr "Gracias."
+msgstr "Vă mulţumesc!"
 
 msgid "end_description"
-msgstr "<p>Gracias por registrarse. Nos pondremos en contacto con usted en breve y estamos deseando invitarle al sitio de la prueba como nuevo participante.</p><p>Puede descargar documentos PDF con los datos proporcionados. Para evitar la eliminación automática, por favor envíe su consentimiento de privacidad de datos firmado a la oficina del sitio por correo electrónico o correo electrónico hasta %1.</p>"
+msgstr "<p>Vă mulțumim pentru înregistrare. Vă vom contacta în curând şi aşteptăm cu nerăbdare să vă invităm la locul de testare ca un nou participant.</p><p>Puteți descărca documente PDF cu datele furnizate. Pentru a preveni ștergerea automată, vă rugăm să trimiteți acordul de confidențialitate a datelor dvs. semnate la biroul site-ului prin e-mail sau e-mail până la %1.</p>"
 
 msgid "invalid time"
-msgstr "hora no válida %1"
+msgstr "oră nevalidă %1"
 
 msgid "invalid hour"
-msgstr "hora no válida %1"
+msgstr "oră incorectă %1"
 
 msgid "invalid minute"
-msgstr "minuto no válido %1"
+msgstr "minut invalid %1"
 
 msgid "invalid second"
-msgstr "segundo no válido %1"
+msgstr "%1 al doilea incorect"
 
 msgid "invalid date"
-msgstr "fecha no válida %1"
+msgstr "dată nevalidă %1"
 
 msgid "invalid month"
-msgstr "mes no válido %1"
+msgstr "luna %1 nevalidă"
 
 msgid "invalid year"
-msgstr "año %1 no válido"
+msgstr "an incorect %1"
 
 msgid "invalid day"
-msgstr "día %1 no válido"
+msgstr "zi invalidă %1"
 
