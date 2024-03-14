@@ -2,4 +2,22 @@ files:
   - source: '*.po'
     ignore:
       - de.po
+      - da.po
+      - es.po
+      - fi.po
+      - fr.po
+      - hr.po
+      - hu.po
+      - it.po
+      - ja.po
+      - ko.po
+      - nl.po
+      - pt.po
+      - ro.po
+      - sk.po
+      - sl.po
+      - sv.po
+      - tr.po
+      - uk.po
+      - ru.po
     translation: /%original_path%/%two_letters_code%.po
