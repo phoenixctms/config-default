@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2024-03-14 19:27\n"
+"PO-Revision-Date: 2024-03-14 20:27\n"
 
 msgid "lang"
 msgstr "en"
@@ -250,10 +250,10 @@ msgid "proband_address_country_name_tooltip"
 msgstr "Потрібна назва країни з поштовою адресою."
 
 msgid "proband_address_province_label"
-msgstr "State:"
+msgstr "Стан:"
 
 msgid "proband_address_province_tooltip"
-msgstr "The state/province part of the postal address is required."
+msgstr "Потрібна область визначення поштової адреси."
 
 msgid "proband_address_zip_code_label"
 msgstr "Поштовий індекс:"
