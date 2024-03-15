@@ -20,4 +20,11 @@ files:
       - tr.po
       - uk.po
       - ru.po
+      - ln.po
+      - sw.po
+      - yo.po
+      - ig.po
+      - ff.po
+      - ar.po
+      - kg.po
     translation: /%original_path%/%two_letters_code%.po
