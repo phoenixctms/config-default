@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Language: ff_ZA\n"
+"X-Crowdin-SourceKey: msgstr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: phoenix-ctms\n"
+"X-Crowdin-Project-ID: 445508\n"
+"X-Crowdin-Language: ff\n"
+"X-Crowdin-File: /[phoenixctms.config-default] master/bulk_processor/CTSMS/BulkProcessor/Projects/WebApps/Signup/i18n/en.po\n"
+"X-Crowdin-File-ID: 2366\n"
+"Project-Id-Version: phoenix-ctms\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Fula\n"
+"PO-Revision-Date: 2024-03-16 17:56\n"
+
+msgid "lang"
+msgstr "en"
+
+msgid "lang_label"
+msgstr "English"
+
+msgid "page_title"
+msgstr "Clinical Trials"
+
+msgid "meta_description"
+msgstr "Subjects wanted - register for ongoing clinical trials now."
+
+msgid "lead_label"
+msgstr "Clinical Trial Recruitment"
+
+msgid "logo_label"
+msgstr "My CRO"
+
+msgid "copyright_label"
+msgstr "ｩ 2019 My CRO"
+
+msgid "lanuage_menu_label"
+msgstr "Language"
+
+msgid "session_timer_pattern"
+msgstr "Data entry ends in %M:%S"
+
+msgid "navigation_start_label"
+msgstr "Start"
+
+msgid "navigation_proband_label"
+msgstr "Person"
+
+msgid "navigation_contact_label"
+msgstr "Contact Details"
+
+msgid "navigation_trial_label"
+msgstr "Trial"
+
+msgid "navigation_inquiry_label"
+msgstr "Inquiry Form"
+
+msgid "navigation_inquiry_trial_label"
+msgstr "Inquiry Form - %1"
+
+msgid "navigation_end_label"
+msgstr "Done"
+
+msgid "no_selection_label"
+msgstr "&nbsp;"
+
+msgid "wait_dlg_title"
+msgstr "Processing..."
+
+msgid "required_label"
+msgstr "required"
+
+msgid "system_time_label"
+msgstr "(system time - %1) "
+
+msgid "input_time_label"
+msgstr "(user time - %1) "
+
+msgid "optional_label"
+msgstr "optional"
+
+msgid "male"
+msgstr "male"
+
+msgid "female"
+msgstr "female"
+
+msgid "mandatory_field_label"
+msgstr "mandatory field"
+
+msgid "save_next_btn_label"
+msgstr "Send and next"
+
+msgid "save_done_btn_label"
+msgstr "Send and finish"
+
+msgid "done_btn_label"
+msgstr "Finish"
+
+msgid "yes_btn_label"
+msgstr "Yes"
+
+msgid "no_btn_label"
+msgstr "No"
+
+msgid "apply_calculated_value_btn_label"
+msgstr "Apply value"
+
+msgid "sketch_toggle_region_tooltip"
+msgstr "draw/clear selection set value regions"
+
+msgid "sketch_draw_mode_tooltip"
+msgstr "select pen (draw strokes) or eraser (remove picked strokes)"
+
+msgid "sketch_undo_tooltip"
+msgstr "undo"
+
+msgid "sketch_redo_tooltip"
+msgstr "redo"
+
+msgid "sketch_clear_tooltip"
+msgstr "clear all strokes"
+
+msgid "sketch_pen_width_0_tooltip"
+msgstr "pen width 12"
+
+msgid "sketch_pen_width_1_tooltip"
+msgstr "pen width 6"
+
+msgid "sketch_pen_width_2_tooltip"
+msgstr "pen width 3"
+
+msgid "sketch_pen_width_3_tooltip"
+msgstr "pen width 0.8"
+
+msgid "sketch_pen_opacity_0_tooltip"
+msgstr "pen opacity 100%"
+
+msgid "sketch_pen_opacity_1_tooltip"
+msgstr "pen opacity 60%"
+
+msgid "sketch_pen_opacity_2_tooltip"
+msgstr "pen opacity 30%"
+
+msgid "finish_btn_label"
+msgstr "Quit"
+
+msgid "error_summary"
+msgstr "Error:"
+
+msgid "error_no_proband_created"
+msgstr "save personal information first"
+
+msgid "error_no_contact_created"
+msgstr "save contact details first"
+
+msgid "error_no_trial_selected"
+msgstr "select a trial first"
+
+msgid "error_inquiries_na"
+msgstr "select a trial with inquiry form first"
+
+msgid "error_trials_na"
+msgstr "select a trial site with trials first"
+
+msgid "error_proband_create_rate_limit"
+msgstr "a subject was created with this computer recently, please wait before retry"
+
+msgid "error_no_contact_details"
+msgstr "please provide email address or phone number"
+
+msgid "error_proband_not_agreed"
+msgstr "express consent is required to continue"
+
+msgid "trial_sites_header"
+msgstr "Trial sites"
+
+msgid "select_site_btn_label"
+msgstr "Registration"
+
+msgid "express_consent_panel_title"
+msgstr "Express Consent"
+
+msgid "proband_agreed_label"
+msgstr "I agree to store my data."
+
+msgid "proband_agreed_tooltip"
+msgstr "Give express consent."
+
+msgid "proband_panel_title"
+msgstr "Personal Information"
+
+msgid "proband_prefixed_titles_label"
+msgstr "Prefixed titles:"
+
+msgid "proband_prefixed_titles_tooltip"
+msgstr "Optionally specify prefixed titles."
+
+msgid "proband_first_name_label"
+msgstr "First name:"
+
+msgid "proband_first_name_tooltip"
+msgstr "The first name is required."
+
+msgid "proband_last_name_label"
+msgstr "Last name:"
+
+msgid "proband_last_name_tooltip"
+msgstr "The last name is required."
+
+msgid "proband_postpositioned_titles_label"
+msgstr "Postpositioned titles:"
+
+msgid "proband_postpositioned_titles_tooltip"
+msgstr "Optionally specify postpositioned titles."
+
+msgid "proband_gender_label"
+msgstr "Gender:"
+
+msgid "proband_gender_tooltip"
+msgstr "Gender is required."
+
+msgid "proband_dob_label"
+msgstr "Date of birth:"
+
+msgid "proband_dob_tooltip"
+msgstr "Date of birth is required (%1)."
+
+msgid "proband_citizenship_label"
+msgstr "Citizenship:"
+
+msgid "proband_citizenship_tooltip"
+msgstr "Citizenship can be specified optionally."
+
+msgid "proband_comment"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
+
+msgid "address_panel_title"
+msgstr "Address"
+
+msgid "proband_address_country_name_label"
+msgstr "Country name:"
+
+msgid "proband_address_country_name_tooltip"
+msgstr "The country name part of the postal address is required."
+
+msgid "proband_address_province_label"
+msgstr "State:"
+
+msgid "proband_address_province_tooltip"
+msgstr "The state/province part of the postal address is required."
+
+msgid "proband_address_zip_code_label"
+msgstr "Zip code:"
+
+msgid "proband_address_zip_code_tooltip"
+msgstr "The zip code part of the postal address is required."
+
+msgid "proband_address_city_name_label"
+msgstr "City name:"
+
+msgid "proband_address_city_name_tooltip"
+msgstr "The city name part of the postal address is required."
+
+msgid "proband_address_street_name_label"
+msgstr "Street name:"
+
+msgid "proband_address_street_name_tooltip"
+msgstr "The street name part of the postal address is required."
+
+msgid "proband_address_house_number_label"
+msgstr "House number:"
+
+msgid "proband_address_house_number_tooltip"
+msgstr "The house number part of the postal address is required."
+
+msgid "proband_address_entrance_label"
+msgstr "Entrance:"
+
+msgid "proband_address_entrance_tooltip"
+msgstr "The entrance (staircase, block, wing) part of the postal address is optional."
+
+msgid "proband_address_door_number_label"
+msgstr "Apartment:"
+
+msgid "proband_address_door_number_tooltip"
+msgstr "The apartment number part of the postal address is optional."
+
+msgid "contact_details_panel_title"
+msgstr "Phone and Email Address"
+
+msgid "proband_phone_label"
+msgstr "Phone:"
+
+msgid "proband_phone_tooltip"
+msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
+
+msgid "proband_email_label"
+msgstr "Email:"
+
+msgid "proband_email_tooltip"
+msgstr "Email address format like 'max.mustermann@phoenixctms.org'."
+
+msgid "proband_email_notify_label"
+msgstr "notify"
+
+msgid "proband_email_notify_tooltip"
+msgstr "Allow to send Emails."
+
+msgid "trials_grid_header"
+msgstr "Trials/Candidate lists"
+
+msgid "open_inquiries_btn_label"
+msgstr "Open inuiry form"
+
+msgid "signup_btn_label"
+msgstr "Sign-up"
+
+msgid "inquiries_grid_header"
+msgstr "Inquiry Form - %1"
+
+msgid "incomplete_dlg_title"
+msgstr "Inquiry form incomplete"
+
+msgid "incomplete_dlg_prompt"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
+
+msgid "inquiries_pbar_template"
+msgstr "sent: %d/%d"
+
+msgid "inquiryform_blank_btn_label"
+msgstr "Open as PDF"
+
+msgid "inquiries_prev_btn_label"
+msgstr "Select trial"
+
+msgid "probandletter_btn_label"
+msgstr "Open privacy consent as PDF"
+
+msgid "inquiryforms_btn_label"
+msgstr "Open entered inquiry forms as PDF"
+
+msgid "404_title"
+msgstr "The requested page is not available"
+
+msgid "404_description"
+msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
+
+msgid "start_title"
+msgstr "Clinical Trial Recruitment"
+
+msgid "start_description"
+msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
+
+msgid "proband_title"
+msgstr "Personal Data"
+
+msgid "proband_description"
+msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
+
+msgid "contact_title"
+msgstr "Contact Information"
+
+msgid "contact_description"
+msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
+
+msgid "trial_title"
+msgstr "Ongoing Trials"
+
+msgid "trial_description"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
+
+msgid "inquiry_title"
+msgstr "Inquiry Form - %1"
+
+msgid "inquiry_description"
+msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
+
+msgid "end_title"
+msgstr "Thank you!"
+
+msgid "end_description"
+msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
+
+msgid "invalid time"
+msgstr "invalid time %1"
+
+msgid "invalid hour"
+msgstr "invalid hour %1"
+
+msgid "invalid minute"
+msgstr "invalid minute %1"
+
+msgid "invalid second"
+msgstr "invalid second %1"
+
+msgid "invalid date"
+msgstr "invalid date %1"
+
+msgid "invalid month"
+msgstr "invalid month %1"
+
+msgid "invalid year"
+msgstr "invalid year %1"
+
+msgid "invalid day"
+msgstr "invalid day %1"
+
