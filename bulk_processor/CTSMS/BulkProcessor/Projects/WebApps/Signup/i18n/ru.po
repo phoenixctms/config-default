@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
-"PO-Revision-Date: 2024-03-14 20:27\n"
+"PO-Revision-Date: 2024-03-17 18:32\n"
 
 msgid "lang"
 msgstr "ru"
@@ -328,7 +328,7 @@ msgid "incomplete_dlg_title"
 msgstr "Форма запроса не заполнена"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
+msgstr "Пожалуйста, просмотрите все страницы формы запроса.<br/>Вы всё равно предпочитаете отправить и завершить?"
 
 msgid "inquiries_pbar_template"
 msgstr "отправлено: %d/%d"
@@ -349,19 +349,19 @@ msgid "404_title"
 msgstr "Запрошенная страница недоступна"
 
 msgid "404_description"
-msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
+msgstr "<p>К сожалению, запрошенную вами страницу невозможно найти на этом сайте. Возможно, вы нажали неправильный или устаревший URL-адрес.</p><p>Вы можете вернуться на <a href=\"/\">целевую страницу</a> этого сайта, щелкнув логотип вверху.</p>"
 
 msgid "start_title"
 msgstr "Набор клинических испытаний"
 
 msgid "start_description"
-msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
+msgstr "<p>Разработка новых диагностических или терапевтических мер требует клинических испытаний и добровольного участия. На этом сайте представлен обзор текущих исследований и возможностей участия.</p><p>После регистрации вы добавляетесь в центральную базу данных, что позволяет нам связаться с вами, чтобы окончательно зарегистрировать вас в качестве кандидата на текущие или будущие испытания (до тех пор, пока вы этого пожелаете).</p><p>Начните процесс регистрации на одном из пробных сайтов ниже.</p>"
 
 msgid "proband_title"
 msgstr "Личные данные"
 
 msgid "proband_description"
-msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
+msgstr "<p>На первом этапе отправьте нам свою основную личную информацию: имя, пол и данные о рождении.</p>"
 
 msgid "contact_title"
 msgstr "Контактная информация"
@@ -373,7 +373,7 @@ msgid "trial_title"
 msgstr "Текущие испытания"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
+msgstr "<p>Обзор текущих исследований и запросов представлен на третьем этапе. Просмотрите список, чтобы увидеть основную информацию о критериях кандидатов, процедурах и возмещении расходов на отдельные испытания.</p><p>Вы можете выразить свою заинтересованность в участии в конкретном исследовании, зарегистрировавшись или открыв форму запроса. Если вы предпочитаете завершить это позже или в прямом разговоре, вы можете пропустить это и завершить регистрацию.</p>"
 
 msgid "inquiry_title"
 msgstr "Форма запроса - %1"
@@ -385,7 +385,7 @@ msgid "end_title"
 msgstr "Спасибо!"
 
 msgid "end_description"
-msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
+msgstr "<p>Спасибо за регистрацию. Мы свяжемся с вами в ближайшее время и будем рады пригласить вас на пробную площадку в качестве нового участника.</p><p>Вы можете скачать PDF-документы с предоставленными вами данными. Чтобы предотвратить автоматическое удаление, отправьте подписанное согласие на конфиденциальность данных в офис сайта по почте или электронной почте до %1.</p>"
 
 msgid "invalid time"
 msgstr "неверное время %1"
