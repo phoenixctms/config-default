@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
-"PO-Revision-Date: 2024-03-14 19:27\n"
+"PO-Revision-Date: 2024-03-17 18:32\n"
 
 msgid "lang"
 msgstr "pt-br"
@@ -328,7 +328,7 @@ msgid "incomplete_dlg_title"
 msgstr "Formulário de pergunta incompleto"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
+msgstr "Por favor, consulte todas as páginas do formulário de consulta.<br/>Você prefere enviar e finalizar mesmo assim?"
 
 msgid "inquiries_pbar_template"
 msgstr "Enviado: %d/%d"
@@ -349,31 +349,31 @@ msgid "404_title"
 msgstr "A página solicitada não está disponível"
 
 msgid "404_description"
-msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
+msgstr "<p>Desculpe, a página que você solicitou não pode ser encontrada neste site. Talvez você tenha clicado em um URL errado ou desatualizado.</p><p>Você pode voltar para a página de destino <a href=\"/\"></a> deste site clicando no logotipo na parte superior.</p>"
 
 msgid "start_title"
 msgstr "Recrutamento de Ensaios Clínicos"
 
 msgid "start_description"
-msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
+msgstr "<p>O desenvolvimento de novas medidas diagnósticas ou terapêuticas requer ensaios clínicos e participantes voluntários. Este site oferece uma visão geral dos testes em andamento e a oportunidade de participação.</p><p>Com o seu registo você é adicionado à base de dados central, permitindo-nos contactá-lo para finalmente inscrevê-lo como candidato em provas em curso ou futuras (desde que assim o deseje).</p><p>Inicie o processo de registro em um dos sites de teste abaixo.</p>"
 
 msgid "proband_title"
 msgstr "Dados Pessoais"
 
 msgid "proband_description"
-msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
+msgstr "<p>Na primeira etapa, envie-nos seus dados pessoais básicos: nome, sexo e dados de nascimento.</p>"
 
 msgid "contact_title"
 msgstr "Informação do Contato"
 
 msgid "contact_description"
-msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
+msgstr "<p>Na segunda etapa, envie-nos seus dados de contato: endereço postal, telefone e endereço de e-mail.</p><p>Um agente pode então entrar em contato com você para obter sua confirmação explícita para armazenar seus dados. Neste primeiro contacto será informado sobre os procedimentos de inscrição no local do ensaio.</p><p>Suas informações estão sujeitas à privacidade de dados e podem ser visualizadas exclusivamente pela equipe do site.</p>"
 
 msgid "trial_title"
 msgstr "Provações em andamento"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
+msgstr "<p>Uma visão geral dos estudos e investigações em andamento é apresentada na terceira etapa. Navegue pela lista para ver informações básicas sobre critérios de candidatos, procedimentos e reembolsos de testes individuais.</p><p>Você pode indicar seu interesse em participar de um teste específico inscrevendo-se ou abrindo o formulário de consulta. Se preferir fazer isso mais tarde ou em conversa direta, você pode pular esta etapa e finalizar seu registro.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulário de Pergunta - %1"
