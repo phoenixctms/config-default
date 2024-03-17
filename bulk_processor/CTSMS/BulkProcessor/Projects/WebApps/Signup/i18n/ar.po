@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
-"PO-Revision-Date: 2024-03-16 17:56\n"
+"PO-Revision-Date: 2024-03-17 18:32\n"
 
 msgid "lang"
 msgstr "ش"
@@ -38,7 +38,7 @@ msgid "lanuage_menu_label"
 msgstr "اللغة"
 
 msgid "session_timer_pattern"
-msgstr "Data entry ends in %M:%S"
+msgstr "ينتهي إدخال البيانات بـ %M:%S"
 
 msgid "navigation_start_label"
 msgstr "ابدأ"
@@ -349,31 +349,31 @@ msgid "404_title"
 msgstr "الصفحة المطلوبة غير متوفرة"
 
 msgid "404_description"
-msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
+msgstr "<p>عذرًا، الصفحة التي طلبتها لا يمكن العثور عليها في هذا الموقع. ربما قمت بالنقر فوق عنوان URL خاطئ أو قديم.</p><p>يمكنك العودة إلى الصفحة المقصودة <a href=\"/\"></a> لهذا الموقع من خلال النقر على الشعار الموجود في الأعلى.</p>"
 
 msgid "start_title"
 msgstr "توظيف تجريبي سريري"
 
 msgid "start_description"
-msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
+msgstr "<p>يتطلب تطوير تدابير تشخيصية أو علاجية جديدة إجراء تجارب سريرية ومشاركين طوعيين. يقدم هذا الموقع لمحة عامة عن التجارب الجارية وفرصة المشاركة.</p><p>من خلال تسجيلك، تتم إضافتك إلى قاعدة البيانات المركزية، مما يسمح لنا بالاتصال بك لتسجيلك أخيرًا كمرشح في التجارب الجارية أو المستقبلية (طالما كنت ترغب في ذلك).</p><p>ابدأ عملية التسجيل في أحد المواقع التجريبية أدناه.</p>"
 
 msgid "proband_title"
 msgstr "البيانات الشخصية"
 
 msgid "proband_description"
-msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
+msgstr "<p>في الخطوة الأولى، أرسل لنا معلوماتك الشخصية الأساسية: الاسم والجنس وبيانات الميلاد.</p>"
 
 msgid "contact_title"
 msgstr "معلومات الاتصال"
 
 msgid "contact_description"
-msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
+msgstr "<p>في الخطوة الثانية، أرسل لنا تفاصيل الاتصال الخاصة بك: العنوان البريدي ورقم الهاتف وعنوان البريد الإلكتروني.</p><p>يمكن للوكيل بعد ذلك الاتصال بك للحصول على تأكيد صريح منك لتخزين بياناتك. في هذا الاتصال الأول، سيتم إعلامك بإجراءات التسجيل في موقع التجربة.</p><p>تخضع معلوماتك لخصوصية البيانات ويمكن الاطلاع عليها من قبل موظفي الموقع حصرا.</p>"
 
 msgid "trial_title"
 msgstr "المحاكمات الجارية"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
+msgstr "<p>يتم تقديم نظرة عامة على الدراسات والاستفسارات الجارية في الخطوة الثالثة. يرجى تصفح القائمة للاطلاع على المعلومات الأساسية المتعلقة بمعايير المرشحين وإجراءاتهم وتعويضات التجارب الفردية.</p><p>يمكنك الإشارة إلى اهتمامك بالمشاركة في تجربة معينة عن طريق الاشتراك أو فتح نموذج الاستفسار الخاص بها. إذا كنت تفضل إكمال هذا في وقت لاحق أو في محادثة مباشرة، فيمكنك تخطي هذا وإنهاء تسجيلك.</p>"
 
 msgid "inquiry_title"
 msgstr "نموذج الاستفسار - %1"
@@ -385,7 +385,7 @@ msgid "end_title"
 msgstr "شكرا لك!"
 
 msgid "end_description"
-msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
+msgstr "<p>شكرًا لك على تسجيلك. سوف نتصل بك قريبًا ونتطلع إلى دعوتك إلى الموقع التجريبي كمشارك جديد.</p><p>يمكنك تنزيل مستندات PDF بالبيانات المقدمة. لمنع الحذف التلقائي، يرجى إرسال موافقة خصوصية البيانات الموقعة إلى مكتب الموقع عبر البريد أو البريد الإلكتروني حتى %1.</p>"
 
 msgid "invalid time"
 msgstr "وقت غير صالح %1"
