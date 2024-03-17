@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
-"PO-Revision-Date: 2024-03-17 17:10\n"
+"PO-Revision-Date: 2024-03-17 18:32\n"
 
 msgid "lang"
 msgstr "en"
@@ -250,10 +250,10 @@ msgid "proband_address_country_name_tooltip"
 msgstr "Časť poštovej adresy s názvom krajiny je povinná."
 
 msgid "proband_address_province_label"
-msgstr "State:"
+msgstr "Štát:"
 
 msgid "proband_address_province_tooltip"
-msgstr "The state/province part of the postal address is required."
+msgstr "Vyžaduje sa štátna/krajská časť poštovej adresy."
 
 msgid "proband_address_zip_code_label"
 msgstr "PSČ:"
