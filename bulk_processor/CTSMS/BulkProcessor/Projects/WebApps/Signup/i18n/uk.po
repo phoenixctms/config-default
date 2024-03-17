@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2024-03-14 20:27\n"
+"PO-Revision-Date: 2024-03-17 18:32\n"
 
 msgid "lang"
 msgstr "en"
@@ -38,7 +38,7 @@ msgid "lanuage_menu_label"
 msgstr "Мова:"
 
 msgid "session_timer_pattern"
-msgstr "Data entry ends in %M:%S"
+msgstr "Введення даних закінчується на %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Старт"
@@ -56,7 +56,7 @@ msgid "navigation_inquiry_label"
 msgstr "Форма запиту запиту"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Inquiry Form - %1"
+msgstr "Форма запиту - %1"
 
 msgid "navigation_end_label"
 msgstr "Виконано"
@@ -322,7 +322,7 @@ msgid "signup_btn_label"
 msgstr "Реєстрація"
 
 msgid "inquiries_grid_header"
-msgstr "Inquiry Form - %1"
+msgstr "Форма запиту - %1"
 
 msgid "incomplete_dlg_title"
 msgstr "Запит на отримання запиту не завершено"
@@ -349,13 +349,13 @@ msgid "404_title"
 msgstr "Запитувана сторінка недоступна"
 
 msgid "404_description"
-msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
+msgstr "<p>Вибачте, сторінку, яку ви запитували, неможливо знайти на цьому сайті. Можливо, ви натиснули неправильну або застарілу URL-адресу.</p><p>Ви можете повернутися до <a href=\"/\">цільової сторінки</a> цього сайту, натиснувши логотип угорі.</p>"
 
 msgid "start_title"
 msgstr "Клінічний пробний період"
 
 msgid "start_description"
-msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
+msgstr "<p>Розробка нових діагностичних або терапевтичних заходів вимагає клінічних випробувань і добровільних учасників. Цей сайт містить огляд поточних випробувань і можливість участі.</p><p>Після реєстрації вас додають до центральної бази даних, що дозволяє нам зв’язатися з вами, щоб нарешті зареєструвати вас як кандидата на поточні або майбутні випробування (якщо ви цього бажаєте).</p><p>Почніть процес реєстрації на одному з пробних сайтів нижче.</p>"
 
 msgid "proband_title"
 msgstr "Персональні дані"
@@ -367,16 +367,16 @@ msgid "contact_title"
 msgstr "Контактна інформація"
 
 msgid "contact_description"
-msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
+msgstr "<p>На другому кроці надішліть нам свої контактні дані: поштову адресу, номер телефону та електронну адресу.</p><p>Потім агент може зв’язатися з вами, щоб отримати від вас чітке підтвердження щодо збереження ваших даних. Під час цього першого контакту ви будете проінформовані про процедури реєстрації на місці випробування.</p><p>Ваша інформація є конфіденційною та може переглядатися виключно персоналом сайту.</p>"
 
 msgid "trial_title"
 msgstr "Поточні випробування"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
+msgstr "<p>Огляд поточних досліджень і запитів представлено на третьому кроці. Будь ласка, перегляньте список, щоб побачити основну інформацію про критерії кандидатів, процедури та відшкодування витрат на окремі випробування.</p><p>Ви можете вказати свою зацікавленість в участі в певному випробуванні, зареєструвавшись або відкривши форму запиту. Якщо ви бажаєте завершити це пізніше або в прямій розмові, ви можете пропустити це та завершити реєстрацію.</p>"
 
 msgid "inquiry_title"
-msgstr "Inquiry Form - %1"
+msgstr "Форма запиту - %1"
 
 msgid "inquiry_description"
 msgstr "<p>Від цього до форми звернення розроблені таким чином, щоб завершити її за кілька хвилин і без підготовки. Оскільки інформація, яку ви надаєте тут, буде використовуватися для того щоб визначити вас як кандидата, будь ласка, надайте правильну та вичерпну інформацію.</p>"
@@ -385,7 +385,7 @@ msgid "end_title"
 msgstr "Дякую!"
 
 msgid "end_description"
-msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
+msgstr "<p>Дякуємо за реєстрацію. Ми зв’яжемося з вами найближчим часом і будемо раді запросити вас на пробний сайт як нового учасника.</p><p>Ви можете завантажити PDF-документи з наданими вами даними. Щоб запобігти автоматичному видаленню, надішліть свою підписану згоду на конфіденційність даних до офісу сайту поштою або електронною поштою до %1.</p>"
 
 msgid "invalid time"
 msgstr "неприпустимий час %1"
@@ -397,7 +397,7 @@ msgid "invalid minute"
 msgstr "неприпустима хвилина %1"
 
 msgid "invalid second"
-msgstr "invalid second %1"
+msgstr "недійсна секунда %1"
 
 msgid "invalid date"
 msgstr "неприпустима дата %1"
