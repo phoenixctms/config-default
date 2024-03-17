@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2024-03-14 19:27\n"
+"PO-Revision-Date: 2024-03-17 18:32\n"
 
 msgid "lang"
 msgstr "fr"
@@ -349,43 +349,43 @@ msgid "404_title"
 msgstr "La page demandée n'est pas disponible"
 
 msgid "404_description"
-msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
+msgstr "<p>Désolé, la page que vous avez demandée est introuvable sur ce site. Peut-être avez-vous cliqué sur une URL erronée ou obsolète.</p><p>Vous pouvez revenir à la <a href=\"/\">page de destination</a> de ce site en cliquant sur le logo en haut.</p>"
 
 msgid "start_title"
 msgstr "Recrutement d'essai clinique"
 
 msgid "start_description"
-msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
+msgstr "<p>Le développement de nouvelles mesures diagnostiques ou thérapeutiques nécessite des essais cliniques et des participants volontaires. Ce site donne un aperçu des essais en cours et des possibilités de participation.</p><p>Avec votre inscription vous êtes ajouté à la base de données centrale, nous permettant de vous contacter afin de finalement vous inscrire comme candidat aux essais en cours ou à venir (tant que vous le souhaitez).</p><p>Démarrez le processus d'inscription sur l'un des sites d'essai ci-dessous.</p>"
 
 msgid "proband_title"
 msgstr "Données personnelles"
 
 msgid "proband_description"
-msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
+msgstr "<p>Dans un premier temps, envoyez-nous vos informations personnelles de base : nom, sexe et données de naissance.</p>"
 
 msgid "contact_title"
 msgstr "Coordonnées"
 
 msgid "contact_description"
-msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
+msgstr "<p>Dans un deuxième temps, envoyez-nous vos coordonnées : adresse postale, numéro de téléphone et adresse email.</p><p>Un agent pourra alors entrer en contact avec vous pour obtenir votre confirmation explicite de stockage de vos données. Lors de ce premier contact, vous serez informé des procédures d'inscription sur le site d'essai.</p><p>Vos informations sont soumises à la confidentialité des données et peuvent être consultées exclusivement par le personnel du site.</p>"
 
 msgid "trial_title"
 msgstr "Épreuves en cours"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
+msgstr "<p>Un aperçu des études et enquêtes en cours est présenté dans la troisième étape. Veuillez parcourir la liste pour voir les informations de base concernant les critères de candidature, les procédures et les remboursements des essais individuels.</p><p>Vous pouvez indiquer votre intérêt à participer à un essai particulier en vous inscrivant ou en ouvrant son formulaire de demande. Si vous préférez terminer cette opération plus tard ou lors d'une conversation directe, vous pouvez ignorer cette étape et terminer votre inscription.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulaire de demande - %1"
 
 msgid "inquiry_description"
-msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
+msgstr "<p>Le formulaire de demande est conçu pour le remplir en quelques minutes et sans préparation. Étant donné que les informations que vous fournissez ici seront utilisées pour vous identifier en tant que candidat, veuillez fournir des informations correctes et complètes.</p>"
 
 msgid "end_title"
 msgstr "Merci!"
 
 msgid "end_description"
-msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
+msgstr "<p>Merci pour votre inscription. Nous vous contacterons bientôt et nous sommes impatients de vous inviter sur le site d'essai en tant que nouveau participant.</p><p>Vous pouvez télécharger des documents PDF avec les données fournies. Pour empêcher la suppression automatique, veuillez soumettre votre consentement signé à la confidentialité des données au bureau du site par courrier ou par e-mail jusqu'au %1.</p>"
 
 msgid "invalid time"
 msgstr "heure %1 invalide"
