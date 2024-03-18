@@ -27,4 +27,6 @@ files:
       - ff.po
       - ar.po
       - kg.po
+      - hi.po
+      - zh.po
     translation: /%original_path%/%two_letters_code%.po
