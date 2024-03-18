@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Lingala\n"
-"PO-Revision-Date: 2024-03-17 18:32\n"
+"PO-Revision-Date: 2024-03-18 17:13\n"
 
 msgid "lang"
 msgstr "en"
@@ -373,7 +373,7 @@ msgid "trial_title"
 msgstr "Mimekano oyo ezali kokoba"
 
 msgid "trial_description"
-msgstr "<p>Botali ya boyekoli pe mituna oyo ezali kosalama elakisami na eteni ya misato. Svp tala na liste pona komona ba informations ya base oyo etali ba critères ya ba candidats, ba procédures pe ba remboursement ya ba épreuves individuelles.</p><p>Okoki kolakisa bosepeli na yo ya kosangana na momekano moko boye na kokoma to kofungola formulaire na yango ya mituna. Soki olingi kosilisa likambo oyo na tango mosusu to na masolo ya direkt, okoki okoki koleka oyo mpe kosilisa bokomisi nkombo na yo.</p>"
+msgstr "<p>Botali ya boyekoli pe mituna oyo ezali kosalama elakisami na eteni ya misato. Svp tala na liste pona komona ba informations ya base oyo etali ba critères ya ba candidats, ba procédures pe ba remboursement ya ba épreuves individuelles.</p><p>Okoki kolakisa bosepeli na yo ya kosangana na momekano moko boye na ko signer to kofungola formulaire na yango ya demande. Soki olingi kosilisa likambo oyo na tango mosusu to na masolo ya direkt, okoki okoki koleka oyo mpe kosilisa bokomisi nkombo na yo.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulaire ya kotuna - %1"
