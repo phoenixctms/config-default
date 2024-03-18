@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Igbo\n"
-"PO-Revision-Date: 2024-03-17 18:32\n"
+"PO-Revision-Date: 2024-03-18 17:13\n"
 
 msgid "lang"
 msgstr "en"
@@ -38,7 +38,7 @@ msgid "lanuage_menu_label"
 msgstr "Asụsụ"
 
 msgid "session_timer_pattern"
-msgstr "Ntinye data kwụsịrị na %M:%S"
+msgstr "Ntinye data agwụ na %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Malite"
@@ -406,7 +406,7 @@ msgid "invalid month"
 msgstr "ọnwa na-adịghị mma %1"
 
 msgid "invalid year"
-msgstr "afọ ezighi ezi %1"
+msgstr "afọ na-adịghị mma %1"
 
 msgid "invalid day"
 msgstr "ụbọchị adịghị mma %1"
