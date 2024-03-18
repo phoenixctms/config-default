@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Yoruba\n"
-"PO-Revision-Date: 2024-03-17 18:32\n"
+"PO-Revision-Date: 2024-03-18 17:13\n"
 
 msgid "lang"
 msgstr "en"
@@ -388,7 +388,7 @@ msgid "end_description"
 msgstr "<p>O ṣeun fun iforukọsilẹ rẹ. A yoo kan si ọ laipẹ ati pe a nireti lati pe ọ si aaye idanwo bi alabaṣe tuntun.</p><p>O le ṣe igbasilẹ awọn iwe aṣẹ PDF pẹlu data ti o pese. Lati yago fun piparẹ aladaaṣe, jọwọ fi aṣẹ ipamọ data ti o fowo si si ọfiisi aaye nipasẹ meeli tabi imeeli titi %1.</p>"
 
 msgid "invalid time"
-msgstr "akoko ti ko wulo %1"
+msgstr "akoko ti ko tọ %1"
 
 msgid "invalid hour"
 msgstr "wakati ti ko tọ %1"

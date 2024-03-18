@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovenian\n"
-"PO-Revision-Date: 2024-03-17 18:32\n"
+"PO-Revision-Date: 2024-03-18 17:13\n"
 
 msgid "lang"
 msgstr "en"
@@ -355,7 +355,7 @@ msgid "start_title"
 msgstr "Zaposlovanje v kliničnem preskušanju"
 
 msgid "start_description"
-msgstr "<p>Razvoj novih diagnostičnih ali terapevtskih ukrepov zahteva klinična preskušanja in prostovoljne udeležence. To spletno mesto ponuja pregled tekočih poskusov in možnost sodelovanja.</p><p>Z vašo registracijo ste dodani v osrednjo zbirko podatkov, kar nam omogoča, da stopimo v stik z vami, da vas končno vključimo kot kandidata v tekoča ali prihodnja preskušanja (če tako želite).</p><p>Začnite postopek registracije na enem od spodnjih preskusnih mest.</p>"
+msgstr "<p>Razvoj novih diagnostičnih ali terapevtskih ukrepov zahteva klinična preskušanja in prostovoljne udeležence. To spletno mesto ponuja pregled tekočih poskusov in možnost sodelovanja.</p><p>Z vašo registracijo ste dodani v osrednjo zbirko podatkov, kar nam omogoča, da stopimo v stik z vami, da vas končno vključimo kot kandidata v tekoče ali prihodnje preizkuse (če tako želite).</p><p>Začnite postopek registracije na enem od spodnjih preskusnih mest.</p>"
 
 msgid "proband_title"
 msgstr "Osebni podatki"
@@ -379,13 +379,13 @@ msgid "inquiry_title"
 msgstr "Obrazec za povpraševanje - %1"
 
 msgid "inquiry_description"
-msgstr "<p>Obrazec za povpraševanje je zasnovan tako, da ga izpolnite v nekaj minutah in brez priprav. Ker bodo podatki, ki jih navedete tukaj, uporabljeni za vašo identifikacijo kot kandidata, vas prosimo, da posredujete pravilne in izčrpne podatke.</p>"
+msgstr "<p>Obrazec za povpraševanje je zasnovan tako, da ga izpolnite v nekaj minutah in brez priprav. Ker bodo podatki, ki jih navedete tukaj, uporabljeni za identifikacijo vas kot kandidata, prosimo, da podate pravilne in izčrpne podatke.</p>"
 
 msgid "end_title"
 msgstr "Hvala vam!"
 
 msgid "end_description"
-msgstr "<p>Hvala za registracijo. Kmalu vas bomo kontaktirali in vas z veseljem povabili na preizkusno mesto kot novega udeleženca.</p><p>Lahko prenesete dokumente PDF s svojimi podatki. Da preprečite samodejni izbris, pošljite podpisano soglasje za zasebnost podatkov pisarni spletnega mesta po pošti ali e-pošti do %1.</p>"
+msgstr "<p>Hvala za registracijo. Kmalu vas bomo kontaktirali in vas z veseljem povabili na preizkusno mesto kot novega udeleženca.</p><p>Lahko prenesete dokumente PDF s svojimi podatki. Če želite preprečiti samodejni izbris, pošljite podpisano soglasje za zasebnost podatkov uradu spletnega mesta po pošti ali e-pošti do %1.</p>"
 
 msgid "invalid time"
 msgstr "neveljaven čas %1"

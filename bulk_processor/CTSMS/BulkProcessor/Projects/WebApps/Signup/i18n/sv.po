@@ -11,37 +11,37 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swedish\n"
-"PO-Revision-Date: 2024-03-14 19:27\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 msgid "lang"
 msgstr "sv"
 
 msgid "lang_label"
-msgstr "Engelska"
+msgstr "engelsk"
 
 msgid "page_title"
-msgstr "Kliniska prövningar"
+msgstr "Kliniska tester"
 
 msgid "meta_description"
-msgstr "Ämnen önskade - registrera dig för pågående kliniska prövningar nu."
+msgstr "Ämnen sökes - registrera dig för pågående kliniska prövningar nu."
 
 msgid "lead_label"
-msgstr "Rekrytering av klinisk prövning"
+msgstr "Rekrytering till kliniska prövningar"
 
 msgid "logo_label"
 msgstr "Min CRO"
 
 msgid "copyright_label"
-msgstr "<unk> 2019 Mitt CRO"
+msgstr "ｩ 2019 Min CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Språk"
 
 msgid "session_timer_pattern"
-msgstr "Datainmatning slutar i %M:%S"
+msgstr "Datainmatning slutar på %M:%S"
 
 msgid "navigation_start_label"
-msgstr "Starta"
+msgstr "Start"
 
 msgid "navigation_proband_label"
 msgstr "Person"
@@ -50,16 +50,16 @@ msgid "navigation_contact_label"
 msgstr "Kontaktuppgifter"
 
 msgid "navigation_trial_label"
-msgstr "Prov"
+msgstr "Rättegång"
 
 msgid "navigation_inquiry_label"
-msgstr "Formulär för förfrågan"
+msgstr "Frågeformulär"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Formulär för förfrågan - %1"
+msgstr "Förfrågningsformulär - %1"
 
 msgid "navigation_end_label"
-msgstr "Klar"
+msgstr "Gjort"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
@@ -68,7 +68,7 @@ msgid "wait_dlg_title"
 msgstr "Bearbetar..."
 
 msgid "required_label"
-msgstr "obligatorisk"
+msgstr "nödvändig"
 
 msgid "system_time_label"
 msgstr "(systemtid - %1) "
@@ -77,16 +77,16 @@ msgid "input_time_label"
 msgstr "(användartid - %1) "
 
 msgid "optional_label"
-msgstr "valfri"
+msgstr "frivillig"
 
 msgid "male"
-msgstr "hane"
+msgstr "manlig"
 
 msgid "female"
 msgstr "kvinna"
 
 msgid "mandatory_field_label"
-msgstr "mandatory field"
+msgstr "obligatoriskt fält"
 
 msgid "save_next_btn_label"
 msgstr "Skicka och nästa"
@@ -107,43 +107,43 @@ msgid "apply_calculated_value_btn_label"
 msgstr "Tillämpa värde"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "rita/rensa valda värderegioner"
+msgstr "rita/rensa urval inställda värdeområden"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "Välj penna (rita streck) eller suddgummi (ta bort markerade streck)"
+msgstr "välj penna (rita drag) eller radergummi (ta bort valda drag)"
 
 msgid "sketch_undo_tooltip"
 msgstr "ångra"
 
 msgid "sketch_redo_tooltip"
-msgstr "redo"
+msgstr "göra om"
 
 msgid "sketch_clear_tooltip"
 msgstr "rensa alla slag"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "Pennans bredd 12"
+msgstr "penna bredd 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "Pennans bredd 6"
+msgstr "penna bredd 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "Pennans bredd 3"
+msgstr "pennans bredd 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "Pennans bredd 0,8"
+msgstr "pennans bredd 0,8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "Pennans genomskinlighet 100%"
+msgstr "pennans opacitet 100 %"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "pennans opacitet 60%"
+msgstr "pennans opacitet 60 %"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "pennans opacitet 30%"
+msgstr "pennans opacitet 30 %"
 
 msgid "finish_btn_label"
-msgstr "Avsluta"
+msgstr "Sluta"
 
 msgid "error_summary"
 msgstr "Fel:"
@@ -155,31 +155,31 @@ msgid "error_no_contact_created"
 msgstr "spara kontaktuppgifter först"
 
 msgid "error_no_trial_selected"
-msgstr "välj en provperiod först"
+msgstr "välj en provversion först"
 
 msgid "error_inquiries_na"
-msgstr "välj en provversion med frågeformulär först"
+msgstr "välj en testversion med förfrågningsformulär först"
 
 msgid "error_trials_na"
-msgstr "välj en försökssajt med försök först"
+msgstr "välj en testwebbplats med tester först"
 
 msgid "error_proband_create_rate_limit"
-msgstr "ett ämne har skapats med denna dator nyligen, vänta innan du försöker igen"
+msgstr "ett ämne skapades med den här datorn nyligen, vänta innan du försöker igen"
 
 msgid "error_no_contact_details"
-msgstr "ange e-postadress eller telefonnummer"
+msgstr "vänligen ange e-postadress eller telefonnummer"
 
 msgid "error_proband_not_agreed"
 msgstr "uttryckligt samtycke krävs för att fortsätta"
 
 msgid "trial_sites_header"
-msgstr "Testa sajter"
+msgstr "Provsajter"
 
 msgid "select_site_btn_label"
 msgstr "Registrering"
 
 msgid "express_consent_panel_title"
-msgstr "Express Samtycke"
+msgstr "Uttryckligt samtycke"
 
 msgid "proband_agreed_label"
 msgstr "Jag samtycker till att lagra mina uppgifter."
@@ -191,10 +191,10 @@ msgid "proband_panel_title"
 msgstr "Personlig information"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Prefixade titlar:"
+msgstr "Föregående titlar:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Ange eventuellt prefixade titlar."
+msgstr "Ange eventuellt prefixerade titlar."
 
 msgid "proband_first_name_label"
 msgstr "Förnamn:"
@@ -209,7 +209,7 @@ msgid "proband_last_name_tooltip"
 msgstr "Efternamnet krävs."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Postade titlar:"
+msgstr "Postpositionerade titlar:"
 
 msgid "proband_postpositioned_titles_tooltip"
 msgstr "Ange eventuellt postpositionerade titlar."
@@ -230,66 +230,66 @@ msgid "proband_citizenship_label"
 msgstr "Medborgarskap:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "Medborgarskap kan anges frivilligt."
+msgstr "Medborgarskap kan anges valfritt."
 
 msgid "proband_comment"
-msgstr "Registrering via %1\n"
-"för testplats '%2'\n"
-"rättegång '%3'\n"
-"från IP-adress %4\n"
-"med webbläsaren '%5'\n"
-"kommer från %6"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
 
 msgid "address_panel_title"
 msgstr "Adress"
 
 msgid "proband_address_country_name_label"
-msgstr "Land namn:"
+msgstr "Lands namn:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "Landets namn en del av postadressen krävs."
+msgstr "Landnamnsdelen av postadressen krävs."
 
 msgid "proband_address_province_label"
 msgstr "Stat:"
 
 msgid "proband_address_province_tooltip"
-msgstr "Länet/provinsen del av postadressen krävs."
+msgstr "Delstaten/provinsens del av postadressen krävs."
 
 msgid "proband_address_zip_code_label"
 msgstr "Postnummer:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "Postnummer del av postadressen måste fyllas i."
+msgstr "Postnummerdelen av postadressen krävs."
 
 msgid "proband_address_city_name_label"
-msgstr "Ort namn:"
+msgstr "Stadens namn:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "Stadens namn en del av postadressen krävs."
+msgstr "Stadsnamnsdelen av postadressen krävs."
 
 msgid "proband_address_street_name_label"
 msgstr "Gatunamn:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "Gatunamnet del av postadressen krävs."
+msgstr "Gatunamnsdelen av postadressen krävs."
 
 msgid "proband_address_house_number_label"
-msgstr "Husets nummer:"
+msgstr "Hus nummer:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "Husets nummer är en del av postadressen."
+msgstr "Husnummerdelen av postadressen krävs."
 
 msgid "proband_address_entrance_label"
-msgstr "Entré:"
+msgstr "Ingång:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "Entrén (trappan, blocket, vingen) är valfri."
+msgstr "Ingångsdelen (trappa, kvarter, flygel) till postadressen är valfri."
 
 msgid "proband_address_door_number_label"
 msgstr "Lägenhet:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "Lägenheten nummer del av postadressen är frivilligt."
+msgstr "Lägenhetsnummerdelen av postadressen är valfri."
 
 msgid "contact_details_panel_title"
 msgstr "Telefon och e-postadress"
@@ -298,37 +298,37 @@ msgid "proband_phone_label"
 msgstr "Telefon:"
 
 msgid "proband_phone_tooltip"
-msgstr "Telefonnummerformat som '0699 1234567' eller '0316 38573000'."
+msgstr "Telefonnummerformat som \"0699 1234567\" eller \"0316 38573000\"."
 
 msgid "proband_email_label"
-msgstr "Email:"
+msgstr "E-post:"
 
 msgid "proband_email_tooltip"
-msgstr "E-post adress format som \"max.mustermann@phoenixctms.org\"."
+msgstr "E-postadressformat som \"max.mustermann@phoenixctms.org\"."
 
 msgid "proband_email_notify_label"
 msgstr "meddela"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Tillåt att skicka e-post."
+msgstr "Tillåt att skicka e-postmeddelanden."
 
 msgid "trials_grid_header"
-msgstr "Prov/kandidatlista"
+msgstr "Försök/kandidatlistor"
 
 msgid "open_inquiries_btn_label"
-msgstr "Öppna inuiry formulär"
+msgstr "Öppna anmälningsformulär"
 
 msgid "signup_btn_label"
-msgstr "Registrering"
+msgstr "Bli Medlem"
 
 msgid "inquiries_grid_header"
-msgstr "Formulär för förfrågan - %1"
+msgstr "Förfrågningsformulär - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Förfrågan formulär ofullständig"
+msgstr "Förfrågningsformuläret är ofullständigt"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Titta gärna på alla sidor i frågeformuläret.<br/>Föredrar du att skicka och avsluta ändå?"
+msgstr "Titta på alla sidor i förfrågningsformuläret.<br/>Föredrar du att skicka och avsluta ändå?"
 
 msgid "inquiries_pbar_template"
 msgstr "skickat: %d/%d"
@@ -340,52 +340,52 @@ msgid "inquiries_prev_btn_label"
 msgstr "Välj provversion"
 
 msgid "probandletter_btn_label"
-msgstr "Öppen integritetspolicy som PDF"
+msgstr "Öppna integritetssamtycke som PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "Öppna förfrågningsformulär som PDF"
+msgstr "Öppna angivna förfrågningsformulär som PDF"
 
 msgid "404_title"
 msgstr "Den begärda sidan är inte tillgänglig"
 
 msgid "404_description"
-msgstr "<p>Tyvärr, sidan du begärde kunde inte hittas på denna webbplats. Du kanske klickade på en felaktig eller föråldrad URL.</p><p>Du kan växla tillbaka till <a href=\"/\">landningssidan</a> på denna webbplats genom att klicka på logotypen överst.</p>"
+msgstr "<p>Tyvärr, sidan du begärde kan inte hittas på denna sida. Du kanske klickade på en felaktig eller inaktuell webbadress.</p><p>Du kan byta tillbaka till <a href=\"/\">landningssidan</a> för denna webbplats genom att klicka på logotypen överst.</p>"
 
 msgid "start_title"
-msgstr "Rekrytering av klinisk prövning"
+msgstr "Rekrytering till kliniska prövningar"
 
 msgid "start_description"
-msgstr "<p>Utveckling av nya diagnostiska eller terapeutiska åtgärder kräver kliniska prövningar och frivilliga deltagare. Denna webbplats ger en översikt över pågående prövningar och möjlighet till deltagande.</p><p>Med din registrering läggs du till i den centrala databasen, så att vi kan kontakta dig för att äntligen skriva in dig som kandidat i pågående eller framtida prövningar (så länge du önskar det).</p><p>Starta registreringsprocessen vid en av testplatserna nedan.</p>"
+msgstr "<p>Utveckling av nya diagnostiska eller terapeutiska åtgärder kräver kliniska prövningar och frivilliga deltagare. Denna sida ger en översikt över pågående försök och möjligheten att delta.</p><p>Med din registrering läggs du till den centrala databasen, vilket gör att vi kan kontakta dig för att slutligen registrera dig som kandidat i pågående eller framtida försök (så länge du önskar det).</p><p>Starta registreringsprocessen på en av provsidorna nedan.</p>"
 
 msgid "proband_title"
-msgstr "Personuppgifter"
+msgstr "Personlig information"
 
 msgid "proband_description"
-msgstr "<p>I det första steget, skicka oss dina grundläggande personuppgifter, namn, kön och uppgifter om födelsen.</p>"
+msgstr "<p>I det första steget, skicka oss din grundläggande personliga information: namn, kön och födelsedata.</p>"
 
 msgid "contact_title"
 msgstr "Kontaktinformation"
 
 msgid "contact_description"
-msgstr "<p>I det andra steget, skicka oss dina kontaktuppgifter: postadress, telefonnummer och e-postadress.</p><p>En agent kan sedan komma i kontakt med dig för att få din uttryckliga bekräftelse för att lagra dina data. I denna första kontakt kommer du att informeras om inskrivningsprocedurer på provplatsen.</p><p>Din information är sekretessbelagd och kan endast ses av webbplatsens personal.</p>"
+msgstr "<p>I det andra steget, skicka oss dina kontaktuppgifter: postadress, telefonnummer och e-postadress.</p><p>En agent kan sedan komma i kontakt med dig för att få din uttryckliga bekräftelse på att lagra dina uppgifter. I denna första kontakt kommer du att informeras om registreringsprocedurer på provplatsen.</p><p>Din information är föremål för datasekretess och kan endast ses av webbplatsens personal.</p>"
 
 msgid "trial_title"
-msgstr "Pågående prövningar"
+msgstr "Pågående försök"
 
 msgid "trial_description"
-msgstr "<p>En översikt över pågående studier och utredningar presenteras i det tredje steget. Bläddra i listan för att se grundläggande information om kandidatkriterier, procedurer och ersättningar av enskilda prövningar.</p><p>Du kan ange ditt intresse för att delta i en viss rättegång genom att registrera dig eller öppna dess frågeformulär. Om du föredrar att slutföra detta vid ett senare tillfälle eller i direkt konversation, kan du hoppa över detta och avsluta din registrering.</p>"
+msgstr "<p>En översikt över pågående studier och förfrågningar presenteras i det tredje steget. Vänligen bläddra i listan för att se grundläggande information om kandidatkriterier, förfaranden och ersättningar för individuella försök.</p><p>Du kan ange ditt intresse för att delta i en viss testversion genom att registrera dig eller öppna dess förfrågningsformulär. Om du föredrar att slutföra detta vid ett senare tillfälle eller i direkt konversation, kan du hoppa över detta och avsluta din registrering.</p>"
 
 msgid "inquiry_title"
-msgstr "Formulär för förfrågan - %1"
+msgstr "Förfrågningsformulär - %1"
 
 msgid "inquiry_description"
-msgstr "<p>Enkäten är utformad för att slutföra den på några minuter och utan förberedelser. Eftersom den information du lämnar här kommer att användas för att identifiera dig som kandidat, vänligen ange korrekt och omfattande information.</p>"
+msgstr "<p>Förfrågningsformuläret är utformat för att fylla i det på några minuter och utan förberedelser. Eftersom informationen du lämnar här kommer att användas för att identifiera dig som kandidat, vänligen ange korrekt och heltäckande information.</p>"
 
 msgid "end_title"
-msgstr "Tack så mycket!"
+msgstr "Tack!"
 
 msgid "end_description"
-msgstr "<p>Tack för din registrering. Vi kommer att kontakta dig snart och ser fram emot att bjuda in dig till provplatsen som ny deltagare.</p><p>Du kan ladda ner PDF-dokument med dina angivna uppgifter. För att förhindra automatisk radering ber vi dig att skicka ditt undertecknade dataskyddsmedgivande till webbplatsens kontor via e-post eller e-post till %1.</p>"
+msgstr "<p>Tack för din registrering. Vi kommer att kontakta dig inom kort och ser fram emot att bjuda in dig till provsidan som ny deltagare.</p><p>Du kan ladda ner PDF-dokument med dina angivna data. För att förhindra automatisk radering, skicka in ditt undertecknade samtycke för datasekretess till webbplatsens kontor via e-post eller e-post fram till %1.</p>"
 
 msgid "invalid time"
 msgstr "ogiltig tid %1"

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hungarian\n"
-"PO-Revision-Date: 2024-03-17 18:32\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 msgid "lang"
 msgstr "hu"
@@ -38,7 +38,7 @@ msgid "lanuage_menu_label"
 msgstr "Nyelv"
 
 msgid "session_timer_pattern"
-msgstr "Az adatbevitel a következővel végződik: %M:%S"
+msgstr "Az adatbevitel a következőre végződik: %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Rajt"
@@ -373,7 +373,7 @@ msgid "trial_title"
 msgstr "Folyamatos próbák"
 
 msgid "trial_description"
-msgstr "<p>A folyamatban lévő tanulmányok és kérdések áttekintése a harmadik lépésben kerül bemutatásra. Kérjük, böngéssze át a listát, hogy megtekinthesse a jelölt kritériumaira, eljárásaira és az egyes vizsgálatok költségtérítésére vonatkozó alapvető információkat.</p><p>Egy adott kísérletben való részvétel iránti érdeklődését a regisztrációval vagy a kérdőív megnyitásával jelezheti. Ha ezt egy későbbi időpontban vagy közvetlen beszélgetésben szeretné befejezni, akkor ezt kihagyhatja, és befejezheti a regisztrációt.</p>"
+msgstr "<p>A folyamatban lévő tanulmányok és kérdések áttekintése a harmadik lépésben kerül bemutatásra. Kérjük, böngésszen a listában, hogy megtekinthesse a jelölt kritériumaira, eljárásaira és az egyes vizsgálatok költségtérítésére vonatkozó alapvető információkat.</p><p>Egy adott kísérletben való részvétel iránti érdeklődését jelezheti regisztrációval vagy a kérdőív megnyitásával. Ha ezt egy későbbi időpontban vagy közvetlen beszélgetésben szeretné elvégezni, akkor ezt kihagyhatja és befejezheti a regisztrációt.</p>"
 
 msgid "inquiry_title"
 msgstr "Kérdőív - %1"
