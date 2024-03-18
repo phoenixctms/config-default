@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"X-Crowdin-SourceKey: msgstr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: phoenix-ctms\n"
+"X-Crowdin-Project-ID: 445508\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[phoenixctms.config-default] master/bulk_processor/CTSMS/BulkProcessor/Projects/WebApps/Signup/i18n/en.po\n"
+"X-Crowdin-File-ID: 2366\n"
+"Project-Id-Version: phoenix-ctms\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"PO-Revision-Date: 2024-03-17 18:32\n"
+
+msgid "lang"
+msgstr "fr"
+
+msgid "lang_label"
+msgstr "Anglais"
+
+msgid "page_title"
+msgstr "Essais cliniques"
+
+msgid "meta_description"
+msgstr "Sujets voulus - s'inscrire pour les essais cliniques en cours maintenant."
+
+msgid "lead_label"
+msgstr "Recrutement d'essai clinique"
+
+msgid "logo_label"
+msgstr "Mon CRO"
+
+msgid "copyright_label"
+msgstr "<unk> 2019 Ma CRO"
+
+msgid "lanuage_menu_label"
+msgstr "Langue"
+
+msgid "session_timer_pattern"
+msgstr "La saisie de données se termine dans %M:%S"
+
+msgid "navigation_start_label"
+msgstr "Début"
+
+msgid "navigation_proband_label"
+msgstr "Personne"
+
+msgid "navigation_contact_label"
+msgstr "Coordonnées"
+
+msgid "navigation_trial_label"
+msgstr "Essai"
+
+msgid "navigation_inquiry_label"
+msgstr "Formulaire de demande"
+
+msgid "navigation_inquiry_trial_label"
+msgstr "Formulaire de demande - %1"
+
+msgid "navigation_end_label"
+msgstr "Fait"
+
+msgid "no_selection_label"
+msgstr "&nbsp;"
+
+msgid "wait_dlg_title"
+msgstr "Traitement en cours..."
+
+msgid "required_label"
+msgstr "Obligatoire"
+
+msgid "system_time_label"
+msgstr "(heure système - %1) "
+
+msgid "input_time_label"
+msgstr "(heure de l'utilisateur - %1) "
+
+msgid "optional_label"
+msgstr "optionnel"
+
+msgid "male"
+msgstr "mâle"
+
+msgid "female"
+msgstr "femelle"
+
+msgid "mandatory_field_label"
+msgstr "mandatory field"
+
+msgid "save_next_btn_label"
+msgstr "Envoyer et suivre"
+
+msgid "save_done_btn_label"
+msgstr "Envoyer et terminer"
+
+msgid "done_btn_label"
+msgstr "Terminer"
+
+msgid "yes_btn_label"
+msgstr "Oui"
+
+msgid "no_btn_label"
+msgstr "Non"
+
+msgid "apply_calculated_value_btn_label"
+msgstr "Appliquer la valeur"
+
+msgid "sketch_toggle_region_tooltip"
+msgstr "dessiner/effacer les régions de valeur de sélection"
+
+msgid "sketch_draw_mode_tooltip"
+msgstr "sélectionner le stylo (dessiner les traces) ou la gomme (supprimer les traces)"
+
+msgid "sketch_undo_tooltip"
+msgstr "Annuler"
+
+msgid "sketch_redo_tooltip"
+msgstr "Refaire"
+
+msgid "sketch_clear_tooltip"
+msgstr "effacer tous les traits"
+
+msgid "sketch_pen_width_0_tooltip"
+msgstr "largeur du stylet 12"
+
+msgid "sketch_pen_width_1_tooltip"
+msgstr "largeur du stylet 6"
+
+msgid "sketch_pen_width_2_tooltip"
+msgstr "largeur du stylet 3"
+
+msgid "sketch_pen_width_3_tooltip"
+msgstr "largeur du stylet 0,8"
+
+msgid "sketch_pen_opacity_0_tooltip"
+msgstr "opacité du stylet 100%"
+
+msgid "sketch_pen_opacity_1_tooltip"
+msgstr "opacité du stylet 60%"
+
+msgid "sketch_pen_opacity_2_tooltip"
+msgstr "opacité du stylet 30%"
+
+msgid "finish_btn_label"
+msgstr "Quitter"
+
+msgid "error_summary"
+msgstr "Erreur:"
+
+msgid "error_no_proband_created"
+msgstr "enregistrer d'abord les informations personnelles"
+
+msgid "error_no_contact_created"
+msgstr "enregistrer d'abord les coordonnées"
+
+msgid "error_no_trial_selected"
+msgstr "d'abord sélectionner un essai"
+
+msgid "error_inquiries_na"
+msgstr "d'abord sélectionner un essai avec formulaire de demande"
+
+msgid "error_trials_na"
+msgstr "sélectionnez d'abord un site d'essai avec des épreuves"
+
+msgid "error_proband_create_rate_limit"
+msgstr "un sujet a été créé récemment avec cet ordinateur, veuillez patienter avant de réessayer"
+
+msgid "error_no_contact_details"
+msgstr "veuillez fournir une adresse e-mail ou un numéro de téléphone"
+
+msgid "error_proband_not_agreed"
+msgstr "le consentement explicite est requis pour continuer"
+
+msgid "trial_sites_header"
+msgstr "Sites d'essai"
+
+msgid "select_site_btn_label"
+msgstr "Inscription"
+
+msgid "express_consent_panel_title"
+msgstr "Consentement express"
+
+msgid "proband_agreed_label"
+msgstr "J'accepte de stocker mes données."
+
+msgid "proband_agreed_tooltip"
+msgstr "Donner un consentement explicite."
+
+msgid "proband_panel_title"
+msgstr "Informations personnelles"
+
+msgid "proband_prefixed_titles_label"
+msgstr "Titres préfixes :"
+
+msgid "proband_prefixed_titles_tooltip"
+msgstr "Spécifiez éventuellement des titres préfixés."
+
+msgid "proband_first_name_label"
+msgstr "Prénom:"
+
+msgid "proband_first_name_tooltip"
+msgstr "Le prénom est requis."
+
+msgid "proband_last_name_label"
+msgstr "Nom de famille :"
+
+msgid "proband_last_name_tooltip"
+msgstr "Le nom est obligatoire."
+
+msgid "proband_postpositioned_titles_label"
+msgstr "Titres postpositionnés :"
+
+msgid "proband_postpositioned_titles_tooltip"
+msgstr "Spécifiez éventuellement les titres postés."
+
+msgid "proband_gender_label"
+msgstr "Sexe :"
+
+msgid "proband_gender_tooltip"
+msgstr "Le sexe est requis."
+
+msgid "proband_dob_label"
+msgstr "Date de naissance :"
+
+msgid "proband_dob_tooltip"
+msgstr "La date de naissance est requise (%1)."
+
+msgid "proband_citizenship_label"
+msgstr "Citoyenneté :"
+
+msgid "proband_citizenship_tooltip"
+msgstr "La citoyenneté peut être spécifiée en option."
+
+msgid "proband_comment"
+msgstr "Inscription via %1\n"
+"pour le site d'essai '%2'\n"
+"'%3'\n"
+"à partir de l'adresse IP %4\n"
+"en utilisant le navigateur '%5'\n"
+"venant de %6"
+
+msgid "address_panel_title"
+msgstr "Adresses"
+
+msgid "proband_address_country_name_label"
+msgstr "Nom du pays:"
+
+msgid "proband_address_country_name_tooltip"
+msgstr "La partie du nom du pays de l'adresse postale est requise."
+
+msgid "proband_address_province_label"
+msgstr "État:"
+
+msgid "proband_address_province_tooltip"
+msgstr "La partie état/province de l'adresse postale est requise."
+
+msgid "proband_address_zip_code_label"
+msgstr "Code postal :"
+
+msgid "proband_address_zip_code_tooltip"
+msgstr "La partie code postal de l'adresse postale est requise."
+
+msgid "proband_address_city_name_label"
+msgstr "Nom de la ville :"
+
+msgid "proband_address_city_name_tooltip"
+msgstr "La partie du nom de la ville de l'adresse postale est requise."
+
+msgid "proband_address_street_name_label"
+msgstr "Nom de la rue :"
+
+msgid "proband_address_street_name_tooltip"
+msgstr "La partie du nom de la rue de l'adresse postale est requise."
+
+msgid "proband_address_house_number_label"
+msgstr "Numéro de maison:"
+
+msgid "proband_address_house_number_tooltip"
+msgstr "Une partie du numéro de la maison de l'adresse postale est requise."
+
+msgid "proband_address_entrance_label"
+msgstr "Entrée :"
+
+msgid "proband_address_entrance_tooltip"
+msgstr "La partie entrée (escalier, bloc, aile) de l'adresse postale est facultative."
+
+msgid "proband_address_door_number_label"
+msgstr "Appartement:"
+
+msgid "proband_address_door_number_tooltip"
+msgstr "La partie numéro d'appartement de l'adresse postale est facultative."
+
+msgid "contact_details_panel_title"
+msgstr "Téléphone et adresse e-mail"
+
+msgid "proband_phone_label"
+msgstr "Téléphone :"
+
+msgid "proband_phone_tooltip"
+msgstr "Format du numéro de téléphone comme '0699 1234567' ou '0316 38573000'."
+
+msgid "proband_email_label"
+msgstr "Email:"
+
+msgid "proband_email_tooltip"
+msgstr "Format d'adresse e-mail comme 'max.mustermann@phoenixctms.org'."
+
+msgid "proband_email_notify_label"
+msgstr "notifier"
+
+msgid "proband_email_notify_tooltip"
+msgstr "Autoriser l'envoi d'E-mails."
+
+msgid "trials_grid_header"
+msgstr "Listes des épreuves/candidats"
+
+msgid "open_inquiries_btn_label"
+msgstr "Ouvrir le formulaire d'inuiry"
+
+msgid "signup_btn_label"
+msgstr "Inscription"
+
+msgid "inquiries_grid_header"
+msgstr "Formulaire de demande - %1"
+
+msgid "incomplete_dlg_title"
+msgstr "Formulaire de demande incomplet"
+
+msgid "incomplete_dlg_prompt"
+msgstr "Veuillez consulter toutes les pages du formulaire de demande.<br/>Voulez-vous quand même envoyer et terminer ?"
+
+msgid "inquiries_pbar_template"
+msgstr "envoyé: %d/%d"
+
+msgid "inquiryform_blank_btn_label"
+msgstr "Ouvrir en PDF"
+
+msgid "inquiries_prev_btn_label"
+msgstr "Sélectionnez la version d'essai"
+
+msgid "probandletter_btn_label"
+msgstr "Ouvrir le consentement de confidentialité en PDF"
+
+msgid "inquiryforms_btn_label"
+msgstr "Ouvrir les formulaires de demande entrés en PDF"
+
+msgid "404_title"
+msgstr "La page demandée n'est pas disponible"
+
+msgid "404_description"
+msgstr "<p>Désolé, la page que vous avez demandée est introuvable sur ce site. Peut-être avez-vous cliqué sur une URL erronée ou obsolète.</p><p>Vous pouvez revenir à la <a href=\"/\">page de destination</a> de ce site en cliquant sur le logo en haut.</p>"
+
+msgid "start_title"
+msgstr "Recrutement d'essai clinique"
+
+msgid "start_description"
+msgstr "<p>Le développement de nouvelles mesures diagnostiques ou thérapeutiques nécessite des essais cliniques et des participants volontaires. Ce site donne un aperçu des essais en cours et des possibilités de participation.</p><p>Avec votre inscription vous êtes ajouté à la base de données centrale, nous permettant de vous contacter afin de finalement vous inscrire comme candidat aux essais en cours ou à venir (tant que vous le souhaitez).</p><p>Démarrez le processus d'inscription sur l'un des sites d'essai ci-dessous.</p>"
+
+msgid "proband_title"
+msgstr "Données personnelles"
+
+msgid "proband_description"
+msgstr "<p>Dans un premier temps, envoyez-nous vos informations personnelles de base : nom, sexe et données de naissance.</p>"
+
+msgid "contact_title"
+msgstr "Coordonnées"
+
+msgid "contact_description"
+msgstr "<p>Dans un deuxième temps, envoyez-nous vos coordonnées : adresse postale, numéro de téléphone et adresse email.</p><p>Un agent pourra alors entrer en contact avec vous pour obtenir votre confirmation explicite de stockage de vos données. Lors de ce premier contact, vous serez informé des procédures d'inscription sur le site d'essai.</p><p>Vos informations sont soumises à la confidentialité des données et peuvent être consultées exclusivement par le personnel du site.</p>"
+
+msgid "trial_title"
+msgstr "Épreuves en cours"
+
+msgid "trial_description"
+msgstr "<p>Un aperçu des études et enquêtes en cours est présenté dans la troisième étape. Veuillez parcourir la liste pour voir les informations de base concernant les critères de candidature, les procédures et les remboursements des essais individuels.</p><p>Vous pouvez indiquer votre intérêt à participer à un essai particulier en vous inscrivant ou en ouvrant son formulaire de demande. Si vous préférez terminer cette opération plus tard ou lors d'une conversation directe, vous pouvez ignorer cette étape et terminer votre inscription.</p>"
+
+msgid "inquiry_title"
+msgstr "Formulaire de demande - %1"
+
+msgid "inquiry_description"
+msgstr "<p>Le formulaire de demande est conçu pour le remplir en quelques minutes et sans préparation. Étant donné que les informations que vous fournissez ici seront utilisées pour vous identifier en tant que candidat, veuillez fournir des informations correctes et complètes.</p>"
+
+msgid "end_title"
+msgstr "Merci!"
+
+msgid "end_description"
+msgstr "<p>Merci pour votre inscription. Nous vous contacterons bientôt et nous sommes impatients de vous inviter sur le site d'essai en tant que nouveau participant.</p><p>Vous pouvez télécharger des documents PDF avec les données fournies. Pour empêcher la suppression automatique, veuillez soumettre votre consentement signé à la confidentialité des données au bureau du site par courrier ou par e-mail jusqu'au %1.</p>"
+
+msgid "invalid time"
+msgstr "heure %1 invalide"
+
+msgid "invalid hour"
+msgstr "heure %1 invalide"
+
+msgid "invalid minute"
+msgstr "minute %1 invalide"
+
+msgid "invalid second"
+msgstr "seconde %1 invalide"
+
+msgid "invalid date"
+msgstr "date %1 invalide"
+
+msgid "invalid month"
+msgstr "mois %1 invalide"
+
+msgid "invalid year"
+msgstr "année %1 invalide"
+
+msgid "invalid day"
+msgstr "jour %1 invalide"
+

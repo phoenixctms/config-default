@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Language: sw_KE\n"
+"X-Crowdin-SourceKey: msgstr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: phoenix-ctms\n"
+"X-Crowdin-Project-ID: 445508\n"
+"X-Crowdin-Language: sw\n"
+"X-Crowdin-File: /[phoenixctms.config-default] master/bulk_processor/CTSMS/BulkProcessor/Projects/WebApps/Signup/i18n/en.po\n"
+"X-Crowdin-File-ID: 2366\n"
+"Project-Id-Version: phoenix-ctms\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swahili\n"
+"PO-Revision-Date: 2024-03-17 18:32\n"
+
+msgid "lang"
+msgstr "sw"
+
+msgid "lang_label"
+msgstr "Kiingereza"
+
+msgid "page_title"
+msgstr "Majaribio ya Kliniki"
+
+msgid "meta_description"
+msgstr "Mada zinazohitajika - jiandikishe kwa majaribio ya kliniki yanayoendelea sasa."
+
+msgid "lead_label"
+msgstr "Uajiri wa Majaribio ya Kliniki"
+
+msgid "logo_label"
+msgstr "CRO yangu"
+
+msgid "copyright_label"
+msgstr "ｩ 2019 CRO yangu"
+
+msgid "lanuage_menu_label"
+msgstr "Lugha"
+
+msgid "session_timer_pattern"
+msgstr "Ingizo la data linaisha kwa %M:%S"
+
+msgid "navigation_start_label"
+msgstr "Anza"
+
+msgid "navigation_proband_label"
+msgstr "Mtu"
+
+msgid "navigation_contact_label"
+msgstr "Maelezo ya Mawasiliano"
+
+msgid "navigation_trial_label"
+msgstr "Jaribio"
+
+msgid "navigation_inquiry_label"
+msgstr "Fomu ya Uchunguzi"
+
+msgid "navigation_inquiry_trial_label"
+msgstr "Fomu ya Kuuliza - %1"
+
+msgid "navigation_end_label"
+msgstr "Imekamilika"
+
+msgid "no_selection_label"
+msgstr "&nbsp;"
+
+msgid "wait_dlg_title"
+msgstr "Inachakata..."
+
+msgid "required_label"
+msgstr "inahitajika"
+
+msgid "system_time_label"
+msgstr "(wakati wa mfumo - %1) "
+
+msgid "input_time_label"
+msgstr "(wakati wa mtumiaji - %1) "
+
+msgid "optional_label"
+msgstr "hiari"
+
+msgid "male"
+msgstr "kiume"
+
+msgid "female"
+msgstr "kike"
+
+msgid "mandatory_field_label"
+msgstr "shamba la lazima"
+
+msgid "save_next_btn_label"
+msgstr "Tuma na ijayo"
+
+msgid "save_done_btn_label"
+msgstr "Tuma na umalize"
+
+msgid "done_btn_label"
+msgstr "Maliza"
+
+msgid "yes_btn_label"
+msgstr "Ndiyo"
+
+msgid "no_btn_label"
+msgstr "Hapana"
+
+msgid "apply_calculated_value_btn_label"
+msgstr "Tumia thamani"
+
+msgid "sketch_toggle_region_tooltip"
+msgstr "chora/safisha maeneo ya kuweka thamani ya uteuzi"
+
+msgid "sketch_draw_mode_tooltip"
+msgstr "chagua kalamu (chora viboko) au kifutio (ondoa viboko vilivyochaguliwa)"
+
+msgid "sketch_undo_tooltip"
+msgstr "tengua"
+
+msgid "sketch_redo_tooltip"
+msgstr "fanya upya"
+
+msgid "sketch_clear_tooltip"
+msgstr "futa viboko vyote"
+
+msgid "sketch_pen_width_0_tooltip"
+msgstr "upana wa kalamu 12"
+
+msgid "sketch_pen_width_1_tooltip"
+msgstr "upana wa kalamu 6"
+
+msgid "sketch_pen_width_2_tooltip"
+msgstr "upana wa kalamu 3"
+
+msgid "sketch_pen_width_3_tooltip"
+msgstr "upana wa kalamu 0.8"
+
+msgid "sketch_pen_opacity_0_tooltip"
+msgstr "uwazi wa kalamu 100%"
+
+msgid "sketch_pen_opacity_1_tooltip"
+msgstr "uwazi wa kalamu 60%"
+
+msgid "sketch_pen_opacity_2_tooltip"
+msgstr "uwazi wa kalamu 30%"
+
+msgid "finish_btn_label"
+msgstr "Acha"
+
+msgid "error_summary"
+msgstr "Hitilafu:"
+
+msgid "error_no_proband_created"
+msgstr "hifadhi taarifa za kibinafsi kwanza"
+
+msgid "error_no_contact_created"
+msgstr "hifadhi maelezo ya mawasiliano kwanza"
+
+msgid "error_no_trial_selected"
+msgstr "chagua jaribio kwanza"
+
+msgid "error_inquiries_na"
+msgstr "chagua kesi na fomu ya uchunguzi kwanza"
+
+msgid "error_trials_na"
+msgstr "chagua tovuti ya majaribio yenye majaribio kwanza"
+
+msgid "error_proband_create_rate_limit"
+msgstr "somo liliundwa na kompyuta hii hivi karibuni, tafadhali subiri kabla ya kujaribu tena"
+
+msgid "error_no_contact_details"
+msgstr "tafadhali toa barua pepe au nambari ya simu"
+
+msgid "error_proband_not_agreed"
+msgstr "idhini ya moja kwa moja inahitajika ili kuendelea"
+
+msgid "trial_sites_header"
+msgstr "Maeneo ya majaribio"
+
+msgid "select_site_btn_label"
+msgstr "Usajili"
+
+msgid "express_consent_panel_title"
+msgstr "Idhini ya Express"
+
+msgid "proband_agreed_label"
+msgstr "Ninakubali kuhifadhi data yangu."
+
+msgid "proband_agreed_tooltip"
+msgstr "Toa idhini ya moja kwa moja."
+
+msgid "proband_panel_title"
+msgstr "Taarifa za Kibinafsi"
+
+msgid "proband_prefixed_titles_label"
+msgstr "Majina yenye viambishi awali:"
+
+msgid "proband_prefixed_titles_tooltip"
+msgstr "Bainisha kwa hiari vichwa vilivyoangaziwa."
+
+msgid "proband_first_name_label"
+msgstr "Jina la kwanza:"
+
+msgid "proband_first_name_tooltip"
+msgstr "Jina la kwanza linahitajika."
+
+msgid "proband_last_name_label"
+msgstr "Jina la familia:"
+
+msgid "proband_last_name_tooltip"
+msgstr "Jina la mwisho linahitajika."
+
+msgid "proband_postpositioned_titles_label"
+msgstr "Majina yaliyowekwa:"
+
+msgid "proband_postpositioned_titles_tooltip"
+msgstr "Bainisha kwa hiari mada zilizowekwa."
+
+msgid "proband_gender_label"
+msgstr "Jinsia:"
+
+msgid "proband_gender_tooltip"
+msgstr "Jinsia inahitajika."
+
+msgid "proband_dob_label"
+msgstr "Tarehe ya kuzaliwa:"
+
+msgid "proband_dob_tooltip"
+msgstr "Tarehe ya kuzaliwa inahitajika (%1)."
+
+msgid "proband_citizenship_label"
+msgstr "Uraia:"
+
+msgid "proband_citizenship_tooltip"
+msgstr "Uraia unaweza kubainishwa kwa hiari."
+
+msgid "proband_comment"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
+
+msgid "address_panel_title"
+msgstr "Anwani"
+
+msgid "proband_address_country_name_label"
+msgstr "Jina la nchi:"
+
+msgid "proband_address_country_name_tooltip"
+msgstr "Sehemu ya jina la nchi ya anwani ya posta inahitajika."
+
+msgid "proband_address_province_label"
+msgstr "Jimbo:"
+
+msgid "proband_address_province_tooltip"
+msgstr "Sehemu ya jimbo/mkoa ya anwani ya posta inahitajika."
+
+msgid "proband_address_zip_code_label"
+msgstr "Namba ya Posta:"
+
+msgid "proband_address_zip_code_tooltip"
+msgstr "Sehemu ya msimbo wa zip ya anwani ya posta inahitajika."
+
+msgid "proband_address_city_name_label"
+msgstr "Jina la jiji:"
+
+msgid "proband_address_city_name_tooltip"
+msgstr "Jina la jiji sehemu ya anwani ya posta inahitajika."
+
+msgid "proband_address_street_name_label"
+msgstr "Jina la mtaa:"
+
+msgid "proband_address_street_name_tooltip"
+msgstr "Sehemu ya jina la mtaa ya anwani ya posta inahitajika."
+
+msgid "proband_address_house_number_label"
+msgstr "Nambari ya nyumba:"
+
+msgid "proband_address_house_number_tooltip"
+msgstr "Nambari ya nyumba sehemu ya anwani ya posta inahitajika."
+
+msgid "proband_address_entrance_label"
+msgstr "Ingång:"
+
+msgid "proband_address_entrance_tooltip"
+msgstr "Sehemu ya kuingilia (ngazi, kizuizi, bawa) ya anwani ya posta ni ya hiari."
+
+msgid "proband_address_door_number_label"
+msgstr "Ghorofa:"
+
+msgid "proband_address_door_number_tooltip"
+msgstr "Nambari ya ghorofa sehemu ya anwani ya posta ni ya hiari."
+
+msgid "contact_details_panel_title"
+msgstr "Simu na Barua Pepe"
+
+msgid "proband_phone_label"
+msgstr "Simu:"
+
+msgid "proband_phone_tooltip"
+msgstr "Umbizo la nambari ya simu kama '0699 1234567' au '0316 38573000'."
+
+msgid "proband_email_label"
+msgstr "Barua pepe:"
+
+msgid "proband_email_tooltip"
+msgstr "Umbizo la anwani ya barua pepe kama 'max.mustermann@phoenixctms.org'."
+
+msgid "proband_email_notify_label"
+msgstr "arifu"
+
+msgid "proband_email_notify_tooltip"
+msgstr "Ruhusu kutuma Barua pepe."
+
+msgid "trials_grid_header"
+msgstr "Majaribio/orodha za Wagombea"
+
+msgid "open_inquiries_btn_label"
+msgstr "Fungua fomu ya inuri"
+
+msgid "signup_btn_label"
+msgstr "Jisajili"
+
+msgid "inquiries_grid_header"
+msgstr "Fomu ya Kuuliza - %1"
+
+msgid "incomplete_dlg_title"
+msgstr "Fomu ya uchunguzi haijakamilika"
+
+msgid "incomplete_dlg_prompt"
+msgstr "Tafadhali angalia kurasa zote za fomu ya uchunguzi.<br/>Je, unapendelea kutuma na kumaliza hata hivyo?"
+
+msgid "inquiries_pbar_template"
+msgstr "imetumwa: %d/%d"
+
+msgid "inquiryform_blank_btn_label"
+msgstr "Fungua kama PDF"
+
+msgid "inquiries_prev_btn_label"
+msgstr "Chagua jaribio"
+
+msgid "probandletter_btn_label"
+msgstr "Fungua idhini ya faragha kama PDF"
+
+msgid "inquiryforms_btn_label"
+msgstr "Fungua fomu za uchunguzi zilizoingizwa kama PDF"
+
+msgid "404_title"
+msgstr "Ukurasa ulioombwa haupatikani"
+
+msgid "404_description"
+msgstr "<p>Samahani, ukurasa ulioomba hauwezi kupatikana kwenye tovuti hii. Labda ulibofya URL isiyo sahihi au iliyopitwa na wakati.</p><p>Unaweza kurudi hadi <a href=\"/\">ukurasa wa kutua</a> wa tovuti hii kwa kubofya nembo iliyo juu.</p>"
+
+msgid "start_title"
+msgstr "Uajiri wa Majaribio ya Kliniki"
+
+msgid "start_description"
+msgstr "<p>Uundaji wa hatua mpya za uchunguzi au matibabu unahitaji majaribio ya kimatibabu na washiriki wa hiari. Tovuti hii inatoa muhtasari wa majaribio yanayoendelea na fursa ya kushiriki.</p><p>Kwa usajili wako huongezwa kwenye hifadhidata kuu, ikituruhusu kuwasiliana nawe ili hatimaye kukusajili kama mgombeaji katika majaribio yanayoendelea au yajayo (mradi tu upendavyo).</p><p>Anzisha mchakato wa usajili katika mojawapo ya tovuti za majaribio hapa chini.</p>"
+
+msgid "proband_title"
+msgstr "Taarifa binafsi"
+
+msgid "proband_description"
+msgstr "<p>Katika hatua ya kwanza, tutumie maelezo yako ya kimsingi ya kibinafsi: jina, jinsia na data ya kuzaliwa.</p>"
+
+msgid "contact_title"
+msgstr "Maelezo ya Mawasiliano"
+
+msgid "contact_description"
+msgstr "<p>Katika hatua ya pili, tutumie maelezo yako ya mawasiliano: anwani ya posta, nambari ya simu na barua pepe.</p><p>Kisha wakala anaweza kuwasiliana nawe ili kupata uthibitisho wako wazi wa kuhifadhi data yako. Katika mawasiliano haya ya kwanza utaarifiwa kuhusu taratibu za kujiandikisha kwenye tovuti ya majaribio.</p><p>Maelezo yako yanategemea faragha ya data na yanaweza kutazamwa na wafanyikazi wa tovuti pekee.</p>"
+
+msgid "trial_title"
+msgstr "Majaribio Yanayoendelea"
+
+msgid "trial_description"
+msgstr "<p>Muhtasari wa masomo na maswali yanayoendelea umewasilishwa katika hatua ya tatu. Tafadhali vinjari orodha ili kuona maelezo ya msingi kuhusu vigezo vya mgombea, taratibu na ulipaji wa malipo ya majaribio ya mtu binafsi.</p><p>Unaweza kuonyesha nia yako ya kushiriki jaribio fulani kwa kujisajili au kufungua fomu yake ya uchunguzi. Ukipendelea kukamilisha hili baadaye au katika mazungumzo ya direkt, unaweza kuruka hili na ukamilishe usajili wako.</p>"
+
+msgid "inquiry_title"
+msgstr "Fomu ya Kuuliza - %1"
+
+msgid "inquiry_description"
+msgstr "<p>Fomu ya uchunguzi imeundwa ili kuijaza kwa dakika chache na bila matayarisho. Kwa kuwa maelezo utakayotoa hapa yatatumika kukutambulisha kama mgombeaji, tafadhali toa maelezo sahihi na ya kina.</p>"
+
+msgid "end_title"
+msgstr "Asante!"
+
+msgid "end_description"
+msgstr "<p>Asante kwa usajili wako. Tutawasiliana nawe hivi karibuni na tunatarajia kukualika kwenye tovuti ya majaribio kama mshiriki mpya.</p><p>Unaweza kupakua hati za PDF na data uliyotoa. Ili kuzuia ufutaji kiotomatiki, tafadhali wasilisha idhini yako ya faragha ya data iliyotiwa saini kwa ofisi ya tovuti kupitia barua au barua pepe hadi %1.</p>"
+
+msgid "invalid time"
+msgstr "wakati batili %1"
+
+msgid "invalid hour"
+msgstr "saa batili %1"
+
+msgid "invalid minute"
+msgstr "dakika batili %1"
+
+msgid "invalid second"
+msgstr "sekunde batili %1"
+
+msgid "invalid date"
+msgstr "tarehe batili %1"
+
+msgid "invalid month"
+msgstr "mwezi batili %1"
+
+msgid "invalid year"
+msgstr "mwaka batili %1"
+
+msgid "invalid day"
+msgstr "siku batili %1"
+

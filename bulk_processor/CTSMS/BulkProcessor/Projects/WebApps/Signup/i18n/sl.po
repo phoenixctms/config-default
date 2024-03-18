@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Language: sl_SI\n"
+"X-Crowdin-SourceKey: msgstr\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
+"X-Crowdin-Project: phoenix-ctms\n"
+"X-Crowdin-Project-ID: 445508\n"
+"X-Crowdin-Language: sl\n"
+"X-Crowdin-File: /[phoenixctms.config-default] master/bulk_processor/CTSMS/BulkProcessor/Projects/WebApps/Signup/i18n/en.po\n"
+"X-Crowdin-File-ID: 2366\n"
+"Project-Id-Version: phoenix-ctms\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Slovenian\n"
+"PO-Revision-Date: 2024-03-17 18:32\n"
+
+msgid "lang"
+msgstr "en"
+
+msgid "lang_label"
+msgstr "angleščina"
+
+msgid "page_title"
+msgstr "Kliničnih preskušanj"
+
+msgid "meta_description"
+msgstr "Iskani subjekti - prijavite se za tekoča klinična preskušanja zdaj."
+
+msgid "lead_label"
+msgstr "Zaposlovanje v kliničnem preskušanju"
+
+msgid "logo_label"
+msgstr "Moj CRO"
+
+msgid "copyright_label"
+msgstr "ｩ 2019 Moj CRO"
+
+msgid "lanuage_menu_label"
+msgstr "Jezik"
+
+msgid "session_timer_pattern"
+msgstr "Vnos podatkov se konča na %M:%S"
+
+msgid "navigation_start_label"
+msgstr "Začetek"
+
+msgid "navigation_proband_label"
+msgstr "Oseba"
+
+msgid "navigation_contact_label"
+msgstr "Kontaktni podatki"
+
+msgid "navigation_trial_label"
+msgstr "Sojenje"
+
+msgid "navigation_inquiry_label"
+msgstr "Obrazec za povpraševanje"
+
+msgid "navigation_inquiry_trial_label"
+msgstr "Obrazec za povpraševanje - %1"
+
+msgid "navigation_end_label"
+msgstr "Končano"
+
+msgid "no_selection_label"
+msgstr "&nbsp;"
+
+msgid "wait_dlg_title"
+msgstr "Obravnavati..."
+
+msgid "required_label"
+msgstr "potrebno"
+
+msgid "system_time_label"
+msgstr "(sistemski čas - %1) "
+
+msgid "input_time_label"
+msgstr "(uporabniški čas - %1) "
+
+msgid "optional_label"
+msgstr "neobvezno"
+
+msgid "male"
+msgstr "moški"
+
+msgid "female"
+msgstr "ženska"
+
+msgid "mandatory_field_label"
+msgstr "obvezno polje"
+
+msgid "save_next_btn_label"
+msgstr "Pošlji in naprej"
+
+msgid "save_done_btn_label"
+msgstr "Pošlji in dokončaj"
+
+msgid "done_btn_label"
+msgstr "Končaj"
+
+msgid "yes_btn_label"
+msgstr "ja"
+
+msgid "no_btn_label"
+msgstr "št"
+
+msgid "apply_calculated_value_btn_label"
+msgstr "Uporabi vrednost"
+
+msgid "sketch_toggle_region_tooltip"
+msgstr "risanje/počisti območja nastavljenih vrednosti izbire"
+
+msgid "sketch_draw_mode_tooltip"
+msgstr "izberite pero (rišite poteze) ali radirko (odstranite izbrane poteze)"
+
+msgid "sketch_undo_tooltip"
+msgstr "razveljaviti"
+
+msgid "sketch_redo_tooltip"
+msgstr "ponovi"
+
+msgid "sketch_clear_tooltip"
+msgstr "počistite vse poteze"
+
+msgid "sketch_pen_width_0_tooltip"
+msgstr "širina peresa 12"
+
+msgid "sketch_pen_width_1_tooltip"
+msgstr "širina peresa 6"
+
+msgid "sketch_pen_width_2_tooltip"
+msgstr "širina peresa 3"
+
+msgid "sketch_pen_width_3_tooltip"
+msgstr "širina peresa 0,8"
+
+msgid "sketch_pen_opacity_0_tooltip"
+msgstr "motnost peresa 100%"
+
+msgid "sketch_pen_opacity_1_tooltip"
+msgstr "motnost peresa 60%"
+
+msgid "sketch_pen_opacity_2_tooltip"
+msgstr "motnost peresa 30%"
+
+msgid "finish_btn_label"
+msgstr "Prenehati"
+
+msgid "error_summary"
+msgstr "Napaka:"
+
+msgid "error_no_proband_created"
+msgstr "najprej shranite osebne podatke"
+
+msgid "error_no_contact_created"
+msgstr "najprej shranite kontaktne podatke"
+
+msgid "error_no_trial_selected"
+msgstr "najprej izberite preizkus"
+
+msgid "error_inquiries_na"
+msgstr "najprej izberite preizkus z obrazcem za povpraševanje"
+
+msgid "error_trials_na"
+msgstr "najprej izberite poskusno mesto s poskusi"
+
+msgid "error_proband_create_rate_limit"
+msgstr "zadeva je bila nedavno ustvarjena s tem računalnikom, počakajte, preden poskusite znova"
+
+msgid "error_no_contact_details"
+msgstr "navedite e-poštni naslov ali telefonsko številko"
+
+msgid "error_proband_not_agreed"
+msgstr "za nadaljevanje je potrebno izrecno soglasje"
+
+msgid "trial_sites_header"
+msgstr "Poskusna mesta"
+
+msgid "select_site_btn_label"
+msgstr "Registracija"
+
+msgid "express_consent_panel_title"
+msgstr "Izrecno soglasje"
+
+msgid "proband_agreed_label"
+msgstr "Strinjam se s shranjevanjem mojih podatkov."
+
+msgid "proband_agreed_tooltip"
+msgstr "Podajte izrecno soglasje."
+
+msgid "proband_panel_title"
+msgstr "Osebne informacije"
+
+msgid "proband_prefixed_titles_label"
+msgstr "Naslovi s predpono:"
+
+msgid "proband_prefixed_titles_tooltip"
+msgstr "Po želji določite naslove s predpono."
+
+msgid "proband_first_name_label"
+msgstr "Ime:"
+
+msgid "proband_first_name_tooltip"
+msgstr "Ime je obvezno."
+
+msgid "proband_last_name_label"
+msgstr "Priimek:"
+
+msgid "proband_last_name_tooltip"
+msgstr "Priimek je obvezen."
+
+msgid "proband_postpositioned_titles_label"
+msgstr "Postpozicionirani naslovi:"
+
+msgid "proband_postpositioned_titles_tooltip"
+msgstr "Izbirno določite postpozicionirane naslove."
+
+msgid "proband_gender_label"
+msgstr "spol:"
+
+msgid "proband_gender_tooltip"
+msgstr "Spol je obvezen."
+
+msgid "proband_dob_label"
+msgstr "Datum rojstva:"
+
+msgid "proband_dob_tooltip"
+msgstr "Datum rojstva je obvezen (%1)."
+
+msgid "proband_citizenship_label"
+msgstr "Državljanstvo:"
+
+msgid "proband_citizenship_tooltip"
+msgstr "Državljanstvo lahko navedete po želji."
+
+msgid "proband_comment"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
+
+msgid "address_panel_title"
+msgstr "Naslov"
+
+msgid "proband_address_country_name_label"
+msgstr "Ime države:"
+
+msgid "proband_address_country_name_tooltip"
+msgstr "Del poštnega naslova z imenom države je obvezen."
+
+msgid "proband_address_province_label"
+msgstr "Država:"
+
+msgid "proband_address_province_tooltip"
+msgstr "Del poštnega naslova z državo/provinco je obvezen."
+
+msgid "proband_address_zip_code_label"
+msgstr "Poštna številka:"
+
+msgid "proband_address_zip_code_tooltip"
+msgstr "Del poštnega naslova z poštno številko je obvezen."
+
+msgid "proband_address_city_name_label"
+msgstr "Ime mesta:"
+
+msgid "proband_address_city_name_tooltip"
+msgstr "Del poštnega naslova z imenom mesta je obvezen."
+
+msgid "proband_address_street_name_label"
+msgstr "Ime ulice:"
+
+msgid "proband_address_street_name_tooltip"
+msgstr "Del poštnega naslova z imenom ulice je obvezen."
+
+msgid "proband_address_house_number_label"
+msgstr "Hišna številka:"
+
+msgid "proband_address_house_number_tooltip"
+msgstr "Del poštnega naslova s hišno številko je obvezen."
+
+msgid "proband_address_entrance_label"
+msgstr "Vhod:"
+
+msgid "proband_address_entrance_tooltip"
+msgstr "Vhodni (stopniščni, blok, trakt) del poštnega naslova ni obvezen."
+
+msgid "proband_address_door_number_label"
+msgstr "Apartma:"
+
+msgid "proband_address_door_number_tooltip"
+msgstr "Del poštnega naslova s številko stanovanja ni obvezen."
+
+msgid "contact_details_panel_title"
+msgstr "Telefon in e-poštni naslov"
+
+msgid "proband_phone_label"
+msgstr "telefon:"
+
+msgid "proband_phone_tooltip"
+msgstr "Oblika telefonske številke, kot je »0699 1234567« ali »0316 38573000«."
+
+msgid "proband_email_label"
+msgstr "E-naslov:"
+
+msgid "proband_email_tooltip"
+msgstr "Oblika e-poštnega naslova, kot je \"max.mustermann@phoenixctms.org\"."
+
+msgid "proband_email_notify_label"
+msgstr "obvestiti"
+
+msgid "proband_email_notify_tooltip"
+msgstr "Dovoli pošiljanje e-pošte."
+
+msgid "trials_grid_header"
+msgstr "Poskusi/seznami kandidatov"
+
+msgid "open_inquiries_btn_label"
+msgstr "Odprite inuiry obrazec"
+
+msgid "signup_btn_label"
+msgstr "Prijava"
+
+msgid "inquiries_grid_header"
+msgstr "Obrazec za povpraševanje - %1"
+
+msgid "incomplete_dlg_title"
+msgstr "Obrazec za povpraševanje nepopoln"
+
+msgid "incomplete_dlg_prompt"
+msgstr "Prosimo, da si ogledate vse strani obrazca za povpraševanje.<br/>Ali vseeno raje pošljete in dokončate?"
+
+msgid "inquiries_pbar_template"
+msgstr "poslano: %d/%d"
+
+msgid "inquiryform_blank_btn_label"
+msgstr "Odpri kot PDF"
+
+msgid "inquiries_prev_btn_label"
+msgstr "Izberite preizkus"
+
+msgid "probandletter_btn_label"
+msgstr "Odpri soglasje o zasebnosti kot PDF"
+
+msgid "inquiryforms_btn_label"
+msgstr "Odprite vnesene obrazce za povpraševanje kot PDF"
+
+msgid "404_title"
+msgstr "Zahtevana stran ni na voljo"
+
+msgid "404_description"
+msgstr "<p>Strani, ki ste jo zahtevali, žal ni mogoče najti na tem mestu. Morda ste kliknili napačen ali zastarel URL.</p><p>Lahko preklopite nazaj na <a href=\"/\">ciljno stran</a> tega mesta, tako da kliknete logotip na vrhu.</p>"
+
+msgid "start_title"
+msgstr "Zaposlovanje v kliničnem preskušanju"
+
+msgid "start_description"
+msgstr "<p>Razvoj novih diagnostičnih ali terapevtskih ukrepov zahteva klinična preskušanja in prostovoljne udeležence. To spletno mesto ponuja pregled tekočih poskusov in možnost sodelovanja.</p><p>Z vašo registracijo ste dodani v osrednjo zbirko podatkov, kar nam omogoča, da stopimo v stik z vami, da vas končno vključimo kot kandidata v tekoča ali prihodnja preskušanja (če tako želite).</p><p>Začnite postopek registracije na enem od spodnjih preskusnih mest.</p>"
+
+msgid "proband_title"
+msgstr "Osebni podatki"
+
+msgid "proband_description"
+msgstr "<p>V prvem koraku nam pošljite svoje osnovne osebne podatke: ime, spol in podatke o rojstvu.</p>"
+
+msgid "contact_title"
+msgstr "Kontaktni podatki"
+
+msgid "contact_description"
+msgstr "<p>V drugem koraku nam pošljite svoje kontaktne podatke: poštni naslov, telefonsko številko in elektronski naslov.</p><p>Agent lahko nato stopi v stik z vami, da dobi vašo izrecno potrditev za shranjevanje vaših podatkov. V tem prvem stiku boste obveščeni o postopkih vpisa na poskusnem mestu.</p><p>Vaši podatki so predmet zasebnosti podatkov in si jih lahko ogleda izključno osebje spletnega mesta.</p>"
+
+msgid "trial_title"
+msgstr "Preizkusi v teku"
+
+msgid "trial_description"
+msgstr "<p>V tretjem koraku je predstavljen pregled tekočih študij in poizvedb. Prebrskajte seznam in si oglejte osnovne informacije o kriterijih kandidatov, postopkih in povračilih stroškov posameznih poskusov.</p><p>Svoje zanimanje za sodelovanje v določenem preizkusu lahko izrazite tako, da se prijavite ali odprete obrazec za povpraševanje. Če želite to dokončati pozneje ali v neposrednem pogovoru, lahko to preskočite in dokončate registracijo.</p>"
+
+msgid "inquiry_title"
+msgstr "Obrazec za povpraševanje - %1"
+
+msgid "inquiry_description"
+msgstr "<p>Obrazec za povpraševanje je zasnovan tako, da ga izpolnite v nekaj minutah in brez priprav. Ker bodo podatki, ki jih navedete tukaj, uporabljeni za vašo identifikacijo kot kandidata, vas prosimo, da posredujete pravilne in izčrpne podatke.</p>"
+
+msgid "end_title"
+msgstr "Hvala vam!"
+
+msgid "end_description"
+msgstr "<p>Hvala za registracijo. Kmalu vas bomo kontaktirali in vas z veseljem povabili na preizkusno mesto kot novega udeleženca.</p><p>Lahko prenesete dokumente PDF s svojimi podatki. Da preprečite samodejni izbris, pošljite podpisano soglasje za zasebnost podatkov pisarni spletnega mesta po pošti ali e-pošti do %1.</p>"
+
+msgid "invalid time"
+msgstr "neveljaven čas %1"
+
+msgid "invalid hour"
+msgstr "neveljavna ura %1"
+
+msgid "invalid minute"
+msgstr "neveljavna minuta %1"
+
+msgid "invalid second"
+msgstr "neveljavna sekunda %1"
+
+msgid "invalid date"
+msgstr "neveljaven datum %1"
+
+msgid "invalid month"
+msgstr "neveljaven mesec %1"
+
+msgid "invalid year"
+msgstr "neveljavno leto %1"
+
+msgid "invalid day"
+msgstr "neveljaven dan %1"
+

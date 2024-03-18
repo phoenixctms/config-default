@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2022-05-17 14:13\n"
+"PO-Revision-Date: 2024-03-14 19:27\n"
 
 msgid "lang"
 msgstr "es"
