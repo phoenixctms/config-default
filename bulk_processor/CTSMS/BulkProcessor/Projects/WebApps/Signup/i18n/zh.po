@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
-"PO-Revision-Date: 2024-03-18 23:37\n"
+"PO-Revision-Date: 2024-03-19 00:51\n"
 
 msgid "lang"
 msgstr "中"
@@ -250,10 +250,10 @@ msgid "proband_address_country_name_tooltip"
 msgstr "邮政地址的国名部分是必需的。"
 
 msgid "proband_address_province_label"
-msgstr "State:"
+msgstr "状态："
 
 msgid "proband_address_province_tooltip"
-msgstr "The state/province part of the postal address is required."
+msgstr "邮政地址的州/省部分是必需的。"
 
 msgid "proband_address_zip_code_label"
 msgstr "邮政编码："
