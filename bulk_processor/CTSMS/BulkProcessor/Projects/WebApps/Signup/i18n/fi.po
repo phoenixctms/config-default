@@ -11,226 +11,226 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Finnish\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 01:13\n"
 
 msgid "lang"
-msgstr "fi"
+msgstr "en"
 
 msgid "lang_label"
-msgstr "Englanti"
+msgstr "English"
 
 msgid "page_title"
-msgstr "Kliiniset tutkimukset"
+msgstr "Clinical Trials"
 
 msgid "meta_description"
-msgstr "Haettavat koehenkilöt – rekisteröidy meneillään oleviin kliinisiin tutkimuksiin nyt."
+msgstr "Subjects wanted - register for ongoing clinical trials now."
 
 msgid "lead_label"
-msgstr "Kliinisten kokeiden rekrytointi"
+msgstr "Clinical Trial Recruitment"
 
 msgid "logo_label"
-msgstr "Minun CRO"
+msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Oma CRO"
+msgstr "ｩ 2019 My CRO"
 
 msgid "lanuage_menu_label"
-msgstr "Kieli"
+msgstr "Language"
 
 msgid "session_timer_pattern"
-msgstr "Tietojen syöttö päättyy %M:%S"
+msgstr "Data entry ends in %M:%S"
 
 msgid "navigation_start_label"
-msgstr "alkaa"
+msgstr "Start"
 
 msgid "navigation_proband_label"
-msgstr "Henkilö"
+msgstr "Person"
 
 msgid "navigation_contact_label"
-msgstr "Yhteystiedot"
+msgstr "Contact Details"
 
 msgid "navigation_trial_label"
-msgstr "Oikeudenkäynti"
+msgstr "Trial"
 
 msgid "navigation_inquiry_label"
-msgstr "Kyselylomake"
+msgstr "Inquiry Form"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Kyselylomake - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "navigation_end_label"
-msgstr "Tehty"
+msgstr "Done"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "Käsitellään..."
+msgstr "Processing..."
 
 msgid "required_label"
-msgstr "edellytetään"
+msgstr "required"
 
 msgid "system_time_label"
-msgstr "(järjestelmän aika - %1) "
+msgstr "(system time - %1) "
 
 msgid "input_time_label"
-msgstr "(käyttäjäaika - %1) "
+msgstr "(user time - %1) "
 
 msgid "optional_label"
-msgstr "valinnainen"
+msgstr "optional"
 
 msgid "male"
-msgstr "Uros"
+msgstr "male"
 
 msgid "female"
-msgstr "Nainen"
+msgstr "female"
 
 msgid "mandatory_field_label"
-msgstr "pakollinen kenttä"
+msgstr "mandatory field"
 
 msgid "save_next_btn_label"
-msgstr "Lähetä ja seuraavaksi"
+msgstr "Send and next"
 
 msgid "save_done_btn_label"
-msgstr "Lähetä ja viimeistele"
+msgstr "Send and finish"
 
 msgid "done_btn_label"
-msgstr "Suorittaa loppuun"
+msgstr "Finish"
 
 msgid "yes_btn_label"
-msgstr "Joo"
+msgstr "Yes"
 
 msgid "no_btn_label"
-msgstr "Ei"
+msgstr "No"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "Käytä arvoa"
+msgstr "Apply value"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "piirrä/tyhjennä valinnan asetusarvoalueet"
+msgstr "draw/clear selection set value regions"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "valitse kynä (piirrä vedot) tai pyyhekumi (poista valitut viivat)"
+msgstr "select pen (draw strokes) or eraser (remove picked strokes)"
 
 msgid "sketch_undo_tooltip"
-msgstr "kumoa"
+msgstr "undo"
 
 msgid "sketch_redo_tooltip"
-msgstr "tee uudelleen"
+msgstr "redo"
 
 msgid "sketch_clear_tooltip"
-msgstr "tyhjennä kaikki vedot"
+msgstr "clear all strokes"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "kynän leveys 12"
+msgstr "pen width 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "kynän leveys 6"
+msgstr "pen width 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "kynän leveys 3"
+msgstr "pen width 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "kynän leveys 0,8"
+msgstr "pen width 0.8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "kynän peittävyys 100 %"
+msgstr "pen opacity 100%"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "kynän opasiteetti 60 %"
+msgstr "pen opacity 60%"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "kynän peittävyys 30 %"
+msgstr "pen opacity 30%"
 
 msgid "finish_btn_label"
-msgstr "Lopettaa"
+msgstr "Quit"
 
 msgid "error_summary"
-msgstr "Virhe:"
+msgstr "Error:"
 
 msgid "error_no_proband_created"
-msgstr "tallenna ensin henkilökohtaiset tiedot"
+msgstr "save personal information first"
 
 msgid "error_no_contact_created"
-msgstr "tallenna ensin yhteystiedot"
+msgstr "save contact details first"
 
 msgid "error_no_trial_selected"
-msgstr "valitse ensin kokeilu"
+msgstr "select a trial first"
 
 msgid "error_inquiries_na"
-msgstr "valitse ensin kokeilu kyselylomakkeella"
+msgstr "select a trial with inquiry form first"
 
 msgid "error_trials_na"
-msgstr "valitse ensin kokeilusivusto, jossa on kokeilut"
+msgstr "select a trial site with trials first"
 
 msgid "error_proband_create_rate_limit"
-msgstr "aihe luotiin tällä tietokoneella äskettäin, odota ennen kuin yrität uudelleen"
+msgstr "a subject was created with this computer recently, please wait before retry"
 
 msgid "error_no_contact_details"
-msgstr "anna sähköpostiosoite tai puhelinnumero"
+msgstr "please provide email address or phone number"
 
 msgid "error_proband_not_agreed"
-msgstr "jatkamiseen tarvitaan nimenomainen suostumus"
+msgstr "express consent is required to continue"
 
 msgid "trial_sites_header"
-msgstr "Kokeilusivustot"
+msgstr "Trial sites"
 
 msgid "select_site_btn_label"
-msgstr "Rekisteröinti"
+msgstr "Registration"
 
 msgid "express_consent_panel_title"
-msgstr "Ilmainen suostumus"
+msgstr "Express Consent"
 
 msgid "proband_agreed_label"
-msgstr "Hyväksyn tietojeni tallentamisen."
+msgstr "I agree to store my data."
 
 msgid "proband_agreed_tooltip"
-msgstr "Anna nimenomainen suostumus."
+msgstr "Give express consent."
 
 msgid "proband_panel_title"
-msgstr "Henkilökohtaisia tietoja"
+msgstr "Personal Information"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Etuliitteet:"
+msgstr "Prefixed titles:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Valinnaisesti määritä etuliitteet."
+msgstr "Optionally specify prefixed titles."
 
 msgid "proband_first_name_label"
-msgstr "Etunimi:"
+msgstr "First name:"
 
 msgid "proband_first_name_tooltip"
-msgstr "Etunimi on pakollinen."
+msgstr "The first name is required."
 
 msgid "proband_last_name_label"
-msgstr "Sukunimi:"
+msgstr "Last name:"
 
 msgid "proband_last_name_tooltip"
-msgstr "Sukunimi vaaditaan."
+msgstr "The last name is required."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Siirretyt otsikot:"
+msgstr "Postpositioned titles:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "Valinnaisesti määritä jälkisijoitetut otsikot."
+msgstr "Optionally specify postpositioned titles."
 
 msgid "proband_gender_label"
-msgstr "Sukupuoli:"
+msgstr "Gender:"
 
 msgid "proband_gender_tooltip"
-msgstr "Sukupuoli on pakollinen."
+msgstr "Gender is required."
 
 msgid "proband_dob_label"
-msgstr "Syntymäaika:"
+msgstr "Date of birth:"
 
 msgid "proband_dob_tooltip"
-msgstr "Syntymäaika vaaditaan (%1)."
+msgstr "Date of birth is required (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "Kansalaisuus:"
+msgstr "Citizenship:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "Kansalaisuus voidaan määrittää valinnaisesti."
+msgstr "Citizenship can be specified optionally."
 
 msgid "proband_comment"
 msgstr "Registration via %1\n"
@@ -241,13 +241,13 @@ msgstr "Registration via %1\n"
 "coming from %6"
 
 msgid "address_panel_title"
-msgstr "Osoite"
+msgstr "Address"
 
 msgid "proband_address_country_name_label"
-msgstr "Maan nimi:"
+msgstr "Country name:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "Postiosoitteen maan nimi on pakollinen."
+msgstr "The country name part of the postal address is required."
 
 msgid "proband_address_province_label"
 msgstr "Osavaltio:"
@@ -256,158 +256,158 @@ msgid "proband_address_province_tooltip"
 msgstr "Postiosoitteen osavaltio/maakunta-osa on pakollinen."
 
 msgid "proband_address_zip_code_label"
-msgstr "Postinumero:"
+msgstr "Zip code:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "Postiosoitteen postinumeroosa on pakollinen."
+msgstr "The zip code part of the postal address is required."
 
 msgid "proband_address_city_name_label"
-msgstr "Kaupungin nimi:"
+msgstr "City name:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "Postiosoitteen kaupungin nimen osa vaaditaan."
+msgstr "The city name part of the postal address is required."
 
 msgid "proband_address_street_name_label"
-msgstr "Kadun nimi:"
+msgstr "Street name:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "Postiosoitteen kadunnimiosa on pakollinen."
+msgstr "The street name part of the postal address is required."
 
 msgid "proband_address_house_number_label"
-msgstr "Talonumero:"
+msgstr "House number:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "Postiosoitteen talonumero-osa vaaditaan."
+msgstr "The house number part of the postal address is required."
 
 msgid "proband_address_entrance_label"
-msgstr "Sisäänkäynti:"
+msgstr "Entrance:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "Postiosoitteen sisäänkäyntiosa (portaikko, kortteli, siipi) on valinnainen."
+msgstr "The entrance (staircase, block, wing) part of the postal address is optional."
 
 msgid "proband_address_door_number_label"
-msgstr "Huoneisto:"
+msgstr "Apartment:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "Postiosoitteen asuntonumero-osa on valinnainen."
+msgstr "The apartment number part of the postal address is optional."
 
 msgid "contact_details_panel_title"
-msgstr "Puhelin ja sähköpostiosoite"
+msgstr "Phone and Email Address"
 
 msgid "proband_phone_label"
-msgstr "Puhelin:"
+msgstr "Phone:"
 
 msgid "proband_phone_tooltip"
-msgstr "Puhelinnumeromuoto, kuten '0699 1234567' tai '0316 38573000'."
+msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
 
 msgid "proband_email_label"
-msgstr "Sähköposti:"
+msgstr "Email:"
 
 msgid "proband_email_tooltip"
-msgstr "Sähköpostiosoitteen muoto, kuten \"max.mustermann@phoenixctms.org\"."
+msgstr "Email address format like 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "ilmoittaa"
+msgstr "notify"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Salli sähköpostien lähettäminen."
+msgstr "Allow to send Emails."
 
 msgid "trials_grid_header"
-msgstr "Kokeilut/ehdokasluettelot"
+msgstr "Trials/Candidate lists"
 
 msgid "open_inquiries_btn_label"
-msgstr "Avaa inuiry-lomake"
+msgstr "Open inuiry form"
 
 msgid "signup_btn_label"
-msgstr "Kirjaudu"
+msgstr "Sign-up"
 
 msgid "inquiries_grid_header"
-msgstr "Kyselylomake - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Kyselylomake epätäydellinen"
+msgstr "Inquiry form incomplete"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Katso kaikki kyselylomakkeen sivut.<br/>Haluatko silti lähettää ja viimeistellä?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
 
 msgid "inquiries_pbar_template"
-msgstr "lähetetty: %d/%d"
+msgstr "sent: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "Avaa PDF-muodossa"
+msgstr "Open as PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "Valitse kokeilu"
+msgstr "Select trial"
 
 msgid "probandletter_btn_label"
-msgstr "Avaa tietosuojalupa PDF-muodossa"
+msgstr "Open privacy consent as PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "Avaa syötetyt kyselylomakkeet PDF-muodossa"
+msgstr "Open entered inquiry forms as PDF"
 
 msgid "404_title"
-msgstr "Pyydettyä sivua ei ole saatavilla"
+msgstr "The requested page is not available"
 
 msgid "404_description"
-msgstr "<p>Valitettavasti pyytämääsi sivua ei löydy tältä sivustolta. Ehkä napsautit väärää tai vanhentunutta URL-osoitetta.</p><p>Voit siirtyä takaisin tämän sivuston <a href=\"/\">aloitussivulle</a> napsauttamalla yläreunassa olevaa logoa.</p>"
+msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
 
 msgid "start_title"
-msgstr "Kliinisten kokeiden rekrytointi"
+msgstr "Clinical Trial Recruitment"
 
 msgid "start_description"
-msgstr "<p>Uusien diagnostisten tai terapeuttisten toimenpiteiden kehittäminen edellyttää kliinisiä tutkimuksia ja vapaaehtoisia osallistujia. Tämä sivusto antaa yleiskatsauksen meneillään olevista kokeiluista ja osallistumismahdollisuuksista.</p><p>Rekisteröitymiselläsi sinut lisätään keskustietokantaan, jolloin voimme ottaa sinuun yhteyttä, jotta voimme lopulta rekisteröidä sinut ehdokkaaksi meneillään oleviin tai tuleviin kokeisiin (niin kauan kuin haluat).</p><p>Aloita rekisteröinti jollakin alla olevista kokeilupaikoista.</p>"
+msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
 
 msgid "proband_title"
-msgstr "Henkilökohtaiset tiedot"
+msgstr "Personal Data"
 
 msgid "proband_description"
-msgstr "<p>Lähetä meille ensimmäisessä vaiheessa perushenkilötietosi: nimi, sukupuoli ja syntymätietosi.</p>"
+msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
 
 msgid "contact_title"
-msgstr "Yhteystiedot"
+msgstr "Contact Information"
 
 msgid "contact_description"
-msgstr "<p>Toisessa vaiheessa lähetä meille yhteystietosi: postiosoite, puhelinnumero ja sähköpostiosoite.</p><p>Välittäjä voi sitten ottaa sinuun yhteyttä saadakseen nimenomaisen vahvistuksen tietojesi tallentamisesta. Tässä ensimmäisessä yhteydenotossa sinulle ilmoitetaan ilmoittautumismenettelyistä kokeilupaikalla.</p><p>Tietosi ovat tietosuojan alaisia, ja vain sivuston henkilökunta voi tarkastella niitä.</p>"
+msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
 
 msgid "trial_title"
-msgstr "Meneillään olevat kokeet"
+msgstr "Ongoing Trials"
 
 msgid "trial_description"
-msgstr "<p>Yleiskuva käynnissä olevista tutkimuksista ja tiedusteluista esitetään kolmannessa vaiheessa. Selaa luetteloa nähdäksesi perustiedot ehdokaskriteereistä, menettelyistä ja yksittäisten kokeiden korvauksista.</p><p>Voit ilmoittaa kiinnostuksestasi osallistua tiettyyn kokeiluun rekisteröitymällä tai avaamalla sen kyselylomakkeen. Jos haluat suorittaa tämän myöhemmin tai suorassa keskustelussa, voit ohittaa tämän ja lopettaa rekisteröinnin.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
 
 msgid "inquiry_title"
-msgstr "Kyselylomake - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "inquiry_description"
-msgstr "<p>Kyselylomake on suunniteltu täyttämään se muutamassa minuutissa ja ilman valmisteluja. Koska täällä antamiasi tietoja käytetään tunnistamaan sinut ehdokkaaksi, anna oikeat ja kattavat tiedot.</p>"
+msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
 
 msgid "end_title"
-msgstr "Kiitos!"
+msgstr "Thank you!"
 
 msgid "end_description"
-msgstr "<p>Kiitos rekisteröitymisestäsi. Otamme sinuun yhteyttä pian ja odotamme innolla kutsuvamme sinut kokeilusivustolle uutena osallistujana.</p><p>Voit ladata PDF-dokumentteja antamillasi tiedoilla. Automaattisen poiston estämiseksi lähetä allekirjoitettu tietosuojalupa sivuston toimistoon postitse tai sähköpostitse %1asti.</p>"
+msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
 
 msgid "invalid time"
-msgstr "virheellinen aika %1"
+msgstr "invalid time %1"
 
 msgid "invalid hour"
-msgstr "virheellinen tunti %1"
+msgstr "invalid hour %1"
 
 msgid "invalid minute"
-msgstr "virheellinen minuutti %1"
+msgstr "invalid minute %1"
 
 msgid "invalid second"
-msgstr "virheellinen toinen %1"
+msgstr "invalid second %1"
 
 msgid "invalid date"
-msgstr "virheellinen päivämäärä %1"
+msgstr "invalid date %1"
 
 msgid "invalid month"
-msgstr "virheellinen kuukausi %1"
+msgstr "invalid month %1"
 
 msgid "invalid year"
-msgstr "virheellinen vuosi %1"
+msgstr "invalid year %1"
 
 msgid "invalid day"
-msgstr "virheellinen päivä %1"
+msgstr "invalid day %1"
 
