@@ -11,226 +11,226 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hindi\n"
-"PO-Revision-Date: 2024-03-18 17:13\n"
+"PO-Revision-Date: 2024-03-19 01:14\n"
 
 msgid "lang"
-msgstr "एन"
+msgstr "en"
 
 msgid "lang_label"
-msgstr "अंग्रेज़ी"
+msgstr "English"
 
 msgid "page_title"
-msgstr "क्लिनिकल परीक्षण"
+msgstr "Clinical Trials"
 
 msgid "meta_description"
-msgstr "वांछित विषय - चल रहे नैदानिक परीक्षणों के लिए अभी पंजीकरण करें।"
+msgstr "Subjects wanted - register for ongoing clinical trials now."
 
 msgid "lead_label"
-msgstr "क्लिनिकल परीक्षण भर्ती"
+msgstr "Clinical Trial Recruitment"
 
 msgid "logo_label"
-msgstr "मेरा सीआरओ"
+msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 मेरा सीआरओ"
+msgstr "ｩ 2019 My CRO"
 
 msgid "lanuage_menu_label"
-msgstr "भाषा"
+msgstr "Language"
 
 msgid "session_timer_pattern"
-msgstr "डेटा प्रविष्टि %M:%Sमें समाप्त होती है"
+msgstr "Data entry ends in %M:%S"
 
 msgid "navigation_start_label"
-msgstr "शुरू"
+msgstr "Start"
 
 msgid "navigation_proband_label"
-msgstr "व्यक्ति"
+msgstr "Person"
 
 msgid "navigation_contact_label"
-msgstr "सम्पर्क करने का विवरण"
+msgstr "Contact Details"
 
 msgid "navigation_trial_label"
-msgstr "परीक्षण"
+msgstr "Trial"
 
 msgid "navigation_inquiry_label"
-msgstr "पूछताद फ़ॉर्म"
+msgstr "Inquiry Form"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "पूछताछ प्रपत्र - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "navigation_end_label"
-msgstr "हो गया"
+msgstr "Done"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "प्रसंस्करण..."
+msgstr "Processing..."
 
 msgid "required_label"
-msgstr "आवश्यक"
+msgstr "required"
 
 msgid "system_time_label"
-msgstr "(सिस्टम समय - %1) "
+msgstr "(system time - %1) "
 
 msgid "input_time_label"
-msgstr "(उपयोगकर्ता समय - %1) "
+msgstr "(user time - %1) "
 
 msgid "optional_label"
-msgstr "वैकल्पिक"
+msgstr "optional"
 
 msgid "male"
-msgstr "पुरुष"
+msgstr "male"
 
 msgid "female"
-msgstr "महिला"
+msgstr "female"
 
 msgid "mandatory_field_label"
-msgstr "अनिवार्य क्षेत्र"
+msgstr "mandatory field"
 
 msgid "save_next_btn_label"
-msgstr "भेजें और अगला"
+msgstr "Send and next"
 
 msgid "save_done_btn_label"
-msgstr "भेजें और समाप्त करें"
+msgstr "Send and finish"
 
 msgid "done_btn_label"
-msgstr "खत्म करना"
+msgstr "Finish"
 
 msgid "yes_btn_label"
-msgstr "हाँ"
+msgstr "Yes"
 
 msgid "no_btn_label"
-msgstr "नहीं"
+msgstr "No"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "मान लागू करें"
+msgstr "Apply value"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "चयन सेट मूल्य क्षेत्रों को ड्रा/स्पष्ट करें"
+msgstr "draw/clear selection set value regions"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "पेन चुनें (स्ट्रोक बनाएं) या इरेज़र (चुने गए स्ट्रोक हटाएं)"
+msgstr "select pen (draw strokes) or eraser (remove picked strokes)"
 
 msgid "sketch_undo_tooltip"
-msgstr "पूर्ववत"
+msgstr "undo"
 
 msgid "sketch_redo_tooltip"
-msgstr "फिर से करना"
+msgstr "redo"
 
 msgid "sketch_clear_tooltip"
-msgstr "सभी स्ट्रोक साफ़ करें"
+msgstr "clear all strokes"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "पेन की चौड़ाई 12"
+msgstr "pen width 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "कलम की चौड़ाई 6"
+msgstr "pen width 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "कलम की चौड़ाई 3"
+msgstr "pen width 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "पेन की चौड़ाई 0.8"
+msgstr "pen width 0.8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "पेन की अपारदर्शिता 100%"
+msgstr "pen opacity 100%"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "पेन की अपारदर्शिता 60%"
+msgstr "pen opacity 60%"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "पेन की अपारदर्शिता 30%"
+msgstr "pen opacity 30%"
 
 msgid "finish_btn_label"
-msgstr "छोड़ना"
+msgstr "Quit"
 
 msgid "error_summary"
-msgstr "गलती:"
+msgstr "Error:"
 
 msgid "error_no_proband_created"
-msgstr "पहले व्यक्तिगत जानकारी सहेजें"
+msgstr "save personal information first"
 
 msgid "error_no_contact_created"
-msgstr "पहले संपर्क विवरण सहेजें"
+msgstr "save contact details first"
 
 msgid "error_no_trial_selected"
-msgstr "पहले एक परीक्षण चुनें"
+msgstr "select a trial first"
 
 msgid "error_inquiries_na"
-msgstr "पहले पूछताछ फॉर्म के साथ एक परीक्षण का चयन करें"
+msgstr "select a trial with inquiry form first"
 
 msgid "error_trials_na"
-msgstr "पहले परीक्षणों वाली एक परीक्षण साइट चुनें"
+msgstr "select a trial site with trials first"
 
 msgid "error_proband_create_rate_limit"
-msgstr "इस कंप्यूटर से हाल ही में एक विषय बनाया गया था, कृपया पुनः प्रयास करने से पहले प्रतीक्षा करें"
+msgstr "a subject was created with this computer recently, please wait before retry"
 
 msgid "error_no_contact_details"
-msgstr "कृपया ईमेल पता या फ़ोन नंबर प्रदान करें"
+msgstr "please provide email address or phone number"
 
 msgid "error_proband_not_agreed"
-msgstr "जारी रखने के लिए व्यक्त सहमति आवश्यक है"
+msgstr "express consent is required to continue"
 
 msgid "trial_sites_header"
-msgstr "परीक्षण स्थल"
+msgstr "Trial sites"
 
 msgid "select_site_btn_label"
-msgstr "पंजीकरण"
+msgstr "Registration"
 
 msgid "express_consent_panel_title"
-msgstr "सहमति व्यक्त करें"
+msgstr "Express Consent"
 
 msgid "proband_agreed_label"
-msgstr "मैं अपना डेटा संग्रहीत करने के लिए सहमत हूं."
+msgstr "I agree to store my data."
 
 msgid "proband_agreed_tooltip"
-msgstr "स्पष्ट सहमति दें."
+msgstr "Give express consent."
 
 msgid "proband_panel_title"
-msgstr "व्यक्तिगत जानकारी"
+msgstr "Personal Information"
 
 msgid "proband_prefixed_titles_label"
-msgstr "उपसर्ग शीर्षक:"
+msgstr "Prefixed titles:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "वैकल्पिक रूप से उपसर्ग शीर्षक निर्दिष्ट करें."
+msgstr "Optionally specify prefixed titles."
 
 msgid "proband_first_name_label"
-msgstr "पहला नाम:"
+msgstr "First name:"
 
 msgid "proband_first_name_tooltip"
-msgstr "पहला नाम आवश्यक है."
+msgstr "The first name is required."
 
 msgid "proband_last_name_label"
-msgstr "उपनाम:"
+msgstr "Last name:"
 
 msgid "proband_last_name_tooltip"
-msgstr "अंतिम नाम आवश्यक है."
+msgstr "The last name is required."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "स्थगित शीर्षक:"
+msgstr "Postpositioned titles:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "वैकल्पिक रूप से स्थगित शीर्षक निर्दिष्ट करें."
+msgstr "Optionally specify postpositioned titles."
 
 msgid "proband_gender_label"
-msgstr "लिंग:"
+msgstr "Gender:"
 
 msgid "proband_gender_tooltip"
-msgstr "लिंग आवश्यक है."
+msgstr "Gender is required."
 
 msgid "proband_dob_label"
-msgstr "जन्म की तारीख:"
+msgstr "Date of birth:"
 
 msgid "proband_dob_tooltip"
-msgstr "जन्मतिथि आवश्यक है (%1)."
+msgstr "Date of birth is required (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "नागरिकता:"
+msgstr "Citizenship:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "नागरिकता वैकल्पिक रूप से निर्दिष्ट की जा सकती है।"
+msgstr "Citizenship can be specified optionally."
 
 msgid "proband_comment"
 msgstr "Registration via %1\n"
@@ -241,173 +241,173 @@ msgstr "Registration via %1\n"
 "coming from %6"
 
 msgid "address_panel_title"
-msgstr "पता"
+msgstr "Address"
 
 msgid "proband_address_country_name_label"
-msgstr "देश नाम:"
+msgstr "Country name:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "डाक पते का देश का नाम भाग आवश्यक है।"
+msgstr "The country name part of the postal address is required."
 
 msgid "proband_address_province_label"
-msgstr "राज्य:"
+msgstr "State:"
 
 msgid "proband_address_province_tooltip"
-msgstr "डाक पते का राज्य/प्रांत भाग आवश्यक है।"
+msgstr "The state/province part of the postal address is required."
 
 msgid "proband_address_zip_code_label"
-msgstr "ज़िप कोड:"
+msgstr "Zip code:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "डाक पते का ज़िप कोड भाग आवश्यक है।"
+msgstr "The zip code part of the postal address is required."
 
 msgid "proband_address_city_name_label"
-msgstr "शहर का नाम:"
+msgstr "City name:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "डाक पते में शहर का नाम भाग आवश्यक है।"
+msgstr "The city name part of the postal address is required."
 
 msgid "proband_address_street_name_label"
-msgstr "सड़क का नाम:"
+msgstr "Street name:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "डाक पते का सड़क का नाम भाग आवश्यक है।"
+msgstr "The street name part of the postal address is required."
 
 msgid "proband_address_house_number_label"
-msgstr "घर का नंबर:"
+msgstr "House number:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "डाक पते का मकान नंबर भाग आवश्यक है।"
+msgstr "The house number part of the postal address is required."
 
 msgid "proband_address_entrance_label"
-msgstr "प्रवेश द्वार:"
+msgstr "Entrance:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "डाक पते का प्रवेश द्वार (सीढ़ी, ब्लॉक, विंग) भाग वैकल्पिक है।"
+msgstr "The entrance (staircase, block, wing) part of the postal address is optional."
 
 msgid "proband_address_door_number_label"
-msgstr "अपार्टमेंट:"
+msgstr "Apartment:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "डाक पते का अपार्टमेंट नंबर वाला भाग वैकल्पिक है।"
+msgstr "The apartment number part of the postal address is optional."
 
 msgid "contact_details_panel_title"
-msgstr "फ़ोन और ईमेल पता"
+msgstr "Phone and Email Address"
 
 msgid "proband_phone_label"
-msgstr "फ़ोन:"
+msgstr "Phone:"
 
 msgid "proband_phone_tooltip"
-msgstr "फ़ोन नंबर प्रारूप जैसे '0699 1234567' या '0316 38573000'।"
+msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
 
 msgid "proband_email_label"
-msgstr "ईमेल:"
+msgstr "Email:"
 
 msgid "proband_email_tooltip"
-msgstr "ईमेल पता प्रारूप जैसे 'max.mustermann@phoenixctms.org'."
+msgstr "Email address format like 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "सूचित करें"
+msgstr "notify"
 
 msgid "proband_email_notify_tooltip"
-msgstr "ईमेल भेजने की अनुमति दें."
+msgstr "Allow to send Emails."
 
 msgid "trials_grid_header"
-msgstr "परीक्षण/उम्मीदवार सूची"
+msgstr "Trials/Candidate lists"
 
 msgid "open_inquiries_btn_label"
-msgstr "इनुइरी फॉर्म खोलें"
+msgstr "Open inuiry form"
 
 msgid "signup_btn_label"
-msgstr "साइन अप करें"
+msgstr "Sign-up"
 
 msgid "inquiries_grid_header"
-msgstr "पूछताछ प्रपत्र - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "पूछताछ प्रपत्र अधूरा है"
+msgstr "Inquiry form incomplete"
 
 msgid "incomplete_dlg_prompt"
-msgstr "कृपया पूछताछ प्रपत्र के सभी पृष्ठ देखें।<br/>क्या आप वैसे भी भेजना और समाप्त करना पसंद करते हैं?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
 
 msgid "inquiries_pbar_template"
-msgstr "भेजा गया: %d/%d"
+msgstr "sent: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "पीडीएफ के रूप में खोलें"
+msgstr "Open as PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "परीक्षण का चयन करें"
+msgstr "Select trial"
 
 msgid "probandletter_btn_label"
-msgstr "गोपनीयता सहमति को पीडीएफ के रूप में खोलें"
+msgstr "Open privacy consent as PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "दर्ज किए गए पूछताछ फॉर्म को पीडीएफ के रूप में खोलें"
+msgstr "Open entered inquiry forms as PDF"
 
 msgid "404_title"
-msgstr "अनुरोधित पृष्ठ उपलब्ध नहीं है"
+msgstr "The requested page is not available"
 
 msgid "404_description"
-msgstr "<p>क्षमा करें, आपके द्वारा अनुरोधित पृष्ठ इस साइट पर नहीं मिल सकता है। हो सकता है कि आपने किसी ग़लत या पुराने URL पर क्लिक किया हो.</p><p>आप शीर्ष पर लोगो पर क्लिक करके इस साइट के <a href=\"/\">लैंडिंग पृष्ठ</a> पर वापस जा सकते हैं।</p>"
+msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
 
 msgid "start_title"
-msgstr "क्लिनिकल परीक्षण भर्ती"
+msgstr "Clinical Trial Recruitment"
 
 msgid "start_description"
-msgstr "<p>नए नैदानिक या चिकित्सीय उपायों के विकास के लिए नैदानिक परीक्षणों और स्वैच्छिक प्रतिभागियों की आवश्यकता होती है। यह साइट चल रहे परीक्षणों और भागीदारी के अवसर का अवलोकन देती है।</p><p>आपके पंजीकरण के साथ आपको केंद्रीय डेटाबेस में जोड़ दिया जाता है, जिससे हमें चल रहे या भविष्य के परीक्षणों (जब तक आप चाहें) में एक उम्मीदवार के रूप में अंतिम रूप से नामांकित करने के लिए आपसे संपर्क करने की अनुमति मिलती है।</p><p>नीचे दिए गए परीक्षण स्थलों में से किसी एक पर पंजीकरण प्रक्रिया शुरू करें।</p>"
+msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
 
 msgid "proband_title"
-msgstr "व्यक्तिगत डेटा"
+msgstr "Personal Data"
 
 msgid "proband_description"
-msgstr "<p>पहले चरण में, हमें अपनी बुनियादी व्यक्तिगत जानकारी भेजें: नाम, लिंग और जन्म का डेटा।</p>"
+msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
 
 msgid "contact_title"
-msgstr "संपर्क जानकारी"
+msgstr "Contact Information"
 
 msgid "contact_description"
-msgstr "<p>दूसरे चरण में, हमें अपना संपर्क विवरण भेजें: डाक पता, फोन नंबर और ईमेल पता।</p><p>आपके डेटा को संग्रहीत करने के लिए आपकी स्पष्ट पुष्टि प्राप्त करने के लिए एक एजेंट आपसे संपर्क कर सकता है। इस प्रथम संपर्क में आपको परीक्षण स्थल पर नामांकन प्रक्रियाओं के बारे में सूचित किया जाएगा।</p><p>आपकी जानकारी डेटा गोपनीयता के अधीन है और इसे विशेष रूप से साइट स्टाफ द्वारा देखा जा सकता है।</p>"
+msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
 
 msgid "trial_title"
-msgstr "चल रहे परीक्षण"
+msgstr "Ongoing Trials"
 
 msgid "trial_description"
-msgstr "<p>तीसरे चरण में चल रहे अध्ययनों और पूछताछ का अवलोकन प्रस्तुत किया गया है। कृपया उम्मीदवार मानदंड, प्रक्रियाओं और व्यक्तिगत परीक्षणों की प्रतिपूर्ति के संबंध में बुनियादी जानकारी देखने के लिए सूची ब्राउज़ करें।</p><p>आप साइन अप करके या उसका पूछताछ फॉर्म खोलकर किसी विशेष परीक्षण में भाग लेने में अपनी रुचि दिखा सकते हैं। यदि आप इसे बाद में या सीधे बातचीत में पूरा करना पसंद करते हैं, तो आप इसे छोड़ सकते हैं और अपना पंजीकरण पूरा कर सकते हैं।</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
 
 msgid "inquiry_title"
-msgstr "पूछताछ प्रपत्र - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "inquiry_description"
-msgstr "<p>पूछताछ फॉर्म को कुछ ही मिनटों में और बिना किसी तैयारी के पूरा करने के लिए डिज़ाइन किया गया है। चूंकि आपके द्वारा यहां प्रदान की गई जानकारी का उपयोग उम्मीदवार के रूप में आपकी पहचान करने के लिए किया जाएगा, कृपया सही और व्यापक जानकारी प्रदान करें।</p>"
+msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
 
 msgid "end_title"
-msgstr "धन्यवाद!"
+msgstr "Thank you!"
 
 msgid "end_description"
-msgstr "<p>आपके पंजीकरण के लिए धन्यवाद। हम जल्द ही आपसे संपर्क करेंगे और एक नए प्रतिभागी के रूप में आपको परीक्षण साइट पर आमंत्रित करने के लिए उत्सुक हैं।</p><p>आप अपने दिए गए डेटा के साथ पीडीएफ दस्तावेज़ डाउनलोड कर सकते हैं। स्वचालित विलोपन को रोकने के लिए, कृपया अपनी हस्ताक्षरित डेटा गोपनीयता सहमति साइट कार्यालय को मेल या ईमेल के माध्यम से %1तक जमा करें।</p>"
+msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
 
 msgid "invalid time"
-msgstr "अमान्य समय %1"
+msgstr "invalid time %1"
 
 msgid "invalid hour"
-msgstr "अमान्य घंटा %1"
+msgstr "invalid hour %1"
 
 msgid "invalid minute"
-msgstr "अमान्य मिनट %1"
+msgstr "invalid minute %1"
 
 msgid "invalid second"
-msgstr "अमान्य दूसरा %1"
+msgstr "invalid second %1"
 
 msgid "invalid date"
-msgstr "अमान्य दिनांक %1"
+msgstr "invalid date %1"
 
 msgid "invalid month"
-msgstr "अमान्य माह %1"
+msgstr "invalid month %1"
 
 msgid "invalid year"
-msgstr "अमान्य वर्ष %1"
+msgstr "invalid year %1"
 
 msgid "invalid day"
-msgstr "अमान्य दिन %1"
+msgstr "invalid day %1"
 
