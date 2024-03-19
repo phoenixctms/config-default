@@ -11,226 +11,226 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 01:13\n"
 
 msgid "lang"
-msgstr "jp"
+msgstr "en"
 
 msgid "lang_label"
-msgstr "英語"
+msgstr "English"
 
 msgid "page_title"
-msgstr "臨床試験"
+msgstr "Clinical Trials"
 
 msgid "meta_description"
-msgstr "被験者募集中 - 現在進行中の臨床試験に今すぐ登録してください。"
+msgstr "Subjects wanted - register for ongoing clinical trials now."
 
 msgid "lead_label"
-msgstr "臨床試験の募集"
+msgstr "Clinical Trial Recruitment"
 
 msgid "logo_label"
-msgstr "私のCRO"
+msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 私のCRO"
+msgstr "ｩ 2019 My CRO"
 
 msgid "lanuage_menu_label"
-msgstr "言語"
+msgstr "Language"
 
 msgid "session_timer_pattern"
-msgstr "データ入力は %Mで終了します :%S"
+msgstr "Data entry ends in %M:%S"
 
 msgid "navigation_start_label"
-msgstr "始める"
+msgstr "Start"
 
 msgid "navigation_proband_label"
-msgstr "人"
+msgstr "Person"
 
 msgid "navigation_contact_label"
-msgstr "連絡先の詳細"
+msgstr "Contact Details"
 
 msgid "navigation_trial_label"
-msgstr "トライアル"
+msgstr "Trial"
 
 msgid "navigation_inquiry_label"
-msgstr "お問い合わせフォーム"
+msgstr "Inquiry Form"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "お問い合わせフォーム - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "navigation_end_label"
-msgstr "終わり"
+msgstr "Done"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "処理..."
+msgstr "Processing..."
 
 msgid "required_label"
-msgstr "必須"
+msgstr "required"
 
 msgid "system_time_label"
-msgstr "(システム時間 - %1) "
+msgstr "(system time - %1) "
 
 msgid "input_time_label"
-msgstr "(ユーザー時間 - %1) "
+msgstr "(user time - %1) "
 
 msgid "optional_label"
-msgstr "オプション"
+msgstr "optional"
 
 msgid "male"
-msgstr "男"
+msgstr "male"
 
 msgid "female"
-msgstr "女性"
+msgstr "female"
 
 msgid "mandatory_field_label"
-msgstr "必須フィールド"
+msgstr "mandatory field"
 
 msgid "save_next_btn_label"
-msgstr "送信して次へ"
+msgstr "Send and next"
 
 msgid "save_done_btn_label"
-msgstr "送信して終了"
+msgstr "Send and finish"
 
 msgid "done_btn_label"
-msgstr "仕上げる"
+msgstr "Finish"
 
 msgid "yes_btn_label"
-msgstr "はい"
+msgstr "Yes"
 
 msgid "no_btn_label"
-msgstr "いいえ"
+msgstr "No"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "値を適用する"
+msgstr "Apply value"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "選択セット値領域の描画/クリア"
+msgstr "draw/clear selection set value regions"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "ペン (ストロークを描画) または消しゴム (選択したストロークを削除) を選択します"
+msgstr "select pen (draw strokes) or eraser (remove picked strokes)"
 
 msgid "sketch_undo_tooltip"
-msgstr "元に戻す"
+msgstr "undo"
 
 msgid "sketch_redo_tooltip"
-msgstr "やり直し"
+msgstr "redo"
 
 msgid "sketch_clear_tooltip"
-msgstr "すべてのストロークをクリアする"
+msgstr "clear all strokes"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "ペン幅12"
+msgstr "pen width 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "ペン幅6"
+msgstr "pen width 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "ペン幅3"
+msgstr "pen width 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "ペン幅0.8"
+msgstr "pen width 0.8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "ペンの不透明度 100%"
+msgstr "pen opacity 100%"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "ペンの不透明度 60%"
+msgstr "pen opacity 60%"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "ペンの不透明度 30%"
+msgstr "pen opacity 30%"
 
 msgid "finish_btn_label"
-msgstr "やめる"
+msgstr "Quit"
 
 msgid "error_summary"
-msgstr "エラー："
+msgstr "Error:"
 
 msgid "error_no_proband_created"
-msgstr "まず個人情報を保存してください"
+msgstr "save personal information first"
 
 msgid "error_no_contact_created"
-msgstr "まず連絡先の詳細を保存してください"
+msgstr "save contact details first"
 
 msgid "error_no_trial_selected"
-msgstr "最初にトライアルを選択してください"
+msgstr "select a trial first"
 
 msgid "error_inquiries_na"
-msgstr "まずはお問い合わせフォームでトライアルを選択してください"
+msgstr "select a trial with inquiry form first"
 
 msgid "error_trials_na"
-msgstr "最初にトライアルのあるトライアルサイトを選択してください"
+msgstr "select a trial site with trials first"
 
 msgid "error_proband_create_rate_limit"
-msgstr "件名は最近このコンピュータで作成されました。再試行する前にお待ちください。"
+msgstr "a subject was created with this computer recently, please wait before retry"
 
 msgid "error_no_contact_details"
-msgstr "メールアドレスまたは電話番号を入力してください"
+msgstr "please provide email address or phone number"
 
 msgid "error_proband_not_agreed"
-msgstr "続行するには明示的な同意が必要です"
+msgstr "express consent is required to continue"
 
 msgid "trial_sites_header"
-msgstr "トライアルサイト"
+msgstr "Trial sites"
 
 msgid "select_site_btn_label"
-msgstr "登録"
+msgstr "Registration"
 
 msgid "express_consent_panel_title"
-msgstr "明示的な同意"
+msgstr "Express Consent"
 
 msgid "proband_agreed_label"
-msgstr "データを保存することに同意します。"
+msgstr "I agree to store my data."
 
 msgid "proband_agreed_tooltip"
-msgstr "明示的に同意します。"
+msgstr "Give express consent."
 
 msgid "proband_panel_title"
-msgstr "個人情報"
+msgstr "Personal Information"
 
 msgid "proband_prefixed_titles_label"
-msgstr "接頭辞付きのタイトル:"
+msgstr "Prefixed titles:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "必要に応じて、接頭辞付きのタイトルを指定します。"
+msgstr "Optionally specify prefixed titles."
 
 msgid "proband_first_name_label"
-msgstr "ファーストネーム："
+msgstr "First name:"
 
 msgid "proband_first_name_tooltip"
-msgstr "名は必須です。"
+msgstr "The first name is required."
 
 msgid "proband_last_name_label"
-msgstr "苗字："
+msgstr "Last name:"
 
 msgid "proband_last_name_tooltip"
-msgstr "姓は必須です。"
+msgstr "The last name is required."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "後置タイトル:"
+msgstr "Postpositioned titles:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "必要に応じて、後置タイトルを指定します。"
+msgstr "Optionally specify postpositioned titles."
 
 msgid "proband_gender_label"
-msgstr "性別："
+msgstr "Gender:"
 
 msgid "proband_gender_tooltip"
-msgstr "性別は必須です。"
+msgstr "Gender is required."
 
 msgid "proband_dob_label"
-msgstr "生年月日："
+msgstr "Date of birth:"
 
 msgid "proband_dob_tooltip"
-msgstr "生年月日は必須です (%1)。"
+msgstr "Date of birth is required (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "市民権:"
+msgstr "Citizenship:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "市民権はオプションで指定できます。"
+msgstr "Citizenship can be specified optionally."
 
 msgid "proband_comment"
 msgstr "Registration via %1\n"
@@ -241,13 +241,13 @@ msgstr "Registration via %1\n"
 "coming from %6"
 
 msgid "address_panel_title"
-msgstr "住所"
+msgstr "Address"
 
 msgid "proband_address_country_name_label"
-msgstr "国の名前："
+msgstr "Country name:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "郵便住所の国名の部分は必須です。"
+msgstr "The country name part of the postal address is required."
 
 msgid "proband_address_province_label"
 msgstr "州："
@@ -256,158 +256,158 @@ msgid "proband_address_province_tooltip"
 msgstr "郵便住所の州/県の部分は必須です。"
 
 msgid "proband_address_zip_code_label"
-msgstr "郵便番号："
+msgstr "Zip code:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "郵便番号の部分は必須です。"
+msgstr "The zip code part of the postal address is required."
 
 msgid "proband_address_city_name_label"
-msgstr "市の名前："
+msgstr "City name:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "住所の都市名の部分は必須です。"
+msgstr "The city name part of the postal address is required."
 
 msgid "proband_address_street_name_label"
-msgstr "道の名前："
+msgstr "Street name:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "郵便住所の番地名の部分は必須です。"
+msgstr "The street name part of the postal address is required."
 
 msgid "proband_address_house_number_label"
-msgstr "家屋番号："
+msgstr "House number:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "住所の番地部分は必須です。"
+msgstr "The house number part of the postal address is required."
 
 msgid "proband_address_entrance_label"
-msgstr "入り口："
+msgstr "Entrance:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "住所の入口（階段、ブロック、棟）部分は任意です。"
+msgstr "The entrance (staircase, block, wing) part of the postal address is optional."
 
 msgid "proband_address_door_number_label"
-msgstr "アパート："
+msgstr "Apartment:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "住所のアパート番号部分はオプションです。"
+msgstr "The apartment number part of the postal address is optional."
 
 msgid "contact_details_panel_title"
-msgstr "電話番号とメールアドレス"
+msgstr "Phone and Email Address"
 
 msgid "proband_phone_label"
-msgstr "電話："
+msgstr "Phone:"
 
 msgid "proband_phone_tooltip"
-msgstr "「0699 1234567」や「0316 38573000」などの電話番号形式。"
+msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
 
 msgid "proband_email_label"
-msgstr "Eメール："
+msgstr "Email:"
 
 msgid "proband_email_tooltip"
-msgstr "「max.mustermann@phoenixctms.org」のような電子メール アドレス形式。"
+msgstr "Email address format like 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "通知する"
+msgstr "notify"
 
 msgid "proband_email_notify_tooltip"
-msgstr "電子メールの送信を許可します。"
+msgstr "Allow to send Emails."
 
 msgid "trials_grid_header"
-msgstr "トライアル/候補者リスト"
+msgstr "Trials/Candidate lists"
 
 msgid "open_inquiries_btn_label"
-msgstr "お問い合わせフォームを開く"
+msgstr "Open inuiry form"
 
 msgid "signup_btn_label"
-msgstr "サインアップ"
+msgstr "Sign-up"
 
 msgid "inquiries_grid_header"
-msgstr "お問い合わせフォーム - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "お問い合わせフォームが不完全です"
+msgstr "Inquiry form incomplete"
 
 msgid "incomplete_dlg_prompt"
-msgstr "お問い合わせフォームの全ページをご覧ください。<br/>とにかく送信して終了することを好みますか?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
 
 msgid "inquiries_pbar_template"
-msgstr "送信済み: %d/%d"
+msgstr "sent: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "PDFとして開く"
+msgstr "Open as PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "トライアルを選択"
+msgstr "Select trial"
 
 msgid "probandletter_btn_label"
-msgstr "プライバシー同意書を PDF として開く"
+msgstr "Open privacy consent as PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "入力したお問い合わせフォームをPDFで開く"
+msgstr "Open entered inquiry forms as PDF"
 
 msgid "404_title"
-msgstr "要求されたページは利用できません"
+msgstr "The requested page is not available"
 
 msgid "404_description"
-msgstr "<p>申し訳ありませんが、要求されたページはこのサイト上に見つかりません。間違った URL または古い URL をクリックした可能性があります。</p><p>上部のロゴをクリックすると、このサイトの <a href=\"/\">ランディング ページ</a> に戻ることができます。</p>"
+msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
 
 msgid "start_title"
-msgstr "臨床試験の募集"
+msgstr "Clinical Trial Recruitment"
 
 msgid "start_description"
-msgstr "<p>新しい診断または治療法の開発には、臨床試験と自発的な参加者が必要です。このサイトでは、進行中の治験の概要と参加の機会を提供します。</p><p>登録すると、あなたは中央データベースに追加され、進行中または将来の試験の候補者として最終的に登録するために (あなたが希望する場合に限り) あなたに連絡することができます。</p><p>以下のトライアルサイトのいずれかで登録プロセスを開始してください。</p>"
+msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
 
 msgid "proband_title"
-msgstr "個人データ"
+msgstr "Personal Data"
 
 msgid "proband_description"
-msgstr "<p>最初のステップとして、名前、性別、生年月日などの基本的な個人情報をお送りください。</p>"
+msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
 
 msgid "contact_title"
-msgstr "連絡先"
+msgstr "Contact Information"
 
 msgid "contact_description"
-msgstr "<p>2 番目のステップでは、連絡先の詳細 (住所、電話番号、電子メール アドレス) を送信してください。</p><p>その後、エージェントがあなたに連絡し、データを保存するための明示的な確認を得ることができます。この最初の連絡では、トライアルサイトでの登録手順について説明します。</p><p>あなたの情報はデータプライバシーの対象となり、サイトスタッフのみが閲覧できます。</p>"
+msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
 
 msgid "trial_title"
-msgstr "進行中のトライアル"
+msgstr "Ongoing Trials"
 
 msgid "trial_description"
-msgstr "<p>進行中の研究と調査の概要は、第 3 ステップで示されます。リストを参照して、候補者の基準、手順、個々の治験の償還に関する基本情報を確認してください。</p><p>サインアップするか、問い合わせフォームを開いて、特定の治験への参加に関心を示すことができます。後で、または直接の会話でこれを完了したい場合は、これをスキップして登録を完了できます。</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
 
 msgid "inquiry_title"
-msgstr "お問い合わせフォーム - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "inquiry_description"
-msgstr "<p>お問い合わせフォームは準備なしで数分で完了できるように設計されています。ここで提供する情報はあなたを候補者として識別するために使用されるため、正確かつ包括的な情報を提供してください。</p>"
+msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
 
 msgid "end_title"
-msgstr "ありがとう！"
+msgstr "Thank you!"
 
 msgid "end_description"
-msgstr "<p>ご登録ありがとうございます。すぐにご連絡いたしますので、新しい参加者としてトライアル サイトに招待されることを楽しみにしています。</p><p>ご提供いただいたデータをPDF形式でダウンロードできます。自動削除を防ぐには、 %1までに、署名済みのデータプライバシー同意書を郵送または電子メールでサイトオフィスに提出してください。</p>"
+msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
 
 msgid "invalid time"
-msgstr "無効な時間 %1"
+msgstr "invalid time %1"
 
 msgid "invalid hour"
-msgstr "無効な時間 %1"
+msgstr "invalid hour %1"
 
 msgid "invalid minute"
-msgstr "無効な分 %1"
+msgstr "invalid minute %1"
 
 msgid "invalid second"
-msgstr "無効な秒 %1"
+msgstr "invalid second %1"
 
 msgid "invalid date"
-msgstr "無効な日付 %1"
+msgstr "invalid date %1"
 
 msgid "invalid month"
-msgstr "無効な月 %1"
+msgstr "invalid month %1"
 
 msgid "invalid year"
-msgstr "無効な年 %1"
+msgstr "invalid year %1"
 
 msgid "invalid day"
-msgstr "無効な日 %1"
+msgstr "invalid day %1"
 
