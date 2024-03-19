@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
-"PO-Revision-Date: 2024-03-18 17:13\n"
+"PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
 msgstr "أون"
@@ -379,7 +379,7 @@ msgid "inquiry_title"
 msgstr "نموذج الاستفسار - %1"
 
 msgid "inquiry_description"
-msgstr "<p>تم تصميم نموذج الاستفسار لإكماله في دقائق قليلة وبدون تحضيرات. بما أن المعلومات التي تقدمها هنا سيتم استخدامها لتحديد هويتك كمرشح، يرجى تقديم معلومات صحيحة وشاملة.</p>"
+msgstr "<p>تم تصميم نموذج الاستفسار لإكماله في دقائق قليلة وبدون تحضيرات. وبما أن المعلومات التي تقدمها هنا سيتم استخدامها لتحديد هويتك كمرشح، يرجى تقديم معلومات صحيحة وشاملة.</p>"
 
 msgid "end_title"
 msgstr "شكرًا لك!"

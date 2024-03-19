@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Lingala\n"
-"PO-Revision-Date: 2024-03-18 17:13\n"
+"PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
 msgstr "en"
@@ -373,7 +373,7 @@ msgid "trial_title"
 msgstr "Mimekano oyo ezali kokoba"
 
 msgid "trial_description"
-msgstr "<p>Botali ya boyekoli pe mituna oyo ezali kosalama elakisami na eteni ya misato. Svp tala na liste pona komona ba informations ya base oyo etali ba critères ya ba candidats, ba procédures pe ba remboursement ya ba épreuves individuelles.</p><p>Okoki kolakisa bosepeli na yo ya kosangana na momekano moko boye na ko signer to kofungola formulaire na yango ya demande. Soki olingi kosilisa likambo oyo na tango mosusu to na masolo ya direkt, okoki okoki koleka oyo mpe kosilisa bokomisi nkombo na yo.</p>"
+msgstr "<p>Botali ya boyekoli pe mituna oyo ezali kosalama elakisami na eteni ya misato. Svp tala na liste pona komona ba informations ya base oyo etali ba critères ya ba candidats, ba procédures pe ba rembours ya ba procès individuels.</p><p>Okoki kolakisa bosepeli na yo ya kosangana na momekano moko boye na kokoma to kofungola formulaire na yango ya mituna. Soki olingi kosilisa likambo oyo na tango mosusu to na masolo ya direkt, okoki okoki koleka oyo mpe kosilisa bokomisi nkombo na yo.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulaire ya kotuna - %1"
@@ -385,7 +385,7 @@ msgid "end_title"
 msgstr "Matondi!"
 
 msgid "end_description"
-msgstr "<p>Matondo mingi mpo na bokomisi nkombo. Tokokutana na yo kala mingi te mpe tozali kozela na esengo nyonso kobengisa yo na esika ya komeka lokola mosangani ya sika.</p><p>Okoki kozwa mikanda ya PDF na ba données oyo opesi. Mpo na kopekisa bolongoli ya automatique, tinda ndingisa na yo ya kobatela makambo ya moto ye moko oyo otye sinyatili na biro ya site na nzela ya poste to email kino %1.</p>"
+msgstr "<p>Matondo mingi mpo na bokomisi nkombo. Tokokutana na yo kala mingi te mpe tozali kozela na esengo nyonso kobengisa yo na esika ya komeka lokola mosangani ya sika.</p><p>Okoki kozwa mikanda ya PDF na ba données oyo opesi. Mpo na kopekisa bolongoli ya automatique, tinda ndingisa na yo ya kobatela makambo ya moto ye moko oyo otie sinyatili na biro ya site na nzela ya mail to email kino %1.</p>"
 
 msgid "invalid time"
 msgstr "tango ya mabe %1"

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hungarian\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
 msgstr "hu"
@@ -367,7 +367,7 @@ msgid "contact_title"
 msgstr "Elérhetőség"
 
 msgid "contact_description"
-msgstr "<p>A második lépésben küldje el elérhetőségeit: postai címét, telefonszámát és e-mail címét.</p><p>Egy ügynök ezután kapcsolatba léphet Önnel, hogy kifejezett megerősítést kapjon az adatok tárolására vonatkozóan. Ebben az első kapcsolatfelvételben tájékoztatást kap a próba helyszínén történő beiratkozási eljárásokról.</p><p>Az Ön adatai az adatvédelem hatálya alá tartoznak, és azokat kizárólag a webhely munkatársai tekinthetik meg.</p>"
+msgstr "<p>A második lépésben küldje el nekünk elérhetőségeit: postai címét, telefonszámát és e-mail címét.</p><p>Egy ügynök ezután kapcsolatba léphet Önnel, hogy kifejezett megerősítést kapjon az adatok tárolására vonatkozóan. Ebben az első kapcsolatfelvételben tájékoztatást kap a próba helyszínén történő beiratkozási eljárásokról.</p><p>Az Ön adatai az adatvédelem hatálya alá tartoznak, és azokat kizárólag a webhely munkatársai tekinthetik meg.</p>"
 
 msgid "trial_title"
 msgstr "Folyamatos próbák"
@@ -385,7 +385,7 @@ msgid "end_title"
 msgstr "Köszönöm!"
 
 msgid "end_description"
-msgstr "<p>Köszönjük regisztrációját. Hamarosan felvesszük Önnel a kapcsolatot, és szeretettel várjuk, hogy új résztvevőként meghívhassuk a próbaoldalra.</p><p>A megadott adatokkal PDF dokumentumokat tölthet le. Az automatikus törlés elkerülése érdekében kérjük, hogy %1-ig küldje el aláírt adatvédelmi hozzájárulását az oldal irodájának postai úton vagy e-mailben.</p>"
+msgstr "<p>Köszönjük regisztrációját. Hamarosan felvesszük Önnel a kapcsolatot, és szeretettel várjuk, hogy új résztvevőként meghívhassuk a próbaoldalra.</p><p>A megadott adatokkal PDF dokumentumokat tölthet le. Az automatikus törlés elkerülése érdekében kérjük, hogy %1-ig küldje el aláírt adatkezelési hozzájárulását az oldal irodájának postai úton vagy e-mailben.</p>"
 
 msgid "invalid time"
 msgstr "érvénytelen idő %1"

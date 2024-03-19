@@ -11,403 +11,403 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
-"PO-Revision-Date: 2024-03-18 15:28\n"
+"PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
-msgstr "es"
+msgstr "ko"
 
 msgid "lang_label"
-msgstr "Inglés"
+msgstr "영어"
 
 msgid "page_title"
-msgstr "Ensayos clínicos"
+msgstr "임상 시험"
 
 msgid "meta_description"
-msgstr "Subjects wanted - Regístrese ahora para realizar ensayos clínicos en curso."
+msgstr "원하는 피험자 - 현재 진행 중인 임상 시험에 지금 등록하세요."
 
 msgid "lead_label"
-msgstr "Reclutamiento Clínico de Ensayos"
+msgstr "임상시험 모집"
 
 msgid "logo_label"
-msgstr "Mi CRO"
+msgstr "내 CRO"
 
 msgid "copyright_label"
-msgstr "► 2019 Mi CRO"
+msgstr "ｩ 2019 마이 CRO"
 
 msgid "lanuage_menu_label"
-msgstr "Idioma"
+msgstr "언어"
 
 msgid "session_timer_pattern"
-msgstr "La entrada de datos termina en %M:%S"
+msgstr "데이터 입력은 %M로 끝납니다 :%S"
 
 msgid "navigation_start_label"
-msgstr "Comenzar"
+msgstr "시작"
 
 msgid "navigation_proband_label"
-msgstr "Persona"
+msgstr "사람"
 
 msgid "navigation_contact_label"
-msgstr "Detalles de contacto"
+msgstr "연락처 정보"
 
 msgid "navigation_trial_label"
-msgstr "Prueba"
+msgstr "재판"
 
 msgid "navigation_inquiry_label"
-msgstr "Formulario de consulta"
+msgstr "문의 양식"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Formulario de consulta - %1"
+msgstr "문의양식 - %1"
 
 msgid "navigation_end_label"
-msgstr "Hecho"
+msgstr "완료"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "Procesando..."
+msgstr "처리 중..."
 
 msgid "required_label"
-msgstr "requerido"
+msgstr "필수의"
 
 msgid "system_time_label"
-msgstr "(hora del sistema - %1) "
+msgstr "(시스템 시간 - %1) "
 
 msgid "input_time_label"
-msgstr "(hora del usuario - %1) "
+msgstr "(사용자 시간 - %1) "
 
 msgid "optional_label"
-msgstr "opcional"
+msgstr "선택 과목"
 
 msgid "male"
-msgstr "varón"
+msgstr "남성"
 
 msgid "female"
-msgstr "hembra"
+msgstr "여성"
 
 msgid "mandatory_field_label"
 msgstr "필수 필드"
 
 msgid "save_next_btn_label"
-msgstr "Enviar y siguiente"
+msgstr "보내고 다음"
 
 msgid "save_done_btn_label"
-msgstr "Enviar y finalizar"
+msgstr "보내고 마무리"
 
 msgid "done_btn_label"
-msgstr "Finalizar"
+msgstr "마치다"
 
 msgid "yes_btn_label"
-msgstr "Sí"
+msgstr "예"
 
 msgid "no_btn_label"
-msgstr "Nu"
+msgstr "아니요"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "Aplicar valor"
+msgstr "가치 적용"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "dibujar/borrar selección establecer regiones de valor"
+msgstr "선택 세트 값 영역 그리기/지우기"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "seleccionar lápiz (dibujar trazos) o borrador (quitar trazos seleccionados)"
+msgstr "펜(획 그리기) 또는 지우개(선택한 획 제거) 선택"
 
 msgid "sketch_undo_tooltip"
-msgstr "deshacer"
+msgstr "실행 취소"
 
 msgid "sketch_redo_tooltip"
-msgstr "rehacer"
+msgstr "다시 하다"
 
 msgid "sketch_clear_tooltip"
-msgstr "borrar todos los trazos"
+msgstr "모든 스트로크 지우기"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "ancho del bolígrafo 12"
+msgstr "펜 폭 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "ancho de bolígrafo 6"
+msgstr "펜 폭 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "ancho de bolígrafo 3"
+msgstr "펜 폭 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "ancho de bolígrafo 0.8"
+msgstr "펜 폭 0.8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "opacidad de pluma 100%"
+msgstr "펜 불투명도 100%"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "opacidad del bolígrafo 60%"
+msgstr "펜 불투명도 60%"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "opacidad del bolígrafo 30%"
+msgstr "펜 불투명도 30%"
 
 msgid "finish_btn_label"
-msgstr "Salir"
+msgstr "그만두다"
 
 msgid "error_summary"
 msgstr "오류:"
 
 msgid "error_no_proband_created"
-msgstr "guardar primero información personal"
+msgstr "먼저 개인정보를 저장하세요"
 
 msgid "error_no_contact_created"
-msgstr "guardar primero los datos de contacto"
+msgstr "먼저 연락처를 저장하세요"
 
 msgid "error_no_trial_selected"
-msgstr "seleccione primero una prueba"
+msgstr "먼저 평가판을 선택하세요"
 
 msgid "error_inquiries_na"
-msgstr "seleccione primero una prueba con formulario de consulta"
+msgstr "먼저 문의 양식을 통해 시험을 선택하세요."
 
 msgid "error_trials_na"
-msgstr "seleccione primero un sitio de prueba con pruebas"
+msgstr "먼저 평가판이 있는 평가판 사이트를 선택하세요."
 
 msgid "error_proband_create_rate_limit"
-msgstr "un asunto fue creado recientemente con este equipo, por favor espere antes de volver a intentarlo"
+msgstr "최근에 이 컴퓨터로 제목이 생성되었습니다. 다시 시도하기 전에 잠시 기다려 주세요."
 
 msgid "error_no_contact_details"
-msgstr "por favor proporcione dirección de correo electrónico o número de teléfono"
+msgstr "이메일 주소나 전화번호를 알려주세요"
 
 msgid "error_proband_not_agreed"
-msgstr "se requiere el consentimiento expreso para continuar"
+msgstr "계속하려면 명시적 동의가 필요합니다."
 
 msgid "trial_sites_header"
-msgstr "Sitios de prueba"
+msgstr "평가판 사이트"
 
 msgid "select_site_btn_label"
-msgstr "Registro"
+msgstr "등록"
 
 msgid "express_consent_panel_title"
-msgstr "Consenso exprés"
+msgstr "명시적 동의"
 
 msgid "proband_agreed_label"
-msgstr "Acepto almacenar mis datos."
+msgstr "내 데이터를 저장하는 데 동의합니다."
 
 msgid "proband_agreed_tooltip"
-msgstr "Dar consentimiento expreso."
+msgstr "명시적인 동의를 하십시오."
 
 msgid "proband_panel_title"
-msgstr "Información Personal"
+msgstr "개인 정보"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Titulos preferidos:"
+msgstr "접두어 제목:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Opcionalmente especificar títulos prefijos."
+msgstr "선택적으로 접두사 제목을 지정합니다."
 
 msgid "proband_first_name_label"
-msgstr "Nombre:"
+msgstr "이름:"
 
 msgid "proband_first_name_tooltip"
-msgstr "El nombre es obligatorio."
+msgstr "이름은 필수 항목입니다."
 
 msgid "proband_last_name_label"
-msgstr "Apellido:"
+msgstr "성:"
 
 msgid "proband_last_name_tooltip"
-msgstr "El apellido es obligatorio."
+msgstr "성은 필수 항목입니다."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Títulos publicados:"
+msgstr "후치된 제목:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "Opcionalmente especificar títulos posposicionados."
+msgstr "선택적으로 후치 제목을 지정합니다."
 
 msgid "proband_gender_label"
-msgstr "Género:"
+msgstr "성별:"
 
 msgid "proband_gender_tooltip"
-msgstr "El género es necesario."
+msgstr "성별은 필수 항목입니다."
 
 msgid "proband_dob_label"
-msgstr "Fecha de nacimiento:"
+msgstr "생일:"
 
 msgid "proband_dob_tooltip"
-msgstr "La fecha de nacimiento es necesaria (%1)."
+msgstr "생년월일은 필수입니다(%1)."
 
 msgid "proband_citizenship_label"
-msgstr "Ciudadanía:"
+msgstr "시민권:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "La ciudadanía puede especificarse opcionalmente."
+msgstr "시민권은 선택적으로 지정할 수 있습니다."
 
 msgid "proband_comment"
-msgstr "Registro a través de %1\n"
-"para sitio de prueba '%2'\n"
-"prueba '%3'\n"
-"desde dirección IP %4\n"
-"usando navegador '%5'\n"
-"procedente de %6"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
 
 msgid "address_panel_title"
-msgstr "Dirección"
+msgstr "주소"
 
 msgid "proband_address_country_name_label"
-msgstr "Nombre del país:"
+msgstr "나라 이름:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "El nombre del país parte de la dirección postal es obligatorio."
+msgstr "우편 주소 중 국가명 부분이 필요합니다."
 
 msgid "proband_address_province_label"
-msgstr "Estado:"
+msgstr "상태:"
 
 msgid "proband_address_province_tooltip"
-msgstr "Se requiere la parte del estado/provincia de la dirección postal."
+msgstr "우편 주소 중 시/도 부분이 필요합니다."
 
 msgid "proband_address_zip_code_label"
-msgstr "Código postal:"
+msgstr "우편 번호:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "Se requiere la parte del código postal de la dirección postal."
+msgstr "우편 주소 중 우편번호 부분이 필요합니다."
 
 msgid "proband_address_city_name_label"
-msgstr "Nombre de la ciudad:"
+msgstr "도시 이름:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "El nombre de la ciudad parte de la dirección postal es obligatorio."
+msgstr "우편주소 중 도시명 부분은 필수입니다."
 
 msgid "proband_address_street_name_label"
-msgstr "Nombre de la calle:"
+msgstr "거리 이름:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "Se requiere la parte del nombre de la calle de la dirección postal."
+msgstr "우편 주소 중 거리명 부분이 필요합니다."
 
 msgid "proband_address_house_number_label"
-msgstr "Número de casa:"
+msgstr "집 번호:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "Se requiere el número de la casa parte de la dirección postal."
+msgstr "우편 주소 중 집 번호 부분이 필요합니다."
 
 msgid "proband_address_entrance_label"
-msgstr "Entrada:"
+msgstr "입구:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "La entrada (escalera, bloque, ala) parte de la dirección postal es opcional."
+msgstr "우편주소 중 입구(계단, 블록, 동)부분은 선택사항입니다."
 
 msgid "proband_address_door_number_label"
-msgstr "Apartamento:"
+msgstr "아파트:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "El número de apartamento parte de la dirección postal es opcional."
+msgstr "우편 주소의 아파트 번호 부분은 선택 사항입니다."
 
 msgid "contact_details_panel_title"
-msgstr "Dirección de teléfono y email"
+msgstr "전화 및 이메일 주소"
 
 msgid "proband_phone_label"
-msgstr "Teléfono:"
+msgstr "핸드폰:"
 
 msgid "proband_phone_tooltip"
-msgstr "Formato de número de teléfono como '0699 1234567' o '0316 38573000'."
+msgstr "'0699 1234567' 또는 '0316 38573000'과 같은 전화번호 형식입니다."
 
 msgid "proband_email_label"
 msgstr "이메일:"
 
 msgid "proband_email_tooltip"
-msgstr "Formato de dirección de correo electrónico como 'max.mustermann@phoenixctms.org'."
+msgstr "'max.mustermann@phoenixctms.org'와 같은 이메일 주소 형식입니다."
 
 msgid "proband_email_notify_label"
-msgstr "notificar"
+msgstr "통지하다"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Permitir enviar correos electrónicos."
+msgstr "이메일 보내기를 허용합니다."
 
 msgid "trials_grid_header"
-msgstr "Pruebas/Lista de Candidatos"
+msgstr "시험/후보 목록"
 
 msgid "open_inquiries_btn_label"
-msgstr "Abrir forma de inuiry"
+msgstr "Inuiry 양식 열기"
 
 msgid "signup_btn_label"
-msgstr "Regístrate"
+msgstr "가입하기"
 
 msgid "inquiries_grid_header"
 msgstr "문의양식 - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Formulario de consulta incompleto"
+msgstr "문의 양식이 불완전함"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Por favor, consulte todas las páginas del formulario de solicitud.<br/>¿Prefiere enviar y finalizar de todos modos?"
+msgstr "문의양식의 모든 페이지를 살펴보시기 바랍니다.<br/>그냥 보내고 끝내시겠습니까?"
 
 msgid "inquiries_pbar_template"
-msgstr "enviado: %d/%d"
+msgstr "전송됨: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "Abrir como PDF"
+msgstr "PDF로 열기"
 
 msgid "inquiries_prev_btn_label"
-msgstr "Seleccionar prueba"
+msgstr "체험판 선택"
 
 msgid "probandletter_btn_label"
-msgstr "Abrir consentimiento de privacidad como PDF"
+msgstr "개인정보 보호 동의서를 PDF로 열기"
 
 msgid "inquiryforms_btn_label"
-msgstr "Abrir los formularios de consulta introducidos como PDF"
+msgstr "입력한 문의 양식을 PDF로 열기"
 
 msgid "404_title"
-msgstr "La página solicitada no está disponible"
+msgstr "요청한 페이지를 사용할 수 없습니다"
 
 msgid "404_description"
-msgstr "<p>Lo sentimos, la página solicitada no se encuentra en este sitio. Tal vez hayas hecho clic en una URL incorrecta o desactualizada.</p><p>Puede volver a la <a href=\"/\">página de inicio</a> de este sitio haciendo clic en el logo en la parte superior.</p>"
+msgstr "<p>죄송합니다. 요청하신 페이지를 이 사이트에서 찾을 수 없습니다. 어쩌면 잘못되었거나 오래된 URL을 클릭했을 수도 있습니다.</p><p>상단의 로고를 클릭하면 이 사이트의 <a href=\"/\">랜딩 페이지</a> 로 다시 전환할 수 있습니다.</p>"
 
 msgid "start_title"
 msgstr "임상시험 모집"
 
 msgid "start_description"
-msgstr "<p>El desarrollo de nuevas medidas terapéuticas o diagnósticas requiere ensayos clínicos y participantes voluntarios. Este sitio ofrece una visión general de los ensayos en curso y la oportunidad de participar.</p><p>Con tu registro has sido añadido a la base de datos central, permitiéndonos ponernos en contacto con usted para inscribirse finalmente como candidato en ensayos en curso o futuros (siempre y cuando así lo desee).</p><p>Iniciar el proceso de registro en uno de los sitios de prueba a continuación.</p>"
+msgstr "<p>새로운 진단 또는 치료 방법을 개발하려면 임상 시험과 자발적인 참여가 필요합니다. 이 사이트에서는 진행 중인 임상시험과 참여 기회에 대한 개요를 제공합니다.</p><p>귀하가 등록하면 중앙 데이터베이스에 추가되며, 최종적으로 귀하를 진행 중인 또는 향후 시험에 후보자로 등록하기 위해 귀하에게 연락할 수 있습니다(원하는 경우).</p><p>아래 평가판 사이트 중 하나에서 등록 절차를 시작하세요.</p>"
 
 msgid "proband_title"
-msgstr "Datos personales"
+msgstr "개인 정보"
 
 msgid "proband_description"
-msgstr "<p>En el primer paso, envíanos tu información personal básica: nombre, sexo y datos de nacimiento.</p>"
+msgstr "<p>첫 번째 단계에서는 이름, 성별, 생년월일 등 기본 개인정보를 보내주세요.</p>"
 
 msgid "contact_title"
-msgstr "Información de contacto"
+msgstr "연락처 정보"
 
 msgid "contact_description"
-msgstr "<p>En el segundo paso, envíenos sus datos de contacto: dirección postal, número de teléfono y dirección de correo electrónico.</p><p>Un agente puede ponerse en contacto contigo para obtener su confirmación explícita para almacenar sus datos. En este primer contacto se le informará sobre los procedimientos de inscripción en el sitio de prueba.</p><p>Su información está sujeta a la privacidad de los datos y puede ser vista por el personal del sitio exclusivamente.</p>"
+msgstr "<p>두 번째 단계에서는 우편 주소, 전화번호, 이메일 주소 등 연락처 정보를 보내주세요.</p><p>그러면 상담원이 귀하에게 연락하여 데이터 저장에 대한 명시적인 확인을 받을 수 있습니다. 이 첫 번째 연락에서는 시험 사이트의 등록 절차에 대한 정보를 받게 됩니다.</p><p>귀하의 정보는 개인정보 보호 대상이며 사이트 직원만이 볼 수 있습니다.</p>"
 
 msgid "trial_title"
-msgstr "Pruebas en curso"
+msgstr "진행중인 시험"
 
 msgid "trial_description"
-msgstr "<p>En el tercer paso se presenta una visión general de los estudios y consultas en curso. Consulte la lista para ver información básica sobre los criterios de candidatura, los procedimientos y el reembolso de los ensayos individuales.</p><p>Puede indicar su interés en participar en un ensayo particular registrándose o abriendo su formulario de consulta. Si prefieres completarlo más tarde o en una conversación direkt, puedes saltarlo y terminar tu registro.</p>"
+msgstr "<p>현재 진행 중인 연구 및 문의 사항에 대한 개요가 세 번째 단계에 제시됩니다. 개별 임상시험의 후보 기준, 절차 및 상환에 관한 기본 정보를 보려면 목록을 찾아보십시오.</p><p>등록하거나 문의 양식을 열어 특정 임상시험 참여에 대한 관심을 표시할 수 있습니다. 나중에 완료하거나 직접 대화를 통해 완료하려는 경우 이 단계를 건너뛰고 등록을 완료할 수 있습니다.</p>"
 
 msgid "inquiry_title"
 msgstr "문의양식 - %1"
 
 msgid "inquiry_description"
-msgstr "<p>El formulario de consulta está diseñado para completarlo en unos minutos y sin preparaciones. Dado que la información que usted proporciona aquí se utilizará para identificar a usted como candidato, por favor proporcione información correcta y exhaustiva.</p>"
+msgstr "<p>문의 양식은 준비 없이 몇 분 안에 완료되도록 설계되었습니다. 여기에 제공하는 정보는 귀하를 후보자로 식별하는 데 사용되므로 정확하고 포괄적인 정보를 제공해 주시기 바랍니다.</p>"
 
 msgid "end_title"
-msgstr "Gracias."
+msgstr "감사합니다!"
 
 msgid "end_description"
-msgstr "<p>Gracias por registrarse. Nos pondremos en contacto con usted en breve y estamos deseando invitarle al sitio de la prueba como nuevo participante.</p><p>Puede descargar documentos PDF con los datos proporcionados. Para evitar la eliminación automática, por favor envíe su consentimiento de privacidad de datos firmado a la oficina del sitio por correo electrónico o correo electrónico hasta %1.</p>"
+msgstr "<p>등록해 주셔서 감사합니다. 곧 연락을 드릴 예정이며 새로운 참가자로서 귀하를 평가판 사이트에 초대하기를 기대하고 있습니다.</p><p>제공된 데이터가 포함된 PDF 문서를 다운로드할 수 있습니다. 자동 삭제를 방지하려면 %1까지 서명된 데이터 개인 정보 보호 동의서를 우편이나 이메일을 통해 사이트 사무실에 제출하시기 바랍니다.</p>"
 
 msgid "invalid time"
-msgstr "hora no válida %1"
+msgstr "잘못된 시간 %1"
 
 msgid "invalid hour"
-msgstr "hora no válida %1"
+msgstr "잘못된 시간 %1"
 
 msgid "invalid minute"
-msgstr "minuto no válido %1"
+msgstr "잘못된 분 %1"
 
 msgid "invalid second"
-msgstr "segundo no válido %1"
+msgstr "잘못된 초 %1"
 
 msgid "invalid date"
-msgstr "fecha no válida %1"
+msgstr "잘못된 날짜 %1"
 
 msgid "invalid month"
-msgstr "mes no válido %1"
+msgstr "잘못된 달 %1"
 
 msgid "invalid year"
-msgstr "año %1 no válido"
+msgstr "잘못된 연도 %1"
 
 msgid "invalid day"
-msgstr "día %1 no válido"
+msgstr "무효일 %1"
 

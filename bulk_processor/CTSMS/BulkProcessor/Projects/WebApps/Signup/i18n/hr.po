@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Croatian\n"
-"PO-Revision-Date: 2024-03-18 17:13\n"
+"PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
 msgstr "hr"
@@ -328,7 +328,7 @@ msgid "incomplete_dlg_title"
 msgstr "Obrazac za upit nije potpun"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Molimo pogledajte sve stranice obrasca za upit.<br/>Želite li svejedno poslati i završiti?"
+msgstr "Molimo pogledajte sve stranice formulara za upit.<br/>Želite li svejedno poslati i završiti?"
 
 msgid "inquiries_pbar_template"
 msgstr "poslano: %d/%d"
@@ -355,7 +355,7 @@ msgid "start_title"
 msgstr "Zapošljavanje za klinička ispitivanja"
 
 msgid "start_description"
-msgstr "<p>Razvoj novih dijagnostičkih ili terapijskih mjera zahtijeva klinička ispitivanja i dobrovoljne sudionike. Ova stranica daje pregled tekućih ispitivanja i mogućnost sudjelovanja.</p><p>Vašom registracijom dodajete se u središnju bazu podataka, što nam omogućuje da vas kontaktiramo kako bismo vas konačno upisali kao kandidata u tekuće ili buduće probe (ako god to želite).</p><p>Započnite postupak registracije na jednom od probnih mjesta u nastavku.</p>"
+msgstr "<p>Razvoj novih dijagnostičkih ili terapijskih mjera zahtijeva klinička ispitivanja i dobrovoljne sudionike. Ova stranica daje pregled tekućih ispitivanja i mogućnost sudjelovanja.</p><p>Vašom registracijom dodajete se u središnju bazu podataka, što nam omogućuje da vas kontaktiramo kako bismo vas konačno upisali kao kandidata u tekućim ili budućim ispitivanjima (ako god to želite).</p><p>Započnite postupak registracije na jednom od probnih mjesta u nastavku.</p>"
 
 msgid "proband_title"
 msgstr "Osobni podaci"
@@ -367,7 +367,7 @@ msgid "contact_title"
 msgstr "Podaci za kontakt"
 
 msgid "contact_description"
-msgstr "<p>U drugom koraku pošaljite nam svoje kontakt podatke: poštansku adresu, broj telefona i e-mail adresu.</p><p>Agent tada može stupiti u kontakt s vama kako bi dobio vašu izričitu potvrdu za pohranu vaših podataka. U ovom prvom kontaktu bit ćete obaviješteni o postupcima upisa na ispitnom mjestu.</p><p>Vaši podaci podliježu privatnosti podataka i mogu ih vidjeti isključivo zaposlenici stranice.</p>"
+msgstr "<p>U drugom koraku pošaljite nam svoje kontakt podatke: poštansku adresu, broj telefona i e-mail adresu.</p><p>Agent tada može stupiti u kontakt s vama kako bi dobio vašu izričitu potvrdu za pohranu vaših podataka. U ovom prvom kontaktu bit ćete obaviješteni o postupcima upisa na ispitnom mjestu.</p><p>Vaši podaci podliježu privatnosti podataka i mogu ih pregledati isključivo zaposlenici stranice.</p>"
 
 msgid "trial_title"
 msgstr "Suđenja u tijeku"

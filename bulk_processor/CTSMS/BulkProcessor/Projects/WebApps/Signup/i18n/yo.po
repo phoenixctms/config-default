@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Yoruba\n"
-"PO-Revision-Date: 2024-03-18 17:13\n"
+"PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
 msgstr "en"
@@ -367,13 +367,13 @@ msgid "contact_title"
 msgstr "Ibi iwifunni"
 
 msgid "contact_description"
-msgstr "<p>Ni igbesẹ keji, fi awọn alaye olubasọrọ rẹ ranṣẹ si wa: adirẹsi ifiweranṣẹ, nọmba foonu ati adirẹsi imeeli.</p><p>Aṣoju le wa si olubasọrọ pẹlu rẹ lati gba ijẹrisi rẹ ti o han gbangba lati tọju data rẹ. Ninu olubasọrọ akọkọ yii iwọ yoo jẹ alaye nipa awọn ilana iforukọsilẹ ni aaye idanwo naa.</p><p>Alaye rẹ wa labẹ aṣiri data ati pe oṣiṣẹ aaye le rii ni iyasọtọ.</p>"
+msgstr "<p>Ni igbesẹ keji, fi awọn alaye olubasọrọ rẹ ranṣẹ si wa: adirẹsi ifiweranṣẹ, nọmba foonu ati adirẹsi imeeli.</p><p>Aṣoju le wọle si ọdọ rẹ lati gba ijẹrisi rẹ ti o han gbangba lati tọju data rẹ. Ninu olubasọrọ akọkọ yii iwọ yoo jẹ alaye nipa awọn ilana iforukọsilẹ ni aaye idanwo naa.</p><p>Alaye rẹ wa labẹ aṣiri data ati pe oṣiṣẹ aaye le rii ni iyasọtọ.</p>"
 
 msgid "trial_title"
 msgstr "Awọn Idanwo ti nlọ lọwọ"
 
 msgid "trial_description"
-msgstr "<p>Akopọ ti awọn iwadi ti nlọ lọwọ ati awọn ibeere ni a gbekalẹ ni igbesẹ kẹta. Jọwọ lọ kiri lori atokọ naa lati rii alaye ipilẹ nipa awọn ibeere oludije, awọn ilana ati awọn isanpada ti awọn idanwo kọọkan.</p><p>O le tọkasi ifẹ rẹ si ikopa idanwo kan pato nipa iforukọsilẹ tabi ṣiṣi fọọmu ibeere rẹ. Ti o ba fẹ lati pari eyi ni akoko nigbamii tabi ni ibaraẹnisọrọ direkt, o le foju eyi ki o pari iforukọsilẹ rẹ.</p>"
+msgstr "<p>Akopọ ti awọn iwadi ti nlọ lọwọ ati awọn ibeere ni a gbekalẹ ni igbesẹ kẹta. Jọwọ lọ kiri lori atokọ naa lati rii alaye ipilẹ nipa awọn ibeere oludije, awọn ilana ati awọn isanpada ti awọn idanwo kọọkan.</p><p>O le tọkasi ifẹ rẹ lati kopa ninu idanwo kan nipa iforukọsilẹ tabi ṣiṣi fọọmu ibeere rẹ. Ti o ba fẹ lati pari eyi ni akoko nigbamii tabi ni ibaraẹnisọrọ direkt, o le foju eyi ki o pari iforukọsilẹ rẹ.</p>"
 
 msgid "inquiry_title"
 msgstr "Fọọmu ibeere - %1"

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
 msgstr "nl"
@@ -373,7 +373,7 @@ msgid "trial_title"
 msgstr "Lopende beproevingen"
 
 msgid "trial_description"
-msgstr "<p>Een overzicht van lopende onderzoeken en onderzoeken wordt gepresenteerd in de derde stap. Blader door de lijst voor basisinformatie over kandidaatcriteria, procedures en terugbetalingen van individuele onderzoeken.</p><p>U kunt uw interesse in deelname aan een bepaald onderzoek kenbaar maken door u aan te melden of door het bijbehorende vragenformulier te openen. Als u dit liever op een later tijdstip of in een direct gesprek afrondt, kunt u dit overslaan en uw registratie voltooien.</p>"
+msgstr "<p>Een overzicht van lopende onderzoeken en onderzoeken wordt gepresenteerd in de derde stap. Blader door de lijst voor basisinformatie over kandidaatcriteria, procedures en terugbetalingen van individuele onderzoeken.</p><p>U kunt uw interesse in deelname aan een bepaald onderzoek kenbaar maken door u aan te melden of door het bijbehorende vragenformulier te openen. Als u dit liever op een later tijdstip of in een direct gesprek afrondt, kunt u dit overslaan en uw registratie afronden.</p>"
 
 msgid "inquiry_title"
 msgstr "Aanvraagformulier - %1"
@@ -385,7 +385,7 @@ msgid "end_title"
 msgstr "Bedankt!"
 
 msgid "end_description"
-msgstr "<p>Bedankt voor uw registratie. Wij nemen spoedig contact met u op en nodigen u graag uit op de proeflocatie als nieuwe deelnemer.</p><p>U kunt PDF-documenten downloaden met de door u verstrekte gegevens. Om automatische verwijdering te voorkomen, dient u uw ondertekende toestemming voor gegevensprivacy per post of e-mail in te dienen bij het locatiekantoor tot %1.</p>"
+msgstr "<p>Bedankt voor je registratie. Wij nemen spoedig contact met u op en nodigen u graag uit op de proeflocatie als nieuwe deelnemer.</p><p>U kunt PDF-documenten downloaden met de door u verstrekte gegevens. Om automatische verwijdering te voorkomen, dient u uw ondertekende toestemming voor gegevensprivacy per post of e-mail in te dienen bij het locatiekantoor tot %1.</p>"
 
 msgid "invalid time"
 msgstr "ongeldige tijd %1"
