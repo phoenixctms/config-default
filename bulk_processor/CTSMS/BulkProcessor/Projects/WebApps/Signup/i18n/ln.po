@@ -11,226 +11,226 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Lingala\n"
-"PO-Revision-Date: 2024-03-19 02:07\n"
+"PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
 msgstr "en"
 
 msgid "lang_label"
-msgstr "English"
+msgstr "Lingelesi"
 
 msgid "page_title"
-msgstr "Clinical Trials"
+msgstr "Ba études cliniques"
 
 msgid "meta_description"
-msgstr "Subjects wanted - register for ongoing clinical trials now."
+msgstr "Ba sujets oyo balingaki - bokomisa nkombo mpo na ba études cliniques oyo ezali kosalama sikoyo."
 
 msgid "lead_label"
-msgstr "Clinical Trial Recruitment"
+msgstr "Recrutement ya ba études cliniques"
 
 msgid "logo_label"
-msgstr "My CRO"
+msgstr "CRO na ngai"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 My CRO"
+msgstr "2019 CRO na ngai"
 
 msgid "lanuage_menu_label"
-msgstr "Language"
+msgstr "Lokota"
 
 msgid "session_timer_pattern"
-msgstr "Data entry ends in %M:%S"
+msgstr "Bokotisi ba données esukaka na %M:%S"
 
 msgid "navigation_start_label"
-msgstr "Start"
+msgstr "Kobanda"
 
 msgid "navigation_proband_label"
-msgstr "Person"
+msgstr "Moto"
 
 msgid "navigation_contact_label"
-msgstr "Contact Details"
+msgstr "Makambo ya boyokani"
 
 msgid "navigation_trial_label"
-msgstr "Trial"
+msgstr "Kosambisa"
 
 msgid "navigation_inquiry_label"
-msgstr "Inquiry Form"
+msgstr "Formulaire ya kotuna mituna"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Inquiry Form - %1"
+msgstr "Formulaire ya kotuna - %1"
 
 msgid "navigation_end_label"
-msgstr "Done"
+msgstr "Esalemi"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "Processing..."
+msgstr "Traitement ya..."
 
 msgid "required_label"
-msgstr "required"
+msgstr "esengami"
 
 msgid "system_time_label"
-msgstr "(system time - %1) "
+msgstr "(ntango ya système - %1) "
 
 msgid "input_time_label"
-msgstr "(user time - %1) "
+msgstr "(ntango ya mosaleli - %1) "
 
 msgid "optional_label"
-msgstr "optional"
+msgstr "soki olingi"
 
 msgid "male"
-msgstr "male"
+msgstr "mobali"
 
 msgid "female"
-msgstr "female"
+msgstr "ya mwasi"
 
 msgid "mandatory_field_label"
-msgstr "mandatory field"
+msgstr "esika oyo esengeli kosala"
 
 msgid "save_next_btn_label"
-msgstr "Send and next"
+msgstr "Tinda na sima"
 
 msgid "save_done_btn_label"
-msgstr "Send and finish"
+msgstr "Tinda mpe silisa"
 
 msgid "done_btn_label"
-msgstr "Finish"
+msgstr "Kosilisa"
 
 msgid "yes_btn_label"
-msgstr "Yes"
+msgstr "Iyo"
 
 msgid "no_btn_label"
-msgstr "No"
+msgstr "Te"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "Apply value"
+msgstr "Salelá motuya"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "draw/clear selection set value regions"
+msgstr "kobenda/kolongola boponi ensemble ya ba régions ya valeur"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "select pen (draw strokes) or eraser (remove picked strokes)"
+msgstr "pona stylo (benda ba traits) to effaceur (longola ba traits oyo oponi)"
 
 msgid "sketch_undo_tooltip"
-msgstr "undo"
+msgstr "kozongisa nsima"
 
 msgid "sketch_redo_tooltip"
-msgstr "redo"
+msgstr "kosala lisusu"
 
 msgid "sketch_clear_tooltip"
-msgstr "clear all strokes"
+msgstr "effacer ba AVC nionso"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "pen width 12"
+msgstr "bonene ya stylo 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "pen width 6"
+msgstr "bonene ya stylo 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "pen width 3"
+msgstr "bonene ya stylo 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "pen width 0.8"
+msgstr "bonene ya stylo 0,8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "pen opacity 100%"
+msgstr "opacité ya stylo 100% ."
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "pen opacity 60%"
+msgstr "opacité ya stylo 60% ."
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "pen opacity 30%"
+msgstr "opacité ya stylo 30% ."
 
 msgid "finish_btn_label"
-msgstr "Quit"
+msgstr "Kolongwa"
 
 msgid "error_summary"
-msgstr "Error:"
+msgstr "Libunga:"
 
 msgid "error_no_proband_created"
-msgstr "save personal information first"
+msgstr "bomba liboso makambo ya moto ye moko"
 
 msgid "error_no_contact_created"
-msgstr "save contact details first"
+msgstr "bomba liboso ba détails ya contact"
 
 msgid "error_no_trial_selected"
-msgstr "select a trial first"
+msgstr "pona liboso momekano moko"
 
 msgid "error_inquiries_na"
-msgstr "select a trial with inquiry form first"
+msgstr "pona liboso procès na formulaire ya enquête"
 
 msgid "error_trials_na"
-msgstr "select a trial site with trials first"
+msgstr "pona esika ya komeka liboso na ba épreuves"
 
 msgid "error_proband_create_rate_limit"
-msgstr "a subject was created with this computer recently, please wait before retry"
+msgstr "sujet moko esalemaki na ordinateur oyo kala mingi te, zela liboso ya komeka lisusu"
 
 msgid "error_no_contact_details"
-msgstr "please provide email address or phone number"
+msgstr "svp pesa adresse email to numéro ya téléphone"
 
 msgid "error_proband_not_agreed"
-msgstr "express consent is required to continue"
+msgstr "esengeli kondima polele mpo na kokoba"
 
 msgid "trial_sites_header"
-msgstr "Trial sites"
+msgstr "Bisika ya komeka"
 
 msgid "select_site_btn_label"
-msgstr "Registration"
+msgstr "Kokomisa nkombo"
 
 msgid "express_consent_panel_title"
-msgstr "Express Consent"
+msgstr "Bondimi ya polele"
 
 msgid "proband_agreed_label"
-msgstr "I agree to store my data."
+msgstr "Nandimi kobomba ba données na ngai."
 
 msgid "proband_agreed_tooltip"
-msgstr "Give express consent."
+msgstr "Pesá ndingisa ya polele."
 
 msgid "proband_panel_title"
-msgstr "Personal Information"
+msgstr "Basango ya moto ye moko"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Prefixed titles:"
+msgstr "Mitó ya makambo oyo etyami liboso:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Optionally specify prefixed titles."
+msgstr "Na bolingi na yo, lakisa ba titre oyo ezali na liboso."
 
 msgid "proband_first_name_label"
-msgstr "First name:"
+msgstr "Prenom:"
 
 msgid "proband_first_name_tooltip"
-msgstr "The first name is required."
+msgstr "Nkombo ya liboso esengeli."
 
 msgid "proband_last_name_label"
-msgstr "Last name:"
+msgstr "Nkombo ya libota:"
 
 msgid "proband_last_name_tooltip"
-msgstr "The last name is required."
+msgstr "Nkombo ya nsuka esengeli."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Postpositioned titles:"
+msgstr "Ba titre oyo etiamaki sima:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "Optionally specify postpositioned titles."
+msgstr "Na bolingi na yo, lakisa ba titre oyo etiamaki sima."
 
 msgid "proband_gender_label"
-msgstr "Gender:"
+msgstr "Mobali to mwasi:"
 
 msgid "proband_gender_tooltip"
-msgstr "Gender is required."
+msgstr "Esengeli kozala na mobali to mwasi."
 
 msgid "proband_dob_label"
-msgstr "Date of birth:"
+msgstr "Mokolo ya mbotama:"
 
 msgid "proband_dob_tooltip"
-msgstr "Date of birth is required (%1)."
+msgstr "Mokolo ya mbotama esengeli (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "Citizenship:"
+msgstr "Bozali mwana mboka:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "Citizenship can be specified optionally."
+msgstr "Citoyenneté ekoki kozala précisée na option."
 
 msgid "proband_comment"
 msgstr "Registration via %1\n"
@@ -241,173 +241,173 @@ msgstr "Registration via %1\n"
 "coming from %6"
 
 msgid "address_panel_title"
-msgstr "Address"
+msgstr "Adresi"
 
 msgid "proband_address_country_name_label"
-msgstr "Country name:"
+msgstr "Nkombo ya mboka:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "The country name part of the postal address is required."
+msgstr "Nkombo ya mboka eteni ya adresi ya posita esengeli."
 
 msgid "proband_address_province_label"
-msgstr "State:"
+msgstr "Etuka:"
 
 msgid "proband_address_province_tooltip"
-msgstr "The state/province part of the postal address is required."
+msgstr "Eteni ya l’Etat/province ya adresse postale esengeli."
 
 msgid "proband_address_zip_code_label"
-msgstr "Zip code:"
+msgstr "Code postal:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "The zip code part of the postal address is required."
+msgstr "Eteni ya code postal ya adresse postale esengeli."
 
 msgid "proband_address_city_name_label"
-msgstr "City name:"
+msgstr "Nkombo ya engumba:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "The city name part of the postal address is required."
+msgstr "Nkombo ya engumba eteni ya adresi ya posita esengeli."
 
 msgid "proband_address_street_name_label"
-msgstr "Street name:"
+msgstr "Nkombo ya balabala:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "The street name part of the postal address is required."
+msgstr "Eteni ya nkombo ya balabala ya adresi ya posita esengeli."
 
 msgid "proband_address_house_number_label"
-msgstr "House number:"
+msgstr "Nimero ya ndako:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "The house number part of the postal address is required."
+msgstr "Nimero ya ndako eteni ya adresi ya posita esengeli."
 
 msgid "proband_address_entrance_label"
-msgstr "Entrance:"
+msgstr "Ekoteli:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "The entrance (staircase, block, wing) part of the postal address is optional."
+msgstr "Eteni ya bokoti (escalier, bloc, lipapu) ya adresse postale ezali optionnel."
 
 msgid "proband_address_door_number_label"
-msgstr "Apartment:"
+msgstr "Ndako:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "The apartment number part of the postal address is optional."
+msgstr "Eteni ya nimero ya ndako ya adresi ya posita ezali ya kopona."
 
 msgid "contact_details_panel_title"
-msgstr "Phone and Email Address"
+msgstr "Addresse ya Telephone mpe ya Email"
 
 msgid "proband_phone_label"
-msgstr "Phone:"
+msgstr "Tyombo:"
 
 msgid "proband_phone_tooltip"
-msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
+msgstr "Format ya numéro ya téléphone lokola '0699 1234567' to '0316 38573000'."
 
 msgid "proband_email_label"
 msgstr "Email:"
 
 msgid "proband_email_tooltip"
-msgstr "Email address format like 'max.mustermann@phoenixctms.org'."
+msgstr "Format ya adresse ya email lokola 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "notify"
+msgstr "koyebisa"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Allow to send Emails."
+msgstr "Tika kotinda ba Emails."
 
 msgid "trials_grid_header"
-msgstr "Trials/Candidate lists"
+msgstr "Ba listes ya ba procès/ba candidats"
 
 msgid "open_inquiries_btn_label"
-msgstr "Open inuiry form"
+msgstr "Formulaire ya inuiry ya polele"
 
 msgid "signup_btn_label"
-msgstr "Sign-up"
+msgstr "Kokoma na nkombo"
 
 msgid "inquiries_grid_header"
-msgstr "Inquiry Form - %1"
+msgstr "Formulaire ya kotuna - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Inquiry form incomplete"
+msgstr "Formulaire ya mituna ezali mobimba te"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
+msgstr "Svp tala nkasa nionso ya formulaire ya demande.<br/>Olingi kotinda pe kosilisa de toute façon?"
 
 msgid "inquiries_pbar_template"
-msgstr "sent: %d/%d"
+msgstr "atindaki: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "Open as PDF"
+msgstr "Fungola lokola PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "Select trial"
+msgstr "Pona komeka"
 
 msgid "probandletter_btn_label"
-msgstr "Open privacy consent as PDF"
+msgstr "Fungola ndingisa ya kobatela makambo ya moto ye moko lokola PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "Open entered inquiry forms as PDF"
+msgstr "Fungola ba formulaire ya mituna oyo okotisi lokola PDF"
 
 msgid "404_title"
-msgstr "The requested page is not available"
+msgstr "Lokasa oyo basɛngi ezali te"
 
 msgid "404_description"
-msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
+msgstr "<p>Mawa, lokasa oyo osengaki ekoki kozwama te na site oyo. Mbala mosusu obɛtaki URL moko ya mabe to oyo esilá ngala.</p><p>Okoki kozonga na <a href=\"/\">page d'arrivée</a> ya site oyo na ko cliquer logo oyo ezali likolo.</p>"
 
 msgid "start_title"
-msgstr "Clinical Trial Recruitment"
+msgstr "Recrutement ya ba études cliniques"
 
 msgid "start_description"
-msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
+msgstr "<p>Bokeli ya ba mesures ya sika ya diagnostic to thérapeutique esengaka ba études cliniques mpe ba participants volontaires. Site oyo epesi botali ya mimekano oyo ezali kosalama mpe libaku ya kosangana.</p><p>Na bokomisi nkombo na yo babakisi na base de données centrale, kopesa biso nzela ya kokutana na yo mpo na kokomisa yo na nsuka lokola candidat na ba épreuves oyo ezali kosalama to oyo ekoya (tango nyonso oyo olingi).</p><p>Bandá mosala ya kokomisa nkombo na moko ya bisika ya komeka oyo ezali awa na nse.</p>"
 
 msgid "proband_title"
-msgstr "Personal Data"
+msgstr "Ba Données Personnelles"
 
 msgid "proband_description"
-msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
+msgstr "<p>Na étape ya liboso, tindela biso ba informations personnelles na yo ya base: kombo, sexe na ba données ya mbotama.</p>"
 
 msgid "contact_title"
-msgstr "Contact Information"
+msgstr "Ba informations ya contact"
 
 msgid "contact_description"
-msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
+msgstr "<p>Na étape ya mibale, tindela biso ba informations na yo ya contact: adresse postale, numéro ya téléphone na adresse email.</p><p>Na sima agent akoki kozua contact na yo pona kozua confirmation na yo ya polele pona kobomba ba données na yo. Na contact oyo ya liboso bakoyebisa yo na ntina ya ba procédures ya inscription na esika ya épreuve.</p><p>Ba informations na yo ezali na se ya confidentialité ya ba données mpe ekoki kotalama kaka na basali ya site.</p>"
 
 msgid "trial_title"
-msgstr "Ongoing Trials"
+msgstr "Mimekano oyo ezali kokoba"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
+msgstr "<p>Botali ya boyekoli pe mituna oyo ezali kosalama elakisami na eteni ya misato. Svp tala na liste pona komona ba informations ya base oyo etali ba critères ya ba candidats, ba procédures pe ba rembours ya ba procès individuels.</p><p>Okoki kolakisa bosepeli na yo ya kosangana na momekano moko boye na kokoma to kofungola formulaire na yango ya mituna. Soki olingi kosilisa likambo oyo na tango mosusu to na masolo ya direkt, okoki okoki koleka oyo mpe kosilisa bokomisi nkombo na yo.</p>"
 
 msgid "inquiry_title"
-msgstr "Inquiry Form - %1"
+msgstr "Formulaire ya kotuna - %1"
 
 msgid "inquiry_description"
-msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
+msgstr "<p>Formulaire ya mituna esalemi mpo na kotondisa yango na mwa miniti mpe kozanga kobongisama. Lokola makambo oyo okopesa awa ekosalelama mpo na koyeba yo lokola candidat, tosengi yo opesa sango ya malamu mpe ya mobimba.</p>"
 
 msgid "end_title"
-msgstr "Thank you!"
+msgstr "Matondi!"
 
 msgid "end_description"
-msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
+msgstr "<p>Matondo mingi mpo na bokomisi nkombo. Tokokutana na yo kala mingi te mpe tozali kozela na esengo nyonso kobengisa yo na esika ya komeka lokola mosangani ya sika.</p><p>Okoki kozwa mikanda ya PDF na ba données oyo opesi. Mpo na kopekisa bolongoli ya automatique, tinda ndingisa na yo ya kobatela makambo ya moto ye moko oyo otie sinyatili na biro ya site na nzela ya mail to email kino %1.</p>"
 
 msgid "invalid time"
-msgstr "invalid time %1"
+msgstr "tango ya mabe %1"
 
 msgid "invalid hour"
-msgstr "invalid hour %1"
+msgstr "ngonga oyo ezali na ntina te %1"
 
 msgid "invalid minute"
-msgstr "invalid minute %1"
+msgstr "miniti oyo ezali na ntina te %1"
 
 msgid "invalid second"
-msgstr "invalid second %1"
+msgstr "ya mibale ya mabe %1"
 
 msgid "invalid date"
-msgstr "invalid date %1"
+msgstr "mokolo oyo ezali na ntina te %1"
 
 msgid "invalid month"
-msgstr "invalid month %1"
+msgstr "sanza oyo ezali na ntina te %1"
 
 msgid "invalid year"
-msgstr "invalid year %1"
+msgstr "mbula oyo ezali na ntina te %1"
 
 msgid "invalid day"
-msgstr "invalid day %1"
+msgstr "mokolo oyo ezali na ntina te %1"
 
