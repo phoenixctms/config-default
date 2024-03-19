@@ -11,226 +11,226 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swahili\n"
-"PO-Revision-Date: 2024-03-19 01:13\n"
+"PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
-msgstr "en"
+msgstr "sw"
 
 msgid "lang_label"
-msgstr "English"
+msgstr "Kiingereza"
 
 msgid "page_title"
-msgstr "Clinical Trials"
+msgstr "Majaribio ya Kliniki"
 
 msgid "meta_description"
-msgstr "Subjects wanted - register for ongoing clinical trials now."
+msgstr "Mada zinazohitajika - jiandikishe kwa majaribio ya kliniki yanayoendelea sasa."
 
 msgid "lead_label"
-msgstr "Clinical Trial Recruitment"
+msgstr "Uajiri wa Majaribio ya Kliniki"
 
 msgid "logo_label"
-msgstr "My CRO"
+msgstr "CRO yangu"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 My CRO"
+msgstr "ｩ 2019 CRO yangu"
 
 msgid "lanuage_menu_label"
-msgstr "Language"
+msgstr "Lugha"
 
 msgid "session_timer_pattern"
-msgstr "Data entry ends in %M:%S"
+msgstr "Ingizo la data linaisha kwa %M:%S"
 
 msgid "navigation_start_label"
-msgstr "Start"
+msgstr "Anza"
 
 msgid "navigation_proband_label"
-msgstr "Person"
+msgstr "Mtu"
 
 msgid "navigation_contact_label"
-msgstr "Contact Details"
+msgstr "Maelezo ya Mawasiliano"
 
 msgid "navigation_trial_label"
-msgstr "Trial"
+msgstr "Jaribio"
 
 msgid "navigation_inquiry_label"
-msgstr "Inquiry Form"
+msgstr "Fomu ya Uchunguzi"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Inquiry Form - %1"
+msgstr "Fomu ya Kuuliza - %1"
 
 msgid "navigation_end_label"
-msgstr "Done"
+msgstr "Imekamilika"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "Processing..."
+msgstr "Inachakata..."
 
 msgid "required_label"
-msgstr "required"
+msgstr "inahitajika"
 
 msgid "system_time_label"
-msgstr "(system time - %1) "
+msgstr "(wakati wa mfumo - %1) "
 
 msgid "input_time_label"
-msgstr "(user time - %1) "
+msgstr "(wakati wa mtumiaji - %1) "
 
 msgid "optional_label"
-msgstr "optional"
+msgstr "hiari"
 
 msgid "male"
-msgstr "male"
+msgstr "kiume"
 
 msgid "female"
-msgstr "female"
+msgstr "kike"
 
 msgid "mandatory_field_label"
-msgstr "mandatory field"
+msgstr "shamba la lazima"
 
 msgid "save_next_btn_label"
-msgstr "Send and next"
+msgstr "Tuma na ijayo"
 
 msgid "save_done_btn_label"
-msgstr "Send and finish"
+msgstr "Tuma na umalize"
 
 msgid "done_btn_label"
-msgstr "Finish"
+msgstr "Maliza"
 
 msgid "yes_btn_label"
-msgstr "Yes"
+msgstr "Ndiyo"
 
 msgid "no_btn_label"
-msgstr "No"
+msgstr "Hapana"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "Apply value"
+msgstr "Tumia thamani"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "draw/clear selection set value regions"
+msgstr "chora/safisha maeneo ya kuweka thamani ya uteuzi"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "select pen (draw strokes) or eraser (remove picked strokes)"
+msgstr "chagua kalamu (chora viboko) au kifutio (ondoa viboko vilivyochaguliwa)"
 
 msgid "sketch_undo_tooltip"
-msgstr "undo"
+msgstr "tengua"
 
 msgid "sketch_redo_tooltip"
-msgstr "redo"
+msgstr "fanya upya"
 
 msgid "sketch_clear_tooltip"
-msgstr "clear all strokes"
+msgstr "futa viboko vyote"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "pen width 12"
+msgstr "upana wa kalamu 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "pen width 6"
+msgstr "upana wa kalamu 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "pen width 3"
+msgstr "upana wa kalamu 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "pen width 0.8"
+msgstr "upana wa kalamu 0.8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "pen opacity 100%"
+msgstr "uwazi wa kalamu 100%"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "pen opacity 60%"
+msgstr "uwazi wa kalamu 60%"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "pen opacity 30%"
+msgstr "uwazi wa kalamu 30%"
 
 msgid "finish_btn_label"
-msgstr "Quit"
+msgstr "Acha"
 
 msgid "error_summary"
-msgstr "Error:"
+msgstr "Hitilafu:"
 
 msgid "error_no_proband_created"
-msgstr "save personal information first"
+msgstr "hifadhi taarifa za kibinafsi kwanza"
 
 msgid "error_no_contact_created"
-msgstr "save contact details first"
+msgstr "hifadhi maelezo ya mawasiliano kwanza"
 
 msgid "error_no_trial_selected"
-msgstr "select a trial first"
+msgstr "chagua jaribio kwanza"
 
 msgid "error_inquiries_na"
-msgstr "select a trial with inquiry form first"
+msgstr "chagua kesi na fomu ya uchunguzi kwanza"
 
 msgid "error_trials_na"
-msgstr "select a trial site with trials first"
+msgstr "chagua tovuti ya majaribio yenye majaribio kwanza"
 
 msgid "error_proband_create_rate_limit"
-msgstr "a subject was created with this computer recently, please wait before retry"
+msgstr "somo liliundwa na kompyuta hii hivi karibuni, tafadhali subiri kabla ya kujaribu tena"
 
 msgid "error_no_contact_details"
-msgstr "please provide email address or phone number"
+msgstr "tafadhali toa barua pepe au nambari ya simu"
 
 msgid "error_proband_not_agreed"
-msgstr "express consent is required to continue"
+msgstr "idhini ya moja kwa moja inahitajika ili kuendelea"
 
 msgid "trial_sites_header"
-msgstr "Trial sites"
+msgstr "Maeneo ya majaribio"
 
 msgid "select_site_btn_label"
-msgstr "Registration"
+msgstr "Usajili"
 
 msgid "express_consent_panel_title"
-msgstr "Express Consent"
+msgstr "Idhini ya Express"
 
 msgid "proband_agreed_label"
-msgstr "I agree to store my data."
+msgstr "Ninakubali kuhifadhi data yangu."
 
 msgid "proband_agreed_tooltip"
-msgstr "Give express consent."
+msgstr "Toa idhini ya moja kwa moja."
 
 msgid "proband_panel_title"
-msgstr "Personal Information"
+msgstr "Taarifa za Kibinafsi"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Prefixed titles:"
+msgstr "Majina yenye viambishi awali:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Optionally specify prefixed titles."
+msgstr "Bainisha kwa hiari vichwa vilivyoangaziwa."
 
 msgid "proband_first_name_label"
-msgstr "First name:"
+msgstr "Jina la kwanza:"
 
 msgid "proband_first_name_tooltip"
-msgstr "The first name is required."
+msgstr "Jina la kwanza linahitajika."
 
 msgid "proband_last_name_label"
-msgstr "Last name:"
+msgstr "Jina la familia:"
 
 msgid "proband_last_name_tooltip"
-msgstr "The last name is required."
+msgstr "Jina la mwisho linahitajika."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Postpositioned titles:"
+msgstr "Majina yaliyowekwa:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "Optionally specify postpositioned titles."
+msgstr "Bainisha kwa hiari mada zilizowekwa."
 
 msgid "proband_gender_label"
-msgstr "Gender:"
+msgstr "Jinsia:"
 
 msgid "proband_gender_tooltip"
-msgstr "Gender is required."
+msgstr "Jinsia inahitajika."
 
 msgid "proband_dob_label"
-msgstr "Date of birth:"
+msgstr "Tarehe ya kuzaliwa:"
 
 msgid "proband_dob_tooltip"
-msgstr "Date of birth is required (%1)."
+msgstr "Tarehe ya kuzaliwa inahitajika (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "Citizenship:"
+msgstr "Uraia:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "Citizenship can be specified optionally."
+msgstr "Uraia unaweza kubainishwa kwa hiari."
 
 msgid "proband_comment"
 msgstr "Registration via %1\n"
@@ -241,173 +241,173 @@ msgstr "Registration via %1\n"
 "coming from %6"
 
 msgid "address_panel_title"
-msgstr "Address"
+msgstr "Anwani"
 
 msgid "proband_address_country_name_label"
-msgstr "Country name:"
+msgstr "Jina la nchi:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "The country name part of the postal address is required."
+msgstr "Sehemu ya jina la nchi ya anwani ya posta inahitajika."
 
 msgid "proband_address_province_label"
-msgstr "State:"
+msgstr "Jimbo:"
 
 msgid "proband_address_province_tooltip"
-msgstr "The state/province part of the postal address is required."
+msgstr "Sehemu ya jimbo/mkoa ya anwani ya posta inahitajika."
 
 msgid "proband_address_zip_code_label"
-msgstr "Zip code:"
+msgstr "Namba ya Posta:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "The zip code part of the postal address is required."
+msgstr "Sehemu ya msimbo wa zip ya anwani ya posta inahitajika."
 
 msgid "proband_address_city_name_label"
-msgstr "City name:"
+msgstr "Jina la jiji:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "The city name part of the postal address is required."
+msgstr "Jina la jiji sehemu ya anwani ya posta inahitajika."
 
 msgid "proband_address_street_name_label"
-msgstr "Street name:"
+msgstr "Jina la mtaa:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "The street name part of the postal address is required."
+msgstr "Sehemu ya jina la mtaa ya anwani ya posta inahitajika."
 
 msgid "proband_address_house_number_label"
-msgstr "House number:"
+msgstr "Nambari ya nyumba:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "The house number part of the postal address is required."
+msgstr "Nambari ya nyumba sehemu ya anwani ya posta inahitajika."
 
 msgid "proband_address_entrance_label"
-msgstr "Entrance:"
+msgstr "Ingång:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "The entrance (staircase, block, wing) part of the postal address is optional."
+msgstr "Sehemu ya kuingilia (ngazi, kizuizi, bawa) ya anwani ya posta ni ya hiari."
 
 msgid "proband_address_door_number_label"
-msgstr "Apartment:"
+msgstr "Ghorofa:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "The apartment number part of the postal address is optional."
+msgstr "Nambari ya ghorofa sehemu ya anwani ya posta ni ya hiari."
 
 msgid "contact_details_panel_title"
-msgstr "Phone and Email Address"
+msgstr "Simu na Barua Pepe"
 
 msgid "proband_phone_label"
-msgstr "Phone:"
+msgstr "Simu:"
 
 msgid "proband_phone_tooltip"
-msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
+msgstr "Umbizo la nambari ya simu kama '0699 1234567' au '0316 38573000'."
 
 msgid "proband_email_label"
-msgstr "Email:"
+msgstr "Barua pepe:"
 
 msgid "proband_email_tooltip"
-msgstr "Email address format like 'max.mustermann@phoenixctms.org'."
+msgstr "Umbizo la anwani ya barua pepe kama 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "notify"
+msgstr "arifu"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Allow to send Emails."
+msgstr "Ruhusu kutuma Barua pepe."
 
 msgid "trials_grid_header"
-msgstr "Trials/Candidate lists"
+msgstr "Majaribio/orodha za Wagombea"
 
 msgid "open_inquiries_btn_label"
-msgstr "Open inuiry form"
+msgstr "Fungua fomu ya inuri"
 
 msgid "signup_btn_label"
-msgstr "Sign-up"
+msgstr "Jisajili"
 
 msgid "inquiries_grid_header"
-msgstr "Inquiry Form - %1"
+msgstr "Fomu ya Kuuliza - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Inquiry form incomplete"
+msgstr "Fomu ya uchunguzi haijakamilika"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
+msgstr "Tafadhali angalia kurasa zote za fomu ya uchunguzi.<br/>Je, unapendelea kutuma na kumaliza hata hivyo?"
 
 msgid "inquiries_pbar_template"
-msgstr "sent: %d/%d"
+msgstr "imetumwa: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "Open as PDF"
+msgstr "Fungua kama PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "Select trial"
+msgstr "Chagua jaribio"
 
 msgid "probandletter_btn_label"
-msgstr "Open privacy consent as PDF"
+msgstr "Fungua idhini ya faragha kama PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "Open entered inquiry forms as PDF"
+msgstr "Fungua fomu za uchunguzi zilizoingizwa kama PDF"
 
 msgid "404_title"
-msgstr "The requested page is not available"
+msgstr "Ukurasa ulioombwa haupatikani"
 
 msgid "404_description"
-msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
+msgstr "<p>Samahani, ukurasa ulioomba hauwezi kupatikana kwenye tovuti hii. Labda ulibofya URL isiyo sahihi au iliyopitwa na wakati.</p><p>Unaweza kurudi hadi <a href=\"/\">ukurasa wa kutua</a> wa tovuti hii kwa kubofya nembo iliyo juu.</p>"
 
 msgid "start_title"
-msgstr "Clinical Trial Recruitment"
+msgstr "Uajiri wa Majaribio ya Kliniki"
 
 msgid "start_description"
-msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
+msgstr "<p>Uundaji wa hatua mpya za uchunguzi au matibabu unahitaji majaribio ya kimatibabu na washiriki wa hiari. Tovuti hii inatoa muhtasari wa majaribio yanayoendelea na fursa ya kushiriki.</p><p>Kwa usajili wako huongezwa kwenye hifadhidata kuu, ikituruhusu kuwasiliana nawe ili hatimaye kukusajili kama mgombeaji katika majaribio yanayoendelea au yajayo (mradi tu upendavyo).</p><p>Anzisha mchakato wa usajili katika mojawapo ya tovuti za majaribio hapa chini.</p>"
 
 msgid "proband_title"
-msgstr "Personal Data"
+msgstr "Taarifa binafsi"
 
 msgid "proband_description"
-msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
+msgstr "<p>Katika hatua ya kwanza, tutumie maelezo yako ya kimsingi ya kibinafsi: jina, jinsia na data ya kuzaliwa.</p>"
 
 msgid "contact_title"
-msgstr "Contact Information"
+msgstr "Maelezo ya Mawasiliano"
 
 msgid "contact_description"
-msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
+msgstr "<p>Katika hatua ya pili, tutumie maelezo yako ya mawasiliano: anwani ya posta, nambari ya simu na barua pepe.</p><p>Kisha wakala anaweza kuwasiliana nawe ili kupata uthibitisho wako wazi wa kuhifadhi data yako. Katika mawasiliano haya ya kwanza utaarifiwa kuhusu taratibu za kujiandikisha kwenye tovuti ya majaribio.</p><p>Maelezo yako yanategemea faragha ya data na yanaweza kutazamwa na wafanyikazi wa tovuti pekee.</p>"
 
 msgid "trial_title"
-msgstr "Ongoing Trials"
+msgstr "Majaribio Yanayoendelea"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
+msgstr "<p>Muhtasari wa masomo na maswali yanayoendelea umewasilishwa katika hatua ya tatu. Tafadhali vinjari orodha ili kuona maelezo ya msingi kuhusu vigezo vya mgombea, taratibu na ulipaji wa malipo ya majaribio ya mtu binafsi.</p><p>Unaweza kuonyesha nia yako ya kushiriki jaribio fulani kwa kujisajili au kufungua fomu yake ya uchunguzi. Ukipendelea kukamilisha hili baadaye au katika mazungumzo ya direkt, unaweza kuruka hili na ukamilishe usajili wako.</p>"
 
 msgid "inquiry_title"
-msgstr "Inquiry Form - %1"
+msgstr "Fomu ya Kuuliza - %1"
 
 msgid "inquiry_description"
-msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
+msgstr "<p>Fomu ya uchunguzi imeundwa ili kuijaza kwa dakika chache na bila maandalizi. Kwa kuwa maelezo utakayotoa hapa yatatumika kukutambulisha kama mgombeaji, tafadhali toa maelezo sahihi na ya kina.</p>"
 
 msgid "end_title"
-msgstr "Thank you!"
+msgstr "Asante!"
 
 msgid "end_description"
-msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
+msgstr "<p>Asante kwa usajili wako. Tutawasiliana nawe hivi karibuni na tunatarajia kukualika kwenye tovuti ya majaribio kama mshiriki mpya.</p><p>Unaweza kupakua hati za PDF na data uliyotoa. Ili kuzuia ufutaji kiotomatiki, tafadhali wasilisha idhini yako ya faragha ya data iliyotiwa saini kwa ofisi ya tovuti kupitia barua au barua pepe hadi %1.</p>"
 
 msgid "invalid time"
-msgstr "invalid time %1"
+msgstr "wakati batili %1"
 
 msgid "invalid hour"
-msgstr "invalid hour %1"
+msgstr "saa batili %1"
 
 msgid "invalid minute"
-msgstr "invalid minute %1"
+msgstr "dakika batili %1"
 
 msgid "invalid second"
-msgstr "invalid second %1"
+msgstr "sekunde batili %1"
 
 msgid "invalid date"
-msgstr "invalid date %1"
+msgstr "tarehe batili %1"
 
 msgid "invalid month"
-msgstr "invalid month %1"
+msgstr "mwezi batili %1"
 
 msgid "invalid year"
-msgstr "invalid year %1"
+msgstr "mwaka batili %1"
 
 msgid "invalid day"
-msgstr "invalid day %1"
+msgstr "siku batili %1"
 
