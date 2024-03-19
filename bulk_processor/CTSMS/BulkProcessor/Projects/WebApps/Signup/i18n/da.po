@@ -11,34 +11,34 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Danish\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 01:13\n"
 
 msgid "lang"
-msgstr "da"
+msgstr "en"
 
 msgid "lang_label"
-msgstr "engelsk"
+msgstr "English"
 
 msgid "page_title"
-msgstr "Kliniske forsøg"
+msgstr "Clinical Trials"
 
 msgid "meta_description"
-msgstr "Emner søges - tilmeld dig igangværende kliniske forsøg nu."
+msgstr "Subjects wanted - register for ongoing clinical trials now."
 
 msgid "lead_label"
-msgstr "Rekruttering til klinisk forsøg"
+msgstr "Clinical Trial Recruitment"
 
 msgid "logo_label"
-msgstr "Min CRO"
+msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Min CRO"
+msgstr "ｩ 2019 My CRO"
 
 msgid "lanuage_menu_label"
-msgstr "Sprog"
+msgstr "Language"
 
 msgid "session_timer_pattern"
-msgstr "Dataindtastning slutter på %M:%S"
+msgstr "Data entry ends in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Start"
@@ -47,190 +47,190 @@ msgid "navigation_proband_label"
 msgstr "Person"
 
 msgid "navigation_contact_label"
-msgstr "Kontaktoplysninger"
+msgstr "Contact Details"
 
 msgid "navigation_trial_label"
-msgstr "Forsøg"
+msgstr "Trial"
 
 msgid "navigation_inquiry_label"
-msgstr "Forespørgselsformular"
+msgstr "Inquiry Form"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Forespørgselsformular - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "navigation_end_label"
-msgstr "Færdig"
+msgstr "Done"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "Forarbejdning..."
+msgstr "Processing..."
 
 msgid "required_label"
-msgstr "påkrævet"
+msgstr "required"
 
 msgid "system_time_label"
-msgstr "(systemtid - %1) "
+msgstr "(system time - %1) "
 
 msgid "input_time_label"
-msgstr "(brugertid - %1) "
+msgstr "(user time - %1) "
 
 msgid "optional_label"
-msgstr "valgfri"
+msgstr "optional"
 
 msgid "male"
-msgstr "han-"
+msgstr "male"
 
 msgid "female"
-msgstr "kvinde"
+msgstr "female"
 
 msgid "mandatory_field_label"
-msgstr "obligatorisk felt"
+msgstr "mandatory field"
 
 msgid "save_next_btn_label"
-msgstr "Send og næste"
+msgstr "Send and next"
 
 msgid "save_done_btn_label"
-msgstr "Send og afslut"
+msgstr "Send and finish"
 
 msgid "done_btn_label"
-msgstr "Afslut"
+msgstr "Finish"
 
 msgid "yes_btn_label"
-msgstr "Ja"
+msgstr "Yes"
 
 msgid "no_btn_label"
-msgstr "Ingen"
+msgstr "No"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "Anvend værdi"
+msgstr "Apply value"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "tegne/rydde udvalgte værdiområder"
+msgstr "draw/clear selection set value regions"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "vælg pen (tegn streger) eller viskelæder (fjern valgte streger)"
+msgstr "select pen (draw strokes) or eraser (remove picked strokes)"
 
 msgid "sketch_undo_tooltip"
-msgstr "fortryd"
+msgstr "undo"
 
 msgid "sketch_redo_tooltip"
-msgstr "lave om"
+msgstr "redo"
 
 msgid "sketch_clear_tooltip"
-msgstr "ryd alle streger"
+msgstr "clear all strokes"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "pennebredde 12"
+msgstr "pen width 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "pennebredde 6"
+msgstr "pen width 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "pennebredde 3"
+msgstr "pen width 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "pennebredde 0,8"
+msgstr "pen width 0.8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "pen opacitet 100%"
+msgstr "pen opacity 100%"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "pen opacitet 60 %"
+msgstr "pen opacity 60%"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "pen opacitet 30 %"
+msgstr "pen opacity 30%"
 
 msgid "finish_btn_label"
-msgstr "Afslut"
+msgstr "Quit"
 
 msgid "error_summary"
-msgstr "Fejl:"
+msgstr "Error:"
 
 msgid "error_no_proband_created"
-msgstr "gemme personlige oplysninger først"
+msgstr "save personal information first"
 
 msgid "error_no_contact_created"
-msgstr "gem kontaktoplysninger først"
+msgstr "save contact details first"
 
 msgid "error_no_trial_selected"
-msgstr "vælg først en prøveperiode"
+msgstr "select a trial first"
 
 msgid "error_inquiries_na"
-msgstr "vælg først en prøveversion med forespørgselsformular"
+msgstr "select a trial with inquiry form first"
 
 msgid "error_trials_na"
-msgstr "vælg først et prøvesite med forsøg"
+msgstr "select a trial site with trials first"
 
 msgid "error_proband_create_rate_limit"
-msgstr "et emne blev oprettet med denne computer for nylig. Vent venligst, før du prøver igen"
+msgstr "a subject was created with this computer recently, please wait before retry"
 
 msgid "error_no_contact_details"
-msgstr "angiv venligst e-mailadresse eller telefonnummer"
+msgstr "please provide email address or phone number"
 
 msgid "error_proband_not_agreed"
-msgstr "der kræves udtrykkeligt samtykke for at fortsætte"
+msgstr "express consent is required to continue"
 
 msgid "trial_sites_header"
-msgstr "Prøvesider"
+msgstr "Trial sites"
 
 msgid "select_site_btn_label"
-msgstr "Registrering"
+msgstr "Registration"
 
 msgid "express_consent_panel_title"
-msgstr "Udtrykt samtykke"
+msgstr "Express Consent"
 
 msgid "proband_agreed_label"
-msgstr "Jeg accepterer at gemme mine data."
+msgstr "I agree to store my data."
 
 msgid "proband_agreed_tooltip"
-msgstr "Giv udtrykkeligt samtykke."
+msgstr "Give express consent."
 
 msgid "proband_panel_title"
-msgstr "Personlig information"
+msgstr "Personal Information"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Forudgående titler:"
+msgstr "Prefixed titles:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Angiv eventuelt præfikserede titler."
+msgstr "Optionally specify prefixed titles."
 
 msgid "proband_first_name_label"
-msgstr "Fornavn:"
+msgstr "First name:"
 
 msgid "proband_first_name_tooltip"
-msgstr "Fornavnet er påkrævet."
+msgstr "The first name is required."
 
 msgid "proband_last_name_label"
-msgstr "Efternavn:"
+msgstr "Last name:"
 
 msgid "proband_last_name_tooltip"
-msgstr "Efternavnet er påkrævet."
+msgstr "The last name is required."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Postpositionerede titler:"
+msgstr "Postpositioned titles:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "Angiv eventuelt postpositionerede titler."
+msgstr "Optionally specify postpositioned titles."
 
 msgid "proband_gender_label"
-msgstr "Køn:"
+msgstr "Gender:"
 
 msgid "proband_gender_tooltip"
-msgstr "Køn er påkrævet."
+msgstr "Gender is required."
 
 msgid "proband_dob_label"
-msgstr "Fødselsdato:"
+msgstr "Date of birth:"
 
 msgid "proband_dob_tooltip"
-msgstr "Fødselsdato er påkrævet (%1)."
+msgstr "Date of birth is required (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "Borgerskab:"
+msgstr "Citizenship:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "Indfødsret kan angives valgfrit."
+msgstr "Citizenship can be specified optionally."
 
 msgid "proband_comment"
 msgstr "Registration via %1\n"
@@ -241,173 +241,173 @@ msgstr "Registration via %1\n"
 "coming from %6"
 
 msgid "address_panel_title"
-msgstr "Adresse"
+msgstr "Address"
 
 msgid "proband_address_country_name_label"
-msgstr "Landenavn:"
+msgstr "Country name:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "Landets navndel af postadressen er påkrævet."
+msgstr "The country name part of the postal address is required."
 
 msgid "proband_address_province_label"
-msgstr "Stat:"
+msgstr "State:"
 
 msgid "proband_address_province_tooltip"
-msgstr "Delstats-/provinsdelen af postadressen er påkrævet."
+msgstr "The state/province part of the postal address is required."
 
 msgid "proband_address_zip_code_label"
-msgstr "Postnummer:"
+msgstr "Zip code:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "Postnummerdelen af postadressen er påkrævet."
+msgstr "The zip code part of the postal address is required."
 
 msgid "proband_address_city_name_label"
-msgstr "Bynavn:"
+msgstr "City name:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "Bynavnsdelen af postadressen er påkrævet."
+msgstr "The city name part of the postal address is required."
 
 msgid "proband_address_street_name_label"
-msgstr "Gadenavn:"
+msgstr "Street name:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "Gadenavnsdelen af postadressen er påkrævet."
+msgstr "The street name part of the postal address is required."
 
 msgid "proband_address_house_number_label"
-msgstr "Husnummer:"
+msgstr "House number:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "Husnummerdelen af postadressen er påkrævet."
+msgstr "The house number part of the postal address is required."
 
 msgid "proband_address_entrance_label"
-msgstr "Indgang:"
+msgstr "Entrance:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "Indgangen (trappe, blok, fløj) del af postadressen er valgfri."
+msgstr "The entrance (staircase, block, wing) part of the postal address is optional."
 
 msgid "proband_address_door_number_label"
-msgstr "Lejlighed:"
+msgstr "Apartment:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "Lejlighedsnummerdelen af postadressen er valgfri."
+msgstr "The apartment number part of the postal address is optional."
 
 msgid "contact_details_panel_title"
-msgstr "Telefon og e-mail adresse"
+msgstr "Phone and Email Address"
 
 msgid "proband_phone_label"
-msgstr "Telefon:"
+msgstr "Phone:"
 
 msgid "proband_phone_tooltip"
-msgstr "Telefonnummerformat som \"0699 1234567\" eller \"0316 38573000\"."
+msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
 
 msgid "proband_email_label"
-msgstr "E-mail:"
+msgstr "Email:"
 
 msgid "proband_email_tooltip"
-msgstr "E-mailadresseformat som 'max.mustermann@phoenixctms.org'."
+msgstr "Email address format like 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "underrette"
+msgstr "notify"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Tillad at sende e-mails."
+msgstr "Allow to send Emails."
 
 msgid "trials_grid_header"
-msgstr "Forsøg/Kandidatlister"
+msgstr "Trials/Candidate lists"
 
 msgid "open_inquiries_btn_label"
-msgstr "Åbn forespørgselsformular"
+msgstr "Open inuiry form"
 
 msgid "signup_btn_label"
-msgstr "Tilmelde"
+msgstr "Sign-up"
 
 msgid "inquiries_grid_header"
-msgstr "Forespørgselsformular - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Forespørgselsformularen er ufuldstændig"
+msgstr "Inquiry form incomplete"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Se venligst alle sider i forespørgselsformularen.<br/>Foretrækker du alligevel at sende og afslutte?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
 
 msgid "inquiries_pbar_template"
-msgstr "sendt: %d/%d"
+msgstr "sent: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "Åbn som PDF"
+msgstr "Open as PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "Vælg prøveversion"
+msgstr "Select trial"
 
 msgid "probandletter_btn_label"
-msgstr "Åbn fortrolighedssamtykke som PDF"
+msgstr "Open privacy consent as PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "Åbn indtastede forespørgselsskemaer som PDF"
+msgstr "Open entered inquiry forms as PDF"
 
 msgid "404_title"
-msgstr "Den ønskede side er ikke tilgængelig"
+msgstr "The requested page is not available"
 
 msgid "404_description"
-msgstr "<p>Beklager, den side, du anmodede om, kan ikke findes på denne side. Måske har du klikket på en forkert eller forældet URL.</p><p>Du kan skifte tilbage til <a href=\"/\">landingssiden</a> på dette websted ved at klikke på logoet øverst.</p>"
+msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
 
 msgid "start_title"
-msgstr "Rekruttering til klinisk forsøg"
+msgstr "Clinical Trial Recruitment"
 
 msgid "start_description"
-msgstr "<p>Udvikling af nye diagnostiske eller terapeutiske foranstaltninger kræver kliniske forsøg og frivillige deltagere. Denne side giver et overblik over igangværende forsøg og mulighed for deltagelse.</p><p>Med din registrering tilføjes du den centrale database, så vi kan kontakte dig for endelig at tilmelde dig som kandidat i igangværende eller fremtidige forsøg (så længe du ønsker det).</p><p>Start registreringsprocessen på et af prøvewebstederne nedenfor.</p>"
+msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
 
 msgid "proband_title"
-msgstr "Personlig data"
+msgstr "Personal Data"
 
 msgid "proband_description"
-msgstr "<p>I det første trin skal du sende os dine grundlæggende personlige oplysninger: navn, køn og fødselsdata.</p>"
+msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
 
 msgid "contact_title"
-msgstr "Kontakt information"
+msgstr "Contact Information"
 
 msgid "contact_description"
-msgstr "<p>I det andet trin, send os dine kontaktoplysninger: postadresse, telefonnummer og e-mailadresse.</p><p>En agent kan derefter komme i kontakt med dig for at få din udtrykkelige bekræftelse på at gemme dine data. I denne første kontakt vil du blive informeret om tilmeldingsprocedurer på prøvestedet.</p><p>Dine oplysninger er underlagt databeskyttelse og kan udelukkende ses af webstedets personale.</p>"
+msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
 
 msgid "trial_title"
-msgstr "Igangværende forsøg"
+msgstr "Ongoing Trials"
 
 msgid "trial_description"
-msgstr "<p>En oversigt over igangværende undersøgelser og forespørgsler præsenteres i tredje trin. Gennemse venligst listen for at se grundlæggende oplysninger om kandidatkriterier, procedurer og godtgørelser af individuelle forsøg.</p><p>Du kan angive din interesse for at deltage i en bestemt prøveperiode ved at tilmelde dig eller åbne dens forespørgselsformular. Hvis du foretrækker at fuldføre dette på et senere tidspunkt eller i direkte samtale, kan du springe dette over og afslutte din registrering.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
 
 msgid "inquiry_title"
-msgstr "Forespørgselsformular - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "inquiry_description"
-msgstr "<p>Forespørgselsformularen er designet til at udfylde den på få minutter og uden forberedelser. Da de oplysninger, du giver her, vil blive brugt til at identificere dig som kandidat, bedes du give korrekte og udtømmende oplysninger.</p>"
+msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
 
 msgid "end_title"
-msgstr "Tak skal du have!"
+msgstr "Thank you!"
 
 msgid "end_description"
-msgstr "<p>Tak for din tilmelding. Vi kontakter dig snart og ser frem til at invitere dig til prøvesiden som ny deltager.</p><p>Du kan downloade PDF-dokumenter med dine angivne data. For at forhindre automatisk sletning skal du indsende dit underskrevne samtykke til databeskyttelse til webstedets kontor via mail eller e-mail indtil %1.</p>"
+msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
 
 msgid "invalid time"
-msgstr "ugyldig tid %1"
+msgstr "invalid time %1"
 
 msgid "invalid hour"
-msgstr "ugyldig time %1"
+msgstr "invalid hour %1"
 
 msgid "invalid minute"
-msgstr "ugyldigt minut %1"
+msgstr "invalid minute %1"
 
 msgid "invalid second"
-msgstr "ugyldig anden %1"
+msgstr "invalid second %1"
 
 msgid "invalid date"
-msgstr "ugyldig dato %1"
+msgstr "invalid date %1"
 
 msgid "invalid month"
-msgstr "ugyldig måned %1"
+msgstr "invalid month %1"
 
 msgid "invalid year"
-msgstr "ugyldigt år %1"
+msgstr "invalid year %1"
 
 msgid "invalid day"
-msgstr "ugyldig dag %1"
+msgstr "invalid day %1"
 
