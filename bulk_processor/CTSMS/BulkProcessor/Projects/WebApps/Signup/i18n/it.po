@@ -11,226 +11,226 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 01:13\n"
 
 msgid "lang"
 msgstr "en"
 
 msgid "lang_label"
-msgstr "Inglese"
+msgstr "English"
 
 msgid "page_title"
-msgstr "Test clinici"
+msgstr "Clinical Trials"
 
 msgid "meta_description"
-msgstr "Cercasi soggetti: registrati subito per gli studi clinici in corso."
+msgstr "Subjects wanted - register for ongoing clinical trials now."
 
 msgid "lead_label"
-msgstr "Reclutamento per sperimentazioni cliniche"
+msgstr "Clinical Trial Recruitment"
 
 msgid "logo_label"
-msgstr "Il mio CRO"
+msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Il mio CRO"
+msgstr "ｩ 2019 My CRO"
 
 msgid "lanuage_menu_label"
-msgstr "Lingua"
+msgstr "Language"
 
 msgid "session_timer_pattern"
-msgstr "L'inserimento dei dati termina con %M:%S"
+msgstr "Data entry ends in %M:%S"
 
 msgid "navigation_start_label"
-msgstr "Inizio"
+msgstr "Start"
 
 msgid "navigation_proband_label"
-msgstr "Persona"
+msgstr "Person"
 
 msgid "navigation_contact_label"
-msgstr "Dettagli del contatto"
+msgstr "Contact Details"
 
 msgid "navigation_trial_label"
-msgstr "Prova"
+msgstr "Trial"
 
 msgid "navigation_inquiry_label"
-msgstr "Modulo di domanda"
+msgstr "Inquiry Form"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Modulo di richiesta - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "navigation_end_label"
-msgstr "Fatto"
+msgstr "Done"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "In lavorazione..."
+msgstr "Processing..."
 
 msgid "required_label"
-msgstr "necessario"
+msgstr "required"
 
 msgid "system_time_label"
-msgstr "(ora del sistema - %1) "
+msgstr "(system time - %1) "
 
 msgid "input_time_label"
-msgstr "(tempo utente - %1) "
+msgstr "(user time - %1) "
 
 msgid "optional_label"
-msgstr "opzionale"
+msgstr "optional"
 
 msgid "male"
-msgstr "maschio"
+msgstr "male"
 
 msgid "female"
-msgstr "femmina"
+msgstr "female"
 
 msgid "mandatory_field_label"
-msgstr "campo obbligatorio"
+msgstr "mandatory field"
 
 msgid "save_next_btn_label"
-msgstr "Invia e successivo"
+msgstr "Send and next"
 
 msgid "save_done_btn_label"
-msgstr "Invia e finisci"
+msgstr "Send and finish"
 
 msgid "done_btn_label"
-msgstr "Fine"
+msgstr "Finish"
 
 msgid "yes_btn_label"
-msgstr "SÌ"
+msgstr "Yes"
 
 msgid "no_btn_label"
-msgstr "NO"
+msgstr "No"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "Applicare valore"
+msgstr "Apply value"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "disegnare/cancellare la selezione delle regioni dei valori impostati"
+msgstr "draw/clear selection set value regions"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "seleziona la penna (disegna i tratti) o la gomma (rimuovi i tratti selezionati)"
+msgstr "select pen (draw strokes) or eraser (remove picked strokes)"
 
 msgid "sketch_undo_tooltip"
-msgstr "disfare"
+msgstr "undo"
 
 msgid "sketch_redo_tooltip"
-msgstr "rifare"
+msgstr "redo"
 
 msgid "sketch_clear_tooltip"
-msgstr "cancellare tutti i tratti"
+msgstr "clear all strokes"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "larghezza penna 12"
+msgstr "pen width 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "larghezza penna 6"
+msgstr "pen width 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "larghezza della penna 3"
+msgstr "pen width 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "larghezza della penna 0,8"
+msgstr "pen width 0.8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "opacità penna 100%"
+msgstr "pen opacity 100%"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "opacità penna 60%"
+msgstr "pen opacity 60%"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "opacità penna 30%"
+msgstr "pen opacity 30%"
 
 msgid "finish_btn_label"
-msgstr "Esentato"
+msgstr "Quit"
 
 msgid "error_summary"
-msgstr "Errore:"
+msgstr "Error:"
 
 msgid "error_no_proband_created"
-msgstr "salvare prima le informazioni personali"
+msgstr "save personal information first"
 
 msgid "error_no_contact_created"
-msgstr "salva prima i dettagli del contatto"
+msgstr "save contact details first"
 
 msgid "error_no_trial_selected"
-msgstr "seleziona prima una prova"
+msgstr "select a trial first"
 
 msgid "error_inquiries_na"
-msgstr "seleziona prima una prova con il modulo di richiesta"
+msgstr "select a trial with inquiry form first"
 
 msgid "error_trials_na"
-msgstr "seleziona prima un sito di prova con prove"
+msgstr "select a trial site with trials first"
 
 msgid "error_proband_create_rate_limit"
-msgstr "un oggetto è stato creato di recente con questo computer, attendere prima di riprovare"
+msgstr "a subject was created with this computer recently, please wait before retry"
 
 msgid "error_no_contact_details"
-msgstr "si prega di fornire l'indirizzo e-mail o il numero di telefono"
+msgstr "please provide email address or phone number"
 
 msgid "error_proband_not_agreed"
-msgstr "per proseguire è necessario il consenso espresso"
+msgstr "express consent is required to continue"
 
 msgid "trial_sites_header"
-msgstr "Siti di prova"
+msgstr "Trial sites"
 
 msgid "select_site_btn_label"
-msgstr "Registrazione"
+msgstr "Registration"
 
 msgid "express_consent_panel_title"
-msgstr "Consenso espresso"
+msgstr "Express Consent"
 
 msgid "proband_agreed_label"
-msgstr "Accetto di memorizzare i miei dati."
+msgstr "I agree to store my data."
 
 msgid "proband_agreed_tooltip"
-msgstr "Dare il consenso espresso."
+msgstr "Give express consent."
 
 msgid "proband_panel_title"
-msgstr "Informazione personale"
+msgstr "Personal Information"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Titoli con prefisso:"
+msgstr "Prefixed titles:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Facoltativamente specificare i titoli con prefisso."
+msgstr "Optionally specify prefixed titles."
 
 msgid "proband_first_name_label"
-msgstr "Nome di battesimo:"
+msgstr "First name:"
 
 msgid "proband_first_name_tooltip"
-msgstr "Il nome è obbligatorio."
+msgstr "The first name is required."
 
 msgid "proband_last_name_label"
-msgstr "Cognome:"
+msgstr "Last name:"
 
 msgid "proband_last_name_tooltip"
-msgstr "Il cognome è obbligatorio."
+msgstr "The last name is required."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Titoli posticipati:"
+msgstr "Postpositioned titles:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "Facoltativamente, specificare i titoli posticipati."
+msgstr "Optionally specify postpositioned titles."
 
 msgid "proband_gender_label"
-msgstr "Genere:"
+msgstr "Gender:"
 
 msgid "proband_gender_tooltip"
-msgstr "Il sesso è obbligatorio."
+msgstr "Gender is required."
 
 msgid "proband_dob_label"
-msgstr "Data di nascita:"
+msgstr "Date of birth:"
 
 msgid "proband_dob_tooltip"
-msgstr "È richiesta la data di nascita (%1)."
+msgstr "Date of birth is required (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "Cittadinanza:"
+msgstr "Citizenship:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "La cittadinanza può essere specificata facoltativamente."
+msgstr "Citizenship can be specified optionally."
 
 msgid "proband_comment"
 msgstr "Registration via %1\n"
@@ -241,173 +241,173 @@ msgstr "Registration via %1\n"
 "coming from %6"
 
 msgid "address_panel_title"
-msgstr "Indirizzo"
+msgstr "Address"
 
 msgid "proband_address_country_name_label"
-msgstr "Nome del paese:"
+msgstr "Country name:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "È richiesta la parte del nome del paese nell'indirizzo postale."
+msgstr "The country name part of the postal address is required."
 
 msgid "proband_address_province_label"
-msgstr "Stato:"
+msgstr "State:"
 
 msgid "proband_address_province_tooltip"
-msgstr "La parte relativa allo stato/provincia dell'indirizzo postale è obbligatoria."
+msgstr "The state/province part of the postal address is required."
 
 msgid "proband_address_zip_code_label"
-msgstr "Cap:"
+msgstr "Zip code:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "È richiesta la parte del codice postale dell'indirizzo postale."
+msgstr "The zip code part of the postal address is required."
 
 msgid "proband_address_city_name_label"
-msgstr "Nome della città:"
+msgstr "City name:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "È richiesta la parte del nome della città dell'indirizzo postale."
+msgstr "The city name part of the postal address is required."
 
 msgid "proband_address_street_name_label"
-msgstr "Nome della strada:"
+msgstr "Street name:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "È richiesta la parte del nome della via dell'indirizzo postale."
+msgstr "The street name part of the postal address is required."
 
 msgid "proband_address_house_number_label"
-msgstr "Numero di casa:"
+msgstr "House number:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "È richiesta la parte del numero civico dell'indirizzo postale."
+msgstr "The house number part of the postal address is required."
 
 msgid "proband_address_entrance_label"
-msgstr "Entrata:"
+msgstr "Entrance:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "La parte di ingresso (scala, isolato, ala) dell'indirizzo postale è facoltativa."
+msgstr "The entrance (staircase, block, wing) part of the postal address is optional."
 
 msgid "proband_address_door_number_label"
-msgstr "Appartamento:"
+msgstr "Apartment:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "La parte del numero dell'appartamento dell'indirizzo postale è facoltativa."
+msgstr "The apartment number part of the postal address is optional."
 
 msgid "contact_details_panel_title"
-msgstr "Telefono e indirizzo e-mail"
+msgstr "Phone and Email Address"
 
 msgid "proband_phone_label"
-msgstr "Telefono:"
+msgstr "Phone:"
 
 msgid "proband_phone_tooltip"
-msgstr "Formato del numero di telefono come \"0699 1234567\" o \"0316 38573000\"."
+msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
 
 msgid "proband_email_label"
-msgstr "E-mail:"
+msgstr "Email:"
 
 msgid "proband_email_tooltip"
-msgstr "Formato dell'indirizzo e-mail come \"max.mustermann@phoenixctms.org\"."
+msgstr "Email address format like 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "notificare"
+msgstr "notify"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Consenti l'invio di e-mail."
+msgstr "Allow to send Emails."
 
 msgid "trials_grid_header"
-msgstr "Prove/Elenchi di candidati"
+msgstr "Trials/Candidate lists"
 
 msgid "open_inquiries_btn_label"
-msgstr "Apri il modulo di richiesta"
+msgstr "Open inuiry form"
 
 msgid "signup_btn_label"
-msgstr "Iscrizione"
+msgstr "Sign-up"
 
 msgid "inquiries_grid_header"
-msgstr "Modulo di richiesta - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Modulo di richiesta incompleto"
+msgstr "Inquiry form incomplete"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Si prega di guardare tutte le pagine del modulo di richiesta.<br/>Preferisci inviare e finire comunque?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
 
 msgid "inquiries_pbar_template"
-msgstr "inviato: %d/%d"
+msgstr "sent: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "Apri come PDF"
+msgstr "Open as PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "Seleziona prova"
+msgstr "Select trial"
 
 msgid "probandletter_btn_label"
-msgstr "Apri il consenso alla privacy in formato PDF"
+msgstr "Open privacy consent as PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "Apri i moduli di richiesta immessi come PDF"
+msgstr "Open entered inquiry forms as PDF"
 
 msgid "404_title"
-msgstr "La pagina richiesta non è disponibile"
+msgstr "The requested page is not available"
 
 msgid "404_description"
-msgstr "<p>Siamo spiacenti, la pagina richiesta non può essere trovata su questo sito. Forse hai fatto clic su un URL sbagliato o obsoleto.</p><p>Puoi tornare alla <a href=\"/\">pagina di destinazione</a> di questo sito facendo clic sul logo in alto.</p>"
+msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
 
 msgid "start_title"
-msgstr "Reclutamento per sperimentazioni cliniche"
+msgstr "Clinical Trial Recruitment"
 
 msgid "start_description"
-msgstr "<p>Lo sviluppo di nuove misure diagnostiche o terapeutiche richiede studi clinici e partecipanti volontari. Questo sito offre una panoramica delle sperimentazioni in corso e delle opportunità di partecipazione.</p><p>Con la tua registrazione verrai aggiunto al database centrale, permettendoci di contattarti per iscriverti finalmente come candidato alle prove in corso o future (se lo desideri).</p><p>Avvia il processo di registrazione in uno dei siti di prova riportati di seguito.</p>"
+msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
 
 msgid "proband_title"
-msgstr "Dati personali"
+msgstr "Personal Data"
 
 msgid "proband_description"
-msgstr "<p>Nel primo passaggio, inviaci i tuoi dati personali di base: nome, sesso e dati di nascita.</p>"
+msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
 
 msgid "contact_title"
-msgstr "Informazioni sui contatti"
+msgstr "Contact Information"
 
 msgid "contact_description"
-msgstr "<p>Nel secondo passaggio, inviaci i tuoi dati di contatto: indirizzo postale, numero di telefono e indirizzo e-mail.</p><p>Un agente potrà quindi contattarti per ottenere la tua conferma esplicita della memorizzazione dei tuoi dati. In questo primo contatto sarai informato sulle modalità di iscrizione presso la sede della sperimentazione.</p><p>I tuoi dati sono soggetti alla privacy e possono essere visionati esclusivamente dal personale del sito.</p>"
+msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
 
 msgid "trial_title"
-msgstr "Prove in corso"
+msgstr "Ongoing Trials"
 
 msgid "trial_description"
-msgstr "<p>Nella terza fase viene presentata una panoramica degli studi e delle richieste in corso. Si prega di consultare l'elenco per visualizzare le informazioni di base relative ai criteri dei candidati, alle procedure e ai rimborsi delle singole sperimentazioni.</p><p>Puoi indicare il tuo interesse a partecipare a una particolare sperimentazione iscrivendoti o aprendo il relativo modulo di richiesta. Se preferisci completarlo in un secondo momento o in una conversazione diretta, puoi saltarlo e completare la registrazione.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
 
 msgid "inquiry_title"
-msgstr "Modulo di richiesta - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "inquiry_description"
-msgstr "<p>Il modulo di richiesta è progettato per compilarlo in pochi minuti e senza preparazioni. Poiché le informazioni fornite qui verranno utilizzate per identificarti come candidato, ti preghiamo di fornire informazioni corrette e complete.</p>"
+msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
 
 msgid "end_title"
-msgstr "Grazie!"
+msgstr "Thank you!"
 
 msgid "end_description"
-msgstr "<p>Grazie per la tua registrazione. Ti contatteremo presto e non vediamo l'ora di invitarti al sito di prova come nuovo partecipante.</p><p>Puoi scaricare documenti PDF con i dati forniti. Per impedire la cancellazione automatica, inviare il consenso firmato sulla privacy dei dati all'ufficio del sito tramite posta o e-mail fino al %1.</p>"
+msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
 
 msgid "invalid time"
-msgstr "ora non valida %1"
+msgstr "invalid time %1"
 
 msgid "invalid hour"
-msgstr "ora non valida %1"
+msgstr "invalid hour %1"
 
 msgid "invalid minute"
-msgstr "minuto non valido %1"
+msgstr "invalid minute %1"
 
 msgid "invalid second"
-msgstr "secondo non valido %1"
+msgstr "invalid second %1"
 
 msgid "invalid date"
-msgstr "data non valida %1"
+msgstr "invalid date %1"
 
 msgid "invalid month"
-msgstr "mese non valido %1"
+msgstr "invalid month %1"
 
 msgid "invalid year"
-msgstr "anno non valido %1"
+msgstr "invalid year %1"
 
 msgid "invalid day"
-msgstr "giorno non valido %1"
+msgstr "invalid day %1"
 
