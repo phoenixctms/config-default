@@ -11,226 +11,226 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 01:13\n"
 
 msgid "lang"
-msgstr "nl"
+msgstr "en"
 
 msgid "lang_label"
-msgstr "Engels"
+msgstr "English"
 
 msgid "page_title"
-msgstr "Klinische onderzoeken"
+msgstr "Clinical Trials"
 
 msgid "meta_description"
-msgstr "Onderwerpen gezocht - schrijf u nu in voor lopende klinische onderzoeken."
+msgstr "Subjects wanted - register for ongoing clinical trials now."
 
 msgid "lead_label"
-msgstr "Werving voor klinische onderzoeken"
+msgstr "Clinical Trial Recruitment"
 
 msgid "logo_label"
-msgstr "Mijn CRO"
+msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Mijn CRO"
+msgstr "ｩ 2019 My CRO"
 
 msgid "lanuage_menu_label"
-msgstr "Taal"
+msgstr "Language"
 
 msgid "session_timer_pattern"
-msgstr "Gegevensinvoer eindigt op %M:%S"
+msgstr "Data entry ends in %M:%S"
 
 msgid "navigation_start_label"
-msgstr "Begin"
+msgstr "Start"
 
 msgid "navigation_proband_label"
-msgstr "Persoon"
+msgstr "Person"
 
 msgid "navigation_contact_label"
-msgstr "Contact details"
+msgstr "Contact Details"
 
 msgid "navigation_trial_label"
-msgstr "Proces"
+msgstr "Trial"
 
 msgid "navigation_inquiry_label"
-msgstr "Aanvraagformulier"
+msgstr "Inquiry Form"
 
 msgid "navigation_inquiry_trial_label"
-msgstr "Aanvraagformulier - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "navigation_end_label"
-msgstr "Klaar"
+msgstr "Done"
 
 msgid "no_selection_label"
 msgstr "&nbsp;"
 
 msgid "wait_dlg_title"
-msgstr "Verwerken..."
+msgstr "Processing..."
 
 msgid "required_label"
-msgstr "vereist"
+msgstr "required"
 
 msgid "system_time_label"
-msgstr "(systeemtijd - %1) "
+msgstr "(system time - %1) "
 
 msgid "input_time_label"
-msgstr "(gebruikerstijd - %1) "
+msgstr "(user time - %1) "
 
 msgid "optional_label"
-msgstr "optioneel"
+msgstr "optional"
 
 msgid "male"
-msgstr "mannelijk"
+msgstr "male"
 
 msgid "female"
-msgstr "vrouwelijk"
+msgstr "female"
 
 msgid "mandatory_field_label"
-msgstr "verplicht veld"
+msgstr "mandatory field"
 
 msgid "save_next_btn_label"
-msgstr "Verzenden en volgende"
+msgstr "Send and next"
 
 msgid "save_done_btn_label"
-msgstr "Verzenden en afronden"
+msgstr "Send and finish"
 
 msgid "done_btn_label"
 msgstr "Finish"
 
 msgid "yes_btn_label"
-msgstr "Ja"
+msgstr "Yes"
 
 msgid "no_btn_label"
-msgstr "Nee"
+msgstr "No"
 
 msgid "apply_calculated_value_btn_label"
-msgstr "Waarde toepassen"
+msgstr "Apply value"
 
 msgid "sketch_toggle_region_tooltip"
-msgstr "teken/wis selectie stel waardegebieden in"
+msgstr "draw/clear selection set value regions"
 
 msgid "sketch_draw_mode_tooltip"
-msgstr "selecteer pen (tekenstreken) of gum (verwijder geselecteerde streken)"
+msgstr "select pen (draw strokes) or eraser (remove picked strokes)"
 
 msgid "sketch_undo_tooltip"
-msgstr "ongedaan maken"
+msgstr "undo"
 
 msgid "sketch_redo_tooltip"
-msgstr "opnieuw doen"
+msgstr "redo"
 
 msgid "sketch_clear_tooltip"
-msgstr "verwijder alle slagen"
+msgstr "clear all strokes"
 
 msgid "sketch_pen_width_0_tooltip"
-msgstr "penbreedte 12"
+msgstr "pen width 12"
 
 msgid "sketch_pen_width_1_tooltip"
-msgstr "penbreedte 6"
+msgstr "pen width 6"
 
 msgid "sketch_pen_width_2_tooltip"
-msgstr "penbreedte 3"
+msgstr "pen width 3"
 
 msgid "sketch_pen_width_3_tooltip"
-msgstr "penbreedte 0,8"
+msgstr "pen width 0.8"
 
 msgid "sketch_pen_opacity_0_tooltip"
-msgstr "pendekking 100%"
+msgstr "pen opacity 100%"
 
 msgid "sketch_pen_opacity_1_tooltip"
-msgstr "pendekking 60%"
+msgstr "pen opacity 60%"
 
 msgid "sketch_pen_opacity_2_tooltip"
-msgstr "pendekking 30%"
+msgstr "pen opacity 30%"
 
 msgid "finish_btn_label"
-msgstr "Ontslag nemen"
+msgstr "Quit"
 
 msgid "error_summary"
-msgstr "Fout:"
+msgstr "Error:"
 
 msgid "error_no_proband_created"
-msgstr "sla eerst persoonlijke gegevens op"
+msgstr "save personal information first"
 
 msgid "error_no_contact_created"
-msgstr "sla eerst de contactgegevens op"
+msgstr "save contact details first"
 
 msgid "error_no_trial_selected"
-msgstr "selecteer eerst een proefversie"
+msgstr "select a trial first"
 
 msgid "error_inquiries_na"
-msgstr "Selecteer eerst een proefperiode met aanvraagformulier"
+msgstr "select a trial with inquiry form first"
 
 msgid "error_trials_na"
-msgstr "selecteer eerst een proeflocatie met proeven"
+msgstr "select a trial site with trials first"
 
 msgid "error_proband_create_rate_limit"
-msgstr "Er is onlangs een onderwerp met deze computer gemaakt. Wacht even voordat u het opnieuw probeert"
+msgstr "a subject was created with this computer recently, please wait before retry"
 
 msgid "error_no_contact_details"
-msgstr "geef dan een e-mailadres of telefoonnummer op"
+msgstr "please provide email address or phone number"
 
 msgid "error_proband_not_agreed"
-msgstr "Om door te gaan is uitdrukkelijke toestemming vereist"
+msgstr "express consent is required to continue"
 
 msgid "trial_sites_header"
-msgstr "Proefsites"
+msgstr "Trial sites"
 
 msgid "select_site_btn_label"
-msgstr "Registratie"
+msgstr "Registration"
 
 msgid "express_consent_panel_title"
-msgstr "Uitdrukkelijke toestemming"
+msgstr "Express Consent"
 
 msgid "proband_agreed_label"
-msgstr "Ik ga akkoord met het opslaan van mijn gegevens."
+msgstr "I agree to store my data."
 
 msgid "proband_agreed_tooltip"
-msgstr "Geef uitdrukkelijke toestemming."
+msgstr "Give express consent."
 
 msgid "proband_panel_title"
-msgstr "Persoonlijke informatie"
+msgstr "Personal Information"
 
 msgid "proband_prefixed_titles_label"
-msgstr "Vooraf ingestelde titels:"
+msgstr "Prefixed titles:"
 
 msgid "proband_prefixed_titles_tooltip"
-msgstr "Geef optioneel vooraf ingestelde titels op."
+msgstr "Optionally specify prefixed titles."
 
 msgid "proband_first_name_label"
-msgstr "Voornaam:"
+msgstr "First name:"
 
 msgid "proband_first_name_tooltip"
-msgstr "De voornaam is vereist."
+msgstr "The first name is required."
 
 msgid "proband_last_name_label"
-msgstr "Achternaam:"
+msgstr "Last name:"
 
 msgid "proband_last_name_tooltip"
-msgstr "De achternaam is vereist."
+msgstr "The last name is required."
 
 msgid "proband_postpositioned_titles_label"
-msgstr "Geplaatste titels:"
+msgstr "Postpositioned titles:"
 
 msgid "proband_postpositioned_titles_tooltip"
-msgstr "Geef eventueel achteraf geplaatste titels op."
+msgstr "Optionally specify postpositioned titles."
 
 msgid "proband_gender_label"
-msgstr "Geslacht:"
+msgstr "Gender:"
 
 msgid "proband_gender_tooltip"
-msgstr "Geslacht is vereist."
+msgstr "Gender is required."
 
 msgid "proband_dob_label"
-msgstr "Geboortedatum:"
+msgstr "Date of birth:"
 
 msgid "proband_dob_tooltip"
-msgstr "Geboortedatum is vereist (%1)."
+msgstr "Date of birth is required (%1)."
 
 msgid "proband_citizenship_label"
-msgstr "Burgerschap:"
+msgstr "Citizenship:"
 
 msgid "proband_citizenship_tooltip"
-msgstr "Het staatsburgerschap kan optioneel worden opgegeven."
+msgstr "Citizenship can be specified optionally."
 
 msgid "proband_comment"
 msgstr "Registration via %1\n"
@@ -241,173 +241,173 @@ msgstr "Registration via %1\n"
 "coming from %6"
 
 msgid "address_panel_title"
-msgstr "Adres"
+msgstr "Address"
 
 msgid "proband_address_country_name_label"
-msgstr "Naam van het land:"
+msgstr "Country name:"
 
 msgid "proband_address_country_name_tooltip"
-msgstr "Het landnaamgedeelte van het postadres is vereist."
+msgstr "The country name part of the postal address is required."
 
 msgid "proband_address_province_label"
-msgstr "Staat:"
+msgstr "State:"
 
 msgid "proband_address_province_tooltip"
-msgstr "Het staats-/provinciegedeelte van het postadres is vereist."
+msgstr "The state/province part of the postal address is required."
 
 msgid "proband_address_zip_code_label"
-msgstr "Postcode:"
+msgstr "Zip code:"
 
 msgid "proband_address_zip_code_tooltip"
-msgstr "Het postcodegedeelte van het postadres is vereist."
+msgstr "The zip code part of the postal address is required."
 
 msgid "proband_address_city_name_label"
-msgstr "Stads naam:"
+msgstr "City name:"
 
 msgid "proband_address_city_name_tooltip"
-msgstr "De stadsnaam is een onderdeel van het postadres."
+msgstr "The city name part of the postal address is required."
 
 msgid "proband_address_street_name_label"
-msgstr "Straatnaam:"
+msgstr "Street name:"
 
 msgid "proband_address_street_name_tooltip"
-msgstr "Het straatnaamgedeelte van het postadres is vereist."
+msgstr "The street name part of the postal address is required."
 
 msgid "proband_address_house_number_label"
-msgstr "Huisnummer:"
+msgstr "House number:"
 
 msgid "proband_address_house_number_tooltip"
-msgstr "Het huisnummergedeelte van het postadres is vereist."
+msgstr "The house number part of the postal address is required."
 
 msgid "proband_address_entrance_label"
-msgstr "Ingang:"
+msgstr "Entrance:"
 
 msgid "proband_address_entrance_tooltip"
-msgstr "Het entree (trappenhuis, blok, vleugel) onderdeel van het postadres is optioneel."
+msgstr "The entrance (staircase, block, wing) part of the postal address is optional."
 
 msgid "proband_address_door_number_label"
-msgstr "Appartement:"
+msgstr "Apartment:"
 
 msgid "proband_address_door_number_tooltip"
-msgstr "Het appartementnummergedeelte van het postadres is optioneel."
+msgstr "The apartment number part of the postal address is optional."
 
 msgid "contact_details_panel_title"
-msgstr "Telefoon- en e-mailadres"
+msgstr "Phone and Email Address"
 
 msgid "proband_phone_label"
-msgstr "Telefoon:"
+msgstr "Phone:"
 
 msgid "proband_phone_tooltip"
-msgstr "Telefoonnummerformaat zoals '0699 1234567' of '0316 38573000'."
+msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
 
 msgid "proband_email_label"
-msgstr "E-mail:"
+msgstr "Email:"
 
 msgid "proband_email_tooltip"
-msgstr "E-mailadresformaat zoals 'max.mustermann@phoenixctms.org'."
+msgstr "Email address format like 'max.mustermann@phoenixctms.org'."
 
 msgid "proband_email_notify_label"
-msgstr "op de hoogte stellen"
+msgstr "notify"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Toestaan om e-mails te verzenden."
+msgstr "Allow to send Emails."
 
 msgid "trials_grid_header"
-msgstr "Proeven/kandidatenlijsten"
+msgstr "Trials/Candidate lists"
 
 msgid "open_inquiries_btn_label"
-msgstr "Open het formulier"
+msgstr "Open inuiry form"
 
 msgid "signup_btn_label"
-msgstr "Aanmelden"
+msgstr "Sign-up"
 
 msgid "inquiries_grid_header"
-msgstr "Aanvraagformulier - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "incomplete_dlg_title"
-msgstr "Aanvraagformulier onvolledig"
+msgstr "Inquiry form incomplete"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Bekijk alle pagina's van het aanvraagformulier.<br/>Wil je toch liever versturen en afwerken?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
 
 msgid "inquiries_pbar_template"
-msgstr "verzonden: %d/%d"
+msgstr "sent: %d/%d"
 
 msgid "inquiryform_blank_btn_label"
-msgstr "Openen als PDF"
+msgstr "Open as PDF"
 
 msgid "inquiries_prev_btn_label"
-msgstr "Selecteer proefversie"
+msgstr "Select trial"
 
 msgid "probandletter_btn_label"
-msgstr "Open privacytoestemming als pdf"
+msgstr "Open privacy consent as PDF"
 
 msgid "inquiryforms_btn_label"
-msgstr "Open de ingevulde aanvraagformulieren als PDF"
+msgstr "Open entered inquiry forms as PDF"
 
 msgid "404_title"
-msgstr "De opgevraagde pagina is niet beschikbaar"
+msgstr "The requested page is not available"
 
 msgid "404_description"
-msgstr "<p>Sorry, de door u opgevraagde pagina kan niet op deze site worden gevonden. Misschien heb je op een verkeerde of verouderde URL geklikt.</p><p>U kunt terugschakelen naar de <a href=\"/\">landingspagina</a> van deze site door op het logo bovenaan te klikken.</p>"
+msgstr "<p>Sorry, the page you requested cannot be found on this site. Maybe you clicked a wrong or outdated URL.</p><p>You can switch back to the <a href=\"/\">landing page</a> of this site by clicking the logo on top.</p>"
 
 msgid "start_title"
-msgstr "Werving voor klinische onderzoeken"
+msgstr "Clinical Trial Recruitment"
 
 msgid "start_description"
-msgstr "<p>Voor de ontwikkeling van nieuwe diagnostische of therapeutische maatregelen zijn klinische proeven en vrijwillige deelnemers nodig. Deze site geeft een overzicht van lopende onderzoeken en de mogelijkheid tot deelname.</p><p>Met uw registratie wordt u toegevoegd aan de centrale database, zodat wij contact met u kunnen opnemen om u definitief in te schrijven als kandidaat voor lopende of toekomstige onderzoeken (zolang u dat wenst).</p><p>Start het registratieproces op een van de onderstaande proefsites.</p>"
+msgstr "<p>Development of new diagnostic or therapeutic measures requires clinical trials and voluntary participants. This site gives an overview of ongoing trials and the opportunity of participation.</p><p>With your registration you are added to the central database, allowing us to contact you in order to finally enroll you as a candidate in ongoing or future trials (as long as you wish so).</p><p>Start the registration process at one of the trial sites below.</p>"
 
 msgid "proband_title"
-msgstr "Persoonlijke gegevens"
+msgstr "Personal Data"
 
 msgid "proband_description"
-msgstr "<p>Stuur ons in de eerste stap uw persoonlijke basisgegevens: naam, geslacht en geboortegegevens.</p>"
+msgstr "<p>In the first step, send us your basic personal information: name, sex and data of birth.</p>"
 
 msgid "contact_title"
-msgstr "Contactgegevens"
+msgstr "Contact Information"
 
 msgid "contact_description"
-msgstr "<p>Stuur ons in de tweede stap uw contactgegevens: postadres, telefoonnummer en e-mailadres.</p><p>Een agent kan vervolgens contact met u opnemen om uw expliciete bevestiging te krijgen om uw gegevens op te slaan. In dit eerste contact wordt u geïnformeerd over de inschrijvingsprocedures op de proeflocatie.</p><p>Uw gegevens vallen onder de gegevensprivacy en kunnen uitsluitend door sitepersoneel worden bekeken.</p>"
+msgstr "<p>In the second step, send us your contact details: postal address, phone number and email address.</p><p>An agent can then get into contact with you to get your explicit confirmation to store your data. In this first contact you will be informed about enrollment procedures at the trial site.</p><p>Your information is subject to data privacy and can be viewed by site staff exclusively.</p>"
 
 msgid "trial_title"
-msgstr "Lopende beproevingen"
+msgstr "Ongoing Trials"
 
 msgid "trial_description"
-msgstr "<p>Een overzicht van lopende onderzoeken en onderzoeken wordt gepresenteerd in de derde stap. Blader door de lijst voor basisinformatie over kandidaatcriteria, procedures en terugbetalingen van individuele onderzoeken.</p><p>U kunt uw interesse in deelname aan een bepaald onderzoek kenbaar maken door u aan te melden of door het bijbehorende vragenformulier te openen. Als u dit liever op een later tijdstip of in een direct gesprek afrondt, kunt u dit overslaan en uw registratie voltooien.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
 
 msgid "inquiry_title"
-msgstr "Aanvraagformulier - %1"
+msgstr "Inquiry Form - %1"
 
 msgid "inquiry_description"
-msgstr "<p>Het aanvraagformulier is zo ontworpen dat u het binnen enkele minuten en zonder voorbereiding kunt invullen. Aangezien de informatie die u hier verstrekt, wordt gebruikt om u als kandidaat te identificeren, verzoeken wij u correcte en volledige informatie te verstrekken.</p>"
+msgstr "<p>The inquiry form is designed to complete it in a few minutes and without preparations. Since the information you provide here will be used to identify you as a candidate, please provide correct and comprehensive information.</p>"
 
 msgid "end_title"
-msgstr "Bedankt!"
+msgstr "Thank you!"
 
 msgid "end_description"
-msgstr "<p>Bedankt voor uw registratie. Wij nemen spoedig contact met u op en nodigen u graag uit op de proeflocatie als nieuwe deelnemer.</p><p>U kunt PDF-documenten downloaden met de door u verstrekte gegevens. Om automatische verwijdering te voorkomen, dient u uw ondertekende toestemming voor gegevensprivacy per post of e-mail in te dienen bij het locatiekantoor tot %1.</p>"
+msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
 
 msgid "invalid time"
-msgstr "ongeldige tijd %1"
+msgstr "invalid time %1"
 
 msgid "invalid hour"
-msgstr "ongeldig uur %1"
+msgstr "invalid hour %1"
 
 msgid "invalid minute"
-msgstr "ongeldige minuut %1"
+msgstr "invalid minute %1"
 
 msgid "invalid second"
-msgstr "ongeldige seconde %1"
+msgstr "invalid second %1"
 
 msgid "invalid date"
-msgstr "ongeldige datum %1"
+msgstr "invalid date %1"
 
 msgid "invalid month"
-msgstr "ongeldige maand %1"
+msgstr "invalid month %1"
 
 msgid "invalid year"
-msgstr "ongeldig jaar %1"
+msgstr "invalid year %1"
 
 msgid "invalid day"
-msgstr "ongeldige dag %1"
+msgstr "invalid day %1"
 
