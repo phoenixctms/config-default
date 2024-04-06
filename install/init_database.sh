@@ -23,7 +23,7 @@ sudo -u ctsms /ctsms/dbtool.sh -iis /ctsms/master_data/icd10gm2012syst_claml_201
 sudo -u ctsms /ctsms/dbtool.sh -iai /ctsms/master_data/icd10gm2012_alphaid_edv_ascii_20110930.txt -e ISO-8859-1 -isr icd10gm2012syst_claml_20110923
 sudo -u ctsms /ctsms/dbtool.sh -ios /ctsms/master_data/ops2012syst_claml_20111103.xml -sl de
 sudo -u ctsms /ctsms/dbtool.sh -ioc /ctsms/master_data/ops2011alpha_edv_ascii_20111031.txt -osr ops2012syst_claml_20111103
-sudo -u ctsms /ctsms/dbtool.sh -ia /ctsms/master_data/asp_register_20181005.xls
+sudo -u ctsms /ctsms/dbtool.sh -ia /ctsms/master_data/asp_register_20240316.xls -e Cp1252
 
 DEPARTMENT_PASSWORD=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1)
 USER_PASSWORD=$(cat /dev/urandom | tr -dc 'a-z' | fold -w 3 | head -n 1)
