@@ -33,7 +33,7 @@ ctsms_sites:
     default_geolocation_latitude: 47.081424
     default_geolocation_longitude: 15.468107
     show_map: 0
-    description: '<b>My CRO</b></br>My Department</br>Evergreen Terrace 123, 12345 Springfield</br>Mo. – Fr. 08:00-16:00</br>Tel.: 01/123 45678</br>Mail: <a href="mailto:mydepartment@mycro.com?subject=Signup">mydepartment@mycro.com</a>'
+    description: '<b>My CRO</b></br>My Site</br>Evergreen Terrace 123, 12345 Springfield</br>Mo. – Fr. 08:00-16:00</br>Tel.: 01/123 45678</br>Mail: <a href="mailto:mysite@mycro.com?subject=Signup">mysite@mycro.com</a>'
     department: 'my_department'
 #    trial_department: 'my_department'
     trial_department:
