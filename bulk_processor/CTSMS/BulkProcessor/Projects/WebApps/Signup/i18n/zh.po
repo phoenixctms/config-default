@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "zh"
 
 msgid "lang_label"
-msgstr "英语"
+msgstr "中国人"
 
 msgid "page_title"
 msgstr "临床试验"

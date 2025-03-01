@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "tr"
 
 msgid "lang_label"
-msgstr "İngilizce"
+msgstr "Türkçe"
 
 msgid "page_title"
 msgstr "Klinik denemeler"

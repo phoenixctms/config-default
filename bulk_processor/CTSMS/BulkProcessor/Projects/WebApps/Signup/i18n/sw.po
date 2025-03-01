@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "sw"
 
 msgid "lang_label"
-msgstr "Kiingereza"
+msgstr "kiswahili"
 
 msgid "page_title"
 msgstr "Majaribio ya Kliniki"

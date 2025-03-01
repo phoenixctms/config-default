@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "fr"
 
 msgid "lang_label"
-msgstr "Anglais"
+msgstr "Français"
 
 msgid "page_title"
 msgstr "Essais cliniques"

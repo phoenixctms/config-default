@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "ko"
 
 msgid "lang_label"
-msgstr "영어"
+msgstr "한국인"
 
 msgid "page_title"
 msgstr "임상 시험"

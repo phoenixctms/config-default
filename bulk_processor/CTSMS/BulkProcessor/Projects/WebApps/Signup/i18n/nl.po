@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "nl"
 
 msgid "lang_label"
-msgstr "Engels"
+msgstr "Nederlands"
 
 msgid "page_title"
 msgstr "Klinische onderzoeken"

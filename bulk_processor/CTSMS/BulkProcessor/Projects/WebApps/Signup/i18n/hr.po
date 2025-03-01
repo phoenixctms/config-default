@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "hr"
 
 msgid "lang_label"
-msgstr "Engleski"
+msgstr "hrvatski"
 
 msgid "page_title"
 msgstr "Klinička ispitivanja"

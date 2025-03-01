@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "sv"
 
 msgid "lang_label"
-msgstr "engelsk"
+msgstr "svenska"
 
 msgid "page_title"
 msgstr "Kliniska tester"

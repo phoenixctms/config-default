@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "fi"
 
 msgid "lang_label"
-msgstr "Englanti"
+msgstr "suomalainen"
 
 msgid "page_title"
 msgstr "Kliiniset tutkimukset"
