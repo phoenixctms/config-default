@@ -11,13 +11,13 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hindi\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-03-01 12:51\n"
 
 msgid "lang"
-msgstr "एन"
+msgstr "hi"
 
 msgid "lang_label"
-msgstr "अंग्रेज़ी"
+msgstr "हिंदी"
 
 msgid "page_title"
 msgstr "क्लिनिकल परीक्षण"
