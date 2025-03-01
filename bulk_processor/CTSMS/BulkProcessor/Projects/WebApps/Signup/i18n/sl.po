@@ -11,13 +11,13 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovenian\n"
-"PO-Revision-Date: 2024-06-22 19:26\n"
+"PO-Revision-Date: 2025-03-01 12:51\n"
 
 msgid "lang"
-msgstr "en"
+msgstr "sl"
 
 msgid "lang_label"
-msgstr "angleščina"
+msgstr "slovenski"
 
 msgid "page_title"
 msgstr "Kliničnih preskušanj"
