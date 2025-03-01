@@ -11,13 +11,13 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Fula\n"
-"PO-Revision-Date: 2024-03-16 17:56\n"
+"PO-Revision-Date: 2025-03-01 12:51\n"
 
 msgid "lang"
-msgstr "en"
+msgstr "ff"
 
 msgid "lang_label"
-msgstr "English"
+msgstr "Fulah"
 
 msgid "page_title"
 msgstr "Clinical Trials"
