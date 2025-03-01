@@ -11,13 +11,13 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-03-01 12:50\n"
 
 msgid "lang"
-msgstr "en"
+msgstr "it"
 
 msgid "lang_label"
-msgstr "Inglese"
+msgstr "Italiano"
 
 msgid "page_title"
 msgstr "Test clinici"
