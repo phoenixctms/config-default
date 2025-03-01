@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "ro"
 
 msgid "lang_label"
-msgstr "Engleză"
+msgstr "română"
 
 msgid "page_title"
 msgstr "Studii clinice"

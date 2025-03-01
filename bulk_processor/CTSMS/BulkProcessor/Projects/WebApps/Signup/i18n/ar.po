@@ -14,10 +14,10 @@ msgstr ""
 "PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
-msgstr "أون"
+msgstr "ar"
 
 msgid "lang_label"
-msgstr "إنجليزي"
+msgstr "عربي"
 
 msgid "page_title"
 msgstr "التجارب السريرية"

@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "hu"
 
 msgid "lang_label"
-msgstr "angol"
+msgstr "magyar"
 
 msgid "page_title"
 msgstr "Klinikai vizsgálatok"

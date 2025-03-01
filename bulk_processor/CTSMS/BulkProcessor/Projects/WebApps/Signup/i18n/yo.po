@@ -14,10 +14,10 @@ msgstr ""
 "PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
-msgstr "en"
+msgstr "yo"
 
 msgid "lang_label"
-msgstr "English"
+msgstr "Yoruba"
 
 msgid "page_title"
 msgstr "Awọn idanwo ile-iwosan"

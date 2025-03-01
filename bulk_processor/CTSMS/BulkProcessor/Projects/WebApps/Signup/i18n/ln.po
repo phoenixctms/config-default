@@ -14,10 +14,10 @@ msgstr ""
 "PO-Revision-Date: 2024-03-19 04:11\n"
 
 msgid "lang"
-msgstr "en"
+msgstr "ln"
 
 msgid "lang_label"
-msgstr "Lingelesi"
+msgstr "Lingala"
 
 msgid "page_title"
 msgstr "Ba études cliniques"

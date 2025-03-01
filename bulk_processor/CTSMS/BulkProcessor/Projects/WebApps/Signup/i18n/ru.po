@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "ru"
 
 msgid "lang_label"
-msgstr "Английский"
+msgstr "Русский"
 
 msgid "page_title"
 msgstr "Клинические испытания"

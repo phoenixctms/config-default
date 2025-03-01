@@ -17,7 +17,7 @@ msgid "lang"
 msgstr "da"
 
 msgid "lang_label"
-msgstr "engelsk"
+msgstr "dansk"
 
 msgid "page_title"
 msgstr "Kliniske forsøg"
