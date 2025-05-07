@@ -5,7 +5,6 @@ proband_plain_text_ignore_duplicates: 0
 proband_plain_text_truncate_table: 1
 #proband_plain_text_row_block: 100
 import_proband_page_size: 10
-person_name_prefix_length: 2
 import_proband_multithreading: 1
 import_proband_numofthreads: 2
 
