@@ -8,6 +8,9 @@ google_site_verification:
 favicon: favicon.ico
 
 address_show_province: 1
+address_show_country: 1
+address_country: 
+address_province: 
 language_menu: 1
 proband_create_interval_limit: 200
 phone_number_prefix_preset: '+43'
