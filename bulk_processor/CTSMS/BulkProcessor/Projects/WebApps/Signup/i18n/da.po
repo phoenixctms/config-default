@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Danish\n"
-"PO-Revision-Date: 2025-03-01 12:50\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "da"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Min CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Min CRO"
+msgstr "Ž2025 Min CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Sprog"
@@ -84,6 +84,9 @@ msgstr "han-"
 
 msgid "female"
 msgstr "kvinde"
+
+msgid "diverse"
+msgstr "forskellig"
 
 msgid "mandatory_field_label"
 msgstr "obligatorisk felt"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Fejl:"
 
 msgid "error_no_proband_created"
-msgstr "gemme personlige oplysninger først"
+msgstr "start med at gemme personlige oplysninger først"
 
 msgid "error_no_contact_created"
 msgstr "gem kontaktoplysninger først"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "et emne blev oprettet med denne computer for nylig. Vent venligst, før du prøver igen"
 
 msgid "error_no_contact_details"
-msgstr "angiv venligst e-mailadresse eller telefonnummer"
+msgstr "angiv venligst telefonnummer"
 
 msgid "error_proband_not_agreed"
 msgstr "der kræves udtrykkeligt samtykke for at fortsætte"
@@ -312,8 +315,17 @@ msgstr "underrette"
 msgid "proband_email_notify_tooltip"
 msgstr "Tillad at sende e-mails."
 
+msgid "trial_search_label"
+msgstr "Søg forsøg:"
+
+msgid "trials_search_tooltip"
+msgstr "Søg beskrivelser af prøver/kandidatlister."
+
 msgid "trials_grid_header"
 msgstr "Forsøg/Kandidatlister"
+
+msgid "trials_grid_empty_message"
+msgstr "ingen matchende prøver/kandidatlister"
 
 msgid "open_inquiries_btn_label"
 msgstr "Åbn forespørgselsformular"
