@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Lingala\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "ln"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "CRO na ngai"
 
 msgid "copyright_label"
-msgstr "2019 CRO na ngai"
+msgstr "2025 CRO na ngai"
 
 msgid "lanuage_menu_label"
 msgstr "Lokota"
@@ -84,6 +84,9 @@ msgstr "mobali"
 
 msgid "female"
 msgstr "ya mwasi"
+
+msgid "diverse"
+msgstr "ndenge na ndenge"
 
 msgid "mandatory_field_label"
 msgstr "esika oyo esengeli kosala"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Libunga:"
 
 msgid "error_no_proband_created"
-msgstr "bomba liboso makambo ya moto ye moko"
+msgstr "banda na kobomba liboso ba informations personnelles"
 
 msgid "error_no_contact_created"
 msgstr "bomba liboso ba détails ya contact"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "sujet moko esalemaki na ordinateur oyo kala mingi te, zela liboso ya komeka lisusu"
 
 msgid "error_no_contact_details"
-msgstr "svp pesa adresse email to numéro ya téléphone"
+msgstr "svp bopesa numéro ya téléphone"
 
 msgid "error_proband_not_agreed"
 msgstr "esengeli kondima polele mpo na kokoba"
@@ -312,8 +315,17 @@ msgstr "koyebisa"
 msgid "proband_email_notify_tooltip"
 msgstr "Tika kotinda ba Emails."
 
+msgid "trial_search_label"
+msgstr "Mimekano ya boluki:"
+
+msgid "trials_search_tooltip"
+msgstr "Boluka bandimbola ya ba épreuves/liste ya ba candidats."
+
 msgid "trials_grid_header"
 msgstr "Ba listes ya ba procès/ba candidats"
+
+msgid "trials_grid_empty_message"
+msgstr "ba listes ya ba Procès/Candidats oyo ekokani te"
 
 msgid "open_inquiries_btn_label"
 msgstr "Formulaire ya inuiry ya polele"
