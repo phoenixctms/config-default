@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hindi\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "hi"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "मेरा सीआरओ"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 मेरा सीआरओ"
+msgstr "ｩ2025 मेरा सीआरओ"
 
 msgid "lanuage_menu_label"
 msgstr "भाषा"
@@ -84,6 +84,9 @@ msgstr "पुरुष"
 
 msgid "female"
 msgstr "महिला"
+
+msgid "diverse"
+msgstr "विविध"
 
 msgid "mandatory_field_label"
 msgstr "अनिवार्य क्षेत्र"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "गलती:"
 
 msgid "error_no_proband_created"
-msgstr "पहले व्यक्तिगत जानकारी सहेजें"
+msgstr "सबसे पहले व्यक्तिगत जानकारी को सहेजना शुरू करें"
 
 msgid "error_no_contact_created"
 msgstr "पहले संपर्क विवरण सहेजें"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "इस कंप्यूटर से हाल ही में एक विषय बनाया गया था, कृपया पुनः प्रयास करने से पहले प्रतीक्षा करें"
 
 msgid "error_no_contact_details"
-msgstr "कृपया ईमेल पता या फ़ोन नंबर प्रदान करें"
+msgstr "कृपया फ़ोन नंबर बताएं"
 
 msgid "error_proband_not_agreed"
 msgstr "जारी रखने के लिए व्यक्त सहमति आवश्यक है"
@@ -312,8 +315,17 @@ msgstr "सूचित करें"
 msgid "proband_email_notify_tooltip"
 msgstr "ईमेल भेजने की अनुमति दें."
 
+msgid "trial_search_label"
+msgstr "खोज परीक्षण:"
+
+msgid "trials_search_tooltip"
+msgstr "परीक्षणों/उम्मीदवार सूचियों का विवरण खोजें।"
+
 msgid "trials_grid_header"
 msgstr "परीक्षण/उम्मीदवार सूची"
+
+msgid "trials_grid_empty_message"
+msgstr "कोई मेल खाती परीक्षण/उम्मीदवार सूची नहीं"
 
 msgid "open_inquiries_btn_label"
 msgstr "इनुइरी फॉर्म खोलें"
