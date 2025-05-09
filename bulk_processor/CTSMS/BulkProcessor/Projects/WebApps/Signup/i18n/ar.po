@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
-"PO-Revision-Date: 2025-03-01 12:50\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "ar"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "بلدي CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 بلدي CRO"
+msgstr "<unk> 2025 بلدي CRO"
 
 msgid "lanuage_menu_label"
 msgstr "لغة"
@@ -84,6 +84,9 @@ msgstr "ذكر"
 
 msgid "female"
 msgstr "أنثى"
+
+msgid "diverse"
+msgstr "متنوعة"
 
 msgid "mandatory_field_label"
 msgstr "حقل الزامي"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "خطأ:"
 
 msgid "error_no_proband_created"
-msgstr "احفظ المعلومات الشخصية أولاً"
+msgstr "ابدأ بحفظ المعلومات الشخصية أولاً"
 
 msgid "error_no_contact_created"
 msgstr "احفظ تفاصيل الاتصال أولاً"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "تم إنشاء موضوع بهذا الكمبيوتر مؤخرًا، يرجى الانتظار قبل إعادة المحاولة"
 
 msgid "error_no_contact_details"
-msgstr "يرجى تقديم عنوان البريد الإلكتروني أو رقم الهاتف"
+msgstr "يرجى تقديم رقم الهاتف"
 
 msgid "error_proband_not_agreed"
 msgstr "مطلوب موافقة صريحة للمتابعة"
@@ -312,8 +315,17 @@ msgstr "يخطر"
 msgid "proband_email_notify_tooltip"
 msgstr "السماح بإرسال رسائل البريد الإلكتروني."
 
+msgid "trial_search_label"
+msgstr "ابحث في التجارب:"
+
+msgid "trials_search_tooltip"
+msgstr "البحث عن أوصاف قوائم المحاكمات/المرشحين."
+
 msgid "trials_grid_header"
 msgstr "المحاكمات / قوائم المرشحين"
+
+msgid "trials_grid_empty_message"
+msgstr "لا توجد قوائم تجارب/تاريخ مطابقة"
 
 msgid "open_inquiries_btn_label"
 msgstr "فتح نموذج inuiry"
