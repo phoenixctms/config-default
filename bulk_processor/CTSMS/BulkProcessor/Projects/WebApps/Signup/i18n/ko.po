@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
-"PO-Revision-Date: 2025-03-01 12:50\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "ko"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "내 CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 마이 CRO"
+msgstr "ｩ 2025 마이크로"
 
 msgid "lanuage_menu_label"
 msgstr "언어"
@@ -84,6 +84,9 @@ msgstr "남성"
 
 msgid "female"
 msgstr "여성"
+
+msgid "diverse"
+msgstr "다양한"
 
 msgid "mandatory_field_label"
 msgstr "필수 필드"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "오류:"
 
 msgid "error_no_proband_created"
-msgstr "먼저 개인정보를 저장하세요"
+msgstr "먼저 개인 정보를 저장하세요"
 
 msgid "error_no_contact_created"
 msgstr "먼저 연락처를 저장하세요"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "최근에 이 컴퓨터로 제목이 생성되었습니다. 다시 시도하기 전에 잠시 기다려 주세요."
 
 msgid "error_no_contact_details"
-msgstr "이메일 주소나 전화번호를 알려주세요"
+msgstr "전화번호를 알려주세요"
 
 msgid "error_proband_not_agreed"
 msgstr "계속하려면 명시적 동의가 필요합니다."
@@ -312,8 +315,17 @@ msgstr "통지하다"
 msgid "proband_email_notify_tooltip"
 msgstr "이메일 보내기를 허용합니다."
 
+msgid "trial_search_label"
+msgstr "시험 검색:"
+
+msgid "trials_search_tooltip"
+msgstr "시험/후보 목록에 대한 설명을 검색합니다."
+
 msgid "trials_grid_header"
 msgstr "시험/후보 목록"
+
+msgid "trials_grid_empty_message"
+msgstr "일치하는 시험/후보 목록이 없습니다."
 
 msgid "open_inquiries_btn_label"
 msgstr "Inuiry 양식 열기"
