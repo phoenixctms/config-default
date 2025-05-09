@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swahili\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "sw"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "CRO yangu"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 CRO yangu"
+msgstr "ｩ 2025 CRO yangu"
 
 msgid "lanuage_menu_label"
 msgstr "Lugha"
@@ -84,6 +84,9 @@ msgstr "kiume"
 
 msgid "female"
 msgstr "kike"
+
+msgid "diverse"
+msgstr "mbalimbali"
 
 msgid "mandatory_field_label"
 msgstr "shamba la lazima"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Hitilafu:"
 
 msgid "error_no_proband_created"
-msgstr "hifadhi taarifa za kibinafsi kwanza"
+msgstr "anza na kuhifadhi habari za kibinafsi kwanza"
 
 msgid "error_no_contact_created"
 msgstr "hifadhi maelezo ya mawasiliano kwanza"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "somo liliundwa na kompyuta hii hivi karibuni, tafadhali subiri kabla ya kujaribu tena"
 
 msgid "error_no_contact_details"
-msgstr "tafadhali toa barua pepe au nambari ya simu"
+msgstr "tafadhali toa nambari ya simu"
 
 msgid "error_proband_not_agreed"
 msgstr "idhini ya moja kwa moja inahitajika ili kuendelea"
@@ -312,8 +315,17 @@ msgstr "arifu"
 msgid "proband_email_notify_tooltip"
 msgstr "Ruhusu kutuma Barua pepe."
 
+msgid "trial_search_label"
+msgstr "Tafuta majaribio:"
+
+msgid "trials_search_tooltip"
+msgstr "Tafuta maelezo ya majaribio/orodha za wagombea."
+
 msgid "trials_grid_header"
 msgstr "Majaribio/orodha za Wagombea"
+
+msgid "trials_grid_empty_message"
+msgstr "hakuna Majaribio/orodha za Wagombea zinazolingana"
 
 msgid "open_inquiries_btn_label"
 msgstr "Fungua fomu ya inuri"
