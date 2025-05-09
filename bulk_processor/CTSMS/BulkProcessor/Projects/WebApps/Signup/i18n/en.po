@@ -22,7 +22,7 @@ msgid "logo_label"
 msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "© 2019 My CRO"
+msgstr "© 2025 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Language"
@@ -79,6 +79,9 @@ msgstr "male"
 
 msgid "female"
 msgstr "female"
+
+msgid "diverse"
+msgstr "diverse"
 
 msgid "mandatory_field_label"
 msgstr "mandatory field"
@@ -157,7 +160,7 @@ msgid "error_summary"
 msgstr "Error:"
 
 msgid "error_no_proband_created"
-msgstr "save personal information first"
+msgstr "start with save personal information first"
 
 msgid "error_no_contact_created"
 msgstr "save contact details first"
@@ -175,7 +178,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "a subject was created with this computer recently, please wait before retry"
 
 msgid "error_no_contact_details"
-msgstr "please provide email address or phone number"
+msgstr "please provide phone number"
 
 msgid "error_proband_not_agreed"
 msgstr "express consent is required to continue"
@@ -316,9 +319,17 @@ msgstr "notify"
 msgid "proband_email_notify_tooltip"
 msgstr "Allow to send Emails."
 
+msgid "trial_search_label"
+msgstr "Search trials:"
+
+msgid "trials_search_tooltip"
+msgstr "Search descriptions of trials/candidate lists."
 
 msgid "trials_grid_header"
 msgstr "Trials/Candidate lists"
+
+msgid "trials_grid_empty_message"
+msgstr "no matching Trials/Candidate lists"
 
 msgid "open_inquiries_btn_label"
 msgstr "Open inuiry form"
