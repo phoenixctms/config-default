@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hungarian\n"
-"PO-Revision-Date: 2025-03-01 12:50\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "hu"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Az én CRO-m"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 My CRO"
+msgstr "ｩ 2025 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Nyelv"
@@ -84,6 +84,9 @@ msgstr "férfi"
 
 msgid "female"
 msgstr "női"
+
+msgid "diverse"
+msgstr "különböző"
 
 msgid "mandatory_field_label"
 msgstr "kötelezően kitöltendő mező"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Hiba:"
 
 msgid "error_no_proband_created"
-msgstr "először mentse el a személyes adatokat"
+msgstr "Először is mentsd el a személyes adataidat"
 
 msgid "error_no_contact_created"
 msgstr "először mentse el az elérhetőségeket"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "a közelmúltban egy tárgy jött létre ezen a számítógépen, kérjük, várjon, mielőtt újra próbálkozna"
 
 msgid "error_no_contact_details"
-msgstr "kérjük adjon meg email címet vagy telefonszámot"
+msgstr "kérjük, adja meg a telefonszámot"
 
 msgid "error_proband_not_agreed"
 msgstr "a folytatáshoz kifejezett hozzájárulás szükséges"
@@ -312,8 +315,17 @@ msgstr "értesítse"
 msgid "proband_email_notify_tooltip"
 msgstr "E-mailek küldésének engedélyezése."
 
+msgid "trial_search_label"
+msgstr "Keresési kísérletek:"
+
+msgid "trials_search_tooltip"
+msgstr "Kísérletek/jelöltlisták leírásainak keresése."
+
 msgid "trials_grid_header"
 msgstr "Próbák/jelöltek listák"
+
+msgid "trials_grid_empty_message"
+msgstr "nincsenek egyező próba-/jelöltlisták"
 
 msgid "open_inquiries_btn_label"
 msgstr "Nyissa meg az inuiry űrlapot"
