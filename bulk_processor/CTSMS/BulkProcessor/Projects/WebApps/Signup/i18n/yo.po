@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Yoruba\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "yo"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "CRO mi"
 
 msgid "copyright_label"
-msgstr "Ọdun 2019 CRO mi"
+msgstr "Ọdun 2025 CRO mi"
 
 msgid "lanuage_menu_label"
 msgstr "Ede"
@@ -84,6 +84,9 @@ msgstr "akọ"
 
 msgid "female"
 msgstr "obinrin"
+
+msgid "diverse"
+msgstr "oniruuru"
 
 msgid "mandatory_field_label"
 msgstr "dandan aaye"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Asise:"
 
 msgid "error_no_proband_created"
-msgstr "fipamọ alaye ti ara ẹni akọkọ"
+msgstr "bẹrẹ pẹlu fi alaye ti ara ẹni pamọ ni akọkọ"
 
 msgid "error_no_contact_created"
 msgstr "fipamọ awọn alaye olubasọrọ akọkọ"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "koko-ọrọ kan ti ṣẹda pẹlu kọnputa yii laipẹ, jọwọ duro ṣaaju ki o to tun gbiyanju"
 
 msgid "error_no_contact_details"
-msgstr "jọwọ pese adirẹsi imeeli tabi nọmba foonu"
+msgstr "jọwọ pese nọmba foonu"
 
 msgid "error_proband_not_agreed"
 msgstr "o nilo ifọkansi kiakia lati tẹsiwaju"
@@ -312,8 +315,17 @@ msgstr "leti"
 msgid "proband_email_notify_tooltip"
 msgstr "Gba laaye lati fi imeeli ranṣẹ."
 
+msgid "trial_search_label"
+msgstr "Wa awọn idanwo:"
+
+msgid "trials_search_tooltip"
+msgstr "Wa awọn apejuwe ti awọn idanwo/awọn atokọ oludije."
+
 msgid "trials_grid_header"
 msgstr "Idanwo / oludije awọn akojọ"
+
+msgid "trials_grid_empty_message"
+msgstr "ko si ibaamu Idanwo / Oludije awọn akojọ"
 
 msgid "open_inquiries_btn_label"
 msgstr "Ṣii fọọmu inuiry"
