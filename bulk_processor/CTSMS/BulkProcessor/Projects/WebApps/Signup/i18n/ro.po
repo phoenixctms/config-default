@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Romanian\n"
-"PO-Revision-Date: 2025-03-01 12:50\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "ro"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "CRO-ul meu"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 CRO-ul meu"
+msgstr "Lv. 2025 CRO meu"
 
 msgid "lanuage_menu_label"
 msgstr "Limba"
@@ -84,6 +84,9 @@ msgstr "masculin"
 
 msgid "female"
 msgstr "Femeie"
+
+msgid "diverse"
+msgstr "diverse"
 
 msgid "mandatory_field_label"
 msgstr "câmp obligatoriu"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Eroare:"
 
 msgid "error_no_proband_created"
-msgstr "salvați mai întâi informațiile personale"
+msgstr "începe cu datele personale salvate mai întâi"
 
 msgid "error_no_contact_created"
 msgstr "salvați mai întâi detaliile de contact"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "un subiect a fost creat recent cu acest computer, vă rugăm să așteptați înainte de a reîncerca"
 
 msgid "error_no_contact_details"
-msgstr "vă rugăm să furnizați adresa de e-mail sau numărul de telefon"
+msgstr "vă rugăm să furnizaţi numărul de telefon"
 
 msgid "error_proband_not_agreed"
 msgstr "este necesar consimțământul expres pentru a continua"
@@ -312,8 +315,17 @@ msgstr "notifica"
 msgid "proband_email_notify_tooltip"
 msgstr "Permiteți trimiterea de e-mailuri."
 
+msgid "trial_search_label"
+msgstr "Încercări de căutare:"
+
+msgid "trials_search_tooltip"
+msgstr "Căutați descrieri ale proceselor / listelor de candidați."
+
 msgid "trials_grid_header"
 msgstr "Teste/liste de candidați"
+
+msgid "trials_grid_empty_message"
+msgstr "nu se potrivește cu testele/listele de candidați"
 
 msgid "open_inquiries_btn_label"
 msgstr "Formular de inuiry deschis"
