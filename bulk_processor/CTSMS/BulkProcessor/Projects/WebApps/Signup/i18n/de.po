@@ -17,7 +17,7 @@ msgid "logo_label"
 msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "© 2019 My CRO"
+msgstr "© 2025 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Sprache"
@@ -74,6 +74,9 @@ msgstr "männlich"
 
 msgid "female"
 msgstr "weiblich"
+
+msgid "diverse"
+msgstr "divers"
 
 msgid "mandatory_field_label"
 msgstr "Pflichtfeld"
@@ -150,7 +153,7 @@ msgid "error_summary"
 msgstr "Fehler:"
 
 msgid "error_no_proband_created"
-msgstr "zuerst Informationen zu Ihrer Person speichern"
+msgstr "mit Informationen zu Ihrer Person starten"
 
 msgid "error_no_contact_created"
 msgstr "zuerst Kontaktdaten speichern"
@@ -168,7 +171,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "mit diesem Computer wurde erst kürzlich ein Proband erstellt, bitte nach einiger Zeit wiederholen"
 
 msgid "error_no_contact_details"
-msgstr "bitte Telefonnummer oder E-Mail Adresse angeben"
+msgstr "bitte Telefonnummer angeben"
 
 msgid "error_proband_not_agreed"
 msgstr "die ausdrückliche Zustimmung ist erforderlich um fortzufahren"
@@ -310,10 +313,17 @@ msgstr "benachrichtigen"
 msgid "proband_email_notify_tooltip"
 msgstr "Benachrichtigung per E-Mail erlauben."
 
+msgid "trial_search_label"
+msgstr "Studien durchsuchen:"
 
+msgid "trials_search_tooltip"
+msgstr "Beschreibungen der Studien/Kandidatenlisten durchsuchen."
 
 msgid "trials_grid_header"
 msgstr "Studien/Kandidatenlisten"
+
+msgid "trials_grid_empty_message"
+msgstr "keine Studien/Kandidat*innenlisten gefunden"
 
 msgid "open_inquiries_btn_label"
 msgstr "Zum Fragebogen"
