@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "zh"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "我的首席研究官"
 
 msgid "copyright_label"
-msgstr "ｩ 2019我的CRO"
+msgstr "至 2025 我的 CRO"
 
 msgid "lanuage_menu_label"
 msgstr "语言"
@@ -84,6 +84,9 @@ msgstr "男性"
 
 msgid "female"
 msgstr "女性"
+
+msgid "diverse"
+msgstr "差异"
 
 msgid "mandatory_field_label"
 msgstr "必填项"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "错误："
 
 msgid "error_no_proband_created"
-msgstr "先保存个人信息"
+msgstr "首先保存个人信息"
 
 msgid "error_no_contact_created"
 msgstr "首先保存联系方式"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "最近使用这台计算机创建了一个主题，请稍等后再重试"
 
 msgid "error_no_contact_details"
-msgstr "请提供电子邮件地址或电话号码"
+msgstr "请提供电话号码"
 
 msgid "error_proband_not_agreed"
 msgstr "需要明确同意才能继续"
@@ -312,8 +315,17 @@ msgstr "通知"
 msgid "proband_email_notify_tooltip"
 msgstr "允许发送电子邮件。"
 
+msgid "trial_search_label"
+msgstr "搜索试题："
+
+msgid "trials_search_tooltip"
+msgstr "对试验/候选人名单的搜索说明。"
+
 msgid "trials_grid_header"
 msgstr "试验/候选名单"
+
+msgid "trials_grid_empty_message"
+msgstr "没有匹配的试验/日期列表"
 
 msgid "open_inquiries_btn_label"
 msgstr "打开调查表"
