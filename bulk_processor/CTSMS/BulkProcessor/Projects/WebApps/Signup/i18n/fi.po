@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Finnish\n"
-"PO-Revision-Date: 2025-03-01 12:50\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "fi"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Minun CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Oma CRO"
+msgstr "‹ 2025 Oma CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Kieli"
@@ -84,6 +84,9 @@ msgstr "Uros"
 
 msgid "female"
 msgstr "Nainen"
+
+msgid "diverse"
+msgstr "monipuolinen"
 
 msgid "mandatory_field_label"
 msgstr "pakollinen kenttä"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Virhe:"
 
 msgid "error_no_proband_created"
-msgstr "tallenna ensin henkilökohtaiset tiedot"
+msgstr "aloita tallentamalla henkilökohtaisia tietoja ensin"
 
 msgid "error_no_contact_created"
 msgstr "tallenna ensin yhteystiedot"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "aihe luotiin tällä tietokoneella äskettäin, odota ennen kuin yrität uudelleen"
 
 msgid "error_no_contact_details"
-msgstr "anna sähköpostiosoite tai puhelinnumero"
+msgstr "anna puhelinnumero"
 
 msgid "error_proband_not_agreed"
 msgstr "jatkamiseen tarvitaan nimenomainen suostumus"
@@ -312,8 +315,17 @@ msgstr "ilmoittaa"
 msgid "proband_email_notify_tooltip"
 msgstr "Salli sähköpostien lähettäminen."
 
+msgid "trial_search_label"
+msgstr "Etsi kokeiluja:"
+
+msgid "trials_search_tooltip"
+msgstr "Etsi kokeilujen / ehdokkaiden luetteloiden kuvauksia."
+
 msgid "trials_grid_header"
 msgstr "Kokeilut/ehdokasluettelot"
+
+msgid "trials_grid_empty_message"
+msgstr "ei vastaavia kokeiluja/ehdokaslistoja"
 
 msgid "open_inquiries_btn_label"
 msgstr "Avaa inuiry-lomake"
