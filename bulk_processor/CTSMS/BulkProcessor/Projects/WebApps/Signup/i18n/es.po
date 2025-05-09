@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2025-03-01 12:50\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "es"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Mi CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Mi CRO"
+msgstr "✅ 2025 Mi CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Idioma"
@@ -84,6 +84,9 @@ msgstr "masculino"
 
 msgid "female"
 msgstr "femenino"
+
+msgid "diverse"
+msgstr "diverso"
 
 msgid "mandatory_field_label"
 msgstr "Campo obligatorio"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Error:"
 
 msgid "error_no_proband_created"
-msgstr "guarde la información personal primero"
+msgstr "empezar primero con guardar la información personal"
 
 msgid "error_no_contact_created"
 msgstr "guardar los datos de contacto primero"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "Se creó un asunto con esta computadora recientemente, espere antes de volver a intentarlo."
 
 msgid "error_no_contact_details"
-msgstr "por favor proporcione dirección de correo electrónico o número de teléfono"
+msgstr "por favor proporcione el número de teléfono"
 
 msgid "error_proband_not_agreed"
 msgstr "Se requiere consentimiento expreso para continuar."
@@ -312,8 +315,17 @@ msgstr "notificar"
 msgid "proband_email_notify_tooltip"
 msgstr "Permitir enviar correos electrónicos."
 
+msgid "trial_search_label"
+msgstr "Buscar ensayos:"
+
+msgid "trials_search_tooltip"
+msgstr "Buscar descripciones de los ensayos/listas de candidatos."
+
 msgid "trials_grid_header"
 msgstr "Ensayos/listas de candidatos"
+
+msgid "trials_grid_empty_message"
+msgstr "no hay listas de Pruebas/Candidate coincidentes"
 
 msgid "open_inquiries_btn_label"
 msgstr "Abrir formulario de consulta"
