@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Igbo\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "ig"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "CRO m"
 
 msgid "copyright_label"
-msgstr "2019 My CRO"
+msgstr "ｩ 2025 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Asụsụ"
@@ -84,6 +84,9 @@ msgstr "nwoke"
 
 msgid "female"
 msgstr "nwanyi"
+
+msgid "diverse"
+msgstr "iche iche"
 
 msgid "mandatory_field_label"
 msgstr "ubi amanyere iwu"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Njehie:"
 
 msgid "error_no_proband_created"
-msgstr "buru ụzọ chekwaa ozi nkeonwe"
+msgstr "malite na-echekwa ozi nkeonwe mbụ"
 
 msgid "error_no_contact_created"
 msgstr "buru ụzọ chekwaa nkọwa kọntaktị"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "ejiri kọmpụta mepụta isiokwu n'oge na-adịbeghị anya, biko chere tupu ị nwaa ọzọ"
 
 msgid "error_no_contact_details"
-msgstr "biko nye adreesị email ma ọ bụ akara ekwentị"
+msgstr "biko nye nọmba ekwentị"
 
 msgid "error_proband_not_agreed"
 msgstr "chọrọ nkwenye doro anya iji gaa n'ihu"
@@ -312,8 +315,17 @@ msgstr "gosi"
 msgid "proband_email_notify_tooltip"
 msgstr "Hapụ izipu ozi-e."
 
+msgid "trial_search_label"
+msgstr "Chọọ nnwale:"
+
+msgid "trials_search_tooltip"
+msgstr "Chọọ nkọwa nke ule/ndepụta ndị ndoro-ndoro ochichi."
+
 msgid "trials_grid_header"
 msgstr "Nnwale/ndepụta ndị ndoro-ndoro ochichi"
+
+msgid "trials_grid_empty_message"
+msgstr "enweghị ndetu Ọnwụnwa/Ndepụta dakọtara"
 
 msgid "open_inquiries_btn_label"
 msgstr "Mepee ụdị inuiry"
