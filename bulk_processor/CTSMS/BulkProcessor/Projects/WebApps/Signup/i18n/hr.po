@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Croatian\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "hr"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Moj CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Moj CRO"
+msgstr "ｩ 2025 Moj CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Jezik"
@@ -84,6 +84,9 @@ msgstr "muški"
 
 msgid "female"
 msgstr "žena"
+
+msgid "diverse"
+msgstr "raznolik"
 
 msgid "mandatory_field_label"
 msgstr "obavezno polje"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Greška:"
 
 msgid "error_no_proband_created"
-msgstr "prvo spremite osobne podatke"
+msgstr "započnite s spremanjem osobnih podataka"
 
 msgid "error_no_contact_created"
 msgstr "prvo spremite podatke za kontakt"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "predmet je nedavno kreiran na ovom računalu, pričekajte prije ponovnog pokušaja"
 
 msgid "error_no_contact_details"
-msgstr "navedite adresu e-pošte ili broj telefona"
+msgstr "molimo vas da navedete broj telefona"
 
 msgid "error_proband_not_agreed"
 msgstr "za nastavak je potreban izričiti pristanak"
@@ -312,8 +315,17 @@ msgstr "obavijestiti"
 msgid "proband_email_notify_tooltip"
 msgstr "Dopusti slanje e-pošte."
 
+msgid "trial_search_label"
+msgstr "Pretraživanje pokusnih verzija:"
+
+msgid "trials_search_tooltip"
+msgstr "Pretražite opise ispitivanja/popise kandidata."
+
 msgid "trials_grid_header"
 msgstr "Ispitivanja/popisi kandidata"
+
+msgid "trials_grid_empty_message"
+msgstr "nema odgovarajućih popisa kandidata/probnih ispita"
 
 msgid "open_inquiries_btn_label"
 msgstr "Otvoreni inuiry obrazac"
