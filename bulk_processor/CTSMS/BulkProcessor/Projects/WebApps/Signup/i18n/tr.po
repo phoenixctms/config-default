@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "tr"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Benim CRO'm"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 CRO'm"
+msgstr "ｩ 2025 CRO'm"
 
 msgid "lanuage_menu_label"
 msgstr "Dil"
@@ -84,6 +84,9 @@ msgstr "erkek"
 
 msgid "female"
 msgstr "dişi"
+
+msgid "diverse"
+msgstr "türlü"
 
 msgid "mandatory_field_label"
 msgstr "zorunlu alan"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Hata:"
 
 msgid "error_no_proband_created"
-msgstr "önce kişisel bilgileri kaydet"
+msgstr "önce kişisel bilgileri kaydederek başlayın"
 
 msgid "error_no_contact_created"
 msgstr "önce iletişim bilgilerini kaydet"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "yakın zamanda bu bilgisayarda bir konu oluşturuldu, lütfen yeniden denemeden önce bekleyin"
 
 msgid "error_no_contact_details"
-msgstr "lütfen e-posta adresini veya telefon numarasını belirtin"
+msgstr "Lütfen telefon numaranızı verin"
 
 msgid "error_proband_not_agreed"
 msgstr "Devam etmek için açık onay gereklidir"
@@ -312,8 +315,17 @@ msgstr "bildirmek"
 msgid "proband_email_notify_tooltip"
 msgstr "E-posta göndermeye izin ver."
 
+msgid "trial_search_label"
+msgstr "Arama denemeleri:"
+
+msgid "trials_search_tooltip"
+msgstr "Denemelerin/aday listelerinin açıklamalarını arayın."
+
 msgid "trials_grid_header"
 msgstr "Denemeler/Aday listeleri"
+
+msgid "trials_grid_empty_message"
+msgstr "eşleşen Denemeler/Aday listeleri yok"
 
 msgid "open_inquiries_btn_label"
 msgstr "Giriş formunu aç"
