@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
-"PO-Revision-Date: 2025-03-01 12:50\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "ja"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "私のCRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 私のCRO"
+msgstr "<unk> 2025 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "言語"
@@ -84,6 +84,9 @@ msgstr "男"
 
 msgid "female"
 msgstr "女性"
+
+msgid "diverse"
+msgstr "多様な"
 
 msgid "mandatory_field_label"
 msgstr "必須フィールド"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "エラー："
 
 msgid "error_no_proband_created"
-msgstr "まず個人情報を保存してください"
+msgstr "まず個人情報を保存しましょう"
 
 msgid "error_no_contact_created"
 msgstr "まず連絡先の詳細を保存してください"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "件名は最近このコンピュータで作成されました。再試行する前にお待ちください。"
 
 msgid "error_no_contact_details"
-msgstr "メールアドレスまたは電話番号を入力してください"
+msgstr "電話番号を入力してください"
 
 msgid "error_proband_not_agreed"
 msgstr "続行するには明示的な同意が必要です"
@@ -312,8 +315,17 @@ msgstr "通知する"
 msgid "proband_email_notify_tooltip"
 msgstr "電子メールの送信を許可します。"
 
+msgid "trial_search_label"
+msgstr "トライアルを検索:"
+
+msgid "trials_search_tooltip"
+msgstr "トライアル/候補リストの検索説明。"
+
 msgid "trials_grid_header"
 msgstr "トライアル/候補者リスト"
+
+msgid "trials_grid_empty_message"
+msgstr "一致するトライアル/候補リストがありません"
 
 msgid "open_inquiries_btn_label"
 msgstr "お問い合わせフォームを開く"
