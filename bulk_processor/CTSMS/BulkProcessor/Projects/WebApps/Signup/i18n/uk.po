@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "uk"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Мій CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Мій CRO"
+msgstr "До 2025 Мій CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Мова"
@@ -84,6 +84,9 @@ msgstr "чоловічий"
 
 msgid "female"
 msgstr "жіноча"
+
+msgid "diverse"
+msgstr "різні"
 
 msgid "mandatory_field_label"
 msgstr "Обов'язкове поле"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Помилка:"
 
 msgid "error_no_proband_created"
-msgstr "спочатку збережіть особисту інформацію"
+msgstr "спочатку розпочати з збереження персональної інформації"
 
 msgid "error_no_contact_created"
 msgstr "спочатку збережіть контактні дані"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "тема була нещодавно створена на цьому комп’ютері, зачекайте, перш ніж повторити спробу"
 
 msgid "error_no_contact_details"
-msgstr "вкажіть адресу електронної пошти або номер телефону"
+msgstr "будь ласка, надайте номер телефону"
 
 msgid "error_proband_not_agreed"
 msgstr "для продовження потрібна чітка згода"
@@ -312,8 +315,17 @@ msgstr "повідомити"
 msgid "proband_email_notify_tooltip"
 msgstr "Дозволити надсилати електронні листи."
 
+msgid "trial_search_label"
+msgstr "Випробування для пошуку:"
+
+msgid "trials_search_tooltip"
+msgstr "Пошук опису судового розгляду/списку кандидатів."
+
 msgid "trials_grid_header"
 msgstr "Випробування/списки кандидатів"
+
+msgid "trials_grid_empty_message"
+msgstr "немає відповідних списків Trials/Candidate"
 
 msgid "open_inquiries_btn_label"
 msgstr "Відкрита форма inuiry"
