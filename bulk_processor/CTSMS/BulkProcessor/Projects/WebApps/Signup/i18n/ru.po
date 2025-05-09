@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "ru"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Мой CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Мой CRO"
+msgstr "<unk> 2025 Мой CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Язык"
@@ -84,6 +84,9 @@ msgstr "мужской"
 
 msgid "female"
 msgstr "женский"
+
+msgid "diverse"
+msgstr "разный"
 
 msgid "mandatory_field_label"
 msgstr "обязательное поле"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Ошибка:"
 
 msgid "error_no_proband_created"
-msgstr "сначала сохраните личную информацию"
+msgstr "сначала сохранить личную информацию"
 
 msgid "error_no_contact_created"
 msgstr "сначала сохраните контактные данные"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "на этом компьютере недавно была создана тема, пожалуйста, подождите, прежде чем повторить попытку"
 
 msgid "error_no_contact_details"
-msgstr "укажите адрес электронной почты или номер телефона"
+msgstr "пожалуйста, укажите номер телефона"
 
 msgid "error_proband_not_agreed"
 msgstr "для продолжения требуется явно выраженное согласие"
@@ -312,8 +315,17 @@ msgstr "поставить в известность"
 msgid "proband_email_notify_tooltip"
 msgstr "Разрешить отправлять электронные письма."
 
+msgid "trial_search_label"
+msgstr "Поиск пробных версий:"
+
+msgid "trials_search_tooltip"
+msgstr "Поиск описаний списков пробных/кандидатов."
+
 msgid "trials_grid_header"
 msgstr "Испытания/списки кандидатов"
+
+msgid "trials_grid_empty_message"
+msgstr "нет подходящих списков Trial/Candidate"
 
 msgid "open_inquiries_btn_label"
 msgstr "Открыть форму запроса"
