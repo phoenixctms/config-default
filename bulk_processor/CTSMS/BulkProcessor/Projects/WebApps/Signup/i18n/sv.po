@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swedish\n"
-"PO-Revision-Date: 2025-03-01 12:51\n"
+"PO-Revision-Date: 2025-05-09 00:53\n"
 
 msgid "lang"
 msgstr "sv"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Min CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Min CRO"
+msgstr "<unk> 2025 Mitt CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Språk"
@@ -84,6 +84,9 @@ msgstr "manlig"
 
 msgid "female"
 msgstr "kvinna"
+
+msgid "diverse"
+msgstr "mångsidig"
 
 msgid "mandatory_field_label"
 msgstr "obligatoriskt fält"
@@ -149,7 +152,7 @@ msgid "error_summary"
 msgstr "Fel:"
 
 msgid "error_no_proband_created"
-msgstr "spara personlig information först"
+msgstr "börja med att spara personlig information först"
 
 msgid "error_no_contact_created"
 msgstr "spara kontaktuppgifter först"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "ett ämne skapades med den här datorn nyligen, vänta innan du försöker igen"
 
 msgid "error_no_contact_details"
-msgstr "vänligen ange e-postadress eller telefonnummer"
+msgstr "ange telefonnummer"
 
 msgid "error_proband_not_agreed"
 msgstr "uttryckligt samtycke krävs för att fortsätta"
@@ -312,8 +315,17 @@ msgstr "meddela"
 msgid "proband_email_notify_tooltip"
 msgstr "Tillåt att skicka e-postmeddelanden."
 
+msgid "trial_search_label"
+msgstr "Sök provversioner:"
+
+msgid "trials_search_tooltip"
+msgstr "Sök beskrivningar av prov/kandidatlistor."
+
 msgid "trials_grid_header"
 msgstr "Försök/kandidatlistor"
+
+msgid "trials_grid_empty_message"
+msgstr "inga matchande provtillfällen/kandidatlistor"
 
 msgid "open_inquiries_btn_label"
 msgstr "Öppna anmälningsformulär"
