@@ -88,10 +88,10 @@ msgid "save_next_btn_label"
 msgstr "Absenden und weiter"
 
 msgid "save_done_btn_label"
-msgstr "Absenden und beenden"
+msgstr "Absenden und abschließen"
 
 msgid "done_btn_label"
-msgstr "Beenden"
+msgstr "Abschließen"
 
 msgid "yes_btn_label"
 msgstr "Ja"
@@ -339,7 +339,7 @@ msgid "incomplete_dlg_title"
 msgstr "Fragebogen unvollständig"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Bitte sehen Sie alle Seiten des Fragebongens durch.<br/>Wollen sie dennoch absenden und beenden?"
+msgstr "Bitte sehen Sie alle Seiten des Fragebongens durch.<br/>Wollen sie dennoch absenden und abschließen?"
 
 msgid "inquiries_pbar_template"
 msgstr "abgesendet: %d/%d"
@@ -388,7 +388,7 @@ msgid "trial_title"
 msgstr "Laufende Studien"
 
 msgid "trial_description"
-msgstr "<p>Im dritten Schritt gibt es nun eine Übersicht laufender Studien bzw. Erhebungen. Blättern Sie durch die Liste, um grundlegende Informationen zu Kandidatenkriterien, Ablauf und Aufwandsentschädigung der Studien einzusehen.</p><p>Sie können Ihr Interesse an einer Studie bekanntgeben, indem Sie sich eintragen bzw. den zugehörigen Fragebogen öffnen. Wenn Sie dafür einen späteren Zeitpunkt bzw. ein direktes Gespräch bevorzugen, können Sie diese verbleibenden Schritte auch übersrpingen und ihre Registrierung beenden.</p>"
+msgstr "<p>Im dritten Schritt gibt es nun eine Übersicht laufender Studien bzw. Erhebungen. Blättern Sie durch die Liste, um grundlegende Informationen zu Kandidatenkriterien, Ablauf und Aufwandsentschädigung der Studien einzusehen.</p><p>Sie können Ihr Interesse an einer Studie bekanntgeben, indem Sie sich eintragen bzw. den zugehörigen Fragebogen öffnen. Wenn Sie dafür einen späteren Zeitpunkt bzw. ein direktes Gespräch bevorzugen, können Sie diese verbleibenden Schritte auch übersrpingen und ihre Registrierung abschließen.</p>"
 
 msgid "inquiry_title"
 msgstr "Fragebogen - %1"
