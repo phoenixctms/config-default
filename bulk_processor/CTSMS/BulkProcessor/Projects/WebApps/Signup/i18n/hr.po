@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Croatian\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "hr"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Pošalji i dalje"
 
 msgid "save_done_btn_label"
-msgstr "Pošalji i završi"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Završi"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Da"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "neprozirnost olovke 30%"
 
 msgid "finish_btn_label"
-msgstr "Prestati"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Greška:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Obrazac za upit nije potpun"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Molimo pogledajte sve stranice formulara za upit.<br/>Želite li svejedno poslati i završiti?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "poslano: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Suđenja u tijeku"
 
 msgid "trial_description"
-msgstr "<p>Pregled studija i upita koji su u tijeku predstavljen je u trećem koraku. Pregledajte popis kako biste vidjeli osnovne informacije o kriterijima kandidata, postupcima i naknadama za pojedinačna ispitivanja.</p><p>Svoj interes za sudjelovanje u određenoj probi možete pokazati prijavom ili otvaranjem obrasca za upit. Ako želite ovo dovršiti kasnije ili u izravnom razgovoru, možete ovo preskočiti i dovršiti registraciju.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Obrazac za upit - %1"
