@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "it"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Invia e successivo"
 
 msgid "save_done_btn_label"
-msgstr "Invia e finisci"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Fine"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "SÌ"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacità penna 30%"
 
 msgid "finish_btn_label"
-msgstr "Esentato"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Errore:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Modulo di richiesta incompleto"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Si prega di guardare tutte le pagine del modulo di richiesta.<br/>Preferisci inviare e finire comunque?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "inviato: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Prove in corso"
 
 msgid "trial_description"
-msgstr "<p>Nella terza fase viene presentata una panoramica degli studi e delle richieste in corso. Si prega di consultare l'elenco per visualizzare le informazioni di base relative ai criteri dei candidati, alle procedure e ai rimborsi delle singole sperimentazioni.</p><p>Puoi indicare il tuo interesse a partecipare a una particolare sperimentazione iscrivendoti o aprendo il relativo modulo di richiesta. Se preferisci completarlo in un secondo momento o in una conversazione diretta, puoi saltarlo e completare la registrazione.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Modulo di richiesta - %1"
