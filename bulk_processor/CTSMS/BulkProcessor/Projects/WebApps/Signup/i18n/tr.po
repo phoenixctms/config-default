@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "tr"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Gönder ve sonraki"
 
 msgid "save_done_btn_label"
-msgstr "Gönder ve bitir"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Sona ermek"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Evet"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "kalem opaklığı %30"
 
 msgid "finish_btn_label"
-msgstr "Çıkış yapmak"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Hata:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Talep formu eksik"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Lütfen başvuru formunun tüm sayfalarına bakın.<br/>Yine de gönderip bitirmeyi mi tercih edersiniz?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "gönderilen: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Devam Eden Denemeler"
 
 msgid "trial_description"
-msgstr "<p>Üçüncü adımda devam eden çalışmalara ve sorgulamalara genel bir bakış sunulmaktadır. Aday kriterleri, prosedürleri ve bireysel denemelerin geri ödemeleriyle ilgili temel bilgileri görmek için lütfen listeye göz atın.</p><p>Belirli bir deneye katılmakla ilgilendiğinizi kaydolarak veya araştırma formunu açarak belirtebilirsiniz. Bunu daha sonra veya doğrudan görüşme yoluyla tamamlamayı tercih ederseniz, bunu atlayıp kaydınızı tamamlayabilirsiniz.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Talep Formu - %1"
