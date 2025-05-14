@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "zh"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "发送并下一个"
 
 msgid "save_done_btn_label"
-msgstr "发送并完成"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "结束"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "是的"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "笔不透明度 30%"
 
 msgid "finish_btn_label"
-msgstr "辞职"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "错误："
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "查询表格不完整"
 
 msgid "incomplete_dlg_prompt"
-msgstr "请查看查询表的所有页面。<br/>您还是想发送并完成吗？"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "发送: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "正在进行的试验"
 
 msgid "trial_description"
-msgstr "<p>第三步介绍了正在进行的研究和调查的概述。请浏览列表，查看有关候选人标准、程序和个别试验报销的基本信息。</p><p>您可以通过注册或打开查询表来表明您有兴趣参与特定试用。如果您希望稍后或在直接对话中完成此操作，您可以跳过此操作并完成注册。</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "咨询表 - %1"
