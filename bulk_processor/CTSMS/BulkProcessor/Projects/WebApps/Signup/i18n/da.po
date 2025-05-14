@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Danish\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "da"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Send og næste"
 
 msgid "save_done_btn_label"
-msgstr "Send og afslut"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Afslut"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Ja"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "pen opacitet 30 %"
 
 msgid "finish_btn_label"
-msgstr "Afslut"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Fejl:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Forespørgselsformularen er ufuldstændig"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Se venligst alle sider i forespørgselsformularen.<br/>Foretrækker du alligevel at sende og afslutte?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "sendt: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Igangværende forsøg"
 
 msgid "trial_description"
-msgstr "<p>En oversigt over igangværende undersøgelser og forespørgsler præsenteres i tredje trin. Gennemse venligst listen for at se grundlæggende oplysninger om kandidatkriterier, procedurer og godtgørelser af individuelle forsøg.</p><p>Du kan angive din interesse for at deltage i en bestemt prøveperiode ved at tilmelde dig eller åbne dens forespørgselsformular. Hvis du foretrækker at fuldføre dette på et senere tidspunkt eller i direkte samtale, kan du springe dette over og afslutte din registrering.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Forespørgselsformular - %1"
