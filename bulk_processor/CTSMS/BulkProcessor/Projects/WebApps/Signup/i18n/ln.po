@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Lingala\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "ln"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Tinda na sima"
 
 msgid "save_done_btn_label"
-msgstr "Tinda mpe silisa"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Kosilisa"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Iyo"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacité ya stylo 30% ."
 
 msgid "finish_btn_label"
-msgstr "Kolongwa"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Libunga:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Formulaire ya mituna ezali mobimba te"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Svp tala nkasa nionso ya formulaire ya demande.<br/>Olingi kotinda pe kosilisa de toute façon?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "atindaki: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Mimekano oyo ezali kokoba"
 
 msgid "trial_description"
-msgstr "<p>Botali ya boyekoli pe mituna oyo ezali kosalama elakisami na eteni ya misato. Svp tala na liste pona komona ba informations ya base oyo etali ba critères ya ba candidats, ba procédures pe ba rembours ya ba procès individuels.</p><p>Okoki kolakisa bosepeli na yo ya kosangana na momekano moko boye na kokoma to kofungola formulaire na yango ya mituna. Soki olingi kosilisa likambo oyo na tango mosusu to na masolo ya direkt, okoki okoki koleka oyo mpe kosilisa bokomisi nkombo na yo.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulaire ya kotuna - %1"
