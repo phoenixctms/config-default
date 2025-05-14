@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "ko"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "보내고 다음"
 
 msgid "save_done_btn_label"
-msgstr "보내고 마무리"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "마치다"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "예"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "펜 불투명도 30%"
 
 msgid "finish_btn_label"
-msgstr "그만두다"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "오류:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "문의 양식이 불완전함"
 
 msgid "incomplete_dlg_prompt"
-msgstr "문의양식의 모든 페이지를 살펴보시기 바랍니다.<br/>그냥 보내고 끝내시겠습니까?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "전송됨: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "진행중인 시험"
 
 msgid "trial_description"
-msgstr "<p>현재 진행 중인 연구 및 문의 사항에 대한 개요가 세 번째 단계에 제시됩니다. 개별 임상시험의 후보 기준, 절차 및 상환에 관한 기본 정보를 보려면 목록을 찾아보십시오.</p><p>등록하거나 문의 양식을 열어 특정 임상시험 참여에 대한 관심을 표시할 수 있습니다. 나중에 완료하거나 직접 대화를 통해 완료하려는 경우 이 단계를 건너뛰고 등록을 완료할 수 있습니다.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "문의양식 - %1"
