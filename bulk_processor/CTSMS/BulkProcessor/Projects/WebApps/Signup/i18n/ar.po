@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "ar"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "إرسال والتالي"
 
 msgid "save_done_btn_label"
-msgstr "إرسال والانتهاء"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "ينهي"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "نعم"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "عتامة القلم 30%"
 
 msgid "finish_btn_label"
-msgstr "يترك"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "خطأ:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "نموذج الاستفسار غير مكتمل"
 
 msgid "incomplete_dlg_prompt"
-msgstr "يرجى الاطلاع على جميع صفحات نموذج الاستفسار.<br/>هل تفضل الإرسال والانتهاء على أي حال؟"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "تم الإرسال: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "المحاكمات الجارية"
 
 msgid "trial_description"
-msgstr "<p>يتم تقديم نظرة عامة على الدراسات والاستفسارات الجارية في الخطوة الثالثة. يرجى تصفح القائمة للاطلاع على المعلومات الأساسية المتعلقة بمعايير المرشحين وإجراءاتهم وتسديد تكاليف التجارب الفردية.</p><p>يمكنك الإشارة إلى اهتمامك بالمشاركة في تجربة معينة عن طريق الاشتراك أو فتح نموذج الاستفسار الخاص بها. إذا كنت تفضل إكمال هذا في وقت لاحق أو في محادثة مباشرة، فيمكنك تخطي هذا وإنهاء تسجيلك.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "نموذج الاستفسار - %1"
