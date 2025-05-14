@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kongo\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "kg"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Send and next"
 
 msgid "save_done_btn_label"
-msgstr "Send and finish"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Finish"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Yes"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "pen opacity 30%"
 
 msgid "finish_btn_label"
-msgstr "Quit"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Error:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Inquiry form incomplete"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and finish anyway?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "sent: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Ongoing Trials"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and finish your registration.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Inquiry Form - %1"
