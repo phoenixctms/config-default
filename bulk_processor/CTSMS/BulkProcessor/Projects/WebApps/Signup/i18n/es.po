@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "es"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "enviar y siguiente"
 
 msgid "save_done_btn_label"
-msgstr "enviar y terminar"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Finalizar"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Sí"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacidad de la pluma 30%"
 
 msgid "finish_btn_label"
-msgstr "Abandonar"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Error:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Formulario de consulta incompleto"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Mire todas las páginas del formulario de consulta.<br/>¿Prefieres enviar y terminar de todos modos?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "enviado: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Ensayos en curso"
 
 msgid "trial_description"
-msgstr "<p>En el tercer paso se presenta una descripción general de los estudios e investigaciones en curso. Explore la lista para ver información básica sobre los criterios, los procedimientos y los reembolsos de los ensayos individuales de los candidatos.</p><p>Puede indicar su interés en participar en una prueba en particular registrándose o abriendo su formulario de consulta. Si prefiere completar esto más tarde o en una conversación directa, puede omitirlo y finalizar su registro.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulario de consulta - %1"
