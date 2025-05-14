@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:45\n"
 
 msgid "lang"
 msgstr "fr"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Envoyer et suivant"
 
 msgid "save_done_btn_label"
-msgstr "Envoyer et terminer"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Finition"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Oui"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacité du stylo 30%"
 
 msgid "finish_btn_label"
-msgstr "Quitter"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Erreur:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Formulaire de demande incomplet"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Veuillez consulter toutes les pages du formulaire de demande.<br/>Préférez-vous envoyer et terminer quand même ?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "envoyé : %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Essais en cours"
 
 msgid "trial_description"
-msgstr "<p>Un aperçu des études et enquêtes en cours est présenté dans la troisième étape. Veuillez parcourir la liste pour voir les informations de base concernant les critères de candidature, les procédures et les remboursements des essais individuels.</p><p>Vous pouvez indiquer votre intérêt à participer à un essai particulier en vous inscrivant ou en ouvrant son formulaire de demande. Si vous préférez terminer cette opération plus tard ou lors d'une conversation directe, vous pouvez ignorer cette étape et terminer votre inscription.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulaire de demande - %1"
