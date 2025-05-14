@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swahili\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "sw"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Tuma na ijayo"
 
 msgid "save_done_btn_label"
-msgstr "Tuma na umalize"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Maliza"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Ndiyo"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "uwazi wa kalamu 30%"
 
 msgid "finish_btn_label"
-msgstr "Acha"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Hitilafu:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Fomu ya uchunguzi haijakamilika"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Tafadhali angalia kurasa zote za fomu ya uchunguzi.<br/>Je, unapendelea kutuma na kumaliza hata hivyo?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "imetumwa: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Majaribio Yanayoendelea"
 
 msgid "trial_description"
-msgstr "<p>Muhtasari wa masomo na maswali yanayoendelea umewasilishwa katika hatua ya tatu. Tafadhali vinjari orodha ili kuona maelezo ya msingi kuhusu vigezo vya mgombea, taratibu na ulipaji wa malipo ya majaribio ya mtu binafsi.</p><p>Unaweza kuonyesha nia yako ya kushiriki jaribio fulani kwa kujisajili au kufungua fomu yake ya uchunguzi. Ukipendelea kukamilisha hili baadaye au katika mazungumzo ya direkt, unaweza kuruka hili na ukamilishe usajili wako.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Fomu ya Kuuliza - %1"
