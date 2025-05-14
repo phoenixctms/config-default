@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Yoruba\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "yo"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Firanṣẹ ati atẹle"
 
 msgid "save_done_btn_label"
-msgstr "Firanṣẹ ati pari"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Pari"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Bẹẹni"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacity pen 30%"
 
 msgid "finish_btn_label"
-msgstr "Jade"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Asise:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Fọọmu ibeere ko pe"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Jọwọ wo gbogbo awọn oju-iwe ti fọọmu ibeere naa.<br/>Ṣe o fẹ lati firanṣẹ ati pari lonakona?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "rán: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Awọn Idanwo ti nlọ lọwọ"
 
 msgid "trial_description"
-msgstr "<p>Akopọ ti awọn iwadi ti nlọ lọwọ ati awọn ibeere ni a gbekalẹ ni igbesẹ kẹta. Jọwọ lọ kiri lori atokọ naa lati rii alaye ipilẹ nipa awọn ibeere oludije, awọn ilana ati awọn isanpada ti awọn idanwo kọọkan.</p><p>O le tọkasi ifẹ rẹ lati kopa ninu idanwo kan nipa iforukọsilẹ tabi ṣiṣi fọọmu ibeere rẹ. Ti o ba fẹ lati pari eyi ni akoko nigbamii tabi ni ibaraẹnisọrọ direkt, o le foju eyi ki o pari iforukọsilẹ rẹ.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Fọọmu ibeere - %1"
