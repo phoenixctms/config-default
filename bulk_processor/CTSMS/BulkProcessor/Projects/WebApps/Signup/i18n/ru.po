@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "ru"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Отправить и дальше"
 
 msgid "save_done_btn_label"
-msgstr "Отправить и завершить"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Заканчивать"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Да"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "непрозрачность пера 30%"
 
 msgid "finish_btn_label"
-msgstr "Покидать"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Ошибка:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Форма запроса не заполнена"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Пожалуйста, просмотрите все страницы формы запроса.<br/>Вы всё равно предпочитаете отправить и завершить?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "отправлено: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "Текущие испытания"
 
 msgid "trial_description"
-msgstr "<p>Обзор текущих исследований и запросов представлен на третьем этапе. Просмотрите список, чтобы увидеть основную информацию о критериях кандидатов, процедурах и возмещении расходов на отдельные испытания.</p><p>Вы можете выразить свою заинтересованность в участии в конкретном исследовании, зарегистрировавшись или открыв форму запроса. Если вы предпочитаете завершить это позже или в прямом разговоре, вы можете пропустить это и завершить регистрацию.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Форма запроса - %1"
