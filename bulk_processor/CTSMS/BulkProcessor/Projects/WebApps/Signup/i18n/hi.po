@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hindi\n"
-"PO-Revision-Date: 2025-05-09 00:53\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "hi"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "भेजें और अगला"
 
 msgid "save_done_btn_label"
-msgstr "भेजें और समाप्त करें"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "खत्म करना"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "हाँ"
@@ -146,7 +146,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "पेन की अपारदर्शिता 30%"
 
 msgid "finish_btn_label"
-msgstr "छोड़ना"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "गलती:"
@@ -340,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "पूछताछ प्रपत्र अधूरा है"
 
 msgid "incomplete_dlg_prompt"
-msgstr "कृपया पूछताछ प्रपत्र के सभी पृष्ठ देखें।<br/>क्या आप वैसे भी भेजना और समाप्त करना पसंद करते हैं?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "भेजा गया: %d/%d"
@@ -385,7 +385,7 @@ msgid "trial_title"
 msgstr "चल रहे परीक्षण"
 
 msgid "trial_description"
-msgstr "<p>तीसरे चरण में चल रहे अध्ययनों और पूछताछ का अवलोकन प्रस्तुत किया गया है। कृपया उम्मीदवार मानदंड, प्रक्रियाओं और व्यक्तिगत परीक्षणों की प्रतिपूर्ति के संबंध में बुनियादी जानकारी देखने के लिए सूची ब्राउज़ करें।</p><p>आप साइन अप करके या उसका पूछताछ फॉर्म खोलकर किसी विशेष परीक्षण में भाग लेने में अपनी रुचि दिखा सकते हैं। यदि आप इसे बाद में या सीधे बातचीत में पूरा करना पसंद करते हैं, तो आप इसे छोड़ सकते हैं और अपना पंजीकरण पूरा कर सकते हैं।</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "पूछताछ प्रपत्र - %1"
