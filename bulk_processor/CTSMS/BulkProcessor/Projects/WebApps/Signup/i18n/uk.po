@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-05-14 12:46\n"
 
 msgid "lang"
 msgstr "uk"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Мій CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Мій CRO"
+msgstr "До 2025 Мій CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Мова"
@@ -85,6 +85,9 @@ msgstr "чоловічий"
 msgid "female"
 msgstr "жіноча"
 
+msgid "diverse"
+msgstr "різні"
+
 msgid "mandatory_field_label"
 msgstr "Обов'язкове поле"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Надіслати і далі"
 
 msgid "save_done_btn_label"
-msgstr "Надішліть і закінчіть"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Закінчити"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Так"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "непрозорість пера 30%"
 
 msgid "finish_btn_label"
-msgstr "Вийти"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Помилка:"
 
 msgid "error_no_proband_created"
-msgstr "спочатку збережіть особисту інформацію"
+msgstr "спочатку розпочати з збереження персональної інформації"
 
 msgid "error_no_contact_created"
 msgstr "спочатку збережіть контактні дані"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "тема була нещодавно створена на цьому комп’ютері, зачекайте, перш ніж повторити спробу"
 
 msgid "error_no_contact_details"
-msgstr "вкажіть адресу електронної пошти або номер телефону"
+msgstr "будь ласка, надайте номер телефону"
 
 msgid "error_proband_not_agreed"
 msgstr "для продовження потрібна чітка згода"
@@ -312,8 +315,17 @@ msgstr "повідомити"
 msgid "proband_email_notify_tooltip"
 msgstr "Дозволити надсилати електронні листи."
 
+msgid "trial_search_label"
+msgstr "Випробування для пошуку:"
+
+msgid "trials_search_tooltip"
+msgstr "Пошук опису судового розгляду/списку кандидатів."
+
 msgid "trials_grid_header"
 msgstr "Випробування/списки кандидатів"
+
+msgid "trials_grid_empty_message"
+msgstr "немає відповідних списків Trials/Candidate"
 
 msgid "open_inquiries_btn_label"
 msgstr "Відкрита форма inuiry"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Форма запиту не заповнена"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Будь ласка, перегляньте всі сторінки форми запиту.<br/>Все одно надіслати та завершити?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "надіслано: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Випробування, що тривають"
 
 msgid "trial_description"
-msgstr "<p>Огляд поточних досліджень і запитів представлено на третьому кроці. Будь ласка, перегляньте список, щоб побачити основну інформацію про критерії кандидатів, процедури та відшкодування витрат на окремі випробування.</p><p>Ви можете вказати свою зацікавленість в участі в певному випробуванні, зареєструвавшись або відкривши форму запиту. Якщо ви бажаєте завершити це пізніше або в прямій розмові, ви можете пропустити це та завершити реєстрацію.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Форма запиту - %1"
