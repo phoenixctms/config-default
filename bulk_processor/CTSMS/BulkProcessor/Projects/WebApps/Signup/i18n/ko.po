@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
-"PO-Revision-Date: 2025-05-14 12:46\n"
+"PO-Revision-Date: 2025-05-19 17:12\n"
 
 msgid "lang"
 msgstr "ko"
@@ -38,7 +38,7 @@ msgid "lanuage_menu_label"
 msgstr "언어"
 
 msgid "session_timer_pattern"
-msgstr "데이터 입력은 %M로 끝납니다 :%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "시작"
