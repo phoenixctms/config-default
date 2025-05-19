@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Romanian\n"
-"PO-Revision-Date: 2025-05-14 12:45\n"
+"PO-Revision-Date: 2025-05-19 17:12\n"
 
 msgid "lang"
 msgstr "ro"
@@ -38,7 +38,7 @@ msgid "lanuage_menu_label"
 msgstr "Limba"
 
 msgid "session_timer_pattern"
-msgstr "Introducerea datelor se termină în %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "start"
