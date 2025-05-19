@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Lingala\n"
-"PO-Revision-Date: 2025-05-14 12:46\n"
+"PO-Revision-Date: 2025-05-19 17:13\n"
 
 msgid "lang"
 msgstr "ln"
@@ -38,7 +38,7 @@ msgid "lanuage_menu_label"
 msgstr "Lokota"
 
 msgid "session_timer_pattern"
-msgstr "Bokotisi ba données esukaka na %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Kobanda"
