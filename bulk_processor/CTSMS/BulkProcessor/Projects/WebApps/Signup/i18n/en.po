@@ -28,7 +28,7 @@ msgid "lanuage_menu_label"
 msgstr "Language"
 
 msgid "session_timer_pattern"
-msgstr "Data entry ends in %M:%S"
+msgstr "Ending in %M:%S"
 #%H:
 #:%S"
 

@@ -23,7 +23,7 @@ msgid "lanuage_menu_label"
 msgstr "Sprache"
 
 msgid "session_timer_pattern"
-msgstr "Ende der Eingaben in %M:%S"
+msgstr "Ende in %M:%S"
 #:%S"
 #%H
 
