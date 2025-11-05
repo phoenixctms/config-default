@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
-"PO-Revision-Date: 2025-05-19 17:12\n"
+"PO-Revision-Date: 2025-11-05 22:04\n"
 
 msgid "lang"
 msgstr "tr"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Teşekkür ederim!"
 
 msgid "end_description"
-msgstr "<p>Kaydınız için teşekkür ederiz. Yakında sizinle iletişime geçeceğiz ve sizi yeni bir katılımcı olarak deneme sitesine davet etmeyi sabırsızlıkla bekliyoruz.</p><p>Sağladığınız verilerle PDF belgelerini indirebilirsiniz. Otomatik silinmeyi önlemek için lütfen imzalı veri gizliliği onayınızı %1tarihine kadar posta veya e-posta yoluyla site ofisine gönderin.</p>"
+msgstr "<p>Kaydınız için teşekkür ederiz. Yakında sizinle iletişime geçeceğiz ve sizi deneme alanına yeni bir katılımcı olarak davet etmekten mutluluk duyacağız.</p><p>Sağladığınız verilerle PDF belgeleri indirebilirsiniz. Lütfen alınan e-postadaki bağlantıyı kullanarak verilerinizin saklanmasını onaylayın veya imzalı veri gizliliği onayınızı %1tarihine kadar site ofisine posta veya e-posta yoluyla iletin.</p>"
 
 msgid "invalid time"
 msgstr "geçersiz zaman %1"
