@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Fula\n"
-"PO-Revision-Date: 2025-05-19 17:12\n"
+"PO-Revision-Date: 2025-11-05 22:04\n"
 
 msgid "lang"
 msgstr "ff"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Thank you!"
 
 msgid "end_description"
-msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
+msgstr "<p>On njaaraama e binnditagol mon. Min njokkondirta e maa ko ɓooyaani, min mbeltiima noddude ma e nokku jarriborɗo oo ngam wonde tawtoraaɗo keso.</p><p>Aɗa waawi ƴettude binndanɗe PDF e dokke ɗe ndokku-ɗaa. Tiiɗno, tabitin mooftude dokke maa e huutoraade jokkorde e nder iimeel keɓaaɗo oo, walla neldu yamiroore sirlu dokke maa to biro lowre ndee e mail walla imeel haa %1.</p>"
 
 msgid "invalid time"
 msgstr "invalid time %1"
