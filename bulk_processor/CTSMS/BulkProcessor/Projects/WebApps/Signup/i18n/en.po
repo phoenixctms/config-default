@@ -409,7 +409,7 @@ msgid "end_title"
 msgstr "Thank you!"
 
 msgid "end_description"
-msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. To prevent automatic deletion, please submit your signed data privacy consent to the site office via mail or email until %1.</p>"
+msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. Please confirm storing your data using the link in the received email, or submit your signed data privacy consent to the site office via mail or email until %1.</p>"
 
 msgid "invalid time"
 msgstr "invalid time %1"

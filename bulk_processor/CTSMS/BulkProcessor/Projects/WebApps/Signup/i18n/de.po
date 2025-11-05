@@ -400,7 +400,7 @@ msgid "end_title"
 msgstr "Vielen Dank!"
 
 msgid "end_description"
-msgstr "<p>Vielen Dank für Ihre Registrierung. Wir werden uns demnächst bei Ihnen melden und freuen uns, Sie vielleicht bald als Studienteilnehmer am Prüfzentrum begrüßen zu dürfen.</p><p>Wenn Sie möchten, können Sie abschliessend die eingegebenen Daten als PDF abrufen. Damit ihre Daten nicht automatisch gelöscht werden, übermitteln Sie bitte die unterschriebene Datenschutz-Einverständniserklärung bis spätestens zum %1 per E-Mail oder Postweg an das Prüfzentrum.</p>"
+msgstr "<p>Vielen Dank für Ihre Registrierung. Wir werden uns demnächst bei Ihnen melden und freuen uns, Sie vielleicht bald als Studienteilnehmer am Prüfzentrum begrüßen zu dürfen.</p><p>Wenn Sie möchten, können Sie abschliessend die eingegebenen Daten als PDF abrufen. Bestätigen Sie ihre Einverständnis zur Datenspeicherung mit dem Link in dem erhaltenen E-Mail, oder übermitteln Sie bitte die unterschriebene Datenschutz-Einverständniserklärung bis spätestens zum %1 per E-Mail oder Postweg an das Prüfzentrum.</p>"
 
 msgid "invalid time"
 msgstr "ungültige Uhrzeit %1"
