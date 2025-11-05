@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hungarian\n"
-"PO-Revision-Date: 2025-05-19 17:12\n"
+"PO-Revision-Date: 2025-11-05 22:04\n"
 
 msgid "lang"
 msgstr "hu"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Köszönöm!"
 
 msgid "end_description"
-msgstr "<p>Köszönjük regisztrációját. Hamarosan felvesszük Önnel a kapcsolatot, és szeretettel várjuk, hogy új résztvevőként meghívhassuk a próbaoldalra.</p><p>A megadott adatokkal PDF dokumentumokat tölthet le. Az automatikus törlés elkerülése érdekében kérjük, hogy %1-ig küldje el aláírt adatkezelési hozzájárulását az oldal irodájának postai úton vagy e-mailben.</p>"
+msgstr "<p>Köszönjük regisztrációját. Hamarosan felvesszük Önnel a kapcsolatot, és örömmel meghívjuk Önt a próbahelyszínre új résztvevőként.</p><p>A megadott adatokkal PDF dokumentumokat tölthet le. Kérjük, erősítse meg adatainak tárolását a kapott e-mailben található link segítségével, vagy küldje el aláírt adatvédelmi hozzájárulását a helyszín irodájába postai úton vagy e-mailben %1-ig.</p>"
 
 msgid "invalid time"
 msgstr "érvénytelen idő %1"
