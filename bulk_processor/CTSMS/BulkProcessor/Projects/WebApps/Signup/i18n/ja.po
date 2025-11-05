@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
-"PO-Revision-Date: 2025-05-19 17:12\n"
+"PO-Revision-Date: 2025-11-05 22:04\n"
 
 msgid "lang"
 msgstr "ja"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "ありがとう！"
 
 msgid "end_description"
-msgstr "<p>ご登録ありがとうございます。すぐにご連絡いたしますので、新しい参加者としてトライアル サイトに招待されることを楽しみにしています。</p><p>ご提供いただいたデータをPDF形式でダウンロードできます。自動削除を防ぐには、 %1までに、署名済みのデータプライバシー同意書を郵送または電子メールでサイトオフィスに提出してください。</p>"
+msgstr "<p>ご登録ありがとうございます。近日中にご連絡いたします。また、新規参加者として試験会場へご招待させていただきます。</p><p>ご提供いただいたデータを含むPDF文書をダウンロードできます。受信したメール内のリンクからデータの保存を確認するか、署名済みのデータプライバシー同意書を %1までに郵送またはメールでサイト事務局までご提出ください。</p>"
 
 msgid "invalid time"
 msgstr "無効な時間 %1"
