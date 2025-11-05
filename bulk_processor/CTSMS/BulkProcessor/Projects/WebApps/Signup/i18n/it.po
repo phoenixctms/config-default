@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
-"PO-Revision-Date: 2025-05-19 17:12\n"
+"PO-Revision-Date: 2025-11-05 22:04\n"
 
 msgid "lang"
 msgstr "it"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Grazie!"
 
 msgid "end_description"
-msgstr "<p>Grazie per la tua registrazione. Ti contatteremo presto e non vediamo l'ora di invitarti al sito di prova come nuovo partecipante.</p><p>Puoi scaricare documenti PDF con i dati forniti. Per impedire la cancellazione automatica, inviare il consenso firmato sulla privacy dei dati all'ufficio del sito tramite posta o e-mail fino al %1.</p>"
+msgstr "<p>Grazie per la tua registrazione. Vi contatteremo presto e non vediamo l'ora di invitarvi al sito di prova come nuovo partecipante.</p><p>Puoi scaricare documenti PDF con i tuoi dati forniti. Si prega di confermare la memorizzazione dei dati utilizzando il link nell'e-mail ricevuta, o invia il tuo consenso alla privacy dei dati firmati all'ufficio del sito via mail o e-mail fino a %1.</p>"
 
 msgid "invalid time"
 msgstr "ora non valida %1"
