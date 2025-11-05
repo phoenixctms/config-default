@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Finnish\n"
-"PO-Revision-Date: 2025-05-19 17:12\n"
+"PO-Revision-Date: 2025-11-05 22:04\n"
 
 msgid "lang"
 msgstr "fi"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Kiitos!"
 
 msgid "end_description"
-msgstr "<p>Kiitos rekisteröitymisestäsi. Otamme sinuun yhteyttä pian ja odotamme innolla kutsuvamme sinut kokeilusivustolle uutena osallistujana.</p><p>Voit ladata PDF-dokumentteja antamillasi tiedoilla. Automaattisen poiston estämiseksi lähetä allekirjoitettu tietosuojalupa sivuston toimistoon postitse tai sähköpostitse %1asti.</p>"
+msgstr "<p>Kiitos rekisteröitymisestäsi. Otamme sinuun yhteyttä pian ja odotamme innolla kutsua sinut koepaikalle uutena osallistujana.</p><p>Voit ladata PDF-asiakirjoja antamillasi tiedoilla. Ole hyvä ja vahvista tietojesi tallentaminen käyttäen vastaanotetun sähköpostin linkkiä, tai lähetä allekirjoitettu tietosuoja suostumus sivuston toimistoon sähköpostitse tai sähköpostitse %1asti.</p>"
 
 msgid "invalid time"
 msgstr "virheellinen aika %1"
