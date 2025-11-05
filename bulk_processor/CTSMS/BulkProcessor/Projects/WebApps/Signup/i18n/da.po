@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Danish\n"
-"PO-Revision-Date: 2025-05-19 17:12\n"
+"PO-Revision-Date: 2025-11-05 22:04\n"
 
 msgid "lang"
 msgstr "da"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Tak skal du have!"
 
 msgid "end_description"
-msgstr "<p>Tak for din tilmelding. Vi kontakter dig snart og ser frem til at invitere dig til prøvesiden som ny deltager.</p><p>Du kan downloade PDF-dokumenter med dine angivne data. For at forhindre automatisk sletning skal du indsende dit underskrevne samtykke til databeskyttelse til webstedets kontor via mail eller e-mail indtil %1.</p>"
+msgstr "<p>Tak for din registrering. Vi kontakter dig snart og ser frem til at invitere dig til prøvesiden som ny deltager.</p><p>Du kan downloade PDF-dokumenter med dine angivne data. Bekræft venligst lagring af dine data vha. linket i den modtagne e-mail, eller indsend dit underskrevne samtykke til databeskyttelse til webstedets kontor via mail eller e-mail indtil %1.</p>"
 
 msgid "invalid time"
 msgstr "ugyldig tid %1"
