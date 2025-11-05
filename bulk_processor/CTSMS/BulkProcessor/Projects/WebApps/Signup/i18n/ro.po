@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Romanian\n"
-"PO-Revision-Date: 2025-05-19 17:12\n"
+"PO-Revision-Date: 2025-11-05 22:04\n"
 
 msgid "lang"
 msgstr "ro"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Mulțumesc!"
 
 msgid "end_description"
-msgstr "<p>Vă mulțumim pentru înregistrare. Vă vom contacta în curând și așteptăm cu nerăbdare să vă invităm pe site-ul de încercare în calitate de nou participant.</p><p>Puteți descărca documente PDF cu datele furnizate. Pentru a preveni ștergerea automată, vă rugăm să trimiteți consimțământul dvs. semnat de confidențialitate a datelor la biroul site-ului prin poștă sau e-mail până la %1.</p>"
+msgstr "<p>Vă mulțumim pentru înregistrare. Vă vom contacta în curând şi aşteptăm cu nerăbdare să vă invităm la locul de testare ca un nou participant.</p><p>Puteți descărca documente PDF cu datele furnizate. Vă rugăm să confirmaţi stocarea datelor dvs. folosind link-ul din e-mailul primit, sau trimiteți acordul de confidențialitate a datelor dvs. semnate către biroul site-ului prin e-mail sau e-mail până la %1.</p>"
 
 msgid "invalid time"
 msgstr "oră invalidă %1"
