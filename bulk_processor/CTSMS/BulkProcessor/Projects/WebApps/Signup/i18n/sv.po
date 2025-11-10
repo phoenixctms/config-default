@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swedish\n"
-"PO-Revision-Date: 2025-11-05 22:04\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "sv"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Tack!"
 
 msgid "end_description"
-msgstr "<p>Tack för din registrering. Vi kommer att kontakta dig snart och ser fram emot att bjuda in dig till provplatsen som ny deltagare.</p><p>Du kan ladda ner PDF-dokument med dina angivna uppgifter. Bekräfta att du lagrar dina data med hjälp av länken i det mottagna e-postmeddelandet, eller skicka ditt undertecknade dataskydd samtycke till webbplatsens kontor via post eller e-post fram till %1.</p>"
+msgstr "<p>Tack för din registrering. Vi kommer att kontakta dig snart och ser fram emot att bjuda in dig till provplatsen som ny deltagare.</p><p>Du kan ladda ner PDF-dokument med dina angivna uppgifter. Bekräfta att du lagrar dina data med hjälp av länken i det mottagna e-postmeddelandet, eller skicka ditt undertecknade dataskydd samtycke till webbplatsens kontor via post eller e-post fram till %1.</p><p><b>Din registrering är klar</b>, flera registreringar tar bara mer tid att slå samman data.</p>"
 
 msgid "invalid time"
 msgstr "ogiltig tid %1"
