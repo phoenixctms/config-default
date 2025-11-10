@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
-"PO-Revision-Date: 2025-11-05 22:04\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "ko"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "감사합니다!"
 
 msgid "end_description"
-msgstr "<p>등록해 주셔서 감사합니다. 곧 연락드리겠습니다. 새로운 참가자로서 체험 사이트에 초대해 드리겠습니다.</p><p>제공하신 데이터가 포함된 PDF 문서를 다운로드하실 수 있습니다. 수신된 이메일의 링크를 사용하여 데이터 저장을 확인하시거나, 서명된 데이터 개인정보 보호 동의서를 %1까지 우편이나 이메일로 사이트 사무실에 제출해 주세요.</p>"
+msgstr "<p>등록해 주셔서 감사합니다. 곧 연락드리겠습니다. 새로운 참가자로서 체험 사이트에 초대해 드리겠습니다.</p><p>제공하신 데이터가 포함된 PDF 문서를 다운로드할 수 있습니다. 수신된 이메일의 링크를 사용하여 데이터 저장을 확인하시거나, 서명된 데이터 개인정보 보호 동의서를 %1까지 우편이나 이메일로 사이트 사무실에 제출해 주세요.</p><p><b>등록이 완료되었습니다.</b>여러 번 등록할 경우 데이터 병합에 시간이 더 걸릴 수 있습니다.</p>"
 
 msgid "invalid time"
 msgstr "잘못된 시간 %1"
