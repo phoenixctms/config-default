@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2025-11-05 22:04\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "es"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "¡Gracias!"
 
 msgid "end_description"
-msgstr "<p>Gracias por su registro. Nos pondremos en contacto con usted próximamente y esperamos invitarle al centro de pruebas como nuevo participante.</p><p>Puede descargar documentos PDF con los datos que nos proporcionó. Confirme el almacenamiento de sus datos mediante el enlace del correo electrónico recibido o envíe su consentimiento de privacidad de datos firmado a la oficina del centro por correo postal o electrónico antes del %1.</p>"
+msgstr "<p>Gracias por su registro. Nos pondremos en contacto con usted pronto y esperamos invitarle al centro de pruebas como nuevo participante.</p><p>Puede descargar documentos PDF con los datos que nos proporcionó. Confirme el almacenamiento de sus datos mediante el enlace del correo electrónico recibido o envíe su consentimiento de privacidad de datos firmado a la oficina del centro por correo postal o electrónico antes del %1.</p><p><b>Su registro se ha completado</b>. Los registros múltiples solo requerirán más tiempo para la fusión de datos.</p>"
 
 msgid "invalid time"
 msgstr "hora no válida %1"
