@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
-"PO-Revision-Date: 2025-11-05 22:04\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "sk"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Ďakujem!"
 
 msgid "end_description"
-msgstr "<p>Ďakujeme za vašu registráciu. Čoskoro vás budeme kontaktovať a tešíme sa, že vás pozveme na skúšobné miesto ako nového účastníka.</p><p>Môžete si stiahnuť PDF dokumenty s poskytnutými údajmi. Potvrďte uloženie svojich údajov pomocou odkazu v prijatom e-maile alebo odošlite svoj podpísaný súhlas s ochranou osobných údajov do kancelárie miesta konania poštou alebo e-mailom do %1.</p>"
+msgstr "<p>Ďakujeme za vašu registráciu. Čoskoro vás budeme kontaktovať a tešíme sa, že vás pozveme na skúšobné miesto ako nového účastníka.</p><p>Môžete si stiahnuť dokumenty PDF s poskytnutými údajmi. Potvrďte uloženie svojich údajov pomocou odkazu v prijatom e-maile alebo odošlite svoj podpísaný súhlas s ochranou osobných údajov do kancelárie miesta poštou alebo e-mailom do %1.</p><p><b>Vaša registrácia je dokončená</b>, viacero registrácií bude trvať dlhšie, len sa zlúčia údaje.</p>"
 
 msgid "invalid time"
 msgstr "neplatný čas %1"
