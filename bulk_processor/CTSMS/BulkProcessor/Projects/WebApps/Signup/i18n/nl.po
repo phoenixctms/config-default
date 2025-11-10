@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
-"PO-Revision-Date: 2025-11-05 22:04\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "nl"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Bedankt!"
 
 msgid "end_description"
-msgstr "<p>Bedankt voor uw registratie. We nemen binnenkort contact met u op en kijken ernaar uit om u als nieuwe deelnemer uit te nodigen op de proefsite.</p><p>U kunt PDF-documenten downloaden met de door u verstrekte gegevens. Bevestig het opslaan van uw gegevens via de link in de ontvangen e-mail, of verstuur uw ondertekende privacy-toestemming naar de site kantoor via e-mail of e-mail tot %1.</p>"
+msgstr "<p>Bedankt voor uw registratie. We nemen binnenkort contact met u op en kijken ernaar uit om u als nieuwe deelnemer uit te nodigen op de proefsite.</p><p>U kunt PDF-documenten downloaden met de door u verstrekte gegevens. Bevestig het opslaan van uw gegevens via de link in de ontvangen e-mail, of verstuur uw ondertekende privacy-toestemming naar de site kantoor via e-mail of e-mail tot %1.</p><p><b>Uw registratie is voltooid</b>, meerdere registraties zullen gewoon meer tijd kosten om gegevens samen te voegen.</p>"
 
 msgid "invalid time"
 msgstr "ongeldige tijd %1"
