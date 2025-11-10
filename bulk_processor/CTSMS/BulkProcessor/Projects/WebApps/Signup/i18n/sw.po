@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swahili\n"
-"PO-Revision-Date: 2025-11-05 22:04\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "sw"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Asante!"
 
 msgid "end_description"
-msgstr "<p>Asante kwa usajili wako. Tutawasiliana nawe hivi karibuni na tunatarajia kukualika kwenye tovuti ya majaribio kama mshiriki mpya.</p><p>Unaweza kupakua hati za PDF kwa data uliyotoa. Tafadhali thibitisha kuhifadhi data yako kwa kutumia kiungo kilicho katika barua pepe iliyopokelewa, au wasilisha kibali chako cha faragha cha data kilichotiwa saini kwa ofisi ya tovuti kupitia barua pepe au barua pepe hadi %1.</p>"
+msgstr "<p>Asante kwa usajili wako. Tutawasiliana nawe hivi karibuni na tunatarajia kukualika kwenye tovuti ya majaribio kama mshiriki mpya.</p><p>Unaweza kupakua hati za PDF kwa data uliyotoa. Tafadhali thibitisha kuhifadhi data yako kwa kutumia kiungo kilicho katika barua pepe iliyopokelewa, au wasilisha kibali chako cha faragha cha data kilichotiwa saini kwa ofisi ya tovuti kupitia barua pepe au barua pepe hadi %1.</p><p><b>Usajili wako umekamilika</b>, usajili mwingi utachukua muda zaidi kuunganisha data.</p>"
 
 msgid "invalid time"
 msgstr "wakati batili %1"
