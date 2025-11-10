@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Lingala\n"
-"PO-Revision-Date: 2025-11-05 22:05\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "ln"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Matondi!"
 
 msgid "end_description"
-msgstr "<p>Matondo mingi mpo na bokomisi nkombo na yo. Tokokutana na yo kala mingi te mpe tozali kozela na esengo nyonso kobengisa yo na esika ya komeka lokola mosangani ya sika.</p><p>Okoki kozwa mikanda ya PDF na ba données oyo opesi. Svp confirmer kobomba ba données na yo na nzela ya lien na email oyo ozui, to tinda ndingisa na yo ya confidentialité ya ba données oyo o signer na bureau ya site na nzela ya mail to email tii %1.</p>na likambo yango"
+msgstr "<p>Matondo mingi mpo na bokomisi nkombo na yo. Tokokutana na yo kala mingi te mpe tozali kozela na esengo nyonso kobengisa yo na esika ya komeka lokola mosangani ya sika.</p><p>Okoki kozwa mikanda ya PDF na ba données oyo opesi. Svp confirmer kobomba ba données na yo na nzela ya lien na email oyo ozui, to tinda ndingisa na yo ya confidentialité ya ba données oyo o signer na bureau ya site na nzela ya mail to email tii %1.</p><p><b>Bokomisi nkombo na yo esili</b>, bokomisi nkombo ebele ekozwa kaka ntango mingi mpo na kosangisa ba données.</p>"
 
 msgid "invalid time"
 msgstr "tango ya mabe %1"
