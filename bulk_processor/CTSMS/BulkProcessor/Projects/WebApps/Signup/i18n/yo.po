@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Yoruba\n"
-"PO-Revision-Date: 2025-11-05 22:05\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "yo"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "E dupe!"
 
 msgid "end_description"
-msgstr "<p>O ṣeun fun iforukọsilẹ rẹ. A yoo kan si ọ laipẹ ati pe a nireti lati pe ọ si aaye idanwo bi alabaṣe tuntun.</p><p>O le ṣe igbasilẹ awọn iwe aṣẹ PDF pẹlu data ti o pese. Jọwọ jẹrisi fifipamọ data rẹ nipa lilo ọna asopọ ninu imeeli ti o gba, tabi fi aṣẹ ipamọ data ti o fowo si si ọfiisi aaye nipasẹ meeli tabi imeeli titi di %1.</p>"
+msgstr "<p>O ṣeun fun iforukọsilẹ rẹ. A yoo kan si ọ laipẹ ati pe a nireti lati pe ọ si aaye idanwo bi alabaṣe tuntun.</p><p>O le ṣe igbasilẹ awọn iwe aṣẹ PDF pẹlu data ti o pese. Jọwọ jẹrisi fifipamọ data rẹ nipa lilo ọna asopọ ninu imeeli ti o gba, tabi fi aṣẹ ipamọ data ti o fowo si si ọfiisi aaye nipasẹ meeli tabi imeeli titi di %1.</p><p><b>Iforukọsilẹ rẹ ti pari</b>, awọn iforukọsilẹ lọpọlọpọ yoo kan gba akoko diẹ sii lati dapọ data.</p>"
 
 msgid "invalid time"
 msgstr "akoko ti ko tọ %1"
