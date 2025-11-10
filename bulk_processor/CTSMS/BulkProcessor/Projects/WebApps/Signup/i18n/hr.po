@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Croatian\n"
-"PO-Revision-Date: 2025-11-05 22:04\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "hr"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Hvala vam!"
 
 msgid "end_description"
-msgstr "<p>Hvala vam na registraciji. Uskoro ćemo vas kontaktirati i radujemo se što ćemo vas pozvati na probno mjesto kao novog sudionika.</p><p>Možete preuzeti PDF dokumente s vašim podacima. Molimo vas da potvrdite pohranu svojih podataka putem poveznice u primljenoj e-pošti ili pošaljete svoju potpisanu privolu za privatnost podataka uredu mjesta poštom ili e-poštom do %1.</p>"
+msgstr "<p>Hvala vam na registraciji. Uskoro ćemo vas kontaktirati i radujemo se što ćemo vas pozvati na probno mjesto kao novog sudionika.</p><p>Možete preuzeti PDF dokumente s vašim podacima. Molimo vas da potvrdite pohranu svojih podataka pomoću poveznice u primljenoj e-pošti ili pošaljete svoju potpisanu privolu za privatnost podataka uredu web mjesta putem pošte ili e-pošte do %1.</p><p><b>Vaša je registracija dovršena</b>, višestruke registracije će samo trajati dulje za spajanje podataka.</p>"
 
 msgid "invalid time"
 msgstr "nevažeće vrijeme %1"
