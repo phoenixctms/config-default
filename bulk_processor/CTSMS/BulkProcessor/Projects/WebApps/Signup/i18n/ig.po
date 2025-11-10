@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Igbo\n"
-"PO-Revision-Date: 2025-11-05 22:05\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "ig"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "Daalụ!"
 
 msgid "end_description"
-msgstr "<p>Daalụ maka ndebanye aha gị. Anyị ga-akpọtụrụ gị n'oge adịghị anya ma na-atụ anya ịkpọ gị òkù ka ị bịa na saịtị ikpe dị ka onye so na ya ọhụrụ.</p><p>Ị nwere ike ibudata akwụkwọ PDF site na iji data gị nyere. Biko gosi na ị na-echekwa data gị site na iji njikọ dị na email enwetara, ma ọ bụ nyefee nkwenye nzuzo data gị binyere aka na ụlọ ọrụ saịtị site na mail ma ọ bụ email ruo mgbe %1.</p>"
+msgstr "<p>Daalụ maka ndebanye aha gị. Anyị ga-akpọtụrụ gị n'oge na-adịghị anya ma na-atụ anya ịkpọ gị òkù ka ị bịa na saịtị ikpe dị ka onye ọhụrụ so na ya.</p><p>Ị nwere ike ibudata akwụkwọ PDF site na iji data gị nyere. Biko gosi na ị na-echekwa data gị site na iji njikọ dị na email enwetara, ma ọ bụ nyefee nkwenye nzuzo data gị binyere aka na ụlọ ọrụ saịtị site na mail ma ọ bụ email ruo mgbe %1.</p><p><b>Ndebanye aha gị ezuola</b>, ọtụtụ ndebanye aha ga-ewekwu oge iji jikọta data.</p>"
 
 msgid "invalid time"
 msgstr "oge na-adịghị mma %1"
