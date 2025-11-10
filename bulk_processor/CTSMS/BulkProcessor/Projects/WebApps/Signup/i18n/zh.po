@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
-"PO-Revision-Date: 2025-11-05 22:04\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "zh"
@@ -397,7 +397,7 @@ msgid "end_title"
 msgstr "谢谢你！"
 
 msgid "end_description"
-msgstr "<p>感谢您的注册。 我们将很快与您联系，并期待着邀请您作为新的参与者来到试点网站。</p><p>您可以使用您提供的数据下载PDF文件。 请确认使用收到的电子邮件中的链接存储您的数据。 或通过邮件或电子邮件将您已签名的数据隐私同意提交给站点办公室，直到 %1。</p>"
+msgstr "<p>感谢您的注册。我们将尽快与您联系，并期待邀请您作为新参与者加入试验现场。</p><p>您可以下载包含您提供数据的 PDF 文档。请使用收到的电子邮件中的链接确认保存您的数据，或在 %1之前通过邮件或电子邮件将您签署的数据隐私同意书提交至试验现场办公室。</p><p><b>您的注册已完成</b>，多次注册只会增加数据合并所需的时间。</p>"
 
 msgid "invalid time"
 msgstr "无效时间 %1"
