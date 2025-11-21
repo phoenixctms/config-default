@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "zh"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "我的首席研究官"
 
 msgid "copyright_label"
-msgstr "ｩ 2019我的CRO"
+msgstr "至 2025 我的 CRO"
 
 msgid "lanuage_menu_label"
 msgstr "语言"
 
 msgid "session_timer_pattern"
-msgstr "数据输入以 %M结尾：%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "开始"
@@ -85,6 +85,9 @@ msgstr "男性"
 msgid "female"
 msgstr "女性"
 
+msgid "diverse"
+msgstr "差异"
+
 msgid "mandatory_field_label"
 msgstr "必填项"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "发送并下一个"
 
 msgid "save_done_btn_label"
-msgstr "发送并完成"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "结束"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "是的"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "笔不透明度 30%"
 
 msgid "finish_btn_label"
-msgstr "辞职"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "错误："
 
 msgid "error_no_proband_created"
-msgstr "先保存个人信息"
+msgstr "首先保存个人信息"
 
 msgid "error_no_contact_created"
 msgstr "首先保存联系方式"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "最近使用这台计算机创建了一个主题，请稍等后再重试"
 
 msgid "error_no_contact_details"
-msgstr "请提供电子邮件地址或电话号码"
+msgstr "请提供电话号码"
 
 msgid "error_proband_not_agreed"
 msgstr "需要明确同意才能继续"
@@ -312,8 +315,17 @@ msgstr "通知"
 msgid "proband_email_notify_tooltip"
 msgstr "允许发送电子邮件。"
 
+msgid "trial_search_label"
+msgstr "搜索试题："
+
+msgid "trials_search_tooltip"
+msgstr "对试验/候选人名单的搜索说明。"
+
 msgid "trials_grid_header"
 msgstr "试验/候选名单"
+
+msgid "trials_grid_empty_message"
+msgstr "没有匹配的试验/日期列表"
 
 msgid "open_inquiries_btn_label"
 msgstr "打开调查表"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "查询表格不完整"
 
 msgid "incomplete_dlg_prompt"
-msgstr "请查看查询表的所有页面。<br/>您还是想发送并完成吗？"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "发送: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "正在进行的试验"
 
 msgid "trial_description"
-msgstr "<p>第三步介绍了正在进行的研究和调查的概述。请浏览列表，查看有关候选人标准、程序和个别试验报销的基本信息。</p><p>您可以通过注册或打开查询表来表明您有兴趣参与特定试用。如果您希望稍后或在直接对话中完成此操作，您可以跳过此操作并完成注册。</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "咨询表 - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "谢谢你！"
 
 msgid "end_description"
-msgstr "<p>感谢您的注册。我们将尽快与您联系，并期待邀请您作为新参与者访问试用网站。</p><p>您可以下载包含您提供的数据的 PDF 文档。为防止自动删除，请通过邮件或电子邮件向网站办公室提交您签署的数据隐私同意书，直至 %1。</p>"
+msgstr "<p>感谢您的注册。我们将尽快与您联系，并期待邀请您作为新参与者加入试验现场。</p><p>您可以下载包含您提供数据的 PDF 文档。请使用收到的电子邮件中的链接确认保存您的数据，或在 %1之前通过邮件或电子邮件将您签署的数据隐私同意书提交至试验现场办公室。</p><p><b>您的注册已完成</b>，多次注册只会增加数据合并所需的时间。</p>"
 
 msgid "invalid time"
 msgstr "无效时间 %1"

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Danish\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "da"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Min CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Min CRO"
+msgstr "Ž2025 Min CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Sprog"
 
 msgid "session_timer_pattern"
-msgstr "Dataindtastning slutter på %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Start"
@@ -85,6 +85,9 @@ msgstr "han-"
 msgid "female"
 msgstr "kvinde"
 
+msgid "diverse"
+msgstr "forskellig"
+
 msgid "mandatory_field_label"
 msgstr "obligatorisk felt"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Send og næste"
 
 msgid "save_done_btn_label"
-msgstr "Send og afslut"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Afslut"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Ja"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "pen opacitet 30 %"
 
 msgid "finish_btn_label"
-msgstr "Afslut"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Fejl:"
 
 msgid "error_no_proband_created"
-msgstr "gemme personlige oplysninger først"
+msgstr "start med at gemme personlige oplysninger først"
 
 msgid "error_no_contact_created"
 msgstr "gem kontaktoplysninger først"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "et emne blev oprettet med denne computer for nylig. Vent venligst, før du prøver igen"
 
 msgid "error_no_contact_details"
-msgstr "angiv venligst e-mailadresse eller telefonnummer"
+msgstr "angiv venligst telefonnummer"
 
 msgid "error_proband_not_agreed"
 msgstr "der kræves udtrykkeligt samtykke for at fortsætte"
@@ -312,8 +315,17 @@ msgstr "underrette"
 msgid "proband_email_notify_tooltip"
 msgstr "Tillad at sende e-mails."
 
+msgid "trial_search_label"
+msgstr "Søg forsøg:"
+
+msgid "trials_search_tooltip"
+msgstr "Søg beskrivelser af prøver/kandidatlister."
+
 msgid "trials_grid_header"
 msgstr "Forsøg/Kandidatlister"
+
+msgid "trials_grid_empty_message"
+msgstr "ingen matchende prøver/kandidatlister"
 
 msgid "open_inquiries_btn_label"
 msgstr "Åbn forespørgselsformular"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Forespørgselsformularen er ufuldstændig"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Se venligst alle sider i forespørgselsformularen.<br/>Foretrækker du alligevel at sende og afslutte?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "sendt: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Igangværende forsøg"
 
 msgid "trial_description"
-msgstr "<p>En oversigt over igangværende undersøgelser og forespørgsler præsenteres i tredje trin. Gennemse venligst listen for at se grundlæggende oplysninger om kandidatkriterier, procedurer og godtgørelser af individuelle forsøg.</p><p>Du kan angive din interesse for at deltage i en bestemt prøveperiode ved at tilmelde dig eller åbne dens forespørgselsformular. Hvis du foretrækker at fuldføre dette på et senere tidspunkt eller i direkte samtale, kan du springe dette over og afslutte din registrering.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Forespørgselsformular - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Tak skal du have!"
 
 msgid "end_description"
-msgstr "<p>Tak for din tilmelding. Vi kontakter dig snart og ser frem til at invitere dig til prøvesiden som ny deltager.</p><p>Du kan downloade PDF-dokumenter med dine angivne data. For at forhindre automatisk sletning skal du indsende dit underskrevne samtykke til databeskyttelse til webstedets kontor via mail eller e-mail indtil %1.</p>"
+msgstr "<p>Tak for din registrering. Vi kontakter dig snart og ser frem til at invitere dig til prøvesiden som ny deltager.</p><p>Du kan downloade PDF-dokumenter med dine angivne data. Bekræft venligst lagring af dine data vha. linket i den modtagne e-mail, eller indsend dit underskrevne samtykke til databeskyttelse til webstedets kontor via mail eller e-mail indtil %1.</p><p><b>Din registrering er komplet</b>, flere registreringer vil bare tage mere tid til at fusionere data.</p>"
 
 msgid "invalid time"
 msgstr "ugyldig tid %1"

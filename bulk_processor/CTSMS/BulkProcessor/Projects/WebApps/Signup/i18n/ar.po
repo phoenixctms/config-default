@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "ar"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "بلدي CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 بلدي CRO"
+msgstr "<unk> 2025 بلدي CRO"
 
 msgid "lanuage_menu_label"
 msgstr "لغة"
 
 msgid "session_timer_pattern"
-msgstr "ينتهي إدخال البيانات بـ %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "يبدأ"
@@ -85,6 +85,9 @@ msgstr "ذكر"
 msgid "female"
 msgstr "أنثى"
 
+msgid "diverse"
+msgstr "متنوعة"
+
 msgid "mandatory_field_label"
 msgstr "حقل الزامي"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "إرسال والتالي"
 
 msgid "save_done_btn_label"
-msgstr "إرسال والانتهاء"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "ينهي"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "نعم"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "عتامة القلم 30%"
 
 msgid "finish_btn_label"
-msgstr "يترك"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "خطأ:"
 
 msgid "error_no_proband_created"
-msgstr "احفظ المعلومات الشخصية أولاً"
+msgstr "ابدأ بحفظ المعلومات الشخصية أولاً"
 
 msgid "error_no_contact_created"
 msgstr "احفظ تفاصيل الاتصال أولاً"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "تم إنشاء موضوع بهذا الكمبيوتر مؤخرًا، يرجى الانتظار قبل إعادة المحاولة"
 
 msgid "error_no_contact_details"
-msgstr "يرجى تقديم عنوان البريد الإلكتروني أو رقم الهاتف"
+msgstr "يرجى تقديم رقم الهاتف"
 
 msgid "error_proband_not_agreed"
 msgstr "مطلوب موافقة صريحة للمتابعة"
@@ -312,8 +315,17 @@ msgstr "يخطر"
 msgid "proband_email_notify_tooltip"
 msgstr "السماح بإرسال رسائل البريد الإلكتروني."
 
+msgid "trial_search_label"
+msgstr "ابحث في التجارب:"
+
+msgid "trials_search_tooltip"
+msgstr "البحث عن أوصاف قوائم المحاكمات/المرشحين."
+
 msgid "trials_grid_header"
 msgstr "المحاكمات / قوائم المرشحين"
+
+msgid "trials_grid_empty_message"
+msgstr "لا توجد قوائم تجارب/تاريخ مطابقة"
 
 msgid "open_inquiries_btn_label"
 msgstr "فتح نموذج inuiry"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "نموذج الاستفسار غير مكتمل"
 
 msgid "incomplete_dlg_prompt"
-msgstr "يرجى الاطلاع على جميع صفحات نموذج الاستفسار.<br/>هل تفضل الإرسال والانتهاء على أي حال؟"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "تم الإرسال: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "المحاكمات الجارية"
 
 msgid "trial_description"
-msgstr "<p>يتم تقديم نظرة عامة على الدراسات والاستفسارات الجارية في الخطوة الثالثة. يرجى تصفح القائمة للاطلاع على المعلومات الأساسية المتعلقة بمعايير المرشحين وإجراءاتهم وتسديد تكاليف التجارب الفردية.</p><p>يمكنك الإشارة إلى اهتمامك بالمشاركة في تجربة معينة عن طريق الاشتراك أو فتح نموذج الاستفسار الخاص بها. إذا كنت تفضل إكمال هذا في وقت لاحق أو في محادثة مباشرة، فيمكنك تخطي هذا وإنهاء تسجيلك.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "نموذج الاستفسار - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "شكرًا لك!"
 
 msgid "end_description"
-msgstr "<p>شكرًا لك على تسجيلك. سوف نتصل بك قريبًا ونتطلع إلى دعوتك إلى الموقع التجريبي كمشارك جديد.</p><p>يمكنك تنزيل مستندات PDF بالبيانات المقدمة. لمنع الحذف التلقائي، يرجى إرسال موافقة خصوصية البيانات الموقعة إلى مكتب الموقع عبر البريد أو البريد الإلكتروني حتى %1.</p>"
+msgstr "<p>شكرًا لتسجيلك. سنتواصل معك قريبًا ونتطلع إلى دعوتك إلى موقع التجربة كمشارك جديد.</p><p>يمكنك تنزيل ملفات PDF تحتوي على بياناتك المُقدمة. يُرجى تأكيد حفظ بياناتك باستخدام الرابط الموجود في البريد الإلكتروني المُستلم، أو إرسال موافقة الخصوصية المُوقعة إلى مكتب الموقع عبر البريد العادي أو الإلكتروني حتى %1.</p><p><b>تم إكمال تسجيلك</b>، وسيستغرق دمج البيانات في التسجيلات المُتعددة وقتًا أطول.</p>"
 
 msgid "invalid time"
 msgstr "وقت غير صالح %1"

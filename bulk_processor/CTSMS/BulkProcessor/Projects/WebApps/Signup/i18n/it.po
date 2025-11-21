@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "it"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Il mio CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Il mio CRO"
+msgstr "<unk> 2025 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Lingua"
 
 msgid "session_timer_pattern"
-msgstr "L'inserimento dei dati termina con %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Inizio"
@@ -85,6 +85,9 @@ msgstr "maschio"
 msgid "female"
 msgstr "femmina"
 
+msgid "diverse"
+msgstr "diversificato"
+
 msgid "mandatory_field_label"
 msgstr "campo obbligatorio"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Invia e successivo"
 
 msgid "save_done_btn_label"
-msgstr "Invia e finisci"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Fine"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "SÌ"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacità penna 30%"
 
 msgid "finish_btn_label"
-msgstr "Esentato"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Errore:"
 
 msgid "error_no_proband_created"
-msgstr "salvare prima le informazioni personali"
+msgstr "inizia prima con salvare le informazioni personali"
 
 msgid "error_no_contact_created"
 msgstr "salva prima i dettagli del contatto"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "un oggetto è stato creato di recente con questo computer, attendere prima di riprovare"
 
 msgid "error_no_contact_details"
-msgstr "si prega di fornire l'indirizzo e-mail o il numero di telefono"
+msgstr "fornire il numero di telefono"
 
 msgid "error_proband_not_agreed"
 msgstr "per proseguire è necessario il consenso espresso"
@@ -312,8 +315,17 @@ msgstr "notificare"
 msgid "proband_email_notify_tooltip"
 msgstr "Consenti l'invio di e-mail."
 
+msgid "trial_search_label"
+msgstr "Cerca prove:"
+
+msgid "trials_search_tooltip"
+msgstr "Cerca le descrizioni delle prove/liste candidate."
+
 msgid "trials_grid_header"
 msgstr "Prove/Elenchi di candidati"
+
+msgid "trials_grid_empty_message"
+msgstr "nessuna lista di prove corrispondenti/candidati"
 
 msgid "open_inquiries_btn_label"
 msgstr "Apri il modulo di richiesta"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Modulo di richiesta incompleto"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Si prega di guardare tutte le pagine del modulo di richiesta.<br/>Preferisci inviare e finire comunque?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "inviato: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Prove in corso"
 
 msgid "trial_description"
-msgstr "<p>Nella terza fase viene presentata una panoramica degli studi e delle richieste in corso. Si prega di consultare l'elenco per visualizzare le informazioni di base relative ai criteri dei candidati, alle procedure e ai rimborsi delle singole sperimentazioni.</p><p>Puoi indicare il tuo interesse a partecipare a una particolare sperimentazione iscrivendoti o aprendo il relativo modulo di richiesta. Se preferisci completarlo in un secondo momento o in una conversazione diretta, puoi saltarlo e completare la registrazione.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Modulo di richiesta - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Grazie!"
 
 msgid "end_description"
-msgstr "<p>Grazie per la tua registrazione. Ti contatteremo presto e non vediamo l'ora di invitarti al sito di prova come nuovo partecipante.</p><p>Puoi scaricare documenti PDF con i dati forniti. Per impedire la cancellazione automatica, inviare il consenso firmato sulla privacy dei dati all'ufficio del sito tramite posta o e-mail fino al %1.</p>"
+msgstr "<p>Grazie per la tua registrazione. Vi contatteremo presto e non vediamo l'ora di invitarvi al sito di prova come nuovo partecipante.</p><p>Puoi scaricare documenti PDF con i tuoi dati forniti. Si prega di confermare la memorizzazione dei dati utilizzando il link nell'e-mail ricevuta, o invia il tuo consenso alla privacy dei dati firmati all'ufficio del sito via mail o e-mail fino a %1.</p><p><b>La tua registrazione è completa</b>, le registrazioni multiple richiederanno solo più tempo per unire i dati.</p>"
 
 msgid "invalid time"
 msgstr "ora non valida %1"

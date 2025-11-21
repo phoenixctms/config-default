@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "ja"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "私のCRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 私のCRO"
+msgstr "<unk> 2025 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "言語"
 
 msgid "session_timer_pattern"
-msgstr "データ入力は %Mで終了します :%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "始める"
@@ -85,6 +85,9 @@ msgstr "男"
 msgid "female"
 msgstr "女性"
 
+msgid "diverse"
+msgstr "多様な"
+
 msgid "mandatory_field_label"
 msgstr "必須フィールド"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "送信して次へ"
 
 msgid "save_done_btn_label"
-msgstr "送信して終了"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "仕上げる"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "はい"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "ペンの不透明度 30%"
 
 msgid "finish_btn_label"
-msgstr "やめる"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "エラー："
 
 msgid "error_no_proband_created"
-msgstr "まず個人情報を保存してください"
+msgstr "まず個人情報を保存しましょう"
 
 msgid "error_no_contact_created"
 msgstr "まず連絡先の詳細を保存してください"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "件名は最近このコンピュータで作成されました。再試行する前にお待ちください。"
 
 msgid "error_no_contact_details"
-msgstr "メールアドレスまたは電話番号を入力してください"
+msgstr "電話番号を入力してください"
 
 msgid "error_proband_not_agreed"
 msgstr "続行するには明示的な同意が必要です"
@@ -312,8 +315,17 @@ msgstr "通知する"
 msgid "proband_email_notify_tooltip"
 msgstr "電子メールの送信を許可します。"
 
+msgid "trial_search_label"
+msgstr "トライアルを検索:"
+
+msgid "trials_search_tooltip"
+msgstr "トライアル/候補リストの検索説明。"
+
 msgid "trials_grid_header"
 msgstr "トライアル/候補者リスト"
+
+msgid "trials_grid_empty_message"
+msgstr "一致するトライアル/候補リストがありません"
 
 msgid "open_inquiries_btn_label"
 msgstr "お問い合わせフォームを開く"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "お問い合わせフォームが不完全です"
 
 msgid "incomplete_dlg_prompt"
-msgstr "お問い合わせフォームの全ページをご覧ください。<br/>とにかく送信して終了することを好みますか?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "送信済み: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "進行中のトライアル"
 
 msgid "trial_description"
-msgstr "<p>進行中の研究と調査の概要は、第 3 ステップで示されます。リストを参照して、候補者の基準、手順、個々の治験の償還に関する基本情報を確認してください。</p><p>サインアップするか、問い合わせフォームを開いて、特定の治験への参加に関心を示すことができます。後で、または直接の会話でこれを完了したい場合は、これをスキップして登録を完了できます。</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "お問い合わせフォーム - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "ありがとう！"
 
 msgid "end_description"
-msgstr "<p>ご登録ありがとうございます。すぐにご連絡いたしますので、新しい参加者としてトライアル サイトに招待されることを楽しみにしています。</p><p>ご提供いただいたデータをPDF形式でダウンロードできます。自動削除を防ぐには、 %1までに、署名済みのデータプライバシー同意書を郵送または電子メールでサイトオフィスに提出してください。</p>"
+msgstr "<p>ご登録ありがとうございます。近日中にご連絡いたします。また、新しい参加者として治験会場へご招待させていただきます。</p><p>ご提供いただいたデータを含むPDF文書をダウンロードできます。受信したメール内のリンクを使用してデータの保存を確認するか、署名済みのデータプライバシー同意書を郵送またはメールでサイト事務局まで %1までにご提出ください。</p><p><b>ご登録が完了しました</b>。複数のご登録の場合は、データの統合に時間がかかります。</p>"
 
 msgid "invalid time"
 msgstr "無効な時間 %1"

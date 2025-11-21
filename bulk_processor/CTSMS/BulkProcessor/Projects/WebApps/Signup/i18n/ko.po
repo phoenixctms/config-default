@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "ko"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "내 CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 마이 CRO"
+msgstr "ｩ 2025 마이크로"
 
 msgid "lanuage_menu_label"
 msgstr "언어"
 
 msgid "session_timer_pattern"
-msgstr "데이터 입력은 %M로 끝납니다 :%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "시작"
@@ -85,6 +85,9 @@ msgstr "남성"
 msgid "female"
 msgstr "여성"
 
+msgid "diverse"
+msgstr "다양한"
+
 msgid "mandatory_field_label"
 msgstr "필수 필드"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "보내고 다음"
 
 msgid "save_done_btn_label"
-msgstr "보내고 마무리"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "마치다"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "예"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "펜 불투명도 30%"
 
 msgid "finish_btn_label"
-msgstr "그만두다"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "오류:"
 
 msgid "error_no_proband_created"
-msgstr "먼저 개인정보를 저장하세요"
+msgstr "먼저 개인 정보를 저장하세요"
 
 msgid "error_no_contact_created"
 msgstr "먼저 연락처를 저장하세요"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "최근에 이 컴퓨터로 제목이 생성되었습니다. 다시 시도하기 전에 잠시 기다려 주세요."
 
 msgid "error_no_contact_details"
-msgstr "이메일 주소나 전화번호를 알려주세요"
+msgstr "전화번호를 알려주세요"
 
 msgid "error_proband_not_agreed"
 msgstr "계속하려면 명시적 동의가 필요합니다."
@@ -312,8 +315,17 @@ msgstr "통지하다"
 msgid "proband_email_notify_tooltip"
 msgstr "이메일 보내기를 허용합니다."
 
+msgid "trial_search_label"
+msgstr "시험 검색:"
+
+msgid "trials_search_tooltip"
+msgstr "시험/후보 목록에 대한 설명을 검색합니다."
+
 msgid "trials_grid_header"
 msgstr "시험/후보 목록"
+
+msgid "trials_grid_empty_message"
+msgstr "일치하는 시험/후보 목록이 없습니다."
 
 msgid "open_inquiries_btn_label"
 msgstr "Inuiry 양식 열기"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "문의 양식이 불완전함"
 
 msgid "incomplete_dlg_prompt"
-msgstr "문의양식의 모든 페이지를 살펴보시기 바랍니다.<br/>그냥 보내고 끝내시겠습니까?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "전송됨: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "진행중인 시험"
 
 msgid "trial_description"
-msgstr "<p>현재 진행 중인 연구 및 문의 사항에 대한 개요가 세 번째 단계에 제시됩니다. 개별 임상시험의 후보 기준, 절차 및 상환에 관한 기본 정보를 보려면 목록을 찾아보십시오.</p><p>등록하거나 문의 양식을 열어 특정 임상시험 참여에 대한 관심을 표시할 수 있습니다. 나중에 완료하거나 직접 대화를 통해 완료하려는 경우 이 단계를 건너뛰고 등록을 완료할 수 있습니다.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "문의양식 - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "감사합니다!"
 
 msgid "end_description"
-msgstr "<p>등록해 주셔서 감사합니다. 곧 연락을 드릴 예정이며 새로운 참가자로서 귀하를 평가판 사이트에 초대하기를 기대하고 있습니다.</p><p>제공된 데이터가 포함된 PDF 문서를 다운로드할 수 있습니다. 자동 삭제를 방지하려면 %1까지 서명된 데이터 개인 정보 보호 동의서를 우편이나 이메일을 통해 사이트 사무실에 제출하시기 바랍니다.</p>"
+msgstr "<p>등록해 주셔서 감사합니다. 곧 연락드리겠습니다. 새로운 참가자로서 체험 사이트에 초대해 드리겠습니다.</p><p>제공하신 데이터가 포함된 PDF 문서를 다운로드할 수 있습니다. 수신된 이메일의 링크를 사용하여 데이터 저장을 확인하시거나, 서명된 데이터 개인정보 보호 동의서를 %1까지 우편이나 이메일로 사이트 사무실에 제출해 주세요.</p><p><b>등록이 완료되었습니다.</b>여러 번 등록할 경우 데이터 병합에 시간이 더 걸릴 수 있습니다.</p>"
 
 msgid "invalid time"
 msgstr "잘못된 시간 %1"

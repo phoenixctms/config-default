@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Finnish\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "fi"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Minun CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Oma CRO"
+msgstr "‹ 2025 Oma CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Kieli"
 
 msgid "session_timer_pattern"
-msgstr "Tietojen syöttö päättyy %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "alkaa"
@@ -85,6 +85,9 @@ msgstr "Uros"
 msgid "female"
 msgstr "Nainen"
 
+msgid "diverse"
+msgstr "monipuolinen"
+
 msgid "mandatory_field_label"
 msgstr "pakollinen kenttä"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Lähetä ja seuraavaksi"
 
 msgid "save_done_btn_label"
-msgstr "Lähetä ja viimeistele"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Suorittaa loppuun"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Joo"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "kynän peittävyys 30 %"
 
 msgid "finish_btn_label"
-msgstr "Lopettaa"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Virhe:"
 
 msgid "error_no_proband_created"
-msgstr "tallenna ensin henkilökohtaiset tiedot"
+msgstr "aloita tallentamalla henkilökohtaisia tietoja ensin"
 
 msgid "error_no_contact_created"
 msgstr "tallenna ensin yhteystiedot"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "aihe luotiin tällä tietokoneella äskettäin, odota ennen kuin yrität uudelleen"
 
 msgid "error_no_contact_details"
-msgstr "anna sähköpostiosoite tai puhelinnumero"
+msgstr "anna puhelinnumero"
 
 msgid "error_proband_not_agreed"
 msgstr "jatkamiseen tarvitaan nimenomainen suostumus"
@@ -312,8 +315,17 @@ msgstr "ilmoittaa"
 msgid "proband_email_notify_tooltip"
 msgstr "Salli sähköpostien lähettäminen."
 
+msgid "trial_search_label"
+msgstr "Etsi kokeiluja:"
+
+msgid "trials_search_tooltip"
+msgstr "Etsi kokeilujen / ehdokkaiden luetteloiden kuvauksia."
+
 msgid "trials_grid_header"
 msgstr "Kokeilut/ehdokasluettelot"
+
+msgid "trials_grid_empty_message"
+msgstr "ei vastaavia kokeiluja/ehdokaslistoja"
 
 msgid "open_inquiries_btn_label"
 msgstr "Avaa inuiry-lomake"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Kyselylomake epätäydellinen"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Katso kaikki kyselylomakkeen sivut.<br/>Haluatko silti lähettää ja viimeistellä?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "lähetetty: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Meneillään olevat kokeet"
 
 msgid "trial_description"
-msgstr "<p>Yleiskuva käynnissä olevista tutkimuksista ja tiedusteluista esitetään kolmannessa vaiheessa. Selaa luetteloa nähdäksesi perustiedot ehdokaskriteereistä, menettelyistä ja yksittäisten kokeiden korvauksista.</p><p>Voit ilmoittaa kiinnostuksestasi osallistua tiettyyn kokeiluun rekisteröitymällä tai avaamalla sen kyselylomakkeen. Jos haluat suorittaa tämän myöhemmin tai suorassa keskustelussa, voit ohittaa tämän ja lopettaa rekisteröinnin.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Kyselylomake - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Kiitos!"
 
 msgid "end_description"
-msgstr "<p>Kiitos rekisteröitymisestäsi. Otamme sinuun yhteyttä pian ja odotamme innolla kutsuvamme sinut kokeilusivustolle uutena osallistujana.</p><p>Voit ladata PDF-dokumentteja antamillasi tiedoilla. Automaattisen poiston estämiseksi lähetä allekirjoitettu tietosuojalupa sivuston toimistoon postitse tai sähköpostitse %1asti.</p>"
+msgstr "<p>Kiitos rekisteröitymisestäsi. Otamme sinuun yhteyttä pian ja odotamme innolla kutsua sinut koepaikalle uutena osallistujana.</p><p>Voit ladata PDF-asiakirjoja antamillasi tiedoilla. Ole hyvä ja vahvista tietojesi tallentaminen käyttäen vastaanotetun sähköpostin linkkiä, tai lähetä allekirjoitettu tietosuoja suostumus sivuston toimistoon sähköpostitse tai sähköpostitse %1asti.</p><p><b>Rekisteröintisi on valmis</b>, useat rekisteröinnit vievät aikaa tietojen yhdistämiseen.</p>"
 
 msgid "invalid time"
 msgstr "virheellinen aika %1"

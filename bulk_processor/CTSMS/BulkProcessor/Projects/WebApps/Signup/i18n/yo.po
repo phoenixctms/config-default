@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Yoruba\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "yo"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "CRO mi"
 
 msgid "copyright_label"
-msgstr "Ọdun 2019 CRO mi"
+msgstr "Ọdun 2025 CRO mi"
 
 msgid "lanuage_menu_label"
 msgstr "Ede"
 
 msgid "session_timer_pattern"
-msgstr "Akọsilẹ data dopin ni %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Bẹrẹ"
@@ -85,6 +85,9 @@ msgstr "akọ"
 msgid "female"
 msgstr "obinrin"
 
+msgid "diverse"
+msgstr "oniruuru"
+
 msgid "mandatory_field_label"
 msgstr "dandan aaye"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Firanṣẹ ati atẹle"
 
 msgid "save_done_btn_label"
-msgstr "Firanṣẹ ati pari"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Pari"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Bẹẹni"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacity pen 30%"
 
 msgid "finish_btn_label"
-msgstr "Jade"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Asise:"
 
 msgid "error_no_proband_created"
-msgstr "fipamọ alaye ti ara ẹni akọkọ"
+msgstr "bẹrẹ pẹlu fi alaye ti ara ẹni pamọ ni akọkọ"
 
 msgid "error_no_contact_created"
 msgstr "fipamọ awọn alaye olubasọrọ akọkọ"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "koko-ọrọ kan ti ṣẹda pẹlu kọnputa yii laipẹ, jọwọ duro ṣaaju ki o to tun gbiyanju"
 
 msgid "error_no_contact_details"
-msgstr "jọwọ pese adirẹsi imeeli tabi nọmba foonu"
+msgstr "jọwọ pese nọmba foonu"
 
 msgid "error_proband_not_agreed"
 msgstr "o nilo ifọkansi kiakia lati tẹsiwaju"
@@ -312,8 +315,17 @@ msgstr "leti"
 msgid "proband_email_notify_tooltip"
 msgstr "Gba laaye lati fi imeeli ranṣẹ."
 
+msgid "trial_search_label"
+msgstr "Wa awọn idanwo:"
+
+msgid "trials_search_tooltip"
+msgstr "Wa awọn apejuwe ti awọn idanwo/awọn atokọ oludije."
+
 msgid "trials_grid_header"
 msgstr "Idanwo / oludije awọn akojọ"
+
+msgid "trials_grid_empty_message"
+msgstr "ko si ibaamu Idanwo / Oludije awọn akojọ"
 
 msgid "open_inquiries_btn_label"
 msgstr "Ṣii fọọmu inuiry"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Fọọmu ibeere ko pe"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Jọwọ wo gbogbo awọn oju-iwe ti fọọmu ibeere naa.<br/>Ṣe o fẹ lati firanṣẹ ati pari lonakona?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "rán: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Awọn Idanwo ti nlọ lọwọ"
 
 msgid "trial_description"
-msgstr "<p>Akopọ ti awọn iwadi ti nlọ lọwọ ati awọn ibeere ni a gbekalẹ ni igbesẹ kẹta. Jọwọ lọ kiri lori atokọ naa lati rii alaye ipilẹ nipa awọn ibeere oludije, awọn ilana ati awọn isanpada ti awọn idanwo kọọkan.</p><p>O le tọkasi ifẹ rẹ lati kopa ninu idanwo kan nipa iforukọsilẹ tabi ṣiṣi fọọmu ibeere rẹ. Ti o ba fẹ lati pari eyi ni akoko nigbamii tabi ni ibaraẹnisọrọ direkt, o le foju eyi ki o pari iforukọsilẹ rẹ.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Fọọmu ibeere - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "E dupe!"
 
 msgid "end_description"
-msgstr "<p>O ṣeun fun iforukọsilẹ rẹ. A yoo kan si ọ laipẹ ati pe a nireti lati pe ọ si aaye idanwo bi alabaṣe tuntun.</p><p>O le ṣe igbasilẹ awọn iwe aṣẹ PDF pẹlu data ti o pese. Lati yago fun piparẹ aladaaṣe, jọwọ fi aṣẹ ipamọ data ti o fowo si si ọfiisi aaye nipasẹ meeli tabi imeeli titi %1.</p>"
+msgstr "<p>O ṣeun fun iforukọsilẹ rẹ. A yoo kan si ọ laipẹ ati pe a nireti lati pe ọ si aaye idanwo bi alabaṣe tuntun.</p><p>O le ṣe igbasilẹ awọn iwe aṣẹ PDF pẹlu data ti o pese. Jọwọ jẹrisi fifipamọ data rẹ nipa lilo ọna asopọ ninu imeeli ti o gba, tabi fi aṣẹ ipamọ data ti o fowo si si ọfiisi aaye nipasẹ meeli tabi imeeli titi di %1.</p><p><b>Iforukọsilẹ rẹ ti pari</b>, awọn iforukọsilẹ lọpọlọpọ yoo kan gba akoko diẹ sii lati dapọ data.</p>"
 
 msgid "invalid time"
 msgstr "akoko ti ko tọ %1"

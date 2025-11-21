@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Language: sl_SI\n"
 "X-Crowdin-SourceKey: msgstr\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
 "X-Crowdin-Project: phoenix-ctms\n"
 "X-Crowdin-Project-ID: 445508\n"
 "X-Crowdin-Language: sl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovenian\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "sl"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Moj CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Moj CRO"
+msgstr "ｩ 2025 Moj CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Jezik"
 
 msgid "session_timer_pattern"
-msgstr "Vnos podatkov se konča na %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Začetek"
@@ -85,6 +85,9 @@ msgstr "moški"
 msgid "female"
 msgstr "ženska"
 
+msgid "diverse"
+msgstr "raznolik"
+
 msgid "mandatory_field_label"
 msgstr "obvezno polje"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Pošlji in naprej"
 
 msgid "save_done_btn_label"
-msgstr "Pošlji in dokončaj"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Končaj"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "ja"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "motnost peresa 30%"
 
 msgid "finish_btn_label"
-msgstr "Prenehati"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Napaka:"
 
 msgid "error_no_proband_created"
-msgstr "najprej shranite osebne podatke"
+msgstr "začnite s shranjevanjem osebnih podatkov"
 
 msgid "error_no_contact_created"
 msgstr "najprej shranite kontaktne podatke"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "zadeva je bila nedavno ustvarjena s tem računalnikom, počakajte, preden poskusite znova"
 
 msgid "error_no_contact_details"
-msgstr "navedite e-poštni naslov ali telefonsko številko"
+msgstr "prosim, navedite telefonsko številko"
 
 msgid "error_proband_not_agreed"
 msgstr "za nadaljevanje je potrebno izrecno soglasje"
@@ -312,8 +315,17 @@ msgstr "obvestiti"
 msgid "proband_email_notify_tooltip"
 msgstr "Dovoli pošiljanje e-pošte."
 
+msgid "trial_search_label"
+msgstr "Iskanje poskusov:"
+
+msgid "trials_search_tooltip"
+msgstr "Iskanje opisov poskusov/seznamov kandidatov."
+
 msgid "trials_grid_header"
 msgstr "Poskusi/seznami kandidatov"
+
+msgid "trials_grid_empty_message"
+msgstr "ni ustreznih seznamov poskusov/kandidatov"
 
 msgid "open_inquiries_btn_label"
 msgstr "Odprite inuiry obrazec"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Obrazec za povpraševanje nepopoln"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Prosimo, da si ogledate vse strani obrazca za povpraševanje.<br/>Ali vseeno raje pošljete in dokončate?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "poslano: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Preizkusi v teku"
 
 msgid "trial_description"
-msgstr "<p>V tretjem koraku je predstavljen pregled tekočih študij in poizvedb. Prebrskajte seznam in si oglejte osnovne informacije o kriterijih kandidatov, postopkih in povračilih stroškov posameznih poskusov.</p><p>Svoje zanimanje za sodelovanje v določenem preizkusu lahko izrazite tako, da se prijavite ali odprete obrazec za povpraševanje. Če želite to dokončati pozneje ali v neposrednem pogovoru, lahko to preskočite in dokončate registracijo.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Obrazec za povpraševanje - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Hvala vam!"
 
 msgid "end_description"
-msgstr "<p>Hvala za registracijo. Kmalu vas bomo kontaktirali in vas z veseljem povabili na preizkusno mesto kot novega udeleženca.</p><p>Lahko prenesete dokumente PDF s svojimi podatki. Če želite preprečiti samodejni izbris, pošljite podpisano soglasje za zasebnost podatkov uradu spletnega mesta po pošti ali e-pošti do %1.</p>"
+msgstr "<p>Hvala za vašo registracijo. Kmalu vas bomo kontaktirali in vas bomo z veseljem povabili na poskusno mesto kot novega udeleženca.</p><p>Dokumente PDF z vašimi posredovanimi podatki lahko prenesete. Prosimo, potrdite shranjevanje svojih podatkov s pomočjo povezave v prejetem e-poštnem sporočilu ali pa po pošti ali e-pošti pošljite podpisano soglasje za varstvo podatkov v pisarni spletnega mesta do %1.</p><p><b>Vaša registracija je končana</b>, več registracij bo le trajalo dlje za združevanje podatkov.</p>"
 
 msgid "invalid time"
 msgstr "neveljaven čas %1"

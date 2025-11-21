@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "tr"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Benim CRO'm"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 CRO'm"
+msgstr "ｩ 2025 CRO'm"
 
 msgid "lanuage_menu_label"
 msgstr "Dil"
 
 msgid "session_timer_pattern"
-msgstr "Veri girişi %Mile biter:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Başlangıç"
@@ -85,6 +85,9 @@ msgstr "erkek"
 msgid "female"
 msgstr "dişi"
 
+msgid "diverse"
+msgstr "türlü"
+
 msgid "mandatory_field_label"
 msgstr "zorunlu alan"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Gönder ve sonraki"
 
 msgid "save_done_btn_label"
-msgstr "Gönder ve bitir"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Sona ermek"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Evet"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "kalem opaklığı %30"
 
 msgid "finish_btn_label"
-msgstr "Çıkış yapmak"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Hata:"
 
 msgid "error_no_proband_created"
-msgstr "önce kişisel bilgileri kaydet"
+msgstr "önce kişisel bilgileri kaydederek başlayın"
 
 msgid "error_no_contact_created"
 msgstr "önce iletişim bilgilerini kaydet"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "yakın zamanda bu bilgisayarda bir konu oluşturuldu, lütfen yeniden denemeden önce bekleyin"
 
 msgid "error_no_contact_details"
-msgstr "lütfen e-posta adresini veya telefon numarasını belirtin"
+msgstr "Lütfen telefon numaranızı verin"
 
 msgid "error_proband_not_agreed"
 msgstr "Devam etmek için açık onay gereklidir"
@@ -312,8 +315,17 @@ msgstr "bildirmek"
 msgid "proband_email_notify_tooltip"
 msgstr "E-posta göndermeye izin ver."
 
+msgid "trial_search_label"
+msgstr "Arama denemeleri:"
+
+msgid "trials_search_tooltip"
+msgstr "Denemelerin/aday listelerinin açıklamalarını arayın."
+
 msgid "trials_grid_header"
 msgstr "Denemeler/Aday listeleri"
+
+msgid "trials_grid_empty_message"
+msgstr "eşleşen Denemeler/Aday listeleri yok"
 
 msgid "open_inquiries_btn_label"
 msgstr "Giriş formunu aç"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Talep formu eksik"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Lütfen başvuru formunun tüm sayfalarına bakın.<br/>Yine de gönderip bitirmeyi mi tercih edersiniz?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "gönderilen: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Devam Eden Denemeler"
 
 msgid "trial_description"
-msgstr "<p>Üçüncü adımda devam eden çalışmalara ve sorgulamalara genel bir bakış sunulmaktadır. Aday kriterleri, prosedürleri ve bireysel denemelerin geri ödemeleriyle ilgili temel bilgileri görmek için lütfen listeye göz atın.</p><p>Belirli bir deneye katılmakla ilgilendiğinizi kaydolarak veya araştırma formunu açarak belirtebilirsiniz. Bunu daha sonra veya doğrudan görüşme yoluyla tamamlamayı tercih ederseniz, bunu atlayıp kaydınızı tamamlayabilirsiniz.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Talep Formu - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Teşekkür ederim!"
 
 msgid "end_description"
-msgstr "<p>Kaydınız için teşekkür ederiz. Yakında sizinle iletişime geçeceğiz ve sizi yeni bir katılımcı olarak deneme sitesine davet etmeyi sabırsızlıkla bekliyoruz.</p><p>Sağladığınız verilerle PDF belgelerini indirebilirsiniz. Otomatik silinmeyi önlemek için lütfen imzalı veri gizliliği onayınızı %1tarihine kadar posta veya e-posta yoluyla site ofisine gönderin.</p>"
+msgstr "<p>Kaydınız için teşekkür ederiz. Yakında sizinle iletişime geçeceğiz ve sizi deneme sitesine yeni bir katılımcı olarak davet etmeyi dört gözle bekliyoruz.</p><p>Sağladığınız verilerle PDF belgeleri indirebilirsiniz. Lütfen alınan e-postadaki bağlantıyı kullanarak verilerinizin kaydedilmesini onaylayın veya imzalı veri gizliliği onayınızı %1tarihine kadar site ofisine posta veya e-posta yoluyla gönderin.</p><p><b>Kaydınız tamamlandı</b>, birden fazla kayıtta verilerin birleştirilmesi daha uzun sürecektir.</p>"
 
 msgid "invalid time"
 msgstr "geçersiz zaman %1"

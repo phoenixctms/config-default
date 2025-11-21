@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "es"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Mi CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Mi CRO"
+msgstr "✅ 2025 Mi CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Idioma"
 
 msgid "session_timer_pattern"
-msgstr "La entrada de datos termina en %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Comenzar"
@@ -85,6 +85,9 @@ msgstr "masculino"
 msgid "female"
 msgstr "femenino"
 
+msgid "diverse"
+msgstr "diverso"
+
 msgid "mandatory_field_label"
 msgstr "Campo obligatorio"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "enviar y siguiente"
 
 msgid "save_done_btn_label"
-msgstr "enviar y terminar"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Finalizar"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Sí"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacidad de la pluma 30%"
 
 msgid "finish_btn_label"
-msgstr "Abandonar"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Error:"
 
 msgid "error_no_proband_created"
-msgstr "guarde la información personal primero"
+msgstr "empezar primero con guardar la información personal"
 
 msgid "error_no_contact_created"
 msgstr "guardar los datos de contacto primero"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "Se creó un asunto con esta computadora recientemente, espere antes de volver a intentarlo."
 
 msgid "error_no_contact_details"
-msgstr "por favor proporcione dirección de correo electrónico o número de teléfono"
+msgstr "por favor proporcione el número de teléfono"
 
 msgid "error_proband_not_agreed"
 msgstr "Se requiere consentimiento expreso para continuar."
@@ -312,8 +315,17 @@ msgstr "notificar"
 msgid "proband_email_notify_tooltip"
 msgstr "Permitir enviar correos electrónicos."
 
+msgid "trial_search_label"
+msgstr "Buscar ensayos:"
+
+msgid "trials_search_tooltip"
+msgstr "Buscar descripciones de los ensayos/listas de candidatos."
+
 msgid "trials_grid_header"
 msgstr "Ensayos/listas de candidatos"
+
+msgid "trials_grid_empty_message"
+msgstr "no hay listas de Pruebas/Candidate coincidentes"
 
 msgid "open_inquiries_btn_label"
 msgstr "Abrir formulario de consulta"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Formulario de consulta incompleto"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Mire todas las páginas del formulario de consulta.<br/>¿Prefieres enviar y terminar de todos modos?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "enviado: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Ensayos en curso"
 
 msgid "trial_description"
-msgstr "<p>En el tercer paso se presenta una descripción general de los estudios e investigaciones en curso. Explore la lista para ver información básica sobre los criterios, los procedimientos y los reembolsos de los ensayos individuales de los candidatos.</p><p>Puede indicar su interés en participar en una prueba en particular registrándose o abriendo su formulario de consulta. Si prefiere completar esto más tarde o en una conversación directa, puede omitirlo y finalizar su registro.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulario de consulta - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "¡Gracias!"
 
 msgid "end_description"
-msgstr "<p>Gracias por su registro. Nos comunicaremos con usted pronto y esperamos invitarlo al sitio de prueba como nuevo participante.</p><p>Puede descargar documentos PDF con los datos proporcionados. Para evitar la eliminación automática, envíe su consentimiento de privacidad de datos firmado a la oficina del sitio por correo postal o electrónico hasta el %1.</p>"
+msgstr "<p>Gracias por su registro. Nos pondremos en contacto con usted pronto y esperamos invitarle al centro de pruebas como nuevo participante.</p><p>Puede descargar documentos PDF con los datos que nos proporcionó. Confirme el almacenamiento de sus datos mediante el enlace del correo electrónico recibido o envíe su consentimiento de privacidad de datos firmado a la oficina del centro por correo postal o electrónico antes del %1.</p><p><b>Su registro se ha completado</b>. Los registros múltiples solo requerirán más tiempo para la fusión de datos.</p>"
 
 msgid "invalid time"
 msgstr "hora no válida %1"

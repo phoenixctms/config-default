@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hindi\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "hi"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "मेरा सीआरओ"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 मेरा सीआरओ"
+msgstr "ｩ2025 मेरा सीआरओ"
 
 msgid "lanuage_menu_label"
 msgstr "भाषा"
 
 msgid "session_timer_pattern"
-msgstr "डेटा प्रविष्टि %M:%Sमें समाप्त होती है"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "शुरू"
@@ -85,6 +85,9 @@ msgstr "पुरुष"
 msgid "female"
 msgstr "महिला"
 
+msgid "diverse"
+msgstr "विविध"
+
 msgid "mandatory_field_label"
 msgstr "अनिवार्य क्षेत्र"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "भेजें और अगला"
 
 msgid "save_done_btn_label"
-msgstr "भेजें और समाप्त करें"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "खत्म करना"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "हाँ"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "पेन की अपारदर्शिता 30%"
 
 msgid "finish_btn_label"
-msgstr "छोड़ना"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "गलती:"
 
 msgid "error_no_proband_created"
-msgstr "पहले व्यक्तिगत जानकारी सहेजें"
+msgstr "सबसे पहले व्यक्तिगत जानकारी को सहेजना शुरू करें"
 
 msgid "error_no_contact_created"
 msgstr "पहले संपर्क विवरण सहेजें"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "इस कंप्यूटर से हाल ही में एक विषय बनाया गया था, कृपया पुनः प्रयास करने से पहले प्रतीक्षा करें"
 
 msgid "error_no_contact_details"
-msgstr "कृपया ईमेल पता या फ़ोन नंबर प्रदान करें"
+msgstr "कृपया फ़ोन नंबर बताएं"
 
 msgid "error_proband_not_agreed"
 msgstr "जारी रखने के लिए व्यक्त सहमति आवश्यक है"
@@ -312,8 +315,17 @@ msgstr "सूचित करें"
 msgid "proband_email_notify_tooltip"
 msgstr "ईमेल भेजने की अनुमति दें."
 
+msgid "trial_search_label"
+msgstr "खोज परीक्षण:"
+
+msgid "trials_search_tooltip"
+msgstr "परीक्षणों/उम्मीदवार सूचियों का विवरण खोजें।"
+
 msgid "trials_grid_header"
 msgstr "परीक्षण/उम्मीदवार सूची"
+
+msgid "trials_grid_empty_message"
+msgstr "कोई मेल खाती परीक्षण/उम्मीदवार सूची नहीं"
 
 msgid "open_inquiries_btn_label"
 msgstr "इनुइरी फॉर्म खोलें"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "पूछताछ प्रपत्र अधूरा है"
 
 msgid "incomplete_dlg_prompt"
-msgstr "कृपया पूछताछ प्रपत्र के सभी पृष्ठ देखें।<br/>क्या आप वैसे भी भेजना और समाप्त करना पसंद करते हैं?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "भेजा गया: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "चल रहे परीक्षण"
 
 msgid "trial_description"
-msgstr "<p>तीसरे चरण में चल रहे अध्ययनों और पूछताछ का अवलोकन प्रस्तुत किया गया है। कृपया उम्मीदवार मानदंड, प्रक्रियाओं और व्यक्तिगत परीक्षणों की प्रतिपूर्ति के संबंध में बुनियादी जानकारी देखने के लिए सूची ब्राउज़ करें।</p><p>आप साइन अप करके या उसका पूछताछ फॉर्म खोलकर किसी विशेष परीक्षण में भाग लेने में अपनी रुचि दिखा सकते हैं। यदि आप इसे बाद में या सीधे बातचीत में पूरा करना पसंद करते हैं, तो आप इसे छोड़ सकते हैं और अपना पंजीकरण पूरा कर सकते हैं।</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "पूछताछ प्रपत्र - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "धन्यवाद!"
 
 msgid "end_description"
-msgstr "<p>आपके पंजीकरण के लिए धन्यवाद। हम जल्द ही आपसे संपर्क करेंगे और एक नए प्रतिभागी के रूप में आपको परीक्षण साइट पर आमंत्रित करने के लिए उत्सुक हैं।</p><p>आप अपने दिए गए डेटा के साथ पीडीएफ दस्तावेज़ डाउनलोड कर सकते हैं। स्वचालित विलोपन को रोकने के लिए, कृपया अपनी हस्ताक्षरित डेटा गोपनीयता सहमति साइट कार्यालय को मेल या ईमेल के माध्यम से %1तक जमा करें।</p>"
+msgstr "<p>आपके पंजीकरण के लिए धन्यवाद। हम जल्द ही आपसे संपर्क करेंगे और आपको एक नए प्रतिभागी के रूप में परीक्षण स्थल पर आमंत्रित करने के लिए उत्सुक हैं।</p><p>आप अपने द्वारा प्रदान किए गए डेटा के साथ PDF दस्तावेज़ डाउनलोड कर सकते हैं। कृपया प्राप्त ईमेल में दिए गए लिंक का उपयोग करके अपने डेटा के भंडारण की पुष्टि करें, या अपनी हस्ताक्षरित डेटा गोपनीयता सहमति साइट कार्यालय को मेल या ईमेल द्वारा %1तक जमा करें।</p><p><b>आपका पंजीकरण पूरा हो गया है</b>, एक से अधिक पंजीकरणों के लिए डेटा मर्ज करने में अधिक समय लगेगा।</p>"
 
 msgid "invalid time"
 msgstr "अमान्य समय %1"

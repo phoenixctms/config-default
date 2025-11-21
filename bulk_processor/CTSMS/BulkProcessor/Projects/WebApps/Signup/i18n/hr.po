@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Croatian\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "hr"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Moj CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Moj CRO"
+msgstr "ｩ 2025 Moj CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Jezik"
 
 msgid "session_timer_pattern"
-msgstr "Unos podataka završava na %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Početak"
@@ -85,6 +85,9 @@ msgstr "muški"
 msgid "female"
 msgstr "žena"
 
+msgid "diverse"
+msgstr "raznolik"
+
 msgid "mandatory_field_label"
 msgstr "obavezno polje"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Pošalji i dalje"
 
 msgid "save_done_btn_label"
-msgstr "Pošalji i završi"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Završi"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Da"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "neprozirnost olovke 30%"
 
 msgid "finish_btn_label"
-msgstr "Prestati"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Greška:"
 
 msgid "error_no_proband_created"
-msgstr "prvo spremite osobne podatke"
+msgstr "započnite s spremanjem osobnih podataka"
 
 msgid "error_no_contact_created"
 msgstr "prvo spremite podatke za kontakt"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "predmet je nedavno kreiran na ovom računalu, pričekajte prije ponovnog pokušaja"
 
 msgid "error_no_contact_details"
-msgstr "navedite adresu e-pošte ili broj telefona"
+msgstr "molimo vas da navedete broj telefona"
 
 msgid "error_proband_not_agreed"
 msgstr "za nastavak je potreban izričiti pristanak"
@@ -312,8 +315,17 @@ msgstr "obavijestiti"
 msgid "proband_email_notify_tooltip"
 msgstr "Dopusti slanje e-pošte."
 
+msgid "trial_search_label"
+msgstr "Pretraživanje pokusnih verzija:"
+
+msgid "trials_search_tooltip"
+msgstr "Pretražite opise ispitivanja/popise kandidata."
+
 msgid "trials_grid_header"
 msgstr "Ispitivanja/popisi kandidata"
+
+msgid "trials_grid_empty_message"
+msgstr "nema odgovarajućih popisa kandidata/probnih ispita"
 
 msgid "open_inquiries_btn_label"
 msgstr "Otvoreni inuiry obrazac"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Obrazac za upit nije potpun"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Molimo pogledajte sve stranice formulara za upit.<br/>Želite li svejedno poslati i završiti?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "poslano: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Suđenja u tijeku"
 
 msgid "trial_description"
-msgstr "<p>Pregled studija i upita koji su u tijeku predstavljen je u trećem koraku. Pregledajte popis kako biste vidjeli osnovne informacije o kriterijima kandidata, postupcima i naknadama za pojedinačna ispitivanja.</p><p>Svoj interes za sudjelovanje u određenoj probi možete pokazati prijavom ili otvaranjem obrasca za upit. Ako želite ovo dovršiti kasnije ili u izravnom razgovoru, možete ovo preskočiti i dovršiti registraciju.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Obrazac za upit - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Hvala vam!"
 
 msgid "end_description"
-msgstr "<p>Hvala vam na registraciji. Uskoro ćemo vas kontaktirati i jedva čekamo da vas pozovemo na probno mjesto kao novog sudionika.</p><p>Možete preuzeti PDF dokumente s vašim podacima. Kako biste spriječili automatsko brisanje, pošaljite svoj potpisani pristanak za privatnost podataka uredu web-mjesta poštom ili e-poštom do %1.</p>"
+msgstr "<p>Hvala vam na registraciji. Uskoro ćemo vas kontaktirati i radujemo se što ćemo vas pozvati na probno mjesto kao novog sudionika.</p><p>Možete preuzeti PDF dokumente s vašim podacima. Molimo vas da potvrdite pohranu svojih podataka pomoću poveznice u primljenoj e-pošti ili pošaljete svoju potpisanu privolu za privatnost podataka uredu web mjesta putem pošte ili e-pošte do %1.</p><p><b>Vaša je registracija dovršena</b>, višestruke registracije će samo trajati dulje za spajanje podataka.</p>"
 
 msgid "invalid time"
 msgstr "nevažeće vrijeme %1"

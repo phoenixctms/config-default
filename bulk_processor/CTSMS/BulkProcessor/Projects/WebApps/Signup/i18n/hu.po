@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hungarian\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "hu"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Az én CRO-m"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 My CRO"
+msgstr "ｩ 2025 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Nyelv"
 
 msgid "session_timer_pattern"
-msgstr "Az adatbevitel a következőre végződik: %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Rajt"
@@ -85,6 +85,9 @@ msgstr "férfi"
 msgid "female"
 msgstr "női"
 
+msgid "diverse"
+msgstr "különböző"
+
 msgid "mandatory_field_label"
 msgstr "kötelezően kitöltendő mező"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Küldés és következő"
 
 msgid "save_done_btn_label"
-msgstr "Küldje el és fejezze be"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Befejez"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Igen"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "toll átlátszatlansága 30%"
 
 msgid "finish_btn_label"
-msgstr "Kilépés"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Hiba:"
 
 msgid "error_no_proband_created"
-msgstr "először mentse el a személyes adatokat"
+msgstr "Először is mentsd el a személyes adataidat"
 
 msgid "error_no_contact_created"
 msgstr "először mentse el az elérhetőségeket"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "a közelmúltban egy tárgy jött létre ezen a számítógépen, kérjük, várjon, mielőtt újra próbálkozna"
 
 msgid "error_no_contact_details"
-msgstr "kérjük adjon meg email címet vagy telefonszámot"
+msgstr "kérjük, adja meg a telefonszámot"
 
 msgid "error_proband_not_agreed"
 msgstr "a folytatáshoz kifejezett hozzájárulás szükséges"
@@ -312,8 +315,17 @@ msgstr "értesítse"
 msgid "proband_email_notify_tooltip"
 msgstr "E-mailek küldésének engedélyezése."
 
+msgid "trial_search_label"
+msgstr "Keresési kísérletek:"
+
+msgid "trials_search_tooltip"
+msgstr "Kísérletek/jelöltlisták leírásainak keresése."
+
 msgid "trials_grid_header"
 msgstr "Próbák/jelöltek listák"
+
+msgid "trials_grid_empty_message"
+msgstr "nincsenek egyező próba-/jelöltlisták"
 
 msgid "open_inquiries_btn_label"
 msgstr "Nyissa meg az inuiry űrlapot"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "A kérdőív hiányos"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Kérjük, tekintse meg a kérdőív összes oldalát.<br/>Mindenesetre inkább elküldi és befejezi?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "elküldve: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Folyamatos próbák"
 
 msgid "trial_description"
-msgstr "<p>A folyamatban lévő tanulmányok és kérdések áttekintése a harmadik lépésben kerül bemutatásra. Kérjük, böngésszen a listában, hogy megtekinthesse a jelölt kritériumaira, eljárásaira és az egyes vizsgálatok költségtérítésére vonatkozó alapvető információkat.</p><p>Egy adott kísérletben való részvétel iránti érdeklődését jelezheti regisztrációval vagy a kérdőív megnyitásával. Ha ezt egy későbbi időpontban vagy közvetlen beszélgetésben szeretné elvégezni, akkor ezt kihagyhatja és befejezheti a regisztrációt.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Kérdőív - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Köszönöm!"
 
 msgid "end_description"
-msgstr "<p>Köszönjük regisztrációját. Hamarosan felvesszük Önnel a kapcsolatot, és szeretettel várjuk, hogy új résztvevőként meghívhassuk a próbaoldalra.</p><p>A megadott adatokkal PDF dokumentumokat tölthet le. Az automatikus törlés elkerülése érdekében kérjük, hogy %1-ig küldje el aláírt adatkezelési hozzájárulását az oldal irodájának postai úton vagy e-mailben.</p>"
+msgstr "<p>Köszönjük regisztrációját. Hamarosan felvesszük Önnel a kapcsolatot, és örömmel meghívjuk Önt a próbahelyszínre új résztvevőként.</p><p>A megadott adatokkal PDF dokumentumokat tölthet le. Kérjük, erősítse meg adatainak tárolását a kapott e-mailben található link segítségével, vagy küldje el aláírt adatvédelmi hozzájárulását a helyszín irodájába postai úton vagy e-mailben %1-ig.</p><p><b>A regisztrációja befejeződött</b>, több regisztráció esetén csak az adatok egyesítése tart tovább.</p>"
 
 msgid "invalid time"
 msgstr "érvénytelen idő %1"

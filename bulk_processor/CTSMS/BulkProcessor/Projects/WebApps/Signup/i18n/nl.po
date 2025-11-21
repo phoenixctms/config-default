@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "nl"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Mijn CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Mijn CRO"
+msgstr "¦ 2025 Mijn CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Taal"
 
 msgid "session_timer_pattern"
-msgstr "Gegevensinvoer eindigt op %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Begin"
@@ -85,6 +85,9 @@ msgstr "mannelijk"
 msgid "female"
 msgstr "vrouwelijk"
 
+msgid "diverse"
+msgstr "divers"
+
 msgid "mandatory_field_label"
 msgstr "verplicht veld"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Verzenden en volgende"
 
 msgid "save_done_btn_label"
-msgstr "Verzenden en afronden"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Finish"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Ja"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "pendekking 30%"
 
 msgid "finish_btn_label"
-msgstr "Ontslag nemen"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Fout:"
 
 msgid "error_no_proband_created"
-msgstr "sla eerst persoonlijke gegevens op"
+msgstr "beginnen met opslaan van persoonlijke informatie eerst"
 
 msgid "error_no_contact_created"
 msgstr "sla eerst de contactgegevens op"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "Er is onlangs een onderwerp met deze computer gemaakt. Wacht even voordat u het opnieuw probeert"
 
 msgid "error_no_contact_details"
-msgstr "geef dan een e-mailadres of telefoonnummer op"
+msgstr "geef een telefoonnummer op"
 
 msgid "error_proband_not_agreed"
 msgstr "Om door te gaan is uitdrukkelijke toestemming vereist"
@@ -312,8 +315,17 @@ msgstr "op de hoogte stellen"
 msgid "proband_email_notify_tooltip"
 msgstr "Toestaan om e-mails te verzenden."
 
+msgid "trial_search_label"
+msgstr "Processen zoeken:"
+
+msgid "trials_search_tooltip"
+msgstr "Zoek beschrijvingen van trials/kandidaat lijsten."
+
 msgid "trials_grid_header"
 msgstr "Proeven/kandidatenlijsten"
+
+msgid "trials_grid_empty_message"
+msgstr "geen overeenkomende Trials/Kandidaat-lijsten"
 
 msgid "open_inquiries_btn_label"
 msgstr "Open het formulier"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Aanvraagformulier onvolledig"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Bekijk alle pagina's van het aanvraagformulier.<br/>Wil je toch liever versturen en afwerken?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "verzonden: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Lopende beproevingen"
 
 msgid "trial_description"
-msgstr "<p>Een overzicht van lopende onderzoeken en onderzoeken wordt gepresenteerd in de derde stap. Blader door de lijst voor basisinformatie over kandidaatcriteria, procedures en terugbetalingen van individuele onderzoeken.</p><p>U kunt uw interesse in deelname aan een bepaald onderzoek kenbaar maken door u aan te melden of door het bijbehorende vragenformulier te openen. Als u dit liever op een later tijdstip of in een direct gesprek afrondt, kunt u dit overslaan en uw registratie afronden.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Aanvraagformulier - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Bedankt!"
 
 msgid "end_description"
-msgstr "<p>Bedankt voor je registratie. Wij nemen spoedig contact met u op en nodigen u graag uit op de proeflocatie als nieuwe deelnemer.</p><p>U kunt PDF-documenten downloaden met de door u verstrekte gegevens. Om automatische verwijdering te voorkomen, dient u uw ondertekende toestemming voor gegevensprivacy per post of e-mail in te dienen bij het locatiekantoor tot %1.</p>"
+msgstr "<p>Bedankt voor uw registratie. We nemen binnenkort contact met u op en kijken ernaar uit om u als nieuwe deelnemer uit te nodigen op de proefsite.</p><p>U kunt PDF-documenten downloaden met de door u verstrekte gegevens. Bevestig het opslaan van uw gegevens via de link in de ontvangen e-mail, of verstuur uw ondertekende privacy-toestemming naar de site kantoor via e-mail of e-mail tot %1.</p><p><b>Uw registratie is voltooid</b>, meerdere registraties zullen gewoon meer tijd kosten om gegevens samen te voegen.</p>"
 
 msgid "invalid time"
 msgstr "ongeldige tijd %1"

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swahili\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "sw"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "CRO yangu"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 CRO yangu"
+msgstr "ｩ 2025 CRO yangu"
 
 msgid "lanuage_menu_label"
 msgstr "Lugha"
 
 msgid "session_timer_pattern"
-msgstr "Ingizo la data linaisha kwa %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Anza"
@@ -85,6 +85,9 @@ msgstr "kiume"
 msgid "female"
 msgstr "kike"
 
+msgid "diverse"
+msgstr "mbalimbali"
+
 msgid "mandatory_field_label"
 msgstr "shamba la lazima"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Tuma na ijayo"
 
 msgid "save_done_btn_label"
-msgstr "Tuma na umalize"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Maliza"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Ndiyo"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "uwazi wa kalamu 30%"
 
 msgid "finish_btn_label"
-msgstr "Acha"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Hitilafu:"
 
 msgid "error_no_proband_created"
-msgstr "hifadhi taarifa za kibinafsi kwanza"
+msgstr "anza na kuhifadhi habari za kibinafsi kwanza"
 
 msgid "error_no_contact_created"
 msgstr "hifadhi maelezo ya mawasiliano kwanza"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "somo liliundwa na kompyuta hii hivi karibuni, tafadhali subiri kabla ya kujaribu tena"
 
 msgid "error_no_contact_details"
-msgstr "tafadhali toa barua pepe au nambari ya simu"
+msgstr "tafadhali toa nambari ya simu"
 
 msgid "error_proband_not_agreed"
 msgstr "idhini ya moja kwa moja inahitajika ili kuendelea"
@@ -312,8 +315,17 @@ msgstr "arifu"
 msgid "proband_email_notify_tooltip"
 msgstr "Ruhusu kutuma Barua pepe."
 
+msgid "trial_search_label"
+msgstr "Tafuta majaribio:"
+
+msgid "trials_search_tooltip"
+msgstr "Tafuta maelezo ya majaribio/orodha za wagombea."
+
 msgid "trials_grid_header"
 msgstr "Majaribio/orodha za Wagombea"
+
+msgid "trials_grid_empty_message"
+msgstr "hakuna Majaribio/orodha za Wagombea zinazolingana"
 
 msgid "open_inquiries_btn_label"
 msgstr "Fungua fomu ya inuri"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Fomu ya uchunguzi haijakamilika"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Tafadhali angalia kurasa zote za fomu ya uchunguzi.<br/>Je, unapendelea kutuma na kumaliza hata hivyo?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "imetumwa: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Majaribio Yanayoendelea"
 
 msgid "trial_description"
-msgstr "<p>Muhtasari wa masomo na maswali yanayoendelea umewasilishwa katika hatua ya tatu. Tafadhali vinjari orodha ili kuona maelezo ya msingi kuhusu vigezo vya mgombea, taratibu na ulipaji wa malipo ya majaribio ya mtu binafsi.</p><p>Unaweza kuonyesha nia yako ya kushiriki jaribio fulani kwa kujisajili au kufungua fomu yake ya uchunguzi. Ukipendelea kukamilisha hili baadaye au katika mazungumzo ya direkt, unaweza kuruka hili na ukamilishe usajili wako.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Fomu ya Kuuliza - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Asante!"
 
 msgid "end_description"
-msgstr "<p>Asante kwa usajili wako. Tutawasiliana nawe hivi karibuni na tunatarajia kukualika kwenye tovuti ya majaribio kama mshiriki mpya.</p><p>Unaweza kupakua hati za PDF na data uliyotoa. Ili kuzuia ufutaji kiotomatiki, tafadhali wasilisha idhini yako ya faragha ya data iliyotiwa saini kwa ofisi ya tovuti kupitia barua au barua pepe hadi %1.</p>"
+msgstr "<p>Asante kwa usajili wako. Tutawasiliana nawe hivi karibuni na tunatarajia kukualika kwenye tovuti ya majaribio kama mshiriki mpya.</p><p>Unaweza kupakua hati za PDF kwa data uliyotoa. Tafadhali thibitisha kuhifadhi data yako kwa kutumia kiungo kilicho katika barua pepe iliyopokelewa, au wasilisha kibali chako cha faragha cha data kilichotiwa saini kwa ofisi ya tovuti kupitia barua pepe au barua pepe hadi %1.</p><p><b>Usajili wako umekamilika</b>, usajili mwingi utachukua muda zaidi kuunganisha data.</p>"
 
 msgid "invalid time"
 msgstr "wakati batili %1"

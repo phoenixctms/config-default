@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swedish\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "sv"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Min CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Min CRO"
+msgstr "<unk> 2025 Mitt CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Språk"
 
 msgid "session_timer_pattern"
-msgstr "Datainmatning slutar på %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Start"
@@ -85,6 +85,9 @@ msgstr "manlig"
 msgid "female"
 msgstr "kvinna"
 
+msgid "diverse"
+msgstr "mångsidig"
+
 msgid "mandatory_field_label"
 msgstr "obligatoriskt fält"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Skicka och nästa"
 
 msgid "save_done_btn_label"
-msgstr "Skicka och avsluta"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Avsluta"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Ja"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "pennans opacitet 30 %"
 
 msgid "finish_btn_label"
-msgstr "Sluta"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Fel:"
 
 msgid "error_no_proband_created"
-msgstr "spara personlig information först"
+msgstr "börja med att spara personlig information först"
 
 msgid "error_no_contact_created"
 msgstr "spara kontaktuppgifter först"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "ett ämne skapades med den här datorn nyligen, vänta innan du försöker igen"
 
 msgid "error_no_contact_details"
-msgstr "vänligen ange e-postadress eller telefonnummer"
+msgstr "ange telefonnummer"
 
 msgid "error_proband_not_agreed"
 msgstr "uttryckligt samtycke krävs för att fortsätta"
@@ -312,8 +315,17 @@ msgstr "meddela"
 msgid "proband_email_notify_tooltip"
 msgstr "Tillåt att skicka e-postmeddelanden."
 
+msgid "trial_search_label"
+msgstr "Sök provversioner:"
+
+msgid "trials_search_tooltip"
+msgstr "Sök beskrivningar av prov/kandidatlistor."
+
 msgid "trials_grid_header"
 msgstr "Försök/kandidatlistor"
+
+msgid "trials_grid_empty_message"
+msgstr "inga matchande provtillfällen/kandidatlistor"
 
 msgid "open_inquiries_btn_label"
 msgstr "Öppna anmälningsformulär"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Förfrågningsformuläret är ofullständigt"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Titta på alla sidor i förfrågningsformuläret.<br/>Föredrar du att skicka och avsluta ändå?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "skickat: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Pågående försök"
 
 msgid "trial_description"
-msgstr "<p>En översikt över pågående studier och förfrågningar presenteras i det tredje steget. Vänligen bläddra i listan för att se grundläggande information om kandidatkriterier, förfaranden och ersättningar för individuella försök.</p><p>Du kan ange ditt intresse för att delta i en viss testversion genom att registrera dig eller öppna dess förfrågningsformulär. Om du föredrar att slutföra detta vid ett senare tillfälle eller i direkt konversation, kan du hoppa över detta och avsluta din registrering.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Förfrågningsformulär - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Tack!"
 
 msgid "end_description"
-msgstr "<p>Tack för din registrering. Vi kommer att kontakta dig inom kort och ser fram emot att få bjuda in dig till provsidan som ny deltagare.</p><p>Du kan ladda ner PDF-dokument med dina angivna data. För att förhindra automatisk radering, skicka in ditt undertecknade samtycke för datasekretess till webbplatsens kontor via e-post eller e-post fram till %1.</p>"
+msgstr "<p>Tack för din registrering. Vi kommer att kontakta dig snart och ser fram emot att bjuda in dig till provplatsen som ny deltagare.</p><p>Du kan ladda ner PDF-dokument med dina angivna uppgifter. Bekräfta att du lagrar dina data med hjälp av länken i det mottagna e-postmeddelandet, eller skicka ditt undertecknade dataskydd samtycke till webbplatsens kontor via post eller e-post fram till %1.</p><p><b>Din registrering är klar</b>, flera registreringar tar bara mer tid att slå samman data.</p>"
 
 msgid "invalid time"
 msgstr "ogiltig tid %1"

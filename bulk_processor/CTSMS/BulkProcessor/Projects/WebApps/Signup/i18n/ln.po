@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Lingala\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "ln"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "CRO na ngai"
 
 msgid "copyright_label"
-msgstr "2019 CRO na ngai"
+msgstr "2025 CRO na ngai"
 
 msgid "lanuage_menu_label"
 msgstr "Lokota"
 
 msgid "session_timer_pattern"
-msgstr "Bokotisi ba données esukaka na %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Kobanda"
@@ -85,6 +85,9 @@ msgstr "mobali"
 msgid "female"
 msgstr "ya mwasi"
 
+msgid "diverse"
+msgstr "ndenge na ndenge"
+
 msgid "mandatory_field_label"
 msgstr "esika oyo esengeli kosala"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Tinda na sima"
 
 msgid "save_done_btn_label"
-msgstr "Tinda mpe silisa"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Kosilisa"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Iyo"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacité ya stylo 30% ."
 
 msgid "finish_btn_label"
-msgstr "Kolongwa"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Libunga:"
 
 msgid "error_no_proband_created"
-msgstr "bomba liboso makambo ya moto ye moko"
+msgstr "banda na kobomba liboso ba informations personnelles"
 
 msgid "error_no_contact_created"
 msgstr "bomba liboso ba détails ya contact"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "sujet moko esalemaki na ordinateur oyo kala mingi te, zela liboso ya komeka lisusu"
 
 msgid "error_no_contact_details"
-msgstr "svp pesa adresse email to numéro ya téléphone"
+msgstr "svp bopesa numéro ya téléphone"
 
 msgid "error_proband_not_agreed"
 msgstr "esengeli kondima polele mpo na kokoba"
@@ -312,8 +315,17 @@ msgstr "koyebisa"
 msgid "proband_email_notify_tooltip"
 msgstr "Tika kotinda ba Emails."
 
+msgid "trial_search_label"
+msgstr "Mimekano ya boluki:"
+
+msgid "trials_search_tooltip"
+msgstr "Boluka bandimbola ya ba épreuves/liste ya ba candidats."
+
 msgid "trials_grid_header"
 msgstr "Ba listes ya ba procès/ba candidats"
+
+msgid "trials_grid_empty_message"
+msgstr "ba listes ya ba Procès/Candidats oyo ekokani te"
 
 msgid "open_inquiries_btn_label"
 msgstr "Formulaire ya inuiry ya polele"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Formulaire ya mituna ezali mobimba te"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Svp tala nkasa nionso ya formulaire ya demande.<br/>Olingi kotinda pe kosilisa de toute façon?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "atindaki: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Mimekano oyo ezali kokoba"
 
 msgid "trial_description"
-msgstr "<p>Botali ya boyekoli pe mituna oyo ezali kosalama elakisami na eteni ya misato. Svp tala na liste pona komona ba informations ya base oyo etali ba critères ya ba candidats, ba procédures pe ba rembours ya ba procès individuels.</p><p>Okoki kolakisa bosepeli na yo ya kosangana na momekano moko boye na kokoma to kofungola formulaire na yango ya mituna. Soki olingi kosilisa likambo oyo na tango mosusu to na masolo ya direkt, okoki okoki koleka oyo mpe kosilisa bokomisi nkombo na yo.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulaire ya kotuna - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Matondi!"
 
 msgid "end_description"
-msgstr "<p>Matondo mingi mpo na bokomisi nkombo. Tokokutana na yo kala mingi te mpe tozali kozela na esengo nyonso kobengisa yo na esika ya komeka lokola mosangani ya sika.</p><p>Okoki kozwa mikanda ya PDF na ba données oyo opesi. Mpo na kopekisa bolongoli ya automatique, tinda ndingisa na yo ya kobatela makambo ya moto ye moko oyo otie sinyatili na biro ya site na nzela ya mail to email kino %1.</p>"
+msgstr "<p>Matondo mingi mpo na bokomisi nkombo na yo. Tokokutana na yo kala mingi te mpe tozali kozela na esengo nyonso kobengisa yo na esika ya komeka lokola mosangani ya sika.</p><p>Okoki kozwa mikanda ya PDF na ba données oyo opesi. Svp confirmer kobomba ba données na yo na nzela ya lien na email oyo ozui, to tinda ndingisa na yo ya confidentialité ya ba données oyo o signer na bureau ya site na nzela ya mail to email tii %1.</p><p><b>Bokomisi nkombo na yo esili</b>, bokomisi nkombo ebele ekozwa kaka ntango mingi mpo na kosangisa ba données.</p>"
 
 msgid "invalid time"
 msgstr "tango ya mabe %1"

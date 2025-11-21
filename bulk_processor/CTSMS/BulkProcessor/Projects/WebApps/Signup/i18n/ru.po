@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2025-11-10 20:02\n"
 
 msgid "lang"
 msgstr "ru"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Мой CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Мой CRO"
+msgstr "<unk> 2025 Мой CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Язык"
 
 msgid "session_timer_pattern"
-msgstr "Ввод данных заканчивается через %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Начинать"
@@ -85,6 +85,9 @@ msgstr "мужской"
 msgid "female"
 msgstr "женский"
 
+msgid "diverse"
+msgstr "разный"
+
 msgid "mandatory_field_label"
 msgstr "обязательное поле"
 
@@ -92,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Отправить и дальше"
 
 msgid "save_done_btn_label"
-msgstr "Отправить и завершить"
+msgstr "Send and complete"
 
 msgid "done_btn_label"
-msgstr "Заканчивать"
+msgstr "Complete"
 
 msgid "yes_btn_label"
 msgstr "Да"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "непрозрачность пера 30%"
 
 msgid "finish_btn_label"
-msgstr "Покидать"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Ошибка:"
 
 msgid "error_no_proband_created"
-msgstr "сначала сохраните личную информацию"
+msgstr "сначала сохранить личную информацию"
 
 msgid "error_no_contact_created"
 msgstr "сначала сохраните контактные данные"
@@ -167,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "на этом компьютере недавно была создана тема, пожалуйста, подождите, прежде чем повторить попытку"
 
 msgid "error_no_contact_details"
-msgstr "укажите адрес электронной почты или номер телефона"
+msgstr "пожалуйста, укажите номер телефона"
 
 msgid "error_proband_not_agreed"
 msgstr "для продолжения требуется явно выраженное согласие"
@@ -312,8 +315,17 @@ msgstr "поставить в известность"
 msgid "proband_email_notify_tooltip"
 msgstr "Разрешить отправлять электронные письма."
 
+msgid "trial_search_label"
+msgstr "Поиск пробных версий:"
+
+msgid "trials_search_tooltip"
+msgstr "Поиск описаний списков пробных/кандидатов."
+
 msgid "trials_grid_header"
 msgstr "Испытания/списки кандидатов"
+
+msgid "trials_grid_empty_message"
+msgstr "нет подходящих списков Trial/Candidate"
 
 msgid "open_inquiries_btn_label"
 msgstr "Открыть форму запроса"
@@ -328,7 +340,7 @@ msgid "incomplete_dlg_title"
 msgstr "Форма запроса не заполнена"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Пожалуйста, просмотрите все страницы формы запроса.<br/>Вы всё равно предпочитаете отправить и завершить?"
+msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
 
 msgid "inquiries_pbar_template"
 msgstr "отправлено: %d/%d"
@@ -373,7 +385,7 @@ msgid "trial_title"
 msgstr "Текущие испытания"
 
 msgid "trial_description"
-msgstr "<p>Обзор текущих исследований и запросов представлен на третьем этапе. Просмотрите список, чтобы увидеть основную информацию о критериях кандидатов, процедурах и возмещении расходов на отдельные испытания.</p><p>Вы можете выразить свою заинтересованность в участии в конкретном исследовании, зарегистрировавшись или открыв форму запроса. Если вы предпочитаете завершить это позже или в прямом разговоре, вы можете пропустить это и завершить регистрацию.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Форма запроса - %1"
@@ -385,7 +397,7 @@ msgid "end_title"
 msgstr "Спасибо!"
 
 msgid "end_description"
-msgstr "<p>Спасибо за регистрацию. Мы свяжемся с вами в ближайшее время и будем рады пригласить вас на пробную площадку в качестве нового участника.</p><p>Вы можете скачать PDF-документы с предоставленными вами данными. Чтобы предотвратить автоматическое удаление, отправьте подписанное согласие на конфиденциальность данных в офис сайта по почте или электронной почте до %1.</p>"
+msgstr "<p>Спасибо за регистрацию. Мы свяжемся с вами в ближайшее время и будем рады пригласить вас на пробный сайт в качестве нового участника.</p><p>Вы можете скачать PDF-документы с предоставленными вами данными. Пожалуйста, подтвердите сохранение ваших данных, перейдя по ссылке в полученном электронном письме, или отправьте подписанное вами согласие на конфиденциальность данных в офис сайта по почте или электронной почте до %1.</p><p><b>Ваша регистрация завершена</b>. При нескольких регистрациях объединение данных займет больше времени.</p>"
 
 msgid "invalid time"
 msgstr "неверное время %1"
