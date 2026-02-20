@@ -17,6 +17,7 @@ show_errors: 1
 session: YAML
 session_secure: 0
 session_is_http_only: 0
+session_same_site: Lax
 #session_domain: .medunigraz.at
 session_expires: 600
 #3000
