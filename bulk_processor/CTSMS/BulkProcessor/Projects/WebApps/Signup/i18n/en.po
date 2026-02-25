@@ -22,7 +22,7 @@ msgid "logo_label"
 msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "© 2025 My CRO"
+msgstr "© 2026 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Language"
@@ -169,7 +169,7 @@ msgid "error_no_trial_selected"
 msgstr "select a trial first"
 
 msgid "error_inquiries_na"
-msgstr "select a trial with inquiry form first"
+msgstr "select a trial with (enabled) inquiry form"
 
 msgid "error_trials_na"
 msgstr "select a trial site with trials first"
@@ -182,6 +182,12 @@ msgstr "please provide phone number"
 
 msgid "error_proband_not_agreed"
 msgstr "express consent is required to continue"
+
+msgid "error_invalid_listentry"
+msgstr "invalid subject list entry %1"
+
+msgid "error_listentry_unknown_site"
+msgstr "invalid site %1"
 
 msgid "trial_sites_header"
 msgstr "Trial sites"
@@ -410,6 +416,9 @@ msgstr "Thank you!"
 
 msgid "end_description"
 msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. Please confirm storing your data using the link in the received email, or submit your signed data privacy consent to the site office via mail or email until %1.</p><p><b>Your registration is complete</b>, multiple registrations will just take more time to merge data.</p>"
+
+msgid "end_listentry_description"
+msgstr "<p>Thank you for completing the questionaires.</p><p>You can download PDF documents with your provided data.</p>"
 
 msgid "invalid time"
 msgstr "invalid time %1"
