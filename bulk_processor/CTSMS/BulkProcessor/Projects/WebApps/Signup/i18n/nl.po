@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
-"PO-Revision-Date: 2025-11-10 20:02\n"
+"PO-Revision-Date: 2026-02-25 14:33\n"
 
 msgid "lang"
 msgstr "nl"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Mijn CRO"
 
 msgid "copyright_label"
-msgstr "¦ 2025 Mijn CRO"
+msgstr "Ο2026 Mijn CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Taal"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "selecteer eerst een proefversie"
 
 msgid "error_inquiries_na"
-msgstr "Selecteer eerst een proefperiode met aanvraagformulier"
+msgstr "Selecteer een proefperiode met (ingeschakeld) verzoekformulier"
 
 msgid "error_trials_na"
 msgstr "selecteer eerst een proeflocatie met proeven"
@@ -174,6 +174,12 @@ msgstr "geef een telefoonnummer op"
 
 msgid "error_proband_not_agreed"
 msgstr "Om door te gaan is uitdrukkelijke toestemming vereist"
+
+msgid "error_invalid_listentry"
+msgstr "ongeldige onderwerplijst vermelding %1"
+
+msgid "error_listentry_unknown_site"
+msgstr "ongeldige website %1"
 
 msgid "trial_sites_header"
 msgstr "Proefsites"
@@ -398,6 +404,9 @@ msgstr "Bedankt!"
 
 msgid "end_description"
 msgstr "<p>Bedankt voor uw registratie. We nemen binnenkort contact met u op en kijken ernaar uit om u als nieuwe deelnemer uit te nodigen op de proefsite.</p><p>U kunt PDF-documenten downloaden met de door u verstrekte gegevens. Bevestig het opslaan van uw gegevens via de link in de ontvangen e-mail, of verstuur uw ondertekende privacy-toestemming naar de site kantoor via e-mail of e-mail tot %1.</p><p><b>Uw registratie is voltooid</b>, meerdere registraties zullen gewoon meer tijd kosten om gegevens samen te voegen.</p>"
+
+msgid "end_listentry_description"
+msgstr "<p>Bedankt voor het invullen van de vragenlijsten.</p><p>U kunt PDF-documenten downloaden met uw verstrekte gegevens.</p>"
 
 msgid "invalid time"
 msgstr "ongeldige tijd %1"
