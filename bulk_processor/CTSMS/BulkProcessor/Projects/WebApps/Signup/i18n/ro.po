@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Romanian\n"
-"PO-Revision-Date: 2025-11-10 20:02\n"
+"PO-Revision-Date: 2026-02-25 14:33\n"
 
 msgid "lang"
 msgstr "ro"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "CRO-ul meu"
 
 msgid "copyright_label"
-msgstr "Lv. 2025 CRO meu"
+msgstr "NR 2026"
 
 msgid "lanuage_menu_label"
 msgstr "Limba"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "selectați mai întâi o încercare"
 
 msgid "error_inquiries_na"
-msgstr "selectați mai întâi o încercare cu formular de întrebare"
+msgstr "selectați un trial cu formularul de anchetă (activat)"
 
 msgid "error_trials_na"
 msgstr "selectați mai întâi un site de încercare cu teste"
@@ -174,6 +174,12 @@ msgstr "vă rugăm să furnizaţi numărul de telefon"
 
 msgid "error_proband_not_agreed"
 msgstr "este necesar consimțământul expres pentru a continua"
+
+msgid "error_invalid_listentry"
+msgstr "intrare listă de subiecte %1 nevalidă"
+
+msgid "error_listentry_unknown_site"
+msgstr "site incorect %1"
 
 msgid "trial_sites_header"
 msgstr "Site-uri de încercare"
@@ -398,6 +404,9 @@ msgstr "Mulțumesc!"
 
 msgid "end_description"
 msgstr "<p>Vă mulțumim pentru înregistrare. Vă vom contacta în curând şi aşteptăm cu nerăbdare să vă invităm la locul de testare ca un nou participant.</p><p>Puteți descărca documente PDF cu datele furnizate. Vă rugăm să confirmaţi stocarea datelor dvs. folosind link-ul din e-mailul primit, sau trimiteți acordul de confidențialitate a datelor dvs. semnate către biroul site-ului prin e-mail sau e-mail până la %1.</p><p><b>Înregistrarea dvs. este completă</b>, va dura mai mult timp pentru a fuziona datele.</p>"
+
+msgid "end_listentry_description"
+msgstr "<p>Vă mulțumim pentru completarea întrebărilor.</p><p>Puteți descărca documentele PDF cu datele furnizate.</p>"
 
 msgid "invalid time"
 msgstr "oră invalidă %1"
