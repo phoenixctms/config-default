@@ -17,7 +17,7 @@ msgid "logo_label"
 msgstr "My CRO"
 
 msgid "copyright_label"
-msgstr "© 2025 My CRO"
+msgstr "© 2026 My CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Sprache"
@@ -162,7 +162,7 @@ msgid "error_no_trial_selected"
 msgstr "zuerst Studie auswählen"
 
 msgid "error_inquiries_na"
-msgstr "zuerst Studie mit Fragebogen auswählen"
+msgstr "Studie mit (freigeschaltetem) Fragebogen auswählen"
 
 msgid "error_trials_na"
 msgstr "zuerst Prüfzentrum mit Studien auswählen"
@@ -175,6 +175,12 @@ msgstr "bitte Telefonnummer angeben"
 
 msgid "error_proband_not_agreed"
 msgstr "die ausdrückliche Zustimmung ist erforderlich um fortzufahren"
+
+msgid "error_invalid_listentry"
+msgstr "ungültiger Probandenlisteneintrag %1"
+
+msgid "error_listentry_unknown_site"
+msgstr "ungültige Site %1"
 
 msgid "trial_sites_header"
 msgstr "Prüfzentren"
@@ -401,6 +407,9 @@ msgstr "Vielen Dank!"
 
 msgid "end_description"
 msgstr "<p>Vielen Dank für Ihre Registrierung. Wir werden uns demnächst bei Ihnen melden und freuen uns, Sie vielleicht bald als Studienteilnehmer am Prüfzentrum begrüßen zu dürfen.</p><p>Wenn Sie möchten, können Sie abschliessend die eingegebenen Daten als PDF abrufen. Bestätigen Sie ihre Einverständnis zur Datenspeicherung mit dem Link in dem erhaltenen E-Mail, oder übermitteln Sie bitte die unterschriebene Datenschutz-Einverständniserklärung bis spätestens zum %1 per E-Mail oder Postweg an das Prüfzentrum.</p><p><b>Ihre Registrierung ist vollständig</b>, Mehrfachregistrierungen haben eine Verzögerung auf Grund der Datenzusammenführung zur Folge.</p>"
+
+msgid "end_listentry_description"
+msgstr "<p>Vielen Dank für das Ausfüllen der Fragebögen.</p><p>Wenn Sie möchten, können Sie abschliessend die eingegebenen Daten als PDF abrufen.</p>"
 
 msgid "invalid time"
 msgstr "ungültige Uhrzeit %1"
