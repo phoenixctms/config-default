@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
-"PO-Revision-Date: 2025-11-10 20:02\n"
+"PO-Revision-Date: 2026-02-25 14:33\n"
 
 msgid "lang"
 msgstr "ko"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "내 CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2025 마이크로"
+msgstr "ｩ 2026 마이크로"
 
 msgid "lanuage_menu_label"
 msgstr "언어"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "먼저 평가판을 선택하세요"
 
 msgid "error_inquiries_na"
-msgstr "먼저 문의 양식을 통해 시험을 선택하세요."
+msgstr "문의 양식이 활성화된 체험판을 선택하세요."
 
 msgid "error_trials_na"
 msgstr "먼저 평가판이 있는 평가판 사이트를 선택하세요."
@@ -174,6 +174,12 @@ msgstr "전화번호를 알려주세요"
 
 msgid "error_proband_not_agreed"
 msgstr "계속하려면 명시적 동의가 필요합니다."
+
+msgid "error_invalid_listentry"
+msgstr "잘못된 주제 목록 항목 %1"
+
+msgid "error_listentry_unknown_site"
+msgstr "잘못된 사이트 %1"
 
 msgid "trial_sites_header"
 msgstr "평가판 사이트"
@@ -398,6 +404,9 @@ msgstr "감사합니다!"
 
 msgid "end_description"
 msgstr "<p>등록해 주셔서 감사합니다. 곧 연락드리겠습니다. 새로운 참가자로서 체험 사이트에 초대해 드리겠습니다.</p><p>제공하신 데이터가 포함된 PDF 문서를 다운로드할 수 있습니다. 수신된 이메일의 링크를 사용하여 데이터 저장을 확인하시거나, 서명된 데이터 개인정보 보호 동의서를 %1까지 우편이나 이메일로 사이트 사무실에 제출해 주세요.</p><p><b>등록이 완료되었습니다.</b>여러 번 등록할 경우 데이터 병합에 시간이 더 걸릴 수 있습니다.</p>"
+
+msgid "end_listentry_description"
+msgstr "<p>설문지를 작성해 주셔서 감사합니다.</p><p>작성하신 데이터가 포함된 PDF 문서를 다운로드하실 수 있습니다.</p>"
 
 msgid "invalid time"
 msgstr "잘못된 시간 %1"
