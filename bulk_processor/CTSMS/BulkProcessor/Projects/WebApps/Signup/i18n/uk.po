@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2025-11-10 20:02\n"
+"PO-Revision-Date: 2026-02-25 14:34\n"
 
 msgid "lang"
 msgstr "uk"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Мій CRO"
 
 msgid "copyright_label"
-msgstr "До 2025 Мій CRO"
+msgstr "Мій CRO становив 2026"
 
 msgid "lanuage_menu_label"
 msgstr "Мова"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "спочатку виберіть пробну версію"
 
 msgid "error_inquiries_na"
-msgstr "спочатку виберіть пробну форму за допомогою форми запиту"
+msgstr "вибрати пробну версію із (включеною) формою запиту"
 
 msgid "error_trials_na"
 msgstr "спочатку виберіть пробний сайт із тестами"
@@ -174,6 +174,12 @@ msgstr "будь ласка, надайте номер телефону"
 
 msgid "error_proband_not_agreed"
 msgstr "для продовження потрібна чітка згода"
+
+msgid "error_invalid_listentry"
+msgstr "неприпустимий запис у списку тем %1"
+
+msgid "error_listentry_unknown_site"
+msgstr "недійсний сайт %1"
 
 msgid "trial_sites_header"
 msgstr "Пробні сайти"
@@ -398,6 +404,9 @@ msgstr "Дякую тобі!"
 
 msgid "end_description"
 msgstr "<p>Дякуємо за вашу реєстрацію. Ми зв’яжемося з вами найближчим часом і з нетерпінням чекаємо можливості запросити вас на пробний сайт як нового учасника.</p><p>Ви можете завантажити PDF-документи з наданими вами даними. Будь ласка, підтвердіть збереження ваших даних, скориставшись посиланням в отриманому електронному листі, або надішліть свою підписану згоду на конфіденційність даних до офісу сайту поштою чи електронною поштою до %1.</p><p><b>Вашу реєстрацію завершено</b>, для кількох реєстрацій просто знадобиться більше часу для об’єднання даних.</p>"
+
+msgid "end_listentry_description"
+msgstr "<p>Дякуємо за заповнення анкет.</p><p>Ви можете завантажити PDF-документи з наданими вами даними.</p>"
 
 msgid "invalid time"
 msgstr "недійсний час %1"
