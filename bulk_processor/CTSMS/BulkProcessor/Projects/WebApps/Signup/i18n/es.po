@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2025-11-10 20:02\n"
+"PO-Revision-Date: 2026-02-25 14:33\n"
 
 msgid "lang"
 msgstr "es"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Mi CRO"
 
 msgid "copyright_label"
-msgstr "✅ 2025 Mi CRO"
+msgstr "✅ 2026 Mi CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Idioma"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "seleccione una prueba primero"
 
 msgid "error_inquiries_na"
-msgstr "seleccione primero una prueba con formulario de consulta"
+msgstr "seleccione un formulario de prueba con formulario de consulta (habilitado)"
 
 msgid "error_trials_na"
 msgstr "seleccione un sitio de prueba con pruebas primero"
@@ -174,6 +174,12 @@ msgstr "por favor proporcione el número de teléfono"
 
 msgid "error_proband_not_agreed"
 msgstr "Se requiere consentimiento expreso para continuar."
+
+msgid "error_invalid_listentry"
+msgstr "entrada de lista de temas inválida %1"
+
+msgid "error_listentry_unknown_site"
+msgstr "sitio inválido %1"
 
 msgid "trial_sites_header"
 msgstr "Sitios de prueba"
@@ -398,6 +404,9 @@ msgstr "¡Gracias!"
 
 msgid "end_description"
 msgstr "<p>Gracias por su registro. Nos pondremos en contacto con usted pronto y esperamos invitarle al centro de pruebas como nuevo participante.</p><p>Puede descargar documentos PDF con los datos que nos proporcionó. Confirme el almacenamiento de sus datos mediante el enlace del correo electrónico recibido o envíe su consentimiento de privacidad de datos firmado a la oficina del centro por correo postal o electrónico antes del %1.</p><p><b>Su registro se ha completado</b>. Los registros múltiples solo requerirán más tiempo para la fusión de datos.</p>"
+
+msgid "end_listentry_description"
+msgstr "<p>Gracias por completar los cuestionarios.</p><p>Puede descargar documentos PDF con los datos proporcionados.</p>"
 
 msgid "invalid time"
 msgstr "hora no válida %1"
