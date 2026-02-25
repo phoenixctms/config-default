@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swedish\n"
-"PO-Revision-Date: 2025-11-10 20:02\n"
+"PO-Revision-Date: 2026-02-25 14:34\n"
 
 msgid "lang"
 msgstr "sv"
@@ -32,7 +32,7 @@ msgid "logo_label"
 msgstr "Min CRO"
 
 msgid "copyright_label"
-msgstr "<unk> 2025 Mitt CRO"
+msgstr "<unk> 2026 Mitt CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Språk"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "välj en provversion först"
 
 msgid "error_inquiries_na"
-msgstr "välj en testversion med förfrågningsformulär först"
+msgstr "välj en provversion med (aktiverad) frågeformulär"
 
 msgid "error_trials_na"
 msgstr "välj en testwebbplats med tester först"
@@ -174,6 +174,12 @@ msgstr "ange telefonnummer"
 
 msgid "error_proband_not_agreed"
 msgstr "uttryckligt samtycke krävs för att fortsätta"
+
+msgid "error_invalid_listentry"
+msgstr "ogiltig ärendelistpost %1"
+
+msgid "error_listentry_unknown_site"
+msgstr "ogiltig sajt %1"
 
 msgid "trial_sites_header"
 msgstr "Provsajter"
@@ -398,6 +404,9 @@ msgstr "Tack!"
 
 msgid "end_description"
 msgstr "<p>Tack för din registrering. Vi kommer att kontakta dig snart och ser fram emot att bjuda in dig till provplatsen som ny deltagare.</p><p>Du kan ladda ner PDF-dokument med dina angivna uppgifter. Bekräfta att du lagrar dina data med hjälp av länken i det mottagna e-postmeddelandet, eller skicka ditt undertecknade dataskydd samtycke till webbplatsens kontor via post eller e-post fram till %1.</p><p><b>Din registrering är klar</b>, flera registreringar tar bara mer tid att slå samman data.</p>"
+
+msgid "end_listentry_description"
+msgstr "<p>Tack för att du fyller i frågorna.</p><p>Du kan ladda ner PDF-dokument med dina angivna uppgifter.</p>"
 
 msgid "invalid time"
 msgstr "ogiltig tid %1"
