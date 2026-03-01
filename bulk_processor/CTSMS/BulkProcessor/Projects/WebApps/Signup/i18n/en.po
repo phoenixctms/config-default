@@ -93,7 +93,7 @@ msgid "save_next_btn_label"
 msgstr "Send and next"
 
 msgid "save_done_btn_label"
-msgstr "Send and complete"
+msgstr "Finish"
 
 msgid "done_btn_label"
 msgstr "Complete"
