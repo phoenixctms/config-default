@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
-"PO-Revision-Date: 2026-02-25 14:33\n"
+"PO-Revision-Date: 2026-03-01 12:31\n"
 
 msgid "lang"
 msgstr "it"
@@ -95,7 +95,7 @@ msgid "save_next_btn_label"
 msgstr "Invia e successivo"
 
 msgid "save_done_btn_label"
-msgstr "Send and complete"
+msgstr "Termina"
 
 msgid "done_btn_label"
 msgstr "Complete"
