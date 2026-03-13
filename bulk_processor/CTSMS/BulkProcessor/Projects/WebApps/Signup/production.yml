@@ -17,10 +17,11 @@ warnings: 1
 show_errors: 0
 error_template: runtime_error
 
-session: "memcached"
-memcached_servers: "/var/run/memcached/memcached.sock"
+#session: "memcached"
+#memcached_servers: "/var/run/memcached/memcached.sock"
+#-> Out of memory in perl:util:safesyscalloc
 
-#session: YAML
+session: YAML
 session_secure: 0
 session_is_http_only: 0
 session_same_site: Lax
