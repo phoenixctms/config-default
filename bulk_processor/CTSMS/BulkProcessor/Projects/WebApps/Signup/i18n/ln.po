@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Lingala\n"
-"PO-Revision-Date: 2026-03-01 12:32\n"
+"PO-Revision-Date: 2026-03-20 01:09\n"
 
 msgid "lang"
 msgstr "ln"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Tinda na sima"
 
 msgid "save_done_btn_label"
-msgstr "Kosilisa"
+msgstr "Tinda mpe silisa"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Kosilisa"
 
 msgid "yes_btn_label"
 msgstr "Iyo"
@@ -309,6 +309,9 @@ msgstr "Tyombo:"
 msgid "proband_phone_tooltip"
 msgstr "Format ya numéro ya téléphone lokola '0699 1234567' to '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "koyebisa"
+
 msgid "proband_email_label"
 msgstr "Email:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "koyebisa"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Tika kotinda ba Emails."
+msgstr "Tika kotindela yo ba Emails."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Tika kotindela yo SMS."
 
 msgid "trial_search_label"
 msgstr "Mimekano ya boluki:"
