@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:08\n"
 
 msgid "lang"
 msgstr "ar"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "إرسال والتالي"
 
 msgid "save_done_btn_label"
-msgstr "إنهاء"
+msgstr "إرسال وإنهاء"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "إنهاء"
 
 msgid "yes_btn_label"
 msgstr "نعم"
@@ -309,6 +309,9 @@ msgstr "هاتف:"
 msgid "proband_phone_tooltip"
 msgstr "تنسيق رقم الهاتف مثل \"0699 1234567\" أو \"0316 38573000\"."
 
+msgid "proband_phone_notify_label"
+msgstr "يخطر"
+
 msgid "proband_email_label"
 msgstr "بريد إلكتروني:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "يخطر"
 
 msgid "proband_email_notify_tooltip"
-msgstr "السماح بإرسال رسائل البريد الإلكتروني."
+msgstr "السماح بإرسال رسائل البريد الإلكتروني إليك."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "السماح بإرسال رسالة SMS لك."
 
 msgid "trial_search_label"
 msgstr "ابحث في التجارب:"
