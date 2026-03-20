@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:08\n"
 
 msgid "lang"
 msgstr "fr"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Envoyer et suivant"
 
 msgid "save_done_btn_label"
-msgstr "Terminer"
+msgstr "Envoyer et terminer"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Terminer"
 
 msgid "yes_btn_label"
 msgstr "Oui"
@@ -309,6 +309,9 @@ msgstr "Téléphone:"
 msgid "proband_phone_tooltip"
 msgstr "Format de numéro de téléphone tel que « 0699 1234567 » ou « 0316 38573000 »."
 
+msgid "proband_phone_notify_label"
+msgstr "notifier"
+
 msgid "proband_email_label"
 msgstr "E-mail:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "notifier"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Autoriser l'envoi d'e-mails."
+msgstr "Permettre de vous envoyer des e-mails."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Permettre de vous envoyer des SMS."
 
 msgid "trial_search_label"
 msgstr "Rechercher les épreuves :"
