@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hindi\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:09\n"
 
 msgid "lang"
 msgstr "hi"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "भेजें और अगला"
 
 msgid "save_done_btn_label"
-msgstr "खत्म करना"
+msgstr "भेजें और समाप्त करें"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "खत्म करना"
 
 msgid "yes_btn_label"
 msgstr "हाँ"
@@ -309,6 +309,9 @@ msgstr "फ़ोन:"
 msgid "proband_phone_tooltip"
 msgstr "फ़ोन नंबर प्रारूप जैसे '0699 1234567' या '0316 38573000'।"
 
+msgid "proband_phone_notify_label"
+msgstr "सूचित करें"
+
 msgid "proband_email_label"
 msgstr "ईमेल:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "सूचित करें"
 
 msgid "proband_email_notify_tooltip"
-msgstr "ईमेल भेजने की अनुमति दें."
+msgstr "आपको ईमेल भेजने की अनुमति दें।"
+
+msgid "proband_phone_notify_tooltip"
+msgstr "आपको एसएमएस भेजने की अनुमति दें।"
 
 msgid "trial_search_label"
 msgstr "खोज परीक्षण:"
