@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Yoruba\n"
-"PO-Revision-Date: 2026-03-01 12:32\n"
+"PO-Revision-Date: 2026-03-20 01:09\n"
 
 msgid "lang"
 msgstr "yo"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Firanṣẹ ati atẹle"
 
 msgid "save_done_btn_label"
-msgstr "Ipari"
+msgstr "Firanṣẹ ki o pari"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Ipari"
 
 msgid "yes_btn_label"
 msgstr "Bẹẹni"
@@ -309,6 +309,9 @@ msgstr "Foonu:"
 msgid "proband_phone_tooltip"
 msgstr "Ọna kika nọmba foonu bi '0699 1234567' tabi '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "leti"
+
 msgid "proband_email_label"
 msgstr "Imeeli:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "leti"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Gba laaye lati fi imeeli ranṣẹ."
+msgstr "Gba laaye lati fi awọn Imeeli ranṣẹ si ọ."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Gba laaye lati fi SMS ranṣẹ si ọ."
 
 msgid "trial_search_label"
 msgstr "Wa awọn idanwo:"
