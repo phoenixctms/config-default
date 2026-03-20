@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:08\n"
 
 msgid "lang"
 msgstr "es"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "enviar y siguiente"
 
 msgid "save_done_btn_label"
-msgstr "Finalizar"
+msgstr "Enviar y finalizar"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Finalizar"
 
 msgid "yes_btn_label"
 msgstr "Sí"
@@ -309,6 +309,9 @@ msgstr "Teléfono:"
 msgid "proband_phone_tooltip"
 msgstr "Formato de número de teléfono como '0699 1234567' o '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "notificar"
+
 msgid "proband_email_label"
 msgstr "Correo electrónico:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "notificar"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Permitir enviar correos electrónicos."
+msgstr "Permitir enviarle correos electrónicos."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Permite enviarte SMS."
 
 msgid "trial_search_label"
 msgstr "Buscar ensayos:"
