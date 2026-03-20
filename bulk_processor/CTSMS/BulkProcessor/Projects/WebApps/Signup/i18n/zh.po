@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
-"PO-Revision-Date: 2026-03-20 01:09\n"
+"PO-Revision-Date: 2026-03-20 02:39\n"
 
 msgid "lang"
 msgstr "zh"
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "查询表格不完整"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
+msgstr "请查看询价表的所有页面。<br/>您是否仍然想完成此表？"
 
 msgid "inquiries_pbar_template"
 msgstr "发送: %d/%d"
