@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Igbo\n"
-"PO-Revision-Date: 2026-03-01 12:32\n"
+"PO-Revision-Date: 2026-03-20 01:09\n"
 
 msgid "lang"
 msgstr "ig"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Ziga na ọzọ"
 
 msgid "save_done_btn_label"
-msgstr "emecha"
+msgstr "Zipụ ma mechaa"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "emecha"
 
 msgid "yes_btn_label"
 msgstr "Ee"
@@ -309,6 +309,9 @@ msgstr "Ekwentị:"
 msgid "proband_phone_tooltip"
 msgstr "Ọkpụkpọ ekwentị dịka '0699 1234567' ma ọ bụ '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "gosi"
+
 msgid "proband_email_label"
 msgstr "Email:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "gosi"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Hapụ izipu ozi-e."
+msgstr "Kwe ka izipu gị ozi email."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Kwe ka o zitere gị SMS."
 
 msgid "trial_search_label"
 msgstr "Chọọ nnwale:"
