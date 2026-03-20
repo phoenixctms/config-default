@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swahili\n"
-"PO-Revision-Date: 2026-03-01 12:32\n"
+"PO-Revision-Date: 2026-03-20 01:09\n"
 
 msgid "lang"
 msgstr "sw"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Tuma na ijayo"
 
 msgid "save_done_btn_label"
-msgstr "Maliza"
+msgstr "Tuma na umalize"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Maliza"
 
 msgid "yes_btn_label"
 msgstr "Ndiyo"
@@ -309,6 +309,9 @@ msgstr "Simu:"
 msgid "proband_phone_tooltip"
 msgstr "Umbizo la nambari ya simu kama '0699 1234567' au '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "arifu"
+
 msgid "proband_email_label"
 msgstr "Barua pepe:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "arifu"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Ruhusu kutuma Barua pepe."
+msgstr "Ruhusu kukutumia Barua Pepe."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Ruhusu kukutumia SMS."
 
 msgid "trial_search_label"
 msgstr "Tafuta majaribio:"
