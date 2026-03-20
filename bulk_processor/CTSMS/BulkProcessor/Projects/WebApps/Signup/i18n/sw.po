@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swahili\n"
-"PO-Revision-Date: 2026-03-20 01:09\n"
+"PO-Revision-Date: 2026-03-20 02:39\n"
 
 msgid "lang"
 msgstr "sw"
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Fomu ya uchunguzi haijakamilika"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
+msgstr "Tafadhali angalia kurasa zote za fomu ya uchunguzi.<br/>Je, unapendelea kumaliza hata hivyo?"
 
 msgid "inquiries_pbar_template"
 msgstr "imetumwa: %d/%d"
