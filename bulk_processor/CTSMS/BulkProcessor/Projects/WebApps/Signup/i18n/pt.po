@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:08\n"
 
 msgid "lang"
 msgstr "pt"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Enviar e próximo"
 
 msgid "save_done_btn_label"
-msgstr "Acabamento"
+msgstr "Enviar e terminar"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Acabamento"
 
 msgid "yes_btn_label"
 msgstr "Sim"
@@ -309,6 +309,9 @@ msgstr "Telefone:"
 msgid "proband_phone_tooltip"
 msgstr "Formato de número de telefone como '0699 1234567' ou '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "notificar"
+
 msgid "proband_email_label"
 msgstr "E-mail:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "notificar"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Permitir enviar e-mails."
+msgstr "Permitir o envio de e-mails."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Permitir enviar SMS para você."
 
 msgid "trial_search_label"
 msgstr "Pesquisar tentativas:"
