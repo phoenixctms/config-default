@@ -93,10 +93,10 @@ msgid "save_next_btn_label"
 msgstr "Send and next"
 
 msgid "save_done_btn_label"
-msgstr "Finish"
+msgstr "Send and finish"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Finish"
 
 msgid "yes_btn_label"
 msgstr "Yes"
@@ -313,6 +313,9 @@ msgstr "Phone:"
 msgid "proband_phone_tooltip"
 msgstr "Phone number format like '0699 1234567' or '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "notify"
+
 msgid "proband_email_label"
 msgstr "Email:"
 
@@ -323,7 +326,10 @@ msgid "proband_email_notify_label"
 msgstr "notify"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Allow to send Emails."
+msgstr "Allow to send you Emails."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Allow to send you SMS."
 
 msgid "trial_search_label"
 msgstr "Search trials:"

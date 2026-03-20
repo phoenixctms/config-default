@@ -88,10 +88,10 @@ msgid "save_next_btn_label"
 msgstr "Absenden und weiter"
 
 msgid "save_done_btn_label"
-msgstr "Beenden"
+msgstr "Absenden und beenden"
 
 msgid "done_btn_label"
-msgstr "Abschlieﬂen"
+msgstr "Beenden"
 
 msgid "yes_btn_label"
 msgstr "Ja"
@@ -141,7 +141,7 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "Farbtransparenz 60%"
 
 msgid "finish_btn_label"
-msgstr "Abschliessen"
+msgstr "Abschlieﬂen"
 
 #msgid "hour_text"
 #msgstr "Stunde"
@@ -307,6 +307,9 @@ msgstr "Telefon:"
 msgid "proband_phone_tooltip"
 msgstr "Telefonnummer im Format '0699 1234567' oder '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "benachrichtigen"
+
 msgid "proband_email_label"
 msgstr "E-Mail:"
 
@@ -318,6 +321,9 @@ msgstr "benachrichtigen"
 
 msgid "proband_email_notify_tooltip"
 msgstr "Benachrichtigung per E-Mail erlauben."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Benachrichtigung per SMS erlauben."
 
 msgid "trial_search_label"
 msgstr "Studien durchsuchen:"
