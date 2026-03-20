@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Croatian\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:09\n"
 
 msgid "lang"
 msgstr "hr"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Pošalji i dalje"
 
 msgid "save_done_btn_label"
-msgstr "Završiti"
+msgstr "Pošalji i završi"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Završiti"
 
 msgid "yes_btn_label"
 msgstr "Da"
@@ -309,6 +309,9 @@ msgstr "Telefon:"
 msgid "proband_phone_tooltip"
 msgstr "Format telefonskog broja poput '0699 1234567' ili '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "obavijestiti"
+
 msgid "proband_email_label"
 msgstr "Email:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "obavijestiti"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Dopusti slanje e-pošte."
+msgstr "Omogućite slanje e-pošte."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Dopustite slanje SMS-a."
 
 msgid "trial_search_label"
 msgstr "Pretraživanje pokusnih verzija:"
