@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Finnish\n"
-"PO-Revision-Date: 2026-03-20 01:08\n"
+"PO-Revision-Date: 2026-03-20 02:39\n"
 
 msgid "lang"
 msgstr "fi"
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Kyselylomake epätäydellinen"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
+msgstr "Katsokaa tiedustelulomakkeen kaikkia sivuja.<br/>Haluatteko lopettaa sen joka tapauksessa?"
 
 msgid "inquiries_pbar_template"
 msgstr "lähetetty: %d/%d"
