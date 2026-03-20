@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:08\n"
 
 msgid "lang"
 msgstr "tr"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Gönder ve sonraki"
 
 msgid "save_done_btn_label"
-msgstr "Sona ermek"
+msgstr "Gönder ve bitir"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Sona ermek"
 
 msgid "yes_btn_label"
 msgstr "Evet"
@@ -309,6 +309,9 @@ msgstr "Telefon:"
 msgid "proband_phone_tooltip"
 msgstr "'0699 1234567' veya '0316 38573000' gibi telefon numarası biçimi."
 
+msgid "proband_phone_notify_label"
+msgstr "bildirmek"
+
 msgid "proband_email_label"
 msgstr "E-posta:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "bildirmek"
 
 msgid "proband_email_notify_tooltip"
-msgstr "E-posta göndermeye izin ver."
+msgstr "Size e-posta göndermeme izin verin."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Size SMS göndermeme izin verin."
 
 msgid "trial_search_label"
 msgstr "Arama denemeleri:"
