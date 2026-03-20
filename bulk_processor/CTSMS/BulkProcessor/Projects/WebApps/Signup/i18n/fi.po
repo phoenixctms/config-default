@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Finnish\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:08\n"
 
 msgid "lang"
 msgstr "fi"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Lähetä ja seuraavaksi"
 
 msgid "save_done_btn_label"
-msgstr "Valmis"
+msgstr "Lähetä ja lopeta"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Valmis"
 
 msgid "yes_btn_label"
 msgstr "Joo"
@@ -309,6 +309,9 @@ msgstr "Puhelin:"
 msgid "proband_phone_tooltip"
 msgstr "Puhelinnumeromuoto, kuten '0699 1234567' tai '0316 38573000'."
 
+msgid "proband_phone_notify_label"
+msgstr "ilmoittaa"
+
 msgid "proband_email_label"
 msgstr "Sähköposti:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "ilmoittaa"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Salli sähköpostien lähettäminen."
+msgstr "Salli lähettää sinulle sähköposteja."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Salli lähettää sinulle tekstiviestejä."
 
 msgid "trial_search_label"
 msgstr "Etsi kokeiluja:"
