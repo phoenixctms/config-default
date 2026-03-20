@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Yoruba\n"
-"PO-Revision-Date: 2026-03-20 01:09\n"
+"PO-Revision-Date: 2026-03-20 02:39\n"
 
 msgid "lang"
 msgstr "yo"
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Fọọmu ibeere ko pe"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
+msgstr "Jọ̀wọ́ wo gbogbo ojú ìwé fọ́ọ̀mù ìbéèrè náà.<br/>Ṣé o fẹ́ parí rẹ̀?"
 
 msgid "inquiries_pbar_template"
 msgstr "rán: %d/%d"
