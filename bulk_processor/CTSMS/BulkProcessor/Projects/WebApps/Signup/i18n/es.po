@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2026-03-20 01:08\n"
+"PO-Revision-Date: 2026-03-20 02:39\n"
 
 msgid "lang"
 msgstr "es"
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Formulario de consulta incompleto"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
+msgstr "Por favor, consulta todas las páginas del formulario de solicitud.<br/>¿Prefieres terminar de todos modos?"
 
 msgid "inquiries_pbar_template"
 msgstr "enviado: %d/%d"
