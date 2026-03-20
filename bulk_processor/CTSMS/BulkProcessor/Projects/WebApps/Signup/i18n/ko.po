@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:08\n"
 
 msgid "lang"
 msgstr "ko"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "보내고 다음"
 
 msgid "save_done_btn_label"
-msgstr "Finalizar"
+msgstr "Enviar y finalizar"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Finalizar"
 
 msgid "yes_btn_label"
 msgstr "예"
@@ -309,6 +309,9 @@ msgstr "핸드폰:"
 msgid "proband_phone_tooltip"
 msgstr "'0699 1234567' 또는 '0316 38573000'과 같은 전화번호 형식입니다."
 
+msgid "proband_phone_notify_label"
+msgstr "통지하다"
+
 msgid "proband_email_label"
 msgstr "이메일:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "통지하다"
 
 msgid "proband_email_notify_tooltip"
-msgstr "이메일 보내기를 허용합니다."
+msgstr "이메일 수신을 허용해 주세요."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "문자 메시지 수신을 허용해 주세요."
 
 msgid "trial_search_label"
 msgstr "시험 검색:"
