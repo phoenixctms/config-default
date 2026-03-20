@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:08\n"
 
 msgid "lang"
 msgstr "uk"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Надіслати і далі"
 
 msgid "save_done_btn_label"
-msgstr "Закінчити"
+msgstr "Надіслати і завершити"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "Закінчити"
 
 msgid "yes_btn_label"
 msgstr "Так"
@@ -309,6 +309,9 @@ msgstr "телефон:"
 msgid "proband_phone_tooltip"
 msgstr "Формат номера телефону, наприклад \"0699 1234567\" або \"0316 38573000\"."
 
+msgid "proband_phone_notify_label"
+msgstr "повідомити"
+
 msgid "proband_email_label"
 msgstr "Електронна пошта:"
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "повідомити"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Дозволити надсилати електронні листи."
+msgstr "Дозволити відправляти вам електронну пошту."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Дозволити відправку SMS."
 
 msgid "trial_search_label"
 msgstr "Випробування для пошуку:"
