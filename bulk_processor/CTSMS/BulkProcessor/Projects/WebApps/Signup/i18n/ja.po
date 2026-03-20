@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
-"PO-Revision-Date: 2026-03-20 01:08\n"
+"PO-Revision-Date: 2026-03-20 02:39\n"
 
 msgid "lang"
 msgstr "ja"
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "お問い合わせフォームが不完全です"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Please look at all pages of the inquiry form.<br/>Do you prefer to send and complete anyway?"
+msgstr "お問い合わせフォームのすべてのページをご覧ください。<br/>とにかく終了したいですか？"
 
 msgid "inquiries_pbar_template"
 msgstr "送信済み: %d/%d"
