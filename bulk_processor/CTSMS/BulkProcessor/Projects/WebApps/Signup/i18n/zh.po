@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
-"PO-Revision-Date: 2026-03-01 12:31\n"
+"PO-Revision-Date: 2026-03-20 01:09\n"
 
 msgid "lang"
 msgstr "zh"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "发送并下一个"
 
 msgid "save_done_btn_label"
-msgstr "完成"
+msgstr "发送并完成"
 
 msgid "done_btn_label"
-msgstr "Complete"
+msgstr "完成"
 
 msgid "yes_btn_label"
 msgstr "是的"
@@ -309,6 +309,9 @@ msgstr "电话："
 msgid "proband_phone_tooltip"
 msgstr "电话号码格式如“0699 1234567”或“0316 38573000”。"
 
+msgid "proband_phone_notify_label"
+msgstr "通知"
+
 msgid "proband_email_label"
 msgstr "电子邮件："
 
@@ -319,7 +322,10 @@ msgid "proband_email_notify_label"
 msgstr "通知"
 
 msgid "proband_email_notify_tooltip"
-msgstr "允许发送电子邮件。"
+msgstr "允许发送您的电子邮件。"
+
+msgid "proband_phone_notify_tooltip"
+msgstr "允许向您发送短信。"
 
 msgid "trial_search_label"
 msgstr "搜索试题："
