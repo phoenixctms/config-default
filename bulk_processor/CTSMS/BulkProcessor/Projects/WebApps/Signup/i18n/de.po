@@ -351,7 +351,7 @@ msgid "incomplete_dlg_title"
 msgstr "Fragebogen unvollst‰ndig"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Bitte sehen Sie alle Seiten des Fragebongens durch.<br/>Wollen sie dennoch absenden und abschlieﬂen?"
+msgstr "Bitte sehen Sie alle Seiten des Fragebongens durch.<br/>Wollen sie dennoch beenden?"
 
 msgid "inquiries_pbar_template"
 msgstr "abgesendet: %d/%d"
