@@ -16,6 +16,7 @@ language_menu: 1
 proband_create_interval_limit: 200
 phone_number_prefix_preset: '+43'
 email_notify_preset: 1
+phone_notify_preset: 1
 proband_agreed_preset: 0
 default_language_code: 'en'
 system_timezone: 'Europe/Vienna'
