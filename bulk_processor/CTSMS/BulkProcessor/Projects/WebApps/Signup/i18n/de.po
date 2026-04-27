@@ -244,7 +244,7 @@ msgid "proband_citizenship_tooltip"
 msgstr "Die Staatsangehörigkeit kann optional angegeben werden."
 
 msgid "proband_comment"
-msgstr "Registrierung via %1\nfür Prüfzentrum '%2'\nStudie '%3'\nvon IP Adresse %4\nmit Browser '%5'\nvon %6 kommend"
+msgstr "Registrierung um %1 via %2\nfür Prüfzentrum '%3'\nStudie '%4'\nvon IP Adresse %5\nmit Browser '%6'\nvon %7 kommend"
 
 msgid "address_panel_title"
 msgstr "Adresse"
