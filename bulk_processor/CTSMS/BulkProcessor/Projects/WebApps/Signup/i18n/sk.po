@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
-"PO-Revision-Date: 2024-03-19 04:11\n"
+"PO-Revision-Date: 2026-04-27 00:12\n"
 
 msgid "lang"
 msgstr "sk"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Môj CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2019 Moje CRO"
+msgstr "ｩ 2026 Moje CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Jazyk"
 
 msgid "session_timer_pattern"
-msgstr "Zadávanie údajov končí %M:%S"
+msgstr "Ending in %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Štart"
@@ -85,6 +85,9 @@ msgstr "Muž"
 msgid "female"
 msgstr "Žena"
 
+msgid "diverse"
+msgstr "rozmanitý"
+
 msgid "mandatory_field_label"
 msgstr "povinné pole"
 
@@ -95,7 +98,7 @@ msgid "save_done_btn_label"
 msgstr "Odoslať a dokončiť"
 
 msgid "done_btn_label"
-msgstr "Skončiť"
+msgstr "Dokončiť"
 
 msgid "yes_btn_label"
 msgstr "Áno"
@@ -143,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "nepriehľadnosť pera 30%"
 
 msgid "finish_btn_label"
-msgstr "Ukončite"
+msgstr "Complete"
 
 msgid "error_summary"
 msgstr "Chyba:"
 
 msgid "error_no_proband_created"
-msgstr "najprv uložte osobné údaje"
+msgstr "začnite s uložením osobných údajov"
 
 msgid "error_no_contact_created"
 msgstr "najprv uložte kontaktné údaje"
@@ -158,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "najprv vyberte skúšobnú verziu"
 
 msgid "error_inquiries_na"
-msgstr "najprv vyberte skúšobnú verziu s dopytovým formulárom"
+msgstr "vyberte skúšobnú verziu s (povoleným) formulárom dopytu"
 
 msgid "error_trials_na"
 msgstr "najprv vyberte skúšobnú lokalitu so skúškami"
@@ -167,10 +170,16 @@ msgid "error_proband_create_rate_limit"
 msgstr "predmet bol nedávno vytvorený pomocou tohto počítača, pred opätovným pokusom počkajte"
 
 msgid "error_no_contact_details"
-msgstr "uveďte e-mailovú adresu alebo telefónne číslo"
+msgstr "prosím, uveďte telefónne číslo"
 
 msgid "error_proband_not_agreed"
 msgstr "na pokračovanie je potrebný výslovný súhlas"
+
+msgid "error_invalid_listentry"
+msgstr "neplatný záznam v zozname predmetov %1"
+
+msgid "error_listentry_unknown_site"
+msgstr "neplatná stránka %1"
 
 msgid "trial_sites_header"
 msgstr "Skúšobné stránky"
@@ -233,12 +242,12 @@ msgid "proband_citizenship_tooltip"
 msgstr "Občianstvo je možné zadať voliteľne."
 
 msgid "proband_comment"
-msgstr "Registration via %1\n"
-"for trial site '%2'\n"
-"trial '%3'\n"
-"from IP address %4\n"
-"using browser '%5'\n"
-"coming from %6"
+msgstr "Registrácia na %1 cez %2\n"
+"pre skúšobnú stránku '%3'\n"
+"skúšobná verzia '%4'\n"
+"z IP adresy %5\n"
+"pomocou prehliadača '%6'\n"
+"pochádzajúceho z %7"
 
 msgid "address_panel_title"
 msgstr "Adresa"
@@ -300,6 +309,9 @@ msgstr "Telefón:"
 msgid "proband_phone_tooltip"
 msgstr "Formát telefónneho čísla ako „0699 1234567“ alebo „0316 38573000“."
 
+msgid "proband_phone_notify_label"
+msgstr "oznámiť"
+
 msgid "proband_email_label"
 msgstr "Email:"
 
@@ -310,10 +322,22 @@ msgid "proband_email_notify_label"
 msgstr "oznámiť"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Povoliť odosielanie e-mailov."
+msgstr "Povoliť posielanie e-mailov."
+
+msgid "proband_phone_notify_tooltip"
+msgstr "Povoliť posielanie SMS."
+
+msgid "trial_search_label"
+msgstr "Vyhľadávanie skúšok:"
+
+msgid "trials_search_tooltip"
+msgstr "Vyhľadajte popisy skúšok/zoznamy kandidátov."
 
 msgid "trials_grid_header"
 msgstr "Skúšky/zoznamy kandidátov"
+
+msgid "trials_grid_empty_message"
+msgstr "žiadne zodpovedajúce zoznamy skúšok/kandidátov"
 
 msgid "open_inquiries_btn_label"
 msgstr "Otvorený formulár inuiry"
@@ -328,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Neúplný dopytový formulár"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Pozrite si všetky stránky dopytového formulára.<br/>Chcete aj tak radšej odoslať a dokončiť?"
+msgstr "Pozrite si, prosím, všetky strany dopytového formulára.<br/>Chcete aj tak dokončiť?"
 
 msgid "inquiries_pbar_template"
 msgstr "odoslané: %d/%d"
@@ -373,7 +397,7 @@ msgid "trial_title"
 msgstr "Prebiehajúce skúšky"
 
 msgid "trial_description"
-msgstr "<p>Prehľad prebiehajúcich štúdií a prieskumov je uvedený v treťom kroku. Prezrite si prosím zoznam, aby ste videli základné informácie týkajúce sa kandidátskych kritérií, postupov a úhrad jednotlivých štúdií.</p><p>Svoj záujem zúčastniť sa konkrétneho skúšania môžete prejaviť prihlásením sa alebo otvorením jeho dopytového formulára. Ak to chcete dokončiť neskôr alebo v priamom rozhovore, môžete to preskočiť a dokončiť registráciu.</p>"
+msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulár dopytu - %1"
@@ -385,7 +409,10 @@ msgid "end_title"
 msgstr "Ďakujem!"
 
 msgid "end_description"
-msgstr "<p>Ďakujeme za registráciu. Čoskoro vás budeme kontaktovať a tešíme sa, že vás pozveme na skúšobnú stránku ako nového účastníka.</p><p>Môžete si stiahnuť dokumenty PDF s poskytnutými údajmi. Ak chcete zabrániť automatickému vymazaniu, odošlite podpísaný súhlas s ochranou osobných údajov kancelárii lokality poštou alebo e-mailom do %1.</p>"
+msgstr "<p>Ďakujeme za vašu registráciu. Čoskoro vás budeme kontaktovať a tešíme sa, že vás pozveme na skúšobné miesto ako nového účastníka.</p><p>Môžete si stiahnuť dokumenty PDF s poskytnutými údajmi. Potvrďte uloženie svojich údajov pomocou odkazu v prijatom e-maile alebo odošlite svoj podpísaný súhlas s ochranou osobných údajov do kancelárie miesta poštou alebo e-mailom do %1.</p><p><b>Vaša registrácia je dokončená</b>, viacero registrácií bude trvať dlhšie, len sa zlúčia údaje.</p>"
+
+msgid "end_listentry_description"
+msgstr "<p>Ďakujeme za vyplnenie dotazníkov.</p><p>Môžete si stiahnuť PDF dokumenty s poskytnutými údajmi.</p>"
 
 msgid "invalid time"
 msgstr "neplatný čas %1"
