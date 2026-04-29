@@ -5,7 +5,7 @@ csv_dir: 'inquiry_exporter'
 
 inquiry_data_truncate_table: 1
 inquiry_data_ignore_duplicates: 0
-#inquiry_data_trial_id: <your demo trial id>
+#inquiry_trial_id: <your demo trial id>
 #6121688
 #ecrf_data_api_listentries_page_size: 10
 #ecrf_data_api_ecrfs_page_size: 10

@@ -1,0 +1,46 @@
+ctsms_base_uri: 'https://127.0.0.1'
+
+sqlite_db_file: 'inquiry_importer'
+csv_dir: 'inquiry_importer'
+
+#clear_categories: 0
+#clear_all_categories: 0
+#append_selection_set_values: 0
+
+#inquiry_import_filename
+#import_inquiry_data_horizontal_multithreading
+#import_inquiry_data_horizontal_numofthreads
+#import_inquiry_data_horizontal_blocksize
+
+#inquiry_trial_id: <your demo trial id>
+#inquiry_data_api_inquiries_page_size: 10
+#inquiry_data_api_values_page_size: 10
+#inquiry_values_col_block: 1
+
+#inquiry_proband_alias_column_name
+#inquiry_proband_category_column_name
+inquiry_proband_department_column_name: department
+#inquiry_proband_gender_column_name
+  
+#dbtool: 'D:\workspaces\ctsms\core\db\dbtool.bat'
+dbtool: '/ctsms/dbtool.sh'
+lockfile: '/ctsms/process.trial%s.inquiryimport.lock'
+
+ignore_external_ids: 0
+col_per_selection_set_value: 1
+selection_set_value_separator: ', '
+
+#timezone: Europe/Vienna
+
+category_abbreviate_opts:
+  word_count_limit: 0
+
+inputfieldname_abbreviate_opts:
+  word_count_limit: 1  
+  word_blacklist:
+    demo: 1
+
+selectionvalue_abbreviate_opts:
+  word_count_limit: 1
+#  word_abbreviation_length: 5
+#  word_limit: 7
