@@ -21,7 +21,9 @@ error_template: runtime_error
 #memcached_servers: "/var/run/memcached/memcached.sock"
 #-> Out of memory in perl:util:safesyscalloc
 
-session: YAML
+session: Redis
+redis_session:
+  sock: '/var/run/redis/redis-server.sock'
 session_secure: 0
 session_is_http_only: 0
 session_same_site: Lax
