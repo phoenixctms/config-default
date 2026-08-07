@@ -14,6 +14,12 @@ inquiry_data_row_block: 50
 #ecrf_data_api_ecrffields_page_size: 10
 
 #inquiry_proband_alias_column_name
+#inquiry_proband_category_column_name
+#inquiry_proband_department_column_name
+#inquiry_proband_first_name_column_name
+#inquiry_proband_last_name_column_name
+#inquiry_proband_date_of_birth_column_name
+#inquiry_proband_gender_column_name
 
 inquiry_data_export_upload_folder: '/11. ProbandenInnen/11.6. Rekrutierung/'
 inquiry_data_export_sqlite_filename: 'inquiry_%s%s'

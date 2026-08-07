@@ -26,6 +26,9 @@ csv_dir: 'ecrf_importer'
 #ecrf_proband_alias_column_name
 #ecrf_proband_category_column_name
 ecrf_proband_department_column_name: department
+#ecrf_proband_first_name_column_name
+#ecrf_proband_last_name_column_name
+#ecrf_proband_date_of_birth_column_name
 #ecrf_proband_gender_column_name
 ecrf_probandlistentry_group_column_name: subject_group
 ecrf_probandlistentry_status_column_name: enrollment_status

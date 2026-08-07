@@ -20,6 +20,9 @@ csv_dir: 'inquiry_importer'
 #inquiry_proband_alias_column_name
 #inquiry_proband_category_column_name
 inquiry_proband_department_column_name: department
+#inquiry_proband_first_name_column_name
+#inquiry_proband_last_name_column_name
+#inquiry_proband_date_of_birth_column_name
 #inquiry_proband_gender_column_name
   
 #dbtool: 'D:\workspaces\ctsms\core\db\dbtool.bat'
