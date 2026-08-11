@@ -13,6 +13,7 @@ ecrf_data_row_block: 50
 #ecrf_data_api_probandlistentrytagvalues_page_size: 10
 #ecrf_data_api_probandlistentrytags_page_size: 10
 #ecrf_data_api_ecrffields_page_size: 10
+ecrf_data_include_undef_ecrf_status: 0
 
 #ecrf_proband_alias_column_name
 #ecrf_proband_category_column_name
