@@ -24,6 +24,8 @@ error_template: runtime_error
 session: Redis
 redis_session:
   sock: '/var/run/redis/redis-server.sock'
+  # session ttl, refreshed on every access (the default is 900), keep in line with session_expires
+  expire: 1800
 session_secure: 0
 session_is_http_only: 0
 session_same_site: Lax
