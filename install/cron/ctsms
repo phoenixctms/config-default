@@ -30,4 +30,7 @@
 #00 23 * * sun ctsms nice /ctsms/dbtool.sh -dm -f >> /ctsms/dbtool.log 2>&1
 15 23 * * sun ctsms nice /ctsms/dbtool.sh -do -f >> /ctsms/dbtool.log 2>&1
 
+#delete signup uploads of abandoned sessions:
+30 * * * * www-data [ -d /ctsms/bulk_processor/output/signup/uploads ] && find /ctsms/bulk_processor/output/signup/uploads -maxdepth 1 -type f -name 'upload_*' -mmin +180 -delete
+
 #empty line at end:

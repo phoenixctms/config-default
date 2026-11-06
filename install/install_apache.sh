@@ -4,12 +4,14 @@ usermod --append --groups tomcat,ctsms www-data
 cp /ctsms/install/apache/00_ctsms_http.conf /etc/apache2/sites-available/00_ctsms_http.conf
 cp /ctsms/install/apache/00_ctsms_https.conf /etc/apache2/sites-available/00_ctsms_https.conf
 cp /ctsms/install/apache/ports.conf /etc/apache2/ports.conf
+cp /ctsms/install/apache/ctsms_fcgid.conf /etc/apache2/conf-available/ctsms_fcgid.conf
 wget --no-verbose https://raw.githubusercontent.com/phoenixctms/install-debian/$TAG/apache/blocklist.conf -O /etc/apache2/blocklist.conf
 wget --no-verbose https://raw.githubusercontent.com/phoenixctms/install-debian/$TAG/apache/jk.conf -O /etc/apache2/mods-available/jk.conf
 a2dissite 000-default.conf
 a2ensite 00_ctsms_http.conf
 a2enmod ssl
 a2enmod rewrite
+a2enconf ctsms_fcgid
 
 ###deploy server certificate
 mkdir /etc/apache2/ssl
