@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swahili\n"
-"PO-Revision-Date: 2026-04-27 00:13\n"
+"PO-Revision-Date: 2026-11-07 00:49\n"
 
 msgid "lang"
 msgstr "sw"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "CRO yangu"
 
 msgid "copyright_label"
-msgstr "ｩ 2026 CRO yangu"
+msgstr "ｩ 2019 CRO yangu"
 
 msgid "lanuage_menu_label"
 msgstr "Lugha"
 
 msgid "session_timer_pattern"
-msgstr "Ending in %M:%S"
+msgstr "Ingizo la data linaisha kwa %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Anza"
@@ -146,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "uwazi wa kalamu 30%"
 
 msgid "finish_btn_label"
-msgstr "Complete"
+msgstr "Acha"
 
 msgid "error_summary"
 msgstr "Hitilafu:"
 
 msgid "error_no_proband_created"
-msgstr "anza na kuhifadhi habari za kibinafsi kwanza"
+msgstr "hifadhi taarifa za kibinafsi kwanza"
 
 msgid "error_no_contact_created"
 msgstr "hifadhi maelezo ya mawasiliano kwanza"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "chagua jaribio kwanza"
 
 msgid "error_inquiries_na"
-msgstr "chagua jaribio lenye fomu ya uchunguzi (iliyowezeshwa)"
+msgstr "chagua kesi na fomu ya uchunguzi kwanza"
 
 msgid "error_trials_na"
 msgstr "chagua tovuti ya majaribio yenye majaribio kwanza"
@@ -170,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "somo liliundwa na kompyuta hii hivi karibuni, tafadhali subiri kabla ya kujaribu tena"
 
 msgid "error_no_contact_details"
-msgstr "tafadhali toa nambari ya simu"
+msgstr "tafadhali toa barua pepe au nambari ya simu"
 
 msgid "error_proband_not_agreed"
 msgstr "idhini ya moja kwa moja inahitajika ili kuendelea"
@@ -242,12 +242,12 @@ msgid "proband_citizenship_tooltip"
 msgstr "Uraia unaweza kubainishwa kwa hiari."
 
 msgid "proband_comment"
-msgstr "Usajili katika %1 kupitia %2\n"
-"kwa tovuti ya majaribio '%3'\n"
-"jaribio '%4'\n"
-"kutoka kwa anwani ya IP %5\n"
-"kwa kutumia kivinjari '%6'\n"
-"unatoka %7"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
 
 msgid "address_panel_title"
 msgstr "Anwani"
@@ -322,7 +322,7 @@ msgid "proband_email_notify_label"
 msgstr "arifu"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Ruhusu kukutumia Barua Pepe."
+msgstr "Ruhusu kutuma Barua pepe."
 
 msgid "proband_phone_notify_tooltip"
 msgstr "Ruhusu kukutumia SMS."
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Fomu ya uchunguzi haijakamilika"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Tafadhali angalia kurasa zote za fomu ya uchunguzi.<br/>Je, unapendelea kumaliza hata hivyo?"
+msgstr "Tafadhali angalia kurasa zote za fomu ya uchunguzi.<br/>Je, unapendelea kutuma na kumaliza hata hivyo?"
 
 msgid "inquiries_pbar_template"
 msgstr "imetumwa: %d/%d"
@@ -397,7 +397,7 @@ msgid "trial_title"
 msgstr "Majaribio Yanayoendelea"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
+msgstr "<p>Muhtasari wa masomo na maswali yanayoendelea umewasilishwa katika hatua ya tatu. Tafadhali vinjari orodha ili kuona maelezo ya msingi kuhusu vigezo vya mgombea, taratibu na ulipaji wa malipo ya majaribio ya mtu binafsi.</p><p>Unaweza kuonyesha nia yako ya kushiriki jaribio fulani kwa kujisajili au kufungua fomu yake ya uchunguzi. Ukipendelea kukamilisha hili baadaye au katika mazungumzo ya direkt, unaweza kuruka hili na ukamilishe usajili wako.</p>"
 
 msgid "inquiry_title"
 msgstr "Fomu ya Kuuliza - %1"
@@ -409,7 +409,7 @@ msgid "end_title"
 msgstr "Asante!"
 
 msgid "end_description"
-msgstr "<p>Asante kwa usajili wako. Tutawasiliana nawe hivi karibuni na tunatarajia kukualika kwenye tovuti ya majaribio kama mshiriki mpya.</p><p>Unaweza kupakua hati za PDF kwa data uliyotoa. Tafadhali thibitisha kuhifadhi data yako kwa kutumia kiungo kilicho katika barua pepe iliyopokelewa, au wasilisha kibali chako cha faragha cha data kilichotiwa saini kwa ofisi ya tovuti kupitia barua pepe au barua pepe hadi %1.</p><p><b>Usajili wako umekamilika</b>, usajili mwingi utachukua muda zaidi kuunganisha data.</p>"
+msgstr "<p>Asante kwa usajili wako. Tutawasiliana nawe hivi karibuni na tunatarajia kukualika kwenye tovuti ya majaribio kama mshiriki mpya.</p><p>Unaweza kupakua hati za PDF na data uliyotoa. Ili kuzuia ufutaji kiotomatiki, tafadhali wasilisha idhini yako ya faragha ya data iliyotiwa saini kwa ofisi ya tovuti kupitia barua au barua pepe hadi %1.</p>"
 
 msgid "end_listentry_description"
 msgstr "<p>Asante kwa kujaza maswali.</p><p>Unaweza kupakua hati za PDF ukitumia data uliyotoa.</p>"
@@ -437,4 +437,49 @@ msgstr "mwaka batili %1"
 
 msgid "invalid day"
 msgstr "siku batili %1"
+
+msgid "file_upload_label"
+msgstr "Chagua faili"
+
+msgid "file_clear_label"
+msgstr "Futa faili"
+
+msgid "file_take_photo_label"
+msgstr "Piga picha"
+
+msgid "file_link_label"
+msgstr "%s (%s)"
+
+msgid "file_size_limit_exceeded"
+msgstr "faili inazidi kikomo cha ukubwa cha %1"
+
+msgid "file_camera_label"
+msgstr "Kamera"
+
+msgid "no_file_link_label"
+msgstr "<no file>"
+
+msgid "photo_cam_not_supported"
+msgstr "Kivinjari hiki hakiungi mkono ufikiaji wa kamera ya wavuti."
+
+msgid "photo_cam_insecure_context"
+msgstr "Ufikiaji wa kamera ya wavuti unahitaji muunganisho salama (HTTPS)."
+
+msgid "photo_cam_permission_denied"
+msgstr "Ufikiaji wa kamera ya wavuti ulikataliwa. Tafadhali ruhusu ufikiaji wa kamera kwa tovuti hii katika mipangilio ya kivinjari."
+
+msgid "photo_cam_no_device"
+msgstr "Hakuna kamera ya wavuti iliyopatikana."
+
+msgid "photo_cam_not_readable"
+msgstr "Kamera ya wavuti haikuweza kuanzishwa. Huenda inatumika na programu nyingine au dirisha la kivinjari."
+
+msgid "photo_cam_not_ready"
+msgstr "Kamera ya wavuti bado haijawa tayari."
+
+msgid "photo_cam_error"
+msgstr "Hitilafu ya kamera ya wavuti: %1"
+
+msgid "photo_cam_device_label"
+msgstr "Kamera"
 
