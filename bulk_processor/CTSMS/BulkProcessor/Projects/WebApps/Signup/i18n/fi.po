@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Finnish\n"
-"PO-Revision-Date: 2026-04-27 00:12\n"
+"PO-Revision-Date: 2026-11-07 00:49\n"
 
 msgid "lang"
 msgstr "fi"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Minun CRO"
 
 msgid "copyright_label"
-msgstr "¶ 2026 Oma CRO"
+msgstr "ｩ 2019 Oma CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Kieli"
 
 msgid "session_timer_pattern"
-msgstr "Ending in %M:%S"
+msgstr "Tietojen syöttö päättyy %M:%S"
 
 msgid "navigation_start_label"
 msgstr "alkaa"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Lähetä ja seuraavaksi"
 
 msgid "save_done_btn_label"
-msgstr "Lähetä ja lopeta"
+msgstr "Lähetä ja viimeistele"
 
 msgid "done_btn_label"
-msgstr "Valmis"
+msgstr "Suorittaa loppuun"
 
 msgid "yes_btn_label"
 msgstr "Joo"
@@ -146,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "kynän peittävyys 30 %"
 
 msgid "finish_btn_label"
-msgstr "Complete"
+msgstr "Lopettaa"
 
 msgid "error_summary"
 msgstr "Virhe:"
 
 msgid "error_no_proband_created"
-msgstr "aloita tallentamalla henkilökohtaisia tietoja ensin"
+msgstr "tallenna ensin henkilökohtaiset tiedot"
 
 msgid "error_no_contact_created"
 msgstr "tallenna ensin yhteystiedot"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "valitse ensin kokeilu"
 
 msgid "error_inquiries_na"
-msgstr "valitse kokeiluversio (käytössä) kyselylomakkeella"
+msgstr "valitse ensin kokeilu kyselylomakkeella"
 
 msgid "error_trials_na"
 msgstr "valitse ensin kokeilusivusto, jossa on kokeilut"
@@ -170,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "aihe luotiin tällä tietokoneella äskettäin, odota ennen kuin yrität uudelleen"
 
 msgid "error_no_contact_details"
-msgstr "anna puhelinnumero"
+msgstr "anna sähköpostiosoite tai puhelinnumero"
 
 msgid "error_proband_not_agreed"
 msgstr "jatkamiseen tarvitaan nimenomainen suostumus"
@@ -242,12 +242,12 @@ msgid "proband_citizenship_tooltip"
 msgstr "Kansalaisuus voidaan määrittää valinnaisesti."
 
 msgid "proband_comment"
-msgstr "Rekisteröityminen %1 %2\n"
-"kautta kokeilusivustolle%3'\n"
-"kokeiluversio%4'\n"
-"IP-osoitteesta %5\n"
-"käyttäen selaimen%6\n"
-"tulossa %7"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
 
 msgid "address_panel_title"
 msgstr "Osoite"
@@ -322,7 +322,7 @@ msgid "proband_email_notify_label"
 msgstr "ilmoittaa"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Salli lähettää sinulle sähköposteja."
+msgstr "Salli sähköpostien lähettäminen."
 
 msgid "proband_phone_notify_tooltip"
 msgstr "Salli lähettää sinulle tekstiviestejä."
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Kyselylomake epätäydellinen"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Katsokaa tiedustelulomakkeen kaikkia sivuja.<br/>Haluatteko lopettaa sen joka tapauksessa?"
+msgstr "Katso kaikki kyselylomakkeen sivut.<br/>Haluatko silti lähettää ja viimeistellä?"
 
 msgid "inquiries_pbar_template"
 msgstr "lähetetty: %d/%d"
@@ -397,7 +397,7 @@ msgid "trial_title"
 msgstr "Meneillään olevat kokeet"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
+msgstr "<p>Yleiskuva käynnissä olevista tutkimuksista ja tiedusteluista esitetään kolmannessa vaiheessa. Selaa luetteloa nähdäksesi perustiedot ehdokaskriteereistä, menettelyistä ja yksittäisten kokeiden korvauksista.</p><p>Voit ilmoittaa kiinnostuksestasi osallistua tiettyyn kokeiluun rekisteröitymällä tai avaamalla sen kyselylomakkeen. Jos haluat suorittaa tämän myöhemmin tai suorassa keskustelussa, voit ohittaa tämän ja lopettaa rekisteröinnin.</p>"
 
 msgid "inquiry_title"
 msgstr "Kyselylomake - %1"
@@ -409,7 +409,7 @@ msgid "end_title"
 msgstr "Kiitos!"
 
 msgid "end_description"
-msgstr "<p>Kiitos rekisteröitymisestäsi. Otamme sinuun yhteyttä pian ja odotamme innolla kutsua sinut koepaikalle uutena osallistujana.</p><p>Voit ladata PDF-asiakirjoja antamillasi tiedoilla. Ole hyvä ja vahvista tietojesi tallentaminen käyttäen vastaanotetun sähköpostin linkkiä, tai lähetä allekirjoitettu tietosuoja suostumus sivuston toimistoon sähköpostitse tai sähköpostitse %1asti.</p><p><b>Rekisteröintisi on valmis</b>, useat rekisteröinnit vievät aikaa tietojen yhdistämiseen.</p>"
+msgstr "<p>Kiitos rekisteröitymisestäsi. Otamme sinuun yhteyttä pian ja odotamme innolla kutsuvamme sinut kokeilusivustolle uutena osallistujana.</p><p>Voit ladata PDF-dokumentteja antamillasi tiedoilla. Automaattisen poiston estämiseksi lähetä allekirjoitettu tietosuojalupa sivuston toimistoon postitse tai sähköpostitse %1asti.</p>"
 
 msgid "end_listentry_description"
 msgstr "<p>Kiitos kyselyjen suorittamisesta.</p><p>Voit ladata PDF-asiakirjoja antamillasi tiedoilla.</p>"
@@ -437,4 +437,49 @@ msgstr "virheellinen vuosi %1"
 
 msgid "invalid day"
 msgstr "virheellinen päivä %1"
+
+msgid "file_upload_label"
+msgstr "Valitse tiedosto"
+
+msgid "file_clear_label"
+msgstr "Tyhjennä tiedosto"
+
+msgid "file_take_photo_label"
+msgstr "Ota valokuva"
+
+msgid "file_link_label"
+msgstr "%s (%s)"
+
+msgid "file_size_limit_exceeded"
+msgstr "tiedosto ylittää %1 kokorajan"
+
+msgid "file_camera_label"
+msgstr "Kamera"
+
+msgid "no_file_link_label"
+msgstr "<no file>"
+
+msgid "photo_cam_not_supported"
+msgstr "Tämä selain ei tue web-kameran käyttöä."
+
+msgid "photo_cam_insecure_context"
+msgstr "Webcam käyttö vaatii suojatun (HTTPS) yhteyden."
+
+msgid "photo_cam_permission_denied"
+msgstr "Webcam pääsy estetty. Salli kameran käyttö selaimen asetuksissa."
+
+msgid "photo_cam_no_device"
+msgstr "Web-kameraa ei löytynyt."
+
+msgid "photo_cam_not_readable"
+msgstr "Web-kameraa ei voitu käynnistää. Se voi olla käytössä toisessa sovelluksessa tai selaimen ikkunassa."
+
+msgid "photo_cam_not_ready"
+msgstr "Web-kamera ei ole vielä valmis."
+
+msgid "photo_cam_error"
+msgstr "Web-kameravirhe: %1"
+
+msgid "photo_cam_device_label"
+msgstr "Kamera"
 
