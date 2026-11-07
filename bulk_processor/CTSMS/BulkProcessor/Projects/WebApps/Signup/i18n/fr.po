@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
-"PO-Revision-Date: 2026-04-27 00:12\n"
+"PO-Revision-Date: 2026-11-07 00:49\n"
 
 msgid "lang"
 msgstr "fr"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Mon CRO"
 
 msgid "copyright_label"
-msgstr "<unk> 2026 Ma CRO"
+msgstr "ｩ 2019 Mon CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Langue"
 
 msgid "session_timer_pattern"
-msgstr "Ending in %M:%S"
+msgstr "La saisie des données se termine par %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Commencer"
@@ -98,7 +98,7 @@ msgid "save_done_btn_label"
 msgstr "Envoyer et terminer"
 
 msgid "done_btn_label"
-msgstr "Terminer"
+msgstr "Finition"
 
 msgid "yes_btn_label"
 msgstr "Oui"
@@ -146,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacité du stylo 30%"
 
 msgid "finish_btn_label"
-msgstr "Complete"
+msgstr "Quitter"
 
 msgid "error_summary"
 msgstr "Erreur:"
 
 msgid "error_no_proband_created"
-msgstr "commencer par enregistrer les informations personnelles en premier"
+msgstr "enregistrez d'abord les informations personnelles"
 
 msgid "error_no_contact_created"
 msgstr "enregistrez d'abord les coordonnées"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "sélectionnez d'abord un essai"
 
 msgid "error_inquiries_na"
-msgstr "sélectionner une période d'essai avec le formulaire de demande (activé)"
+msgstr "sélectionnez d'abord un essai avec formulaire de demande"
 
 msgid "error_trials_na"
 msgstr "sélectionnez d'abord un site d'essai avec des essais"
@@ -170,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "un sujet a été créé récemment avec cet ordinateur, veuillez patienter avant de réessayer"
 
 msgid "error_no_contact_details"
-msgstr "veuillez fournir un numéro de téléphone"
+msgstr "veuillez fournir une adresse e-mail ou un numéro de téléphone"
 
 msgid "error_proband_not_agreed"
 msgstr "un consentement exprès est requis pour continuer"
@@ -242,12 +242,12 @@ msgid "proband_citizenship_tooltip"
 msgstr "La citoyenneté peut être spécifiée facultativement."
 
 msgid "proband_comment"
-msgstr "Inscription à %1 via %2\n"
-"pour le site d'essai '%3'\n"
-"'%4'\n"
-"à partir de l'adresse IP %5\n"
-"en utilisant le navigateur '%6'\n"
-"venant de %7"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
 
 msgid "address_panel_title"
 msgstr "Adresse"
@@ -322,7 +322,7 @@ msgid "proband_email_notify_label"
 msgstr "notifier"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Permettre de vous envoyer des e-mails."
+msgstr "Autoriser l'envoi d'e-mails."
 
 msgid "proband_phone_notify_tooltip"
 msgstr "Permettre de vous envoyer des SMS."
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Formulaire de demande incomplet"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Veuillez consulter toutes les pages du formulaire de demande.<br/>Vous préférez terminer quand même?"
+msgstr "Veuillez consulter toutes les pages du formulaire de demande.<br/>Préférez-vous envoyer et terminer quand même ?"
 
 msgid "inquiries_pbar_template"
 msgstr "envoyé : %d/%d"
@@ -397,7 +397,7 @@ msgid "trial_title"
 msgstr "Essais en cours"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
+msgstr "<p>Un aperçu des études et enquêtes en cours est présenté dans la troisième étape. Veuillez parcourir la liste pour voir les informations de base concernant les critères de candidature, les procédures et les remboursements des essais individuels.</p><p>Vous pouvez indiquer votre intérêt à participer à un essai particulier en vous inscrivant ou en ouvrant son formulaire de demande. Si vous préférez terminer cette opération plus tard ou lors d'une conversation directe, vous pouvez ignorer cette étape et terminer votre inscription.</p>"
 
 msgid "inquiry_title"
 msgstr "Formulaire de demande - %1"
@@ -409,7 +409,7 @@ msgid "end_title"
 msgstr "Merci!"
 
 msgid "end_description"
-msgstr "<p>Thank you for your registration. We will contact you soon and are looking forward to invite you to the trial site as a new participant.</p><p>You can download PDF documents with your provided data. Please confirm storing your data using the link in the received email, or submit your signed data privacy consent to the site office via mail or email until %1.</p><p><b>Your registration is complete</b>, multiple registrations will just take more time to merge data.</p>"
+msgstr "<p>Merci pour votre inscription. Nous vous contacterons bientôt et nous sommes impatients de vous inviter sur le site d'essai en tant que nouveau participant.</p><p>Vous pouvez télécharger des documents PDF avec les données fournies. Pour empêcher la suppression automatique, veuillez soumettre votre consentement signé à la confidentialité des données au bureau du site par courrier ou par e-mail jusqu'au %1.</p>"
 
 msgid "end_listentry_description"
 msgstr "<p>Merci d'avoir rempli les questionnaires.</p><p>Vous pouvez télécharger les documents PDF contenant vos données.</p>"
@@ -437,4 +437,49 @@ msgstr "année invalide %1"
 
 msgid "invalid day"
 msgstr "jour invalide %1"
+
+msgid "file_upload_label"
+msgstr "Choisir le fichier"
+
+msgid "file_clear_label"
+msgstr "Effacer le fichier"
+
+msgid "file_take_photo_label"
+msgstr "Prendre une photo"
+
+msgid "file_link_label"
+msgstr "%s (%s)"
+
+msgid "file_size_limit_exceeded"
+msgstr "le fichier dépasse la taille limite de %1"
+
+msgid "file_camera_label"
+msgstr "Appareil photo"
+
+msgid "no_file_link_label"
+msgstr "<no file>"
+
+msgid "photo_cam_not_supported"
+msgstr "Ce navigateur ne supporte pas l'accès à la webcam."
+
+msgid "photo_cam_insecure_context"
+msgstr "L'accès à la webcam nécessite une connexion sécurisée (HTTPS)."
+
+msgid "photo_cam_permission_denied"
+msgstr "L'accès à la webcam a été refusé. Veuillez autoriser l'accès à la caméra pour ce site dans les paramètres du navigateur."
+
+msgid "photo_cam_no_device"
+msgstr "Aucune webcam trouvée."
+
+msgid "photo_cam_not_readable"
+msgstr "La webcam n'a pas pu être démarrée. Elle peut être utilisée par une autre application ou une autre fenêtre de navigateur."
+
+msgid "photo_cam_not_ready"
+msgstr "La webcam n'est pas encore prête."
+
+msgid "photo_cam_error"
+msgstr "Erreur Webcam : %1"
+
+msgid "photo_cam_device_label"
+msgstr "Appareil photo"
 
