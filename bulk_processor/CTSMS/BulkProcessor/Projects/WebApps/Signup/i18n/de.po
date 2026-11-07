@@ -440,3 +440,48 @@ msgstr "ungültiges Jahr %1"
 
 msgid "invalid day"
 msgstr "ungültiger Tag %1"
+
+msgid "file_upload_label"
+msgstr "Datei auswählen"
+
+msgid "file_clear_label"
+msgstr "Datei entfernen"
+
+msgid "file_take_photo_label"
+msgstr "Foto knipsen"
+
+msgid "file_link_label"
+msgstr "%s (%s)"
+
+msgid "file_size_limit_exceeded"
+msgstr "Datei überschreitet die Größenbeschränkung von %1"
+
+msgid "file_camera_label"
+msgstr "Kamera"
+
+msgid "no_file_link_label"
+msgstr "<keine Datei>"
+
+msgid "photo_cam_not_supported"
+msgstr "Dieser Browser unterstützt keinen Zugriff auf die Webcam."
+
+msgid "photo_cam_insecure_context"
+msgstr "Der Zugriff auf die Webcam erfordert eine sichere (HTTPS-) Verbindung."
+
+msgid "photo_cam_permission_denied"
+msgstr "Der Zugriff auf die Webcam wurde verweigert. Bitte erlauben Sie den Kamerazugriff für diese Seite in den Browsereinstellungen."
+
+msgid "photo_cam_no_device"
+msgstr "Keine Webcam gefunden."
+
+msgid "photo_cam_not_readable"
+msgstr "Die Webcam konnte nicht gestartet werden. Möglicherweise wird sie von einer anderen Anwendung oder einem anderen Browserfenster verwendet."
+
+msgid "photo_cam_not_ready"
+msgstr "Die Webcam ist noch nicht bereit."
+
+msgid "photo_cam_error"
+msgstr "Webcam-Fehler: %1"
+
+msgid "photo_cam_device_label"
+msgstr "Kamera"

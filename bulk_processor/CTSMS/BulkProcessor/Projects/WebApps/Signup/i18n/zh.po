@@ -411,3 +411,48 @@ msgstr "无效年份 %1"
 msgid "invalid day"
 msgstr "无效日 %1"
 
+
+msgid "file_upload_label"
+msgstr "Choose file"
+
+msgid "file_clear_label"
+msgstr "Clear file"
+
+msgid "file_take_photo_label"
+msgstr "Capture photo"
+
+msgid "file_link_label"
+msgstr "%s (%s)"
+
+msgid "file_size_limit_exceeded"
+msgstr "file exceeds the size limit of %1"
+
+msgid "file_camera_label"
+msgstr "Camera"
+
+msgid "no_file_link_label"
+msgstr "<no file>"
+
+msgid "photo_cam_not_supported"
+msgstr "This browser does not support webcam access."
+
+msgid "photo_cam_insecure_context"
+msgstr "Webcam access requires a secure (HTTPS) connection."
+
+msgid "photo_cam_permission_denied"
+msgstr "Webcam access was denied. Please allow camera access for this site in the browser settings."
+
+msgid "photo_cam_no_device"
+msgstr "No webcam found."
+
+msgid "photo_cam_not_readable"
+msgstr "The webcam could not be started. It may be in use by another application or browser window."
+
+msgid "photo_cam_not_ready"
+msgstr "The webcam is not ready yet."
+
+msgid "photo_cam_error"
+msgstr "Webcam error: %1"
+
+msgid "photo_cam_device_label"
+msgstr "Camera"

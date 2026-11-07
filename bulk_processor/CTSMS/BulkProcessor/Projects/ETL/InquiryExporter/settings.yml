@@ -31,6 +31,9 @@ inquiry_data_export_xlsx: 1
 lockfile: '/ctsms/process.trial%s.inquiryexport.lock'
 #ecrf_data_export_pdf_filename: 'ecrfs_%s%s'
 inquiry_data_export_pdfs_filename: 'inquiry_%s_%s%s'
+inquiry_data_export_files_filename: 'inquiry_files_%s%s'
+# 0: upload the files of FILE values individually instead of one zip
+inquiry_data_export_files_zip: 1
 
 ignore_external_ids: 0
 col_per_selection_set_value: 1

@@ -35,6 +35,9 @@ dbtool: '/ctsms/dbtool.sh'
 lockfile: '/ctsms/process.trial%s.ecrfexport.lock'
 ecrf_data_export_pdf_filename: 'ecrf_ecrfs_%s%s'
 ecrf_data_export_pdfs_filename: 'ecrf_ecrf_%s_%s%s'
+ecrf_data_export_files_filename: 'ecrf_files_%s%s'
+# 0: upload the files of FILE values individually instead of one zip
+ecrf_data_export_files_zip: 1
 
 audit_trail_export_xls_filename: 'ecrf_issues_%s%s'
 ecrf_journal_export_xls_filename: 'ecrf_changelog_%s%s'
