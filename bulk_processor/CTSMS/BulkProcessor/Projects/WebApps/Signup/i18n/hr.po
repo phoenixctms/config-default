@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Croatian\n"
-"PO-Revision-Date: 2026-04-27 00:12\n"
+"PO-Revision-Date: 2026-11-07 00:49\n"
 
 msgid "lang"
 msgstr "hr"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Moj CRO"
 
 msgid "copyright_label"
-msgstr "ｩ 2026 Moj CRO"
+msgstr "ｩ 2019 Moj CRO"
 
 msgid "lanuage_menu_label"
 msgstr "Jezik"
 
 msgid "session_timer_pattern"
-msgstr "Ending in %M:%S"
+msgstr "Unos podataka završava na %M:%S"
 
 msgid "navigation_start_label"
 msgstr "Početak"
@@ -98,7 +98,7 @@ msgid "save_done_btn_label"
 msgstr "Pošalji i završi"
 
 msgid "done_btn_label"
-msgstr "Završiti"
+msgstr "Završi"
 
 msgid "yes_btn_label"
 msgstr "Da"
@@ -146,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "neprozirnost olovke 30%"
 
 msgid "finish_btn_label"
-msgstr "Complete"
+msgstr "Prestati"
 
 msgid "error_summary"
 msgstr "Greška:"
 
 msgid "error_no_proband_created"
-msgstr "započnite s spremanjem osobnih podataka"
+msgstr "prvo spremite osobne podatke"
 
 msgid "error_no_contact_created"
 msgstr "prvo spremite podatke za kontakt"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "prvo odaberite probu"
 
 msgid "error_inquiries_na"
-msgstr "odaberite probni period s (omogućenim) obrascem za upit"
+msgstr "prvo odaberite probu s upitnikom"
 
 msgid "error_trials_na"
 msgstr "prvo odaberite mjesto za probno testiranje"
@@ -170,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "predmet je nedavno kreiran na ovom računalu, pričekajte prije ponovnog pokušaja"
 
 msgid "error_no_contact_details"
-msgstr "molimo vas da navedete broj telefona"
+msgstr "navedite adresu e-pošte ili broj telefona"
 
 msgid "error_proband_not_agreed"
 msgstr "za nastavak je potreban izričiti pristanak"
@@ -242,12 +242,12 @@ msgid "proband_citizenship_tooltip"
 msgstr "Državljanstvo se može navesti opcionalno."
 
 msgid "proband_comment"
-msgstr "Registracija na %1 putem %2\n"
-"za probnu stranicu '%3'\n"
-"probna '%4'\n"
-"s IP adrese %5\n"
-"pomoću preglednika '%6'\n"
-"koji dolazi s %7"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
 
 msgid "address_panel_title"
 msgstr "Adresa"
@@ -322,7 +322,7 @@ msgid "proband_email_notify_label"
 msgstr "obavijestiti"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Omogućite slanje e-pošte."
+msgstr "Dopusti slanje e-pošte."
 
 msgid "proband_phone_notify_tooltip"
 msgstr "Dopustite slanje SMS-a."
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Obrazac za upit nije potpun"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Molimo pogledajte sve stranice obrasca za upit.<br/>Želite li ipak završiti?"
+msgstr "Molimo pogledajte sve stranice formulara za upit.<br/>Želite li svejedno poslati i završiti?"
 
 msgid "inquiries_pbar_template"
 msgstr "poslano: %d/%d"
@@ -397,7 +397,7 @@ msgid "trial_title"
 msgstr "Suđenja u tijeku"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
+msgstr "<p>Pregled studija i upita koji su u tijeku predstavljen je u trećem koraku. Pregledajte popis kako biste vidjeli osnovne informacije o kriterijima kandidata, postupcima i naknadama za pojedinačna ispitivanja.</p><p>Svoj interes za sudjelovanje u određenoj probi možete pokazati prijavom ili otvaranjem obrasca za upit. Ako želite ovo dovršiti kasnije ili u izravnom razgovoru, možete ovo preskočiti i dovršiti registraciju.</p>"
 
 msgid "inquiry_title"
 msgstr "Obrazac za upit - %1"
@@ -409,7 +409,7 @@ msgid "end_title"
 msgstr "Hvala vam!"
 
 msgid "end_description"
-msgstr "<p>Hvala vam na registraciji. Uskoro ćemo vas kontaktirati i radujemo se što ćemo vas pozvati na probno mjesto kao novog sudionika.</p><p>Možete preuzeti PDF dokumente s vašim podacima. Molimo vas da potvrdite pohranu svojih podataka pomoću poveznice u primljenoj e-pošti ili pošaljete svoju potpisanu privolu za privatnost podataka uredu web mjesta putem pošte ili e-pošte do %1.</p><p><b>Vaša je registracija dovršena</b>, višestruke registracije će samo trajati dulje za spajanje podataka.</p>"
+msgstr "<p>Hvala vam na registraciji. Uskoro ćemo vas kontaktirati i jedva čekamo da vas pozovemo na probno mjesto kao novog sudionika.</p><p>Možete preuzeti PDF dokumente s vašim podacima. Kako biste spriječili automatsko brisanje, pošaljite svoj potpisani pristanak za privatnost podataka uredu web-mjesta poštom ili e-poštom do %1.</p>"
 
 msgid "end_listentry_description"
 msgstr "<p>Hvala vam što ste ispunili upitnike.</p><p>Možete preuzeti PDF dokumente s vašim podacima.</p>"
@@ -437,4 +437,49 @@ msgstr "nevažeća godina %1"
 
 msgid "invalid day"
 msgstr "nevažeći dan %1"
+
+msgid "file_upload_label"
+msgstr "Odaberite datoteku"
+
+msgid "file_clear_label"
+msgstr "Obriši datoteku"
+
+msgid "file_take_photo_label"
+msgstr "Snimite fotografiju"
+
+msgid "file_link_label"
+msgstr "%s (%s)"
+
+msgid "file_size_limit_exceeded"
+msgstr "Datoteka premašuje ograničenje veličine od %1"
+
+msgid "file_camera_label"
+msgstr "Fotoaparat"
+
+msgid "no_file_link_label"
+msgstr "<no file>"
+
+msgid "photo_cam_not_supported"
+msgstr "Ovaj preglednik ne podržava pristup web kameri."
+
+msgid "photo_cam_insecure_context"
+msgstr "Pristup web kameri zahtijeva sigurnu (HTTPS) vezu."
+
+msgid "photo_cam_permission_denied"
+msgstr "Pristup web kameri je odbijen. Molimo vas da omogućite pristup kameri za ovu stranicu u postavkama preglednika."
+
+msgid "photo_cam_no_device"
+msgstr "Nije pronađena web kamera."
+
+msgid "photo_cam_not_readable"
+msgstr "Web-kamera se nije mogla pokrenuti. Možda je koristi neka druga aplikacija ili prozor preglednika."
+
+msgid "photo_cam_not_ready"
+msgstr "Web kamera još nije spremna."
+
+msgid "photo_cam_error"
+msgstr "Pogreška web kamere: %1"
+
+msgid "photo_cam_device_label"
+msgstr "Fotoaparat"
 
