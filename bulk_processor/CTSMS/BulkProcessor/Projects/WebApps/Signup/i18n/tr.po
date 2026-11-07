@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
-"PO-Revision-Date: 2026-04-27 00:12\n"
+"PO-Revision-Date: 2026-11-07 00:49\n"
 
 msgid "lang"
 msgstr "tr"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "Benim CRO'm"
 
 msgid "copyright_label"
-msgstr "ｩ 2026 CRO'm"
+msgstr "ｩ 2019 CRO'm"
 
 msgid "lanuage_menu_label"
 msgstr "Dil"
 
 msgid "session_timer_pattern"
-msgstr "Ending in %M:%S"
+msgstr "Veri girişi %Mile biter:%S"
 
 msgid "navigation_start_label"
 msgstr "Başlangıç"
@@ -146,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "kalem opaklığı %30"
 
 msgid "finish_btn_label"
-msgstr "Complete"
+msgstr "Çıkış yapmak"
 
 msgid "error_summary"
 msgstr "Hata:"
 
 msgid "error_no_proband_created"
-msgstr "önce kişisel bilgileri kaydederek başlayın"
+msgstr "önce kişisel bilgileri kaydet"
 
 msgid "error_no_contact_created"
 msgstr "önce iletişim bilgilerini kaydet"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "önce bir deneme seçin"
 
 msgid "error_inquiries_na"
-msgstr "(Etkinleştirilmiş) sorgulama formu içeren bir deneme seçin"
+msgstr "önce sorgulama formuyla bir deneme seçin"
 
 msgid "error_trials_na"
 msgstr "önce denemelerin olduğu bir deneme sitesi seçin"
@@ -170,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "yakın zamanda bu bilgisayarda bir konu oluşturuldu, lütfen yeniden denemeden önce bekleyin"
 
 msgid "error_no_contact_details"
-msgstr "Lütfen telefon numaranızı verin"
+msgstr "lütfen e-posta adresini veya telefon numarasını belirtin"
 
 msgid "error_proband_not_agreed"
 msgstr "Devam etmek için açık onay gereklidir"
@@ -242,12 +242,12 @@ msgid "proband_citizenship_tooltip"
 msgstr "Vatandaşlık isteğe bağlı olarak belirtilebilir."
 
 msgid "proband_comment"
-msgstr "%1 adresine %2\n"
-"üzerinden '%3'\n"
-"deneme sitesi '%4'\n"
-"için kayıt, %5\n"
-"IP adresinden%6'\n"
-"tarayıcısı kullanılarak %7 adresinden geliyor."
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
 
 msgid "address_panel_title"
 msgstr "Adres"
@@ -322,7 +322,7 @@ msgid "proband_email_notify_label"
 msgstr "bildirmek"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Size e-posta göndermeme izin verin."
+msgstr "E-posta göndermeye izin ver."
 
 msgid "proband_phone_notify_tooltip"
 msgstr "Size SMS göndermeme izin verin."
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Talep formu eksik"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Lütfen başvuru formunun tüm sayfalarına bakın.<br/>Yine de bitirmek mi istiyorsunuz?"
+msgstr "Lütfen başvuru formunun tüm sayfalarına bakın.<br/>Yine de gönderip bitirmeyi mi tercih edersiniz?"
 
 msgid "inquiries_pbar_template"
 msgstr "gönderilen: %d/%d"
@@ -397,7 +397,7 @@ msgid "trial_title"
 msgstr "Devam Eden Denemeler"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
+msgstr "<p>Üçüncü adımda devam eden çalışmalara ve sorgulamalara genel bir bakış sunulmaktadır. Aday kriterleri, prosedürleri ve bireysel denemelerin geri ödemeleriyle ilgili temel bilgileri görmek için lütfen listeye göz atın.</p><p>Belirli bir deneye katılmakla ilgilendiğinizi kaydolarak veya araştırma formunu açarak belirtebilirsiniz. Bunu daha sonra veya doğrudan görüşme yoluyla tamamlamayı tercih ederseniz, bunu atlayıp kaydınızı tamamlayabilirsiniz.</p>"
 
 msgid "inquiry_title"
 msgstr "Talep Formu - %1"
@@ -409,7 +409,7 @@ msgid "end_title"
 msgstr "Teşekkür ederim!"
 
 msgid "end_description"
-msgstr "<p>Kaydınız için teşekkür ederiz. Yakında sizinle iletişime geçeceğiz ve sizi deneme sitesine yeni bir katılımcı olarak davet etmeyi dört gözle bekliyoruz.</p><p>Sağladığınız verilerle PDF belgeleri indirebilirsiniz. Lütfen alınan e-postadaki bağlantıyı kullanarak verilerinizin kaydedilmesini onaylayın veya imzalı veri gizliliği onayınızı %1tarihine kadar site ofisine posta veya e-posta yoluyla gönderin.</p><p><b>Kaydınız tamamlandı</b>, birden fazla kayıtta verilerin birleştirilmesi daha uzun sürecektir.</p>"
+msgstr "<p>Kaydınız için teşekkür ederiz. Yakında sizinle iletişime geçeceğiz ve sizi yeni bir katılımcı olarak deneme sitesine davet etmeyi sabırsızlıkla bekliyoruz.</p><p>Sağladığınız verilerle PDF belgelerini indirebilirsiniz. Otomatik silinmeyi önlemek için lütfen imzalı veri gizliliği onayınızı %1tarihine kadar posta veya e-posta yoluyla site ofisine gönderin.</p>"
 
 msgid "end_listentry_description"
 msgstr "<p>Anketleri tamamladığınız için teşekkür ederiz.</p><p>Verdiğiniz verilerle PDF belgelerini indirebilirsiniz.</p>"
@@ -437,4 +437,49 @@ msgstr "geçersiz yıl %1"
 
 msgid "invalid day"
 msgstr "geçersiz gün %1"
+
+msgid "file_upload_label"
+msgstr "Dosya seçin"
+
+msgid "file_clear_label"
+msgstr "Dosyayı temizle"
+
+msgid "file_take_photo_label"
+msgstr "Fotoğraf çek"
+
+msgid "file_link_label"
+msgstr "%s (%s)"
+
+msgid "file_size_limit_exceeded"
+msgstr "Dosya %1 boyut sınırını aşıyor."
+
+msgid "file_camera_label"
+msgstr "Kamera"
+
+msgid "no_file_link_label"
+msgstr "<no file>"
+
+msgid "photo_cam_not_supported"
+msgstr "Bu tarayıcı web kamerası erişimini desteklemiyor."
+
+msgid "photo_cam_insecure_context"
+msgstr "Web kamerasına erişim için güvenli (HTTPS) bir bağlantı gereklidir."
+
+msgid "photo_cam_permission_denied"
+msgstr "Web kamerasına erişim engellendi. Lütfen tarayıcı ayarlarınızdan bu site için kamera erişimine izin verin."
+
+msgid "photo_cam_no_device"
+msgstr "Web kamerası bulunamadı."
+
+msgid "photo_cam_not_readable"
+msgstr "Web kamerası başlatılamadı. Başka bir uygulama veya tarayıcı penceresi tarafından kullanılıyor olabilir."
+
+msgid "photo_cam_not_ready"
+msgstr "Web kamerası henüz hazır değil."
+
+msgid "photo_cam_error"
+msgstr "Web kamerası hatası: %1"
+
+msgid "photo_cam_device_label"
+msgstr "Kamera"
 
