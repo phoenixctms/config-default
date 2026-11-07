@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: phoenix-ctms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Romanian\n"
-"PO-Revision-Date: 2026-04-27 00:12\n"
+"PO-Revision-Date: 2026-11-07 00:49\n"
 
 msgid "lang"
 msgstr "ro"
@@ -32,13 +32,13 @@ msgid "logo_label"
 msgstr "CRO-ul meu"
 
 msgid "copyright_label"
-msgstr "NR 2026"
+msgstr "ｩ 2019 CRO-ul meu"
 
 msgid "lanuage_menu_label"
 msgstr "Limba"
 
 msgid "session_timer_pattern"
-msgstr "Ending in %M:%S"
+msgstr "Introducerea datelor se termină în %M:%S"
 
 msgid "navigation_start_label"
 msgstr "start"
@@ -95,10 +95,10 @@ msgid "save_next_btn_label"
 msgstr "Trimite și următorul"
 
 msgid "save_done_btn_label"
-msgstr "Trimite și termină"
+msgstr "Trimiteți și terminați"
 
 msgid "done_btn_label"
-msgstr "Terminare"
+msgstr "finalizarea"
 
 msgid "yes_btn_label"
 msgstr "da"
@@ -146,13 +146,13 @@ msgid "sketch_pen_opacity_2_tooltip"
 msgstr "opacitatea stiloului 30%"
 
 msgid "finish_btn_label"
-msgstr "Complete"
+msgstr "Părăsi"
 
 msgid "error_summary"
 msgstr "Eroare:"
 
 msgid "error_no_proband_created"
-msgstr "începe cu datele personale salvate mai întâi"
+msgstr "salvați mai întâi informațiile personale"
 
 msgid "error_no_contact_created"
 msgstr "salvați mai întâi detaliile de contact"
@@ -161,7 +161,7 @@ msgid "error_no_trial_selected"
 msgstr "selectați mai întâi o încercare"
 
 msgid "error_inquiries_na"
-msgstr "selectați un trial cu formularul de anchetă (activat)"
+msgstr "selectați mai întâi o încercare cu formular de întrebare"
 
 msgid "error_trials_na"
 msgstr "selectați mai întâi un site de încercare cu teste"
@@ -170,7 +170,7 @@ msgid "error_proband_create_rate_limit"
 msgstr "un subiect a fost creat recent cu acest computer, vă rugăm să așteptați înainte de a reîncerca"
 
 msgid "error_no_contact_details"
-msgstr "vă rugăm să furnizaţi numărul de telefon"
+msgstr "vă rugăm să furnizați adresa de e-mail sau numărul de telefon"
 
 msgid "error_proband_not_agreed"
 msgstr "este necesar consimțământul expres pentru a continua"
@@ -242,12 +242,12 @@ msgid "proband_citizenship_tooltip"
 msgstr "Cetățenia poate fi specificată opțional."
 
 msgid "proband_comment"
-msgstr "Înregistrare la %1 via %2\n"
-"pentru site-ul de trial '%3'\n"
-"trial '%4'\n"
-"de la adresa IP %5\n"
-"folosind browser-ul '%6'\n"
-"venind de la %7"
+msgstr "Registration via %1\n"
+"for trial site '%2'\n"
+"trial '%3'\n"
+"from IP address %4\n"
+"using browser '%5'\n"
+"coming from %6"
 
 msgid "address_panel_title"
 msgstr "Abordare"
@@ -322,7 +322,7 @@ msgid "proband_email_notify_label"
 msgstr "notifica"
 
 msgid "proband_email_notify_tooltip"
-msgstr "Permite trimiterea de e-mailuri."
+msgstr "Permiteți trimiterea de e-mailuri."
 
 msgid "proband_phone_notify_tooltip"
 msgstr "Permite trimiterea de SMS."
@@ -352,7 +352,7 @@ msgid "incomplete_dlg_title"
 msgstr "Formular de solicitare incomplet"
 
 msgid "incomplete_dlg_prompt"
-msgstr "Vă rugăm să vă uitaţi la toate paginile formularului de întrebare.<br/>Preferaţi să terminaţi oricum?"
+msgstr "Vă rugăm să consultați toate paginile formularului de solicitare.<br/>Preferi să trimiți și să termini oricum?"
 
 msgid "inquiries_pbar_template"
 msgstr "trimis: %d/%d"
@@ -397,7 +397,7 @@ msgid "trial_title"
 msgstr "Procese în curs"
 
 msgid "trial_description"
-msgstr "<p>An overview of ongoing studies and inquiries is presented in the third step. Please browse the list to see basic information regarding candidate criteria, procedures and reimbursements of individual trials.</p><p>You can indicate your interest in participating a particular trial by signing up or opening its inquiry form. If you prefer to complete this at a later time or in direkt conversation, you can may skip this and complete your registration.</p>"
+msgstr "<p>O prezentare generală a studiilor și a anchetelor în curs este prezentată în a treia etapă. Vă rugăm să răsfoiți lista pentru a vedea informații de bază privind criteriile candidaților, procedurile și rambursările pentru studiile individuale.</p><p>Vă puteți indica interesul de a participa la o anumită probă prin înscrierea sau deschiderea formularului de solicitare. Dacă preferați să finalizați acest lucru mai târziu sau într-o conversație directă, puteți sări peste acest lucru și să vă finalizați înregistrarea.</p>"
 
 msgid "inquiry_title"
 msgstr "Formular de solicitare - %1"
@@ -409,7 +409,7 @@ msgid "end_title"
 msgstr "Mulțumesc!"
 
 msgid "end_description"
-msgstr "<p>Vă mulțumim pentru înregistrare. Vă vom contacta în curând şi aşteptăm cu nerăbdare să vă invităm la locul de testare ca un nou participant.</p><p>Puteți descărca documente PDF cu datele furnizate. Vă rugăm să confirmaţi stocarea datelor dvs. folosind link-ul din e-mailul primit, sau trimiteți acordul de confidențialitate a datelor dvs. semnate către biroul site-ului prin e-mail sau e-mail până la %1.</p><p><b>Înregistrarea dvs. este completă</b>, va dura mai mult timp pentru a fuziona datele.</p>"
+msgstr "<p>Vă mulțumim pentru înregistrare. Vă vom contacta în curând și așteptăm cu nerăbdare să vă invităm pe site-ul de încercare în calitate de nou participant.</p><p>Puteți descărca documente PDF cu datele furnizate. Pentru a preveni ștergerea automată, vă rugăm să trimiteți consimțământul dvs. semnat de confidențialitate a datelor la biroul site-ului prin poștă sau e-mail până la %1.</p>"
 
 msgid "end_listentry_description"
 msgstr "<p>Vă mulțumim pentru completarea întrebărilor.</p><p>Puteți descărca documentele PDF cu datele furnizate.</p>"
@@ -437,4 +437,49 @@ msgstr "anul invalid %1"
 
 msgid "invalid day"
 msgstr "zi invalidă %1"
+
+msgid "file_upload_label"
+msgstr "Alege fișierul"
+
+msgid "file_clear_label"
+msgstr "Ștergeți fișierul"
+
+msgid "file_take_photo_label"
+msgstr "Captură fotografie"
+
+msgid "file_link_label"
+msgstr "%s (%s)"
+
+msgid "file_size_limit_exceeded"
+msgstr "fișierul depășește limita de dimensiune a %1"
+
+msgid "file_camera_label"
+msgstr "Cameră"
+
+msgid "no_file_link_label"
+msgstr "<no file>"
+
+msgid "photo_cam_not_supported"
+msgstr "Acest browser nu acceptă acces la camera web."
+
+msgid "photo_cam_insecure_context"
+msgstr "Accesul la camera web necesită o conexiune securizată (HTTPS)."
+
+msgid "photo_cam_permission_denied"
+msgstr "Accesul la camera web a fost refuzat. Vă rugăm să permiteţi accesul la cameră pentru acest site în setările browser-ului."
+
+msgid "photo_cam_no_device"
+msgstr "Nicio cameră web găsită."
+
+msgid "photo_cam_not_readable"
+msgstr "Camera web nu a putut fi pornită. Aceasta poate fi folosită de o altă aplicație sau fereastră a browserului."
+
+msgid "photo_cam_not_ready"
+msgstr "Camera web nu este încă finalizată."
+
+msgid "photo_cam_error"
+msgstr "Eroare de camera web: %1"
+
+msgid "photo_cam_device_label"
+msgstr "Cameră"
 
