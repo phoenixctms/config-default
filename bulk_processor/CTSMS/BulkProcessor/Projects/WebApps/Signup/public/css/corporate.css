@@ -1,8 +1,16 @@
 
 .container {
-    width: 970px;
+    max-width: 970px;
     margin-right: auto;
     margin-left: auto;
+}
+
+/* narrower screens: the full width, with a small gap to the edges (a fixed width got cut off there by body's overflow-x: hidden) */
+@media (max-width: 989px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }
 
  .header {
